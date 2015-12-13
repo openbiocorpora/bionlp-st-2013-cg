@@ -1,0 +1,71 @@
+T1	Gene_or_gene_product 29 37	survivin
+T2	Cancer 49 55	cancer
+T3	Cellular_component 71 84	mitochondrial
+T4	Cancer 114 119	tumor
+T5	Gene_or_gene_product 214 222	survivin
+T6	Cancer 255 261	cancer
+T7	Cell 288 298	tumor cell
+T8	Cancer 360 365	tumor
+T9	Gene_or_gene_product 409 417	survivin
+T10	Cell 433 437	cell
+T11	Cell 493 501	cellular
+T12	Gene_or_gene_product 513 521	survivin
+T13	Organism 592 597	Human
+T14	Cell 598 612	umbilical vein
+T15	Cell 617 655	dermal microvascular endothelial cells
+T16	Organism 697 709	adenoviruses
+T17	Gene_or_gene_product 719 727	survivin
+T18	Gene_or_gene_product 729 741	pAd-Survivin
+T19	Gene_or_gene_product 744 769	green fluorescent protein
+T20	Gene_or_gene_product 771 778	pAd-GFP
+T21	Gene_or_gene_product 812 820	survivin
+T22	Gene_or_gene_product 836 844	pAd-T34A
+T23	Gene_or_gene_product 906 914	survivin
+T24	Multi-tissue_structure 935 952	capillary network
+T25	Cell 964 980	endothelial cell
+T26	Gene_or_gene_product 996 1003	caspase
+T27	Cancer 1043 1048	tumor
+T28	Cancer 1093 1116	breast cancer xenograft
+T29	Cell 1136 1140	cell
+T30	Gene_or_gene_product 1168 1176	survivin
+T31	Gene_or_gene_product 1214 1226	cytochrome c
+T32	Cellular_component 1247 1260	mitochondrial
+T33	Organism 1320 1325	mouse
+T34	Cell 1326 1347	embryonic fibroblasts
+T35	Gene_or_gene_product 1361 1367	Apaf-1
+T36	Gene_or_gene_product 1371 1380	caspase-9
+T37	Organism 1391 1401	Adenoviral
+T38	Cell 1418 1435	endothelial cells
+T39	Gene_or_gene_product 1441 1453	pAd-Survivin
+T40	Simple_chemical 1494 1502	ceramide
+T41	Gene_or_gene_product 1530 1539	caspase-3
+T42	Gene_or_gene_product 1544 1546	-7
+T43	Multi-tissue_structure 1592 1610	capillary networks
+T44	Gene_or_gene_product 1647 1655	pAd-T34A
+T45	Cell 1676 1690	umbilical vein
+T46	Cell 1695 1733	dermal microvascular endothelial cells
+T47	Gene_or_gene_product 1750 1759	caspase-3
+T48	Cell 1770 1774	Cell
+T49	Gene_or_gene_product 1792 1800	survivin
+T50	Cellular_component 1838 1851	mitochondrial
+T51	Gene_or_gene_product 1888 1900	cytochrome c
+T52	Cellular_component 1913 1926	mitochondrial
+T53	Gene_or_gene_product 1973 1979	Apaf-1
+T54	Gene_or_gene_product 1983 1992	caspase-9
+T55	Organism 2002 2007	mouse
+T56	Cell 2008 2029	embryonic fibroblasts
+T57	Organism 2048 2053	human
+T58	Cancer 2054 2078	breast cancer xenografts
+T59	Gene_or_gene_product 2080 2088	pAd-T34A
+T60	Cancer 2121 2127	tumors
+T61	Cell 2142 2152	tumor cell
+T62	Cancer 2230 2235	tumor
+T63	Multi-tissue_structure 2244 2257	blood vessels
+T64	Gene_or_gene_product 2289 2293	CD31
+T65	Cancer 2302 2307	tumor
+T66	Cell 2333 2349	endothelial cell
+T67	Cellular_component 2380 2383	DNA
+T68	Gene_or_gene_product 2420 2428	Survivin
+T69	Cellular_component 2472 2485	mitochondrial
+T70	Cancer 2562 2568	cancer
+T71	Cell 2615 2625	tumor cell

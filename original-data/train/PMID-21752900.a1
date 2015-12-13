@@ -1,0 +1,36 @@
+T1	Organism 18 36	Epstein-Barr virus
+T2	Cell 77 90	B lymphocytes
+T3	Organism 93 111	Epstein-Barr virus
+T4	Organism 113 116	EBV
+T5	Cell 129 142	B lymphocytes
+T6	Gene_or_gene_product 195 199	EBNA
+T7	Gene_or_gene_product 204 227	latent membrane protein
+T8	Gene_or_gene_product 229 232	LMP
+T9	Organism 311 314	EBV
+T10	Organism 339 355	recombinant EBVs
+T11	Gene_or_gene_product 370 375	BHRF1
+T12	Cell 429 442	B lymphocytes
+T13	Cell 475 480	cells
+T14	Gene_or_gene_product 517 521	EBNA
+T15	Gene_or_gene_product 624 629	BHRF1
+T16	Cell 651 657	B-cell
+T17	Gene_or_gene_product 699 710	miR-BHRF1-2
+T18	Gene_or_gene_product 714 725	miR-BHRF1-3
+T19	Gene_or_gene_product 745 749	EBNA
+T20	Gene_or_gene_product 843 854	miR-BHRF1-2
+T21	Gene_or_gene_product 887 898	miR-BHRF1-3
+T22	Gene_or_gene_product 920 931	miR-BHRF1-1
+T23	Gene_or_gene_product 1095 1106	miR-BHRF1-2
+T24	Organism 1095 1118	miR-BHRF1-2 null mutant
+T25	Gene_or_gene_product 1152 1163	miR-BHRF1-1
+T26	Gene_or_gene_product 1168 1179	miR-BHRF1-3
+T27	Gene_or_gene_product 1222 1233	miR-BHRF1-1
+T28	Organism 1222 1263	miR-BHRF1-1 and miR-BHRF1-3 double mutant
+T29	Gene_or_gene_product 1238 1249	miR-BHRF1-3
+T30	Gene_or_gene_product 1322 1333	miR-BHRF1-2
+T31	Cell 1337 1343	B-cell
+T32	Gene_or_gene_product 1414 1425	miR-BHRF1-2
+T33	Gene_or_gene_product 1429 1440	miR-BHRF1-3
+T34	Organism 1645 1648	EBV
+T35	Gene_or_gene_product 1766 1771	BHRF1
+T36	Cell 1906 1911	cells

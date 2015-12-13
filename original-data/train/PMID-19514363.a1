@@ -1,0 +1,14 @@
+T1	Cancer 13 18	tumor
+T2	Gene_or_gene_product 30 33	ARF
+T3	Cancer 122 127	tumor
+T4	Gene_or_gene_product 139 142	ARF
+T5	Gene_or_gene_product 205 208	ARF
+T6	Gene_or_gene_product 222 225	p53
+T7	Gene_or_gene_product 240 244	p-53
+T8	Gene_or_gene_product 348 351	ARF
+T9	Gene_or_gene_product 419 422	ARF
+T10	Cell 446 450	cell
+T11	Cancer 507 512	tumor
+T12	Gene_or_gene_product 602 605	ARF
+T13	Cancer 655 664	neoplasia
+T14	Gene_or_gene_product 699 702	ARF

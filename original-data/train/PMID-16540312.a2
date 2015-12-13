@@ -1,0 +1,79 @@
+*	Equiv T1 T2
+T44	Negative_regulation 0 10	Inhibition
+E1	Negative_regulation:T44 Cause:T3 Theme:T1
+T45	Positive_regulation 68 77	increases
+E2	Positive_regulation:T45 Theme:E3 Cause:E1
+T46	Regulation 78 94	chemosensitivity
+E3	Regulation:T46 Cause:T5 Theme:T4
+T47	Negative_regulation 191 208	effective against
+E4	Negative_regulation:T47 Cause:T6 Theme:T7
+E5	Negative_regulation:T47 Cause:T6 Theme:T8
+T48	Regulation 307 314	effects
+E6	Regulation:T48 Theme:E7 Cause:T9
+M1	Speculation E6
+T49	Pathway 347 374	survival-signalling pathway
+E7	Pathway:T49 
+T50	Regulation 478 484	effect
+E8	Regulation:T50 Cause:T10 Theme:T12
+M2	Speculation E8
+T51	Planned_process 579 586	treated
+E9	Planned_process:T51 Instrument:T15 Theme:T14
+T52	Regulation 646 657	sensitivity
+E10	Regulation:T52 Cause:T15 Theme:T14
+M3	Speculation E10
+T53	Pathway 697 702	cycle
+E11	Pathway:T53 Theme:T16
+T54	Positive_regulation 703 714	progression
+E12	Positive_regulation:T54 Theme:E11
+T55	Cell_death 770 779	Apoptosis
+E13	Cell_death:T55 
+T56	Breakdown 808 821	fragmentation
+E14	Breakdown:T56 Theme:T17
+T57	Regulation 974 985	sensitivity
+E15	Regulation:T57 Cause:T19 Theme:T18
+E16	Regulation:T57 Cause:T19 Theme:T20
+T58	Positive_regulation 1077 1084	induced
+E17	Positive_regulation:T58 Cause:T22 Theme:E18
+T59	Cell_death 1085 1094	apoptosis
+E18	Cell_death:T59 Theme:T21
+T60	Negative_regulation 1187 1200	downregulated
+E19	Negative_regulation:T60 Cause:T23 Theme:E20
+T61	Phosphorylation 1205 1220	phosphorylation
+E20	Phosphorylation:T61 Theme:T24
+T62	Positive_regulation 1353 1360	induced
+E21	Positive_regulation:T62 Cause:T28 Theme:E22
+T63	Positive_regulation 1365 1375	activation
+E22	Positive_regulation:T63 Theme:T29
+T64	Regulation 1400 1406	target
+E23	Regulation:T64 Cause:T30 Theme:E22
+T65	Planned_process 1415 1428	Pre-treatment
+E24	Planned_process:T65 Instrument:T31
+T66	Negative_regulation 1444 1453	inhibited
+E25	Negative_regulation:T66 Cause:E24 Theme:E26
+T67	Positive_regulation 1454 1464	activation
+E26	Positive_regulation:T67 Theme:E27
+T68	Pathway 1473 1483	signalling
+E27	Pathway:T68 Theme:T32
+T69	Positive_regulation 1502 1510	enhanced
+E28	Positive_regulation:T69 Cause:E30 Theme:E29
+T70	Regulation 1515 1526	sensitivity
+E29	Regulation:T70 Cause:T34 Theme:T33
+T71	Positive_regulation 1559 1569	increasing
+E30	Positive_regulation:T71 Theme:E31 Cause:E24
+T72	Death 1585 1590	death
+E31	Death:T72 Theme:T35
+T73	Positive_regulation 1651 1661	activation
+E32	Positive_regulation:T73 Theme:T36
+T74	Negative_regulation 1706 1713	effects
+E33	Negative_regulation:T74 Theme:T38 Cause:E34
+T75	Positive_regulation 1742 1750	inducing
+E34	Positive_regulation:T75 Theme:E35 Cause:T37
+T76	Cell_death 1751 1760	apoptosis
+E35	Cell_death:T76 
+T77	Regulation 1802 1810	targeted
+E36	Regulation:T77 Cause:T40 Theme:T41
+T78	Regulation 1823 1832	sensitise
+E37	Regulation:T78 Theme:T43 Cause:T40
+T79	Regulation 1844 1853	resistant
+E38	Regulation:T79 Cause:T42 Theme:T43
+M4	Negation E38

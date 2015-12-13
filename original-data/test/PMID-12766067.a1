@@ -1,0 +1,33 @@
+T1	Simple_chemical 17 28	fluconazole
+T2	Simple_chemical 33 47	corticosteroid
+T3	Organism 75 91	Candida albicans
+T4	Simple_chemical 188 203	corticosteroids
+T5	Organism 207 223	Candida albicans
+T6	Simple_chemical 247 258	fluconazole
+T7	Multi-tissue_structure 269 276	Corneas
+T8	Organism 284 291	rabbits
+T9	Organism 318 323	yeast
+T10	Cell 324 329	cells
+T11	Organism 333 344	C. albicans
+T12	Simple_chemical 449 460	fluconazole
+T13	Simple_chemical 552 566	corticosteroid
+T14	Simple_chemical 567 579	prednisolone
+T15	Multi-tissue_structure 651 658	corneal
+T16	Multi-tissue_structure 685 692	corneal
+T17	Multi-tissue_structure 753 760	corneal
+T18	Simple_chemical 852 863	fluconazole
+T19	Organism 871 882	C. albicans
+T20	Multi-tissue_structure 948 955	corneal
+T21	Simple_chemical 1056 1068	prednisolone
+T22	Multi-tissue_structure 1098 1105	corneal
+T23	Multi-tissue_structure 1164 1171	corneal
+T24	Simple_chemical 1246 1258	prednisolone
+T25	Simple_chemical 1306 1318	prednisolone
+T26	Organism 1433 1444	C. albicans
+T27	Simple_chemical 1496 1508	prednisolone
+T28	Organism 1588 1599	C. albicans
+T29	Simple_chemical 1614 1625	Fluconazole
+T30	Simple_chemical 1649 1661	prednisolone
+T31	Simple_chemical 1760 1775	corticosteroids
+T32	Simple_chemical 1797 1814	antimycotic drugs
+T33	Organism 1902 1910	patients

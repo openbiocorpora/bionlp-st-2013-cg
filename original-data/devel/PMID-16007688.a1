@@ -1,0 +1,28 @@
+T1	Gene_or_gene_product 0 4	MDM2
+T2	Cancer 23 41	prostate carcinoma
+T3	Gene_or_gene_product 131 135	MDM2
+T4	Gene_or_gene_product 157 160	p53
+T5	Gene_or_gene_product 177 186	ubiquitin
+T6	Gene_or_gene_product 230 233	p53
+T7	Cell 261 265	cell
+T8	Gene_or_gene_product 340 344	MDM2
+T9	Organism 451 454	men
+T10	Simple_chemical 539 547	androgen
+T11	Organism 605 613	patients
+T12	Tissue 660 676	tissue specimens
+T13	Organism 686 694	patients
+T14	Gene_or_gene_product 714 718	MDM2
+T15	Gene_or_gene_product 729 733	MDM2
+T16	Gene_or_gene_product 834 838	MDM2
+T17	Gene_or_gene_product 857 861	MDM2
+T18	Cellular_component 909 916	nuclear
+T19	Cancer 996 1001	tumor
+T20	Cellular_component 1002 1008	nuclei
+T21	Gene_or_gene_product 1014 1018	MDM2
+T22	Gene_or_gene_product 1092 1096	MDM2
+T23	Organism 1146 1154	patients
+T24	Gene_or_gene_product 1228 1232	MDM2
+T25	Gene_or_gene_product 1470 1474	MDM2
+T26	Gene_or_gene_product 1518 1522	MDM2
+T27	Organism 1651 1658	patient
+T28	Gene_or_gene_product 1668 1672	MDM2

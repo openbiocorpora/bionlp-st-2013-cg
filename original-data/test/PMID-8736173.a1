@@ -1,0 +1,36 @@
+T1	Simple_chemical 0 9	Vitamin E
+T2	Cancer 51 57	tumour
+T3	Simple_chemical 99 108	vitamin E
+T4	Cancer 153 159	tumour
+T5	Gene_or_gene_product 177 203	tumour growth-factor alpha
+T6	Gene_or_gene_product 205 214	TGF alpha
+T7	Organism 259 274	golden hamsters
+T8	Organism 312 327	Group 1 animals
+T9	Organism_subdivision 336 355	left buccal pouches
+T10	Simple_chemical 388 418	7,12-dimethylbenz(a)anthracene
+T11	Simple_chemical 420 424	DMBA
+T12	Organism 440 455	Group 2 animals
+T13	Simple_chemical 482 486	DMBA
+T14	Simple_chemical 518 534	alpha tocopherol
+T15	Organism 536 544	Groups 3
+T16	Organism 549 550	4
+T17	Simple_chemical 556 565	vitamin E
+T18	Gene_or_gene_product 620 644	factor 8-related antigen
+T19	Gene_or_gene_product 646 651	F8-RA
+T20	Cell 670 687	endothelial cells
+T21	Gene_or_gene_product 689 698	TGF alpha
+T22	Gene_or_gene_product 780 786	avidin
+T23	Simple_chemical 787 793	biotin
+T24	Organism 794 805	horseradish
+T25	Gene_or_gene_product 806 816	peroxidase
+T26	Cancer 830 836	tumour
+T27	Simple_chemical 875 879	DMBA
+T28	Simple_chemical 880 889	vitamin E
+T29	Cancer 912 918	tumour
+T30	Simple_chemical 982 986	DMBA
+T31	Simple_chemical 987 996	vitamin E
+T32	Gene_or_gene_product 1007 1016	TGF alpha
+T33	Cancer 1083 1089	tumour
+T34	Simple_chemical 1106 1115	vitamin E
+T35	Cancer 1159 1165	cancer
+T36	Simple_chemical 1176 1185	vitamin E

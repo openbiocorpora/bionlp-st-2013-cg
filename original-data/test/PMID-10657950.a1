@@ -1,0 +1,36 @@
+T1	Cancer 0 6	Tumour
+T2	Gene_or_gene_product 32 37	BRCA1
+T3	Cancer 98 104	breast
+T4	Cancer 109 123	ovarian cancer
+T5	Gene_or_gene_product 138 143	BRCA1
+T6	Cancer 156 162	breast
+T7	Cancer 167 182	ovarian cancers
+T8	Gene_or_gene_product 222 227	BRCA1
+T9	Cancer 250 256	breast
+T10	Cancer 261 275	ovarian cancer
+T11	Gene_or_gene_product 313 318	BRCA1
+T12	Cancer 379 385	breast
+T13	Cancer 390 405	ovarian cancers
+T14	Gene_or_gene_product 461 466	BRCA1
+T15	Cancer 498 505	tumours
+T16	Gene_or_gene_product 523 528	BRCA1
+T17	Cancer 576 582	breast
+T18	Cancer 587 605	ovarian carcinomas
+T19	Cancer 629 636	tumours
+T20	Gene_or_gene_product 646 651	BRCA1
+T21	Cancer 774 780	breast
+T22	Cancer 785 799	ovarian cancer
+T23	Cancer 806 813	tumours
+T24	Cancer 834 846	colon cancer
+T25	Cancer 853 860	tumours
+T26	Cancer 879 889	leukaemias
+T27	Cancer 896 903	samples
+T28	Gene_or_gene_product 936 941	BRCA1
+T29	Cancer 978 984	breast
+T30	Cancer 989 1003	ovarian cancer
+T31	Gene_or_gene_product 1046 1051	BRCA1
+T32	Cancer 1082 1089	tumours
+T33	Gene_or_gene_product 1130 1135	BRCA1
+T34	Cancer 1158 1164	breast
+T35	Cancer 1169 1183	ovarian cancer
+T36	Gene_or_gene_product 1220 1225	BRCA1

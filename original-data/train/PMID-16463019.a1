@@ -1,0 +1,64 @@
+T1	Simple_chemical 0 11	L-Carnitine
+T2	Simple_chemical 24 36	methotrexate
+T3	Organ 55 60	organ
+T4	Cell 81 90	leukocyte
+T5	Simple_chemical 99 111	Methotrexate
+T6	Simple_chemical 113 116	MTX
+T7	Simple_chemical 121 131	folic acid
+T8	Cancer 189 195	tumors
+T9	Tissue 231 245	normal tissues
+T10	Cell 300 319	hematopoietic cells
+T11	Multi-tissue_structure 327 338	bone marrow
+T12	Cell 347 377	gastrointestinal mucosal cells
+T13	Cell 422 432	leukocytes
+T14	Simple_chemical 436 439	MTX
+T15	Organ 458 463	organ
+T16	Simple_chemical 509 520	L-carnitine
+T17	Simple_chemical 522 527	L-Car
+T18	Organism 530 548	Wistar albino rats
+T19	Simple_chemical 584 587	MTX
+T20	Simple_chemical 618 624	saline
+T21	Simple_chemical 628 633	L-Car
+T22	Organism 684 688	rats
+T23	Organism_substance 690 701	trunk blood
+T24	Multi-tissue_structure 724 729	ileum
+T25	Organ 731 736	liver
+T26	Organ 742 748	kidney
+T27	Simple_chemical 818 833	malondialdehyde
+T28	Simple_chemical 835 838	MDA
+T29	Simple_chemical 844 855	glutathione
+T30	Simple_chemical 857 860	GSH
+T31	Simple_chemical 870 885	myeloperoxidase
+T32	Simple_chemical 887 890	MPO
+T33	Gene_or_gene_product 906 914	collagen
+T34	Simple_chemical 948 951	MTX
+T35	Simple_chemical 981 984	MDA
+T36	Simple_chemical 989 992	MPO
+T37	Gene_or_gene_product 1008 1016	collagen
+T38	Simple_chemical 1039 1042	GSH
+T39	Tissue 1057 1064	tissues
+T40	Simple_chemical 1107 1112	L-Car
+T41	Organism_substance 1141 1146	serum
+T42	Gene_or_gene_product 1147 1156	TNF-alpha
+T43	Simple_chemical 1182 1185	MTX
+T44	Simple_chemical 1215 1220	L-Car
+T45	Cell 1245 1256	neutrophils
+T46	Gene_or_gene_product 1271 1280	Annexin V
+T47	Simple_chemical 1300 1306	saline
+T48	Simple_chemical 1315 1318	MTX
+T49	Simple_chemical 1332 1337	L-Car
+T50	Cell 1419 1428	leukocyte
+T51	Simple_chemical 1456 1459	MTX
+T52	Simple_chemical 1483 1488	L-Car
+T53	Multi-tissue_structure 1540 1557	intestinal mucosa
+T54	Multi-tissue_structure 1559 1575	liver parenchyma
+T55	Tissue 1581 1591	glomerular
+T56	Tissue 1596 1614	tubular epithelium
+T57	Simple_chemical 1631 1637	saline
+T58	Simple_chemical 1646 1649	MTX
+T59	Simple_chemical 1672 1677	L-Car
+T60	Simple_chemical 1716 1721	L-Car
+T61	Simple_chemical 1804 1807	MTX
+T62	Organ 1826 1831	organ
+T63	Cell 1852 1861	leukocyte
+T64	Simple_chemical 1900 1911	L-Carnitine

@@ -1,0 +1,25 @@
+T1	Gene_or_gene_product 18 33	Bax inhibitor-1
+T2	Gene_or_gene_product 35 39	BI-1
+T3	Cell 49 53	cell
+T4	Cell 72 84	NIH3T3 cells
+T5	Gene_or_gene_product 87 91	BI-1
+T6	Gene_or_gene_product 93 108	Bax inhibitor-1
+T7	Gene_or_gene_product 157 162	Bcl-2
+T8	Cellular_component 206 219	mitochondrial
+T9	Gene_or_gene_product 250 253	Bax
+T10	Gene_or_gene_product 310 314	BI-1
+T11	Cell 328 332	cell
+T12	Gene_or_gene_product 401 405	BI-1
+T13	Cell 414 426	NIH3T3 cells
+T14	Organism 437 447	lentivirus
+T15	Cell 514 526	NIH3T3 cells
+T16	Gene_or_gene_product 542 546	BI-1
+T17	Cell 637 650	control cells
+T18	Organism 704 715	lenti-BI-1-
+T19	Gene_or_gene_product 710 714	BI-1
+T20	Cell 724 729	cells
+T21	Cancer 745 752	tumours
+T22	Cancer 763 770	tumours
+T23	Cell 790 803	control cells
+T24	Organism 839 848	nude mice
+T25	Gene_or_gene_product 892 896	BI-1

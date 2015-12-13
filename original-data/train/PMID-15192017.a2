@@ -1,0 +1,70 @@
+*	Equiv T8 T9
+T43	Positive_regulation 12 20	enhances
+E1	Positive_regulation:T43 Cause:T1 Theme:E3
+E2	Positive_regulation:T43 Cause:T1 Theme:E4
+T44	Gene_expression 25 35	expression
+E3	Gene_expression:T44 Theme:T2
+T45	Cell_death 40 49	apoptosis
+E4	Cell_death:T45 
+T46	Planned_process 86 93	treated
+E5	Planned_process:T46 Instrument:T4 Theme:T5
+T47	Negative_regulation 180 187	inhibit
+E6	Negative_regulation:T47 Cause:T7 Theme:E7
+T48	Development 188 199	development
+E7	Development:T48 Theme:T11
+T49	Positive_regulation 222 229	induced
+E8	Positive_regulation:T49 Cause:T8 Theme:T11
+T50	Positive_regulation 354 362	enhances
+E9	Positive_regulation:T50 Cause:T12 Theme:E10
+T51	Gene_expression 367 377	expression
+E10	Gene_expression:T51 Theme:T14
+T52	Carcinogenesis 498 512	carcinogenesis
+E11	Carcinogenesis:T52 AtLoc:T15
+T53	Regulation 533 541	involved
+E12	Regulation:T53 Cause:T16 Theme:E14
+M1	Speculation E12
+T54	Positive_regulation 564 572	mediated
+E13	Positive_regulation:T54 Theme:E14 Cause:T18
+T55	Negative_regulation 573 583	inhibition
+E14	Negative_regulation:T55 Theme:E15
+T56	Development 593 604	development
+E15	Development:T56 Theme:T19
+T57	Positive_regulation 693 701	mediated
+E16	Positive_regulation:T57 Theme:E18 Cause:T22
+E17	Positive_regulation:T57 Theme:E18 Cause:T21
+T58	Cell_death 702 711	apoptosis
+E18	Cell_death:T58 
+T59	Gene_expression 727 737	expression
+E19	Gene_expression:T59 Theme:T23
+T60	Positive_regulation 746 756	activation
+E20	Positive_regulation:T60 Theme:T24
+E21	Positive_regulation:T60 Theme:T25
+T61	Breakdown 793 806	fragmentation
+E22	Breakdown:T61 Theme:T26
+T62	Planned_process 834 841	treated
+E23	Planned_process:T62 Instrument:T28 Theme:T29
+T63	Positive_regulation 895 903	increase
+E24	Positive_regulation:T63 Theme:E25
+T64	Gene_expression 919 929	expression
+E25	Gene_expression:T64 Theme:T30
+T65	Positive_regulation 942 951	elevation
+E26	Positive_regulation:T65 Theme:T31
+E27	Positive_regulation:T65 Theme:T32
+T66	Positive_regulation 1173 1181	mediated
+E28	Positive_regulation:T66 Cause:T38 Theme:E29
+T67	Negative_regulation 1188 1198	inhibition
+E29	Negative_regulation:T67 Theme:T39
+T68	Cell_death 1227 1236	apoptosis
+E30	Cell_death:T68 
+T69	Positive_regulation 1237 1243	caused
+E31	Positive_regulation:T69 Cause:E33 Theme:E30
+T70	Positive_regulation 1247 1255	elevated
+E32	Positive_regulation:T70 Theme:E33
+T71	Gene_expression 1256 1266	expression
+E33	Gene_expression:T71 Theme:T40
+T72	Regulation 1277 1285	involved
+E34	Regulation:T72 Cause:E30 Theme:E35
+T73	Negative_regulation 1289 1304	chemoprevention
+E35	Negative_regulation:T73 Theme:E36
+T74	Carcinogenesis 1329 1343	carcinogenesis
+E36	Carcinogenesis:T74 AtLoc:T42

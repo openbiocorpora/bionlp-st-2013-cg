@@ -1,0 +1,65 @@
+*	Equiv T1 T2 T3
+*	Equiv T12 T13
+T71	Blood_vessel_development 67 85	neovascularization
+E1	Blood_vessel_development:T71 AtLoc:T6
+E2	Blood_vessel_development:T71 AtLoc:T5
+T72	Development 91 100	formation
+E3	Development:T72 Theme:T7
+T73	Positive_regulation 137 144	depends
+E4	Positive_regulation:T73 Cause:E5 Theme:E3
+T74	Binding 152 163	interaction
+E5	Binding:T74 Theme:T8 Theme:T9
+T75	Development 265 276	development
+E6	Development:T75 Theme:T10
+T76	Gene_expression 374 383	expressed
+E7	Gene_expression:T76 Theme:T13
+T77	Carcinogenesis 426 439	tumorigenesis
+E8	Carcinogenesis:T77 
+T78	Gene_expression 551 561	expression
+E9	Gene_expression:T78 Theme:T19
+M1	Speculation E9
+T79	Negative_regulation 674 684	preventing
+E10	Negative_regulation:T79 Cause:T24 Theme:E11
+T80	Development 699 708	formation
+E11	Development:T80 Theme:T26
+T81	Negative_regulation 724 733	inhibited
+E12	Negative_regulation:T81 Theme:E13 Cause:T24
+T82	Localization 734 743	migration
+E13	Localization:T82 Theme:T25
+T83	Localization 896 903	present
+E14	Localization:T83 Theme:T37 AtLoc:T38
+T84	Planned_process 992 1002	Transgenic
+E15	Planned_process:T84 Theme:T40 Instrument:T42
+T85	Gene_expression 1022 1029	express
+E16	Gene_expression:T85 Theme:T42
+T86	Growth 1099 1105	growth
+E17	Growth:T86 Theme:T44
+T87	Growth 1186 1191	grown
+E18	Growth:T87 Theme:T47
+E19	Growth:T87 Theme:T46
+T88	Planned_process 1212 1222	transgenic
+E20	Planned_process:T88 Instrument:T49 Theme:T50
+T89	Gene_expression 1240 1250	expression
+E21	Gene_expression:T89 Theme:T51
+T90	Gene_expression 1279 1289	expressing
+E22	Gene_expression:T90 Theme:T52
+T91	Gene_expression 1322 1330	positive
+E23	Gene_expression:T91 Theme:T54
+T92	Gene_expression 1429 1439	expression
+E24	Gene_expression:T92 Theme:T59
+T93	Gene_expression 1500 1509	expressed
+E25	Gene_expression:T93 Theme:T61
+T94	Blood_vessel_development 1548 1560	angiogenesis
+E26	Blood_vessel_development:T94 
+T95	Development 1588 1599	development
+E27	Development:T95 Theme:T64
+E28	Development:T95 Theme:T63
+T96	Planned_process 1720 1729	targeting
+E29	Planned_process:T96 Theme:T68
+T97	Negative_regulation 1745 1754	interfere
+E30	Negative_regulation:T97 Cause:E29 Theme:E31
+M2	Speculation E30
+T98	Growth 1773 1779	growth
+E31	Growth:T98 Theme:T69
+T99	Development 1793 1804	development
+E32	Development:T99 Theme:T70

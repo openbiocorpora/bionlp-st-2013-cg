@@ -1,0 +1,62 @@
+T1	Gene_or_gene_product 14 64	signal transducer and activator of transcription 3
+T2	Amino_acid 90 100	serine 727
+T3	Organ 110 118	prostate
+T4	Amino_acid 148 160	tyrosine 705
+T5	Gene_or_gene_product 200 250	signal transducer and activator of transcription 3
+T6	Gene_or_gene_product 252 257	Stat3
+T7	Organism 303 308	human
+T8	Cancer 309 316	cancers
+T9	Amino_acid 318 322	Y705
+T10	Gene_or_gene_product 384 389	Stat3
+T11	Cancer 462 474	malignancies
+T12	Gene_or_gene_product 504 509	Stat3
+T13	Amino_acid 595 599	S727
+T14	Amino_acid 622 626	S727
+T15	Gene_or_gene_product 646 651	Stat3
+T16	Cancer 682 697	prostate cancer
+T17	Amino_acid 726 730	Y705
+T18	Gene_or_gene_product 762 767	Stat3
+T19	Organism 775 780	human
+T20	Cell 781 812	prostate cancer cell line LNCaP
+T21	Amino_acid 834 838	S727
+T22	Amino_acid 869 872	Glu
+T23	Amino_acid 894 898	Y705
+T24	Amino_acid 900 905	Y705F
+T25	Amino_acid 906 911	S727E
+T26	Organism_substance 962 967	serum
+T27	Organism 1053 1118	nonobese diabetic/severe combined immunodeficient (NOD/SCID) mice
+T28	Gene_or_gene_product 1180 1185	c-myc
+T29	Gene_or_gene_product 1187 1192	mcl-1
+T30	Gene_or_gene_product 1198 1206	survivin
+T31	Cell 1208 1232	Y705F/S727E mutant cells
+T32	Amino_acid 1208 1213	Y705F
+T33	Amino_acid 1214 1219	S727E
+T34	Cell 1257 1313	Y705F/S727A (inactivation of Y705 and S727) mutant cells
+T35	Amino_acid 1257 1262	Y705F
+T36	Amino_acid 1263 1268	S727A
+T37	Amino_acid 1286 1290	Y705
+T38	Amino_acid 1295 1299	S727
+T39	Amino_acid 1324 1329	Y705F
+T40	Amino_acid 1330 1335	S727E
+T41	Gene_or_gene_product 1343 1348	Stat3
+T42	Cellular_component 1370 1376	nuclei
+T43	Amino_acid 1389 1394	Y705F
+T44	Amino_acid 1395 1400	S727A
+T45	Gene_or_gene_product 1408 1413	Stat3
+T46	Amino_acid 1452 1457	Y705F
+T47	Amino_acid 1458 1463	S727E
+T48	Amino_acid 1476 1481	Y705F
+T49	Amino_acid 1482 1487	S727A
+T50	Cell 1535 1573	noncancerous prostate epithelial cells
+T51	Cell 1575 1581	RWPE-1
+T52	Gene_or_gene_product 1605 1610	Stat3
+T53	Amino_acid 1632 1636	S727
+T54	Tissue 1647 1673	malignant prostate tissues
+T55	Tissue 1702 1725	normal prostate tissues
+T56	Amino_acid 1792 1796	S727
+T57	Gene_or_gene_product 1797 1802	Stat3
+T58	Tissue 1841 1864	prostate cancer tissues
+T59	Amino_acid 1918 1922	S727
+T60	Gene_or_gene_product 1965 1970	Stat3
+T61	Organ 1988 1996	prostate
+T62	Amino_acid 2026 2030	Y705

@@ -1,0 +1,43 @@
+T1	Pathological_formation 146 154	fracture
+T2	Organism 255 261	humans
+T3	Organ 338 342	bone
+T4	Organ 354 358	bone
+T5	Gene_or_gene_product 375 409	insulin-like growth factor [IGF] I
+T6	Gene_or_gene_product 411 440	IGF binding protein [IGFBP] 3
+T7	Gene_or_gene_product 442 480	transforming growth factor [TGF] beta1
+T8	Gene_or_gene_product 486 495	basic FGF
+T9	Gene_or_gene_product 497 501	bFGF
+T10	Cellular_component 505 516	bone matrix
+T11	Gene_or_gene_product 536 570	matrix-metalloproteinases [MMPs] 1
+T12	Gene_or_gene_product 572 573	2
+T13	Gene_or_gene_product 579 580	3
+T14	Gene_or_gene_product 583 603	human growth hormone
+T15	Gene_or_gene_product 605 608	hGH
+T16	Organ 615 619	bone
+T17	Gene_or_gene_product 639 642	ALP
+T18	Gene_or_gene_product 644 661	bone-specific ALP
+T19	Gene_or_gene_product 663 666	BAP
+T20	Gene_or_gene_product 673 684	osteocalcin
+T21	Gene_or_gene_product 686 688	OC
+T22	Organism_substance 713 726	serum samples
+T23	Organism 735 743	patients
+T24	Gene_or_gene_product 850 855	MMP-1
+T25	Gene_or_gene_product 857 861	bFGF
+T26	Gene_or_gene_product 863 866	ALP
+T27	Gene_or_gene_product 872 875	BAP
+T28	Gene_or_gene_product 1186 1195	TGF-beta1
+T29	Gene_or_gene_product 1197 1202	IGF-I
+T30	Gene_or_gene_product 1204 1211	IGFBP-3
+T31	Gene_or_gene_product 1217 1220	hGH
+T32	Gene_or_gene_product 1368 1373	MMP-1
+T33	Organ 1375 1379	bone
+T34	Gene_or_gene_product 1396 1405	TGF-beta1
+T35	Gene_or_gene_product 1410 1414	bFGF
+T36	Gene_or_gene_product 1421 1424	hGH
+T37	Gene_or_gene_product 1636 1639	BAP
+T38	Gene_or_gene_product 1641 1650	TGF-beta1
+T39	Gene_or_gene_product 1656 1660	bFGF
+T40	Cell 1687 1705	osteoblastic cells
+T41	Organ 1750 1754	bone
+T42	Gene_or_gene_product 1822 1826	bFGF
+T43	Gene_or_gene_product 1831 1836	MMP-1

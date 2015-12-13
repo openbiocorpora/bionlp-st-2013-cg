@@ -1,0 +1,33 @@
+T1	Gene_or_gene_product 35 71	vascular endothelial growth factor-C
+T2	Cell 75 103	tumor-associated macrophages
+T3	Organ 108 117	lymphatic
+T4	Cancer 132 143	oral cancer
+T5	Gene_or_gene_product 206 235	vascular endothelial growth-C
+T6	Gene_or_gene_product 237 243	VEGF-C
+T7	Cell 249 277	tumor-associated macrophages
+T8	Cell 279 283	TAMs
+T9	Organ 300 309	lymphatic
+T10	Gene_or_gene_product 392 398	VEGF-C
+T11	Cell 402 406	TAMs
+T12	Organ 411 420	lymphatic
+T13	Organism 435 440	human
+T14	Cancer 441 469	oral squamous-cell carcinoma
+T15	Cancer 471 475	OSCC
+T16	Cell 562 573	macrophages
+T17	Gene_or_gene_product 640 646	VEGF-C
+T18	Gene_or_gene_product 761 767	VEGF-C
+T19	Cell 782 786	TAMs
+T20	Gene_or_gene_product 797 803	VEGF-C
+T21	Organ 829 838	lymphatic
+T22	Cell 933 937	TAMs
+T23	Gene_or_gene_product 960 966	VEGF-C
+T24	Cancer 981 985	OSCC
+T25	Cell 1051 1061	macrophage
+T26	Gene_or_gene_product 1076 1082	VEGF-C
+T27	Cell 1155 1166	tumor cells
+T28	Cell 1176 1180	TAMs
+T29	Gene_or_gene_product 1193 1199	VEGF-C
+T30	Cancer 1203 1207	OSCC
+T31	Cell 1213 1217	TAMs
+T32	Multi-tissue_structure 1243 1264	peritumoral lymphatic
+T33	Organ 1285 1294	lymphatic

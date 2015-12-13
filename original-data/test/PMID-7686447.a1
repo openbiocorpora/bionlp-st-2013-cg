@@ -1,0 +1,53 @@
+T1	Simple_chemical 0 7	Heparin
+T2	Simple_chemical 8 15	steroid
+T3	Cancer 65 70	tumor
+T4	Organism 83 87	mice
+T5	Cancer 151 157	cancer
+T6	Multi-tissue_structure 250 263	blood vessels
+T7	Simple_chemical 394 401	heparin
+T8	Simple_chemical 403 427	heparin adipic hydrazide
+T9	Simple_chemical 429 432	HAH
+T10	Simple_chemical 480 487	steroid
+T11	Simple_chemical 489 497	cortisol
+T12	Simple_chemical 526 533	heparin
+T13	Cell 593 610	endothelial cells
+T14	Simple_chemical 635 642	steroid
+T15	Cell 661 687	vascular endothelial cells
+T16	Cellular_component 770 779	lysosomes
+T17	Cellular_component 797 823	intracellular compartments
+T18	Simple_chemical 859 867	cortisol
+T19	Simple_chemical 947 959	HAH-cortisol
+T20	Organism 1073 1079	murine
+T21	Cell 1080 1117	pulmonary capillary endothelial cells
+T22	Simple_chemical 1123 1135	HAH-cortisol
+T23	Simple_chemical 1165 1173	cortisol
+T24	Cellular_component 1192 1195	DNA
+T25	Pathological_formation 1248 1261	wounded areas
+T26	Cell 1275 1285	monolayers
+T27	Simple_chemical 1287 1299	HAH-cortisol
+T28	Simple_chemical 1329 1337	cortisol
+T29	Cellular_component 1360 1363	DNA
+T30	Cell 1377 1403	Lewis lung carcinoma cells
+T31	Simple_chemical 1430 1442	HAH-cortisol
+T32	Organism 1448 1452	mice
+T33	Immaterial_anatomical_entity 1640 1644	i.v.
+T34	Simple_chemical 1659 1671	HAH-cortisol
+T35	Cancer 1744 1765	Lewis lung carcinomas
+T36	Organism 1769 1773	mice
+T37	Simple_chemical 1856 1859	HAH
+T38	Simple_chemical 1865 1873	cortisol
+T39	Simple_chemical 1940 1952	HAH-cortisol
+T40	Cell 1956 1973	endothelial cells
+T41	Simple_chemical 2002 2016	glucocorticoid
+T42	Simple_chemical 2033 2040	steroid
+T43	Simple_chemical 2047 2050	HAH
+T44	Simple_chemical 2065 2113	5 beta-pregnane-3 alpha,17 alpha,21-triol-20-one
+T45	Simple_chemical 2117 2124	steroid
+T46	Simple_chemical 2133 2147	glucocorticoid
+T47	Simple_chemical 2151 2168	mineralocorticoid
+T48	Cellular_component 2217 2220	DNA
+T49	Organism 2234 2240	murine
+T50	Cell 2241 2278	pulmonary capillary endothelial cells
+T51	Simple_chemical 2288 2300	HAH-cortisol
+T52	Simple_chemical 2317 2329	HAH-cortisol
+T53	Cancer 2418 2424	cancer

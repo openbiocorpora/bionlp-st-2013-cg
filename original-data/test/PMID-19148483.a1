@@ -1,0 +1,47 @@
+T1	Gene_or_gene_product 19 24	CXCR4
+T2	Cancer 76 90	gastric cancer
+T3	Gene_or_gene_product 116 121	CXCR4
+T4	Cancer 168 174	cancer
+T5	Gene_or_gene_product 238 243	CXCR4
+T6	Organism 247 252	human
+T7	Cancer 253 267	gastric cancer
+T8	Gene_or_gene_product 334 339	CXCR4
+T9	Cell 420 445	gastric cancer cell lines
+T10	Cell 464 468	cell
+T11	Gene_or_gene_product 538 578	stromal cell-derived factor (SDF)-1alpha
+T12	Gene_or_gene_product 593 603	SDF-1alpha
+T13	Gene_or_gene_product 604 609	CXCR4
+T14	Gene_or_gene_product 683 688	CXCR4
+T15	Tissue 733 762	gastric cancer tissue samples
+T16	Gene_or_gene_product 764 769	CXCR4
+T17	Cell 823 848	gastric cancer cell lines
+T18	Cell 859 865	MKN-28
+T19	Cell 867 873	MKN-45
+T20	Cell 875 881	MKN-74
+T21	Cell 887 898	SNU16 cells
+T22	Cellular_component 915 923	membrane
+T23	Gene_or_gene_product 924 929	CXCR4
+T24	Cell 944 958	KATO III cells
+T25	Cellular_component 969 977	membrane
+T26	Gene_or_gene_product 978 983	CXCR4
+T27	Cell 994 999	cells
+T28	Gene_or_gene_product 1001 1011	SDF-1alpha
+T29	Simple_chemical 1062 1069	AMD3100
+T30	Gene_or_gene_product 1095 1100	CXCR4
+T31	Gene_or_gene_product 1102 1112	SDF-1alpha
+T32	Gene_or_gene_product 1146 1157	Erk1/2 MAPK
+T33	Gene_or_gene_product 1197 1202	Stat3
+T34	Gene_or_gene_product 1206 1209	Akt
+T35	Tissue 1211 1240	Gastric cancer tissue samples
+T36	Gene_or_gene_product 1251 1256	CXCR4
+T37	Gene_or_gene_product 1291 1296	CXCR4
+T38	Multi-tissue_structure 1342 1352	lymph node
+T39	Gene_or_gene_product 1523 1528	CXCR4
+T40	Cell 1559 1578	gastric cancer cell
+T41	Gene_or_gene_product 1624 1629	CXCR4
+T42	Cell 1633 1653	gastric cancer cells
+T43	Organ 1687 1696	lymphatic
+T44	Organism 1711 1719	patients
+T45	Cancer 1725 1739	gastric cancer
+T46	Gene_or_gene_product 1757 1762	CXCR4
+T47	Cancer 1794 1808	gastric cancer

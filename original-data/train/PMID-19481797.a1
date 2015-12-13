@@ -1,0 +1,37 @@
+T1	Gene_or_gene_product 43 47	VEGF
+T2	Gene_or_gene_product 68 73	notch
+T3	Gene_or_gene_product 124 158	vascular endothelial growth factor
+T4	Gene_or_gene_product 160 164	VEGF
+T5	Anatomical_system 227 241	cardiovascular
+T6	Tissue 277 283	tissue
+T7	Gene_or_gene_product 328 332	VEGF
+T8	Gene_or_gene_product 363 368	Notch
+T9	Gene_or_gene_product 422 427	Notch
+T10	Cell 519 536	endothelial cells
+T11	Organism 614 619	human
+T12	Cell 620 637	endothelial cells
+T13	Organism_subdivision 662 670	hindlimb
+T14	Organism 709 714	human
+T15	Cell 715 732	endothelial cells
+T16	Simple_chemical 738 742	DAPT
+T17	Gene_or_gene_product 746 761	gamma secretase
+T18	Cell 783 787	cell
+T19	Tissue 802 808	sprout
+T20	Gene_or_gene_product 834 838	VEGF
+T21	Simple_chemical 881 885	DAPT
+T22	Simple_chemical 952 956	DAPT
+T23	Gene_or_gene_product 961 965	VEGF
+T24	Organism_subdivision 1024 1033	hindlimbs
+T25	Organism_substance 1062 1067	blood
+T26	Gene_or_gene_product 1078 1082	VEGF
+T27	Simple_chemical 1086 1090	DAPT
+T28	Simple_chemical 1171 1175	DAPT
+T29	Gene_or_gene_product 1180 1184	VEGF
+T30	Immaterial_anatomical_entity 1202 1215	intramuscular
+T31	Immaterial_anatomical_entity 1219 1234	intraperitoneal
+T32	Simple_chemical 1248 1252	DAPT
+T33	Simple_chemical 1346 1350	DAPT
+T34	Simple_chemical 1397 1401	DAPT
+T35	Simple_chemical 1517 1521	DAPT
+T36	Gene_or_gene_product 1611 1616	Notch
+T37	Organism 1665 1673	patients

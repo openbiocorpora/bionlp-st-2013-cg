@@ -1,0 +1,85 @@
+*	Equiv T3 T4
+T38	Planned_process 74 86	transfection
+E1	Planned_process:T38 Theme:T1 Instrument:T2
+T39	Negative_regulation 307 314	inhibit
+E2	Negative_regulation:T39 Cause:T8 Theme:E5
+E3	Negative_regulation:T39 Cause:T8 Theme:E6
+E4	Negative_regulation:T39 Cause:T8 Theme:E7
+T40	Cell_proliferation 320 333	proliferation
+E5	Cell_proliferation:T40 Theme:T9
+T41	Localization 335 344	migration
+E6	Localization:T41 Theme:T10
+T42	Localization 349 357	invasion
+E7	Localization:T42 Theme:T10
+T43	Positive_regulation 431 443	upregulation
+E8	Positive_regulation:T43 Cause:E9 Theme:T11
+T44	Planned_process 460 472	transfection
+E9	Planned_process:T44 Instrument:T12 Theme:T13
+T45	Negative_regulation 521 528	inhibit
+E10	Negative_regulation:T45 Cause:E8 Theme:E12
+E11	Negative_regulation:T45 Cause:E8 Theme:E13
+M1	Speculation E10
+M2	Speculation E11
+T46	Cell_proliferation 529 535	growth
+E12	Cell_proliferation:T46 Theme:T13
+T47	Localization 540 549	migration
+E13	Localization:T47 Theme:T13
+T48	Planned_process 588 600	gene therapy
+E14	Planned_process:T48 Instrument:T14 Theme:T15
+T49	Planned_process 691 702	transfected
+E15	Planned_process:T49 Theme:T17
+T50	Regulation 757 764	effects
+E16	Regulation:T50 Theme:E20
+E17	Regulation:T50 Theme:E21
+E18	Regulation:T50 Theme:E22
+E19	Regulation:T50 Theme:E23
+M3	Speculation E16
+M4	Speculation E17
+M5	Speculation E18
+M6	Speculation E19
+T51	Cell_death 773 782	apoptosis
+E20	Cell_death:T51 Theme:T18
+T52	Cell_proliferation 789 802	proliferation
+E21	Cell_proliferation:T52 Theme:T19
+T53	Localization 809 818	migration
+E22	Localization:T53 Theme:T20
+T54	Localization 828 836	invasion
+E23	Localization:T54 Theme:T21
+T55	Positive_regulation 988 998	upregulate
+E24	Positive_regulation:T55 Cause:T23 Theme:E25
+T56	Gene_expression 1003 1013	expression
+E25	Gene_expression:T56 Theme:T24
+T57	Positive_regulation 1110 1116	induce
+E26	Positive_regulation:T57 Theme:E27 Cause:T25
+T58	Cell_death 1117 1126	apoptosis
+E27	Cell_death:T58 
+T59	Negative_regulation 1131 1139	decrease
+E28	Negative_regulation:T59 Cause:T25 Theme:E31
+E29	Negative_regulation:T59 Cause:T25 Theme:E32
+E30	Negative_regulation:T59 Cause:T25 Theme:E33
+T60	Localization 1145 1154	migration
+E31	Localization:T60 Theme:T28
+T61	Localization 1156 1164	invasion
+E32	Localization:T61 Theme:T28
+T62	Cell_proliferation 1169 1182	proliferation
+E33	Cell_proliferation:T62 Theme:T28
+T63	Regulation 1261 1285	played an important role
+E34	Regulation:T63 Cause:T30 Theme:E37
+E35	Regulation:T63 Cause:T30 Theme:E38
+E36	Regulation:T63 Cause:T30 Theme:E39
+T64	Cell_proliferation 1298 1311	proliferation
+E37	Cell_proliferation:T64 Theme:T31
+T65	Localization 1318 1327	migration
+E38	Localization:T65 Theme:T32
+T66	Localization 1332 1340	invasion
+E39	Localization:T66 Theme:T32
+T67	Positive_regulation 1380 1388	Enhanced
+E40	Positive_regulation:T67 Theme:E41
+T68	Gene_expression 1389 1399	expression
+E41	Gene_expression:T68 Theme:T33
+T69	Planned_process 1416 1424	transfer
+E42	Planned_process:T69 Instrument:T33
+T70	Planned_process 1502 1514	transfection
+E43	Planned_process:T70 Theme:T35 Instrument:T36
+T71	Planned_process 1600 1624	therapeutic intervention
+E44	Planned_process:T71 Theme:T37

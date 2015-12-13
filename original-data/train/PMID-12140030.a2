@@ -1,0 +1,52 @@
+*	Equiv T8 T9
+*	Equiv T10 T11
+T36	Planned_process 11 20	treatment
+E1	Planned_process:T36 Theme:E2
+T37	Blood_vessel_development 34 52	neovascularization
+E2	Blood_vessel_development:T37 Theme:T2 AtLoc:T1
+T38	Regulation 68 78	associated
+E3	Regulation:T38 Theme:E4 Cause:E2
+T39	Breakdown 104 116	degeneration
+E4	Breakdown:T39 Theme:T3
+T40	Planned_process 153 161	treating
+E5	Planned_process:T40 Theme:E6
+T41	Blood_vessel_development 172 190	neovascularization
+E6	Blood_vessel_development:T41 AtLoc:T4
+T42	Blood_vessel_development 192 195	CNV
+E7	Blood_vessel_development:T42 
+T43	Regulation 197 207	associated
+E8	Regulation:T43 Theme:E9 Cause:E6
+T44	Breakdown 233 245	degeneration
+E9	Breakdown:T44 Theme:T5
+T45	Planned_process 370 386	photocoagulating
+E10	Planned_process:T45 Theme:T6
+T46	Blood_vessel_development 387 390	CNV
+E11	Blood_vessel_development:T46 Theme:T6
+T47	Blood_vessel_development 761 764	CNV
+E12	Blood_vessel_development:T47 Theme:T10
+T48	Planned_process 1060 1068	injected
+E13	Planned_process:T48 Instrument:T17
+T49	Localization 1105 1113	observed
+E14	Localization:T49 Theme:T17 ToLoc:T18
+T50	Blood_vessel_development 1386 1389	CNV
+E15	Blood_vessel_development:T50 Theme:T19
+T51	Positive_regulation 1422 1431	requiring
+E16	Positive_regulation:T51 Cause:E17 Theme:T20
+T52	Planned_process 1432 1441	treatment
+E17	Planned_process:T52 Theme:E18
+T53	Blood_vessel_development 1445 1448	CNV
+E18	Blood_vessel_development:T53 
+T54	Blood_vessel_development 1524 1527	CNV
+E19	Blood_vessel_development:T54 Theme:T22
+T55	Planned_process 1548 1554	closed
+E20	Planned_process:T55 Theme:T22 Instrument:T21
+T56	Planned_process 1706 1713	closure
+E21	Planned_process:T56 Theme:T25
+T57	Positive_regulation 2093 2101	enhanced
+E22	Positive_regulation:T57 Cause:T30 Theme:E23
+T58	Planned_process 2102 2118	photocoagulation
+E23	Planned_process:T58 Theme:T31
+T59	Blood_vessel_development 2122 2125	CNV
+E24	Blood_vessel_development:T59 Theme:T31
+T60	Planned_process 2515 2524	treatment
+E25	Planned_process:T60 Theme:T35

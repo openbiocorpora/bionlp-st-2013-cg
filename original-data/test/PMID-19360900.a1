@@ -1,0 +1,39 @@
+T1	Multi-tissue_structure 0 13	Neurovascular
+T2	Gene_or_gene_product 25 29	CD47
+T3	Cell 54 58	cell
+T4	Cell 115 138	brain endothelial cells
+T5	Multi-tissue_structure 168 181	neurovascular
+T6	Multi-tissue_structure 280 288	neuronal
+T7	Multi-tissue_structure 293 317	endothelial compartments
+T8	Organ 321 326	brain
+T9	Gene_or_gene_product 371 379	integrin
+T10	Gene_or_gene_product 399 403	CD47
+T11	Cell 413 426	neuronal cell
+T12	Gene_or_gene_product 454 458	CD47
+T13	Cell 486 512	cerebral endothelial cells
+T14	Organism 544 549	mouse
+T15	Cell 550 576	cerebral endothelial cells
+T16	Gene_or_gene_product 584 588	CD47
+T17	Gene_or_gene_product 596 612	thrombospondin 1
+T18	Gene_or_gene_product 614 619	TSP-1
+T19	Cell 653 657	cell
+T20	Cell 717 743	cerebral endothelial cells
+T21	Gene_or_gene_product 757 761	CD47
+T22	Organism 757 775	CD47 knockout mice
+T23	Gene_or_gene_product 790 794	CD47
+T24	Gene_or_gene_product 815 819	4N1K
+T25	Cell 839 843	cell
+T26	Organism 853 858	human
+T27	Cell 859 896	brain microvascular endothelial cells
+T28	Gene_or_gene_product 956 961	TSP-1
+T29	Gene_or_gene_product 1009 1042	intercellular adhesion molecule-1
+T30	Gene_or_gene_product 1047 1080	vascular cell adhesion molecule-1
+T31	Gene_or_gene_product 1091 1095	CD47
+T32	Gene_or_gene_product 1140 1144	4N1K
+T33	Cell 1169 1185	endothelial cell
+T34	Tissue 1200 1204	tube
+T35	Gene_or_gene_product 1242 1246	CD47
+T36	Cell 1309 1335	cerebral endothelial cells
+T37	Gene_or_gene_product 1372 1376	CD47
+T38	Multi-tissue_structure 1396 1409	neurovascular
+T39	Organ 1432 1437	brain

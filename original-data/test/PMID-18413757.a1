@@ -1,0 +1,43 @@
+T1	Cancer 12 17	tumor
+T2	Gene_or_gene_product 27 34	laminin
+T3	Organism 55 60	human
+T4	Gene_or_gene_product 78 89	Laminin-332
+T5	Cancer 106 129	squamous cell carcinoma
+T6	Cancer 131 134	SCC
+T7	Cancer 172 178	cancer
+T8	Gene_or_gene_product 228 239	laminin-332
+T9	Tissue 253 259	tissue
+T10	Gene_or_gene_product 303 314	laminin-332
+T11	Gene_or_gene_product 323 326	G45
+T12	Tissue 375 389	normal tissues
+T13	Organism 424 429	human
+T14	Cancer 430 440	SCC tumors
+T15	Organism 472 477	human
+T16	Cancer 478 481	SCC
+T17	Organism 505 510	human
+T18	Cell 511 536	keratinocytes lacking G45
+T19	Gene_or_gene_product 533 536	G45
+T20	Cell 538 546	DeltaG45
+T21	Cancer 658 661	SCC
+T22	Gene_or_gene_product 693 696	G45
+T23	Cell 707 721	DeltaG45 cells
+T24	Gene_or_gene_product 712 715	G45
+T25	Gene_or_gene_product 752 789	extracellular signal-regulated kinase
+T26	Gene_or_gene_product 794 823	phosphotidylinositol 3-kinase
+T27	Gene_or_gene_product 825 829	PI3K
+T28	Gene_or_gene_product 880 897	metalloproteinase
+T29	Gene_or_gene_product 956 959	G45
+T30	Gene_or_gene_product 973 977	PI3K
+T31	Cell 989 1003	DeltaG45 cells
+T32	Gene_or_gene_product 994 997	G45
+T33	Gene_or_gene_product 1034 1037	G45
+T34	Cancer 1065 1074	SCC tumor
+T35	Cancer 1096 1105	SCC tumor
+T36	Organism 1143 1148	human
+T37	Cancer 1149 1152	SCC
+T38	Tissue 1193 1206	normal tissue
+T39	Gene_or_gene_product 1292 1303	laminin-332
+T40	Gene_or_gene_product 1304 1307	G45
+T41	Organism 1311 1316	human
+T42	Cancer 1317 1320	SCC
+T43	Cancer 1381 1387	cancer

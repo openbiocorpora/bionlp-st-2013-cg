@@ -1,0 +1,38 @@
+T1	Organism_substance 25 31	plasma
+T2	Gene_or_gene_product 32 42	endostatin
+T3	Cancer 46 68	acute myeloid leukemia
+T4	Gene_or_gene_product 107 117	Endostatin
+T5	Gene_or_gene_product 144 158	collagen XVIII
+T6	Gene_or_gene_product 207 217	endostatin
+T7	Cancer 271 283	solid tumors
+T8	Cancer 305 329	hematologic malignancies
+T9	Organism_substance 373 379	plasma
+T10	Gene_or_gene_product 380 390	endostatin
+T11	Gene_or_gene_product 392 394	PE
+T12	Organism 444 452	patients
+T13	Cancer 458 480	acute myeloid leukemia
+T14	Cancer 482 485	AML
+T15	Organism 494 502	patients
+T16	Gene_or_gene_product 555 557	PE
+T17	Gene_or_gene_product 651 653	PE
+T18	Cancer 668 671	AML
+T19	Organism 676 684	patients
+T20	Organism 724 732	patients
+T21	Gene_or_gene_product 803 805	PE
+T22	Gene_or_gene_product 869 871	PE
+T23	Organism 1008 1015	patient
+T24	Gene_or_gene_product 1130 1132	PE
+T25	Cancer 1168 1171	AML
+T26	Organism 1172 1180	patients
+T27	Gene_or_gene_product 1199 1201	PE
+T28	Gene_or_gene_product 1226 1228	PE
+T29	Organism 1293 1301	patients
+T30	Gene_or_gene_product 1314 1316	PE
+T31	Organism 1376 1384	patients
+T32	Gene_or_gene_product 1396 1398	PE
+T33	Gene_or_gene_product 1419 1421	PE
+T34	Cancer 1472 1475	AML
+T35	Organism 1480 1488	patients
+T36	Gene_or_gene_product 1544 1546	PE
+T37	Gene_or_gene_product 1628 1630	PE
+T38	Cancer 1645 1650	tumor

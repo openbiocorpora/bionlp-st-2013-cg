@@ -1,0 +1,36 @@
+*	Equiv T18 T17 T19
+*	Equiv T20 T21 T22
+*	Equiv T26 T27
+*	Equiv T38 T39
+T42	Development 46 57	development
+E1	Development:T42 Theme:T2
+T43	Cell_transformation 130 142	transforming
+E2	Cell_transformation:T43 
+T44	Carcinogenesis 147 159	tumourigenic
+E3	Carcinogenesis:T44 
+T45	Cell_transformation 172 186	transformation
+E4	Cell_transformation:T45 
+T46	Cell_transformation 283 295	transforming
+E5	Cell_transformation:T46 
+T47	Cell_transformation 486 501	non-transformed
+E6	Cell_transformation:T47 Theme:T12
+M1	Negation E6
+T48	Cell_proliferation 650 656	growth
+E7	Cell_proliferation:T48 Theme:T14
+T49	Regulation 657 667	regulatory
+E8	Regulation:T49 Theme:E7
+T50	Mutation 714 733	genetic alterations
+E9	Mutation:T50 
+T51	Cell_proliferation 859 865	growth
+E10	Cell_proliferation:T51 Theme:T16
+T52	Positive_regulation 1014 1023	increased
+E11	Positive_regulation:T52 Theme:T25
+E12	Positive_regulation:T52 Theme:T26
+T53	Death 1137 1145	survival
+E13	Death:T53 Theme:T30
+M2	Negation E13
+T54	Death 1158 1166	survival
+E14	Death:T54 Theme:T30
+M3	Negation E14
+T55	Planned_process 1362 1384	therapeutic approaches
+E15	Planned_process:T55 Theme:T36

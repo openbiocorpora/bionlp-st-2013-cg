@@ -1,0 +1,23 @@
+T1	Organism 112 117	human
+T2	Cancer 118 125	cancers
+T3	Cancer 155 160	tumor
+T4	Cell 244 248	cell
+T5	Organism 380 385	human
+T6	Cancer 386 391	tumor
+T7	Organism 441 446	human
+T8	Cancer 447 454	cancers
+T9	Gene_or_gene_product 456 464	TNFalpha
+T10	Cancer 564 571	cancers
+T11	Gene_or_gene_product 592 600	TNFalpha
+T12	Cellular_component 611 614	DNA
+T13	Simple_chemical 631 654	reactive oxygen species
+T14	Simple_chemical 656 659	ROS
+T15	Gene_or_gene_product 662 670	TNFalpha
+T16	Cell 693 698	cells
+T17	Cellular_component 757 768	micronuclei
+T18	Cellular_component 783 794	chromosomal
+T19	Gene_or_gene_product 843 851	TNFalpha
+T20	Gene_or_gene_product 889 897	TNFalpha
+T21	Organism 959 964	mouse
+T22	Cell 965 983	embryo fibroblasts
+T23	Cancer 1120 1127	cancers

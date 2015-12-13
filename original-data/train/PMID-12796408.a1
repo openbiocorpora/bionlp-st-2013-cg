@@ -1,0 +1,45 @@
+T1	Gene_or_gene_product 10 20	galectin-3
+T2	Cancer 30 35	tumor
+T3	Organism 72 82	nude mouse
+T4	Organism 92 97	human
+T5	Cancer 98 111	breast cancer
+T6	Cancer 199 212	breast cancer
+T7	Gene_or_gene_product 222 232	galectin-3
+T8	Cancer 294 307	breast cancer
+T9	Gene_or_gene_product 381 391	galectin-3
+T10	Gene_or_gene_product 393 404	galectin-3C
+T11	Cancer 443 448	tumor
+T12	Organism 523 528	human
+T13	Gene_or_gene_product 529 539	galectin-3
+T14	Organism 556 572	Escherichia coli
+T15	Gene_or_gene_product 584 595	galectin-3C
+T16	Gene_or_gene_product 611 622	collagenase
+T17	Organ 672 677	organ
+T18	Organism 720 729	nude mice
+T19	Organism 753 762	nude mice
+T20	Cancer 796 802	tumors
+T21	Cell 816 850	breast cancer cell line MDA-MB-435
+T22	Gene_or_gene_product 869 880	galectin-3C
+T23	Gene_or_gene_product 971 982	galectin-3C
+T24	Organism 986 995	nude mice
+T25	Organism_substance 1137 1142	serum
+T26	Cell 1160 1168	cellular
+T27	Organism_substance 1185 1190	blood
+T28	Gene_or_gene_product 1236 1247	galectin-3C
+T29	Organ 1265 1270	liver
+T30	Organ 1272 1279	kidneys
+T31	Organ 1285 1291	spleen
+T32	Organ 1307 1312	heart
+T33	Organ 1316 1321	lungs
+T34	Cancer 1346 1351	tumor
+T35	Organism 1413 1417	mice
+T36	Gene_or_gene_product 1431 1442	galectin-3C
+T37	Organism 1465 1469	mice
+T38	Organism 1497 1501	mice
+T39	Multi-tissue_structure 1512 1522	lymph node
+T40	Gene_or_gene_product 1601 1612	Galectin-3C
+T41	Cancer 1681 1686	tumor
+T42	Cancer 1718 1724	tumors
+T43	Organism 1742 1752	nude mouse
+T44	Organism 1762 1767	human
+T45	Cancer 1768 1781	breast cancer

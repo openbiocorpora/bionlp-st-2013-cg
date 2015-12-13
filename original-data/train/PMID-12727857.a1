@@ -1,0 +1,67 @@
+T1	Cancer 0 5	Tumor
+T2	Cell 29 38	leukocyte
+T3	Multi-tissue_structure 39 50	vessel wall
+T4	Gene_or_gene_product 84 113	endothelial adhesion molecule
+T5	Gene_or_gene_product 144 184	endothelial cell (EC) adhesion molecules
+T6	Cell 197 206	leukocyte
+T7	Multi-tissue_structure 207 218	vessel wall
+T8	Cancer 249 261	malignancies
+T9	Cell 327 336	leukocyte
+T10	Multi-tissue_structure 337 348	vessel wall
+T11	Cancer 383 388	tumor
+T12	Gene_or_gene_product 425 452	tumor necrosis factor alpha
+T13	Cell 464 473	leukocyte
+T14	Multi-tissue_structure 474 485	vessel wall
+T15	Tissue 515 536	ear skin microvessels
+T16	Organism 540 549	nude mice
+T17	Organism 564 569	human
+T18	Cancer 570 593	LS174T colon carcinomas
+T19	Organism 601 613	C57Bl/6 mice
+T20	Organism 622 628	murine
+T21	Cancer 629 645	B16F10 melanomas
+T22	Cell 647 656	Leukocyte
+T23	Multi-tissue_structure 657 668	vessel wall
+T24	Cancer 725 731	tumors
+T25	Organ 747 750	ear
+T26	Tissue 759 775	ear microvessels
+T27	Organism 779 783	mice
+T28	Cancer 797 802	tumor
+T29	Organism_subdivision 820 825	flank
+T30	Cancer 827 832	Tumor
+T31	Organism 838 842	mice
+T32	Organ 915 918	ear
+T33	Organ 944 947	ear
+T34	Cell 949 958	leukocyte
+T35	Tissue 1012 1019	vessels
+T36	Cancer 1031 1040	ear tumor
+T37	Organism 1049 1054	mouse
+T38	Cancer 1124 1129	tumor
+T39	Cell 1158 1167	leukocyte
+T40	Multi-tissue_structure 1180 1191	ear venules
+T41	Organism 1195 1199	mice
+T42	Cancer 1213 1224	flank tumor
+T43	Cell 1257 1266	Leukocyte
+T44	Cancer 1351 1356	tumor
+T45	Organism 1360 1369	nude mice
+T46	Organism 1414 1426	C57Bl/6 mice
+T47	Organism 1441 1445	mice
+T48	Cancer 1462 1471	ear tumor
+T49	Gene_or_gene_product 1489 1536	antivascular endothelial growth factor antibody
+T50	Cell 1570 1579	leukocyte
+T51	Multi-tissue_structure 1580 1591	vessel wall
+T52	Multi-tissue_structure 1616 1629	tumor vessels
+T53	Cell 1689 1693	cell
+T54	Cell 1731 1740	tumor ECs
+T55	Gene_or_gene_product 1767 1800	intercellular adhesion molecule 1
+T56	Cell 1818 1821	ECs
+T57	Organism 1834 1839	mouse
+T58	Tissue 1840 1847	tissues
+T59	Cell 1861 1873	b.END5 cells
+T60	Gene_or_gene_product 1878 1905	tumor necrosis factor alpha
+T61	Gene_or_gene_product 1931 1964	intercellular adhesion molecule 1
+T62	Gene_or_gene_product 1969 2002	vascular cell adhesion molecule 1
+T63	Cell 2018 2021	ECs
+T64	Gene_or_gene_product 2050 2080	basic fibroblast growth factor
+T65	Gene_or_gene_product 2084 2118	vascular endothelial growth factor
+T66	Cell 2239 2260	immune effector cells
+T67	Tissue 2286 2298	tumor tissue

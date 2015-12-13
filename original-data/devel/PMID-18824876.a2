@@ -1,0 +1,78 @@
+T35	Negative_regulation 10 20	inhibition
+E1	Negative_regulation:T35 Cause:E5 Theme:E3
+E2	Negative_regulation:T35 Cause:E5 Theme:E4
+T36	Growth 39 45	growth
+E3	Growth:T36 Theme:T1
+T37	Death 60 68	survival
+E4	Death:T37 Theme:T3
+M1	Negation E4
+T38	Planned_process 72 84	transfection
+E5	Planned_process:T38 Instrument:T2
+T39	Cell_death 102 111	apoptotic
+E6	Cell_death:T39 
+T40	Planned_process 189 200	transfected
+E7	Planned_process:T40 Theme:T4 Instrument:T5
+T41	Planned_process 226 238	administered
+E8	Planned_process:T41 Theme:T6 Instrument:T5
+T42	Regulation 336 342	effect
+E9	Regulation:T42 Cause:T8 Theme:T9
+M2	Speculation E9
+T43	Planned_process 440 451	transfected
+E10	Planned_process:T43 Theme:T10 Instrument:T11
+T44	Cell_proliferation 483 496	proliferation
+E11	Cell_proliferation:T44 Theme:T12
+T45	Cell_death 525 534	apoptosis
+E12	Cell_death:T45 
+T46	Breakdown 555 561	ladder
+E13	Breakdown:T46 Theme:T13
+T47	Planned_process 652 659	treated
+E14	Planned_process:T47 Theme:T14 Instrument:T16 Instrument:T17
+T48	Growth 691 697	growth
+E15	Growth:T48 Theme:T18
+T49	Cell_death 801 810	apoptosis
+E16	Cell_death:T49 
+T50	Blood_vessel_development 815 827	angiogenesis
+E17	Blood_vessel_development:T50 
+T51	Negative_regulation 843 853	inhibition
+E18	Negative_regulation:T51 Theme:E19
+T52	Cell_proliferation 857 870	proliferation
+E19	Cell_proliferation:T52 Theme:T20
+T53	Positive_regulation 886 895	induction
+E20	Positive_regulation:T53 Theme:E21
+T54	Cell_death 899 908	apoptosis
+E21	Cell_death:T54 Theme:T20
+T55	Planned_process 949 960	transfected
+E22	Planned_process:T55 Instrument:T21 Theme:T20
+T56	Planned_process 999 1006	treated
+E23	Planned_process:T56 Instrument:T22 Theme:T23
+T57	Growth 1034 1040	growth
+E24	Growth:T57 Theme:T24
+T58	Negative_regulation 1055 1064	decreased
+E25	Negative_regulation:T58 Theme:E24
+T59	Death 1076 1084	survival
+E26	Death:T59 Theme:T26
+M3	Negation E26
+T60	Positive_regulation 1116 1125	prolonged
+E27	Positive_regulation:T60 Theme:E26
+T61	Positive_regulation 1167 1176	Increased
+E28	Positive_regulation:T61 Theme:E29
+T62	Cell_death 1177 1186	apoptosis
+E29	Cell_death:T62 Theme:T27
+T63	Negative_regulation 1206 1215	decreased
+E30	Negative_regulation:T63 Theme:E31
+T64	Blood_vessel_development 1216 1228	angiogenesis
+E31	Blood_vessel_development:T64 AtLoc:T28
+T65	Negative_regulation 1327 1334	effects
+E32	Negative_regulation:T65 Cause:T30 Theme:T29
+E33	Negative_regulation:T65 Theme:T31 Cause:E37
+E34	Negative_regulation:T65 Theme:T31 Cause:E35
+T66	Positive_regulation 1419 1428	induction
+E35	Positive_regulation:T66 Theme:E36 Cause:T30
+T67	Cell_death 1432 1441	apoptosis
+E36	Cell_death:T67 
+T68	Negative_regulation 1446 1456	inhibition
+E37	Negative_regulation:T68 Theme:E38 Cause:T30
+T69	Blood_vessel_development 1460 1472	angiogenesis
+E38	Blood_vessel_development:T69 
+T70	Planned_process 1519 1531	gene therapy
+E39	Planned_process:T70 Instrument:T32 Theme:T34

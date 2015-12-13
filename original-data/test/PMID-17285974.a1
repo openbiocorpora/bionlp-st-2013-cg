@@ -1,0 +1,22 @@
+T1	Cancer 90 123	laryngeal squamous cell carcinoma
+T2	Cancer 248 281	laryngeal squamous cell carcinoma
+T3	Cancer 283 287	LSCC
+T4	Tissue 302 324	intratumor microvessel
+T5	Gene_or_gene_product 366 400	vascular endothelial growth factor
+T6	Gene_or_gene_product 402 406	VEGF
+T7	Cancer 559 563	LSCC
+T8	Organism 564 572	patients
+T9	Multi-tissue_structure 691 709	cervical lymphatic
+T10	Cancer 804 831	lymphatic metastasis tumors
+T11	Cancer 894 930	cervical lymphatic metastasis tumors
+T12	Gene_or_gene_product 1162 1166	VEGF
+T13	Cancer 1431 1436	tumor
+T14	Cancer 1448 1452	LSCC
+T15	Multi-tissue_structure 1512 1530	cervical lymphatic
+T16	Cancer 1545 1549	LSCC
+T17	Gene_or_gene_product 1551 1555	VEGF
+T18	Cancer 1615 1620	tumor
+T19	Cancer 1637 1641	LSCC
+T20	Cancer 1643 1648	Tumor
+T21	Cancer 1682 1687	tumor
+T22	Cancer 1749 1753	LSCC

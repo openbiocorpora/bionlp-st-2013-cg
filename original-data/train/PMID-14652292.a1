@@ -1,0 +1,54 @@
+T1	Simple_chemical 19 25	folate
+T2	Pathological_formation 29 47	ulcerative colitis
+T3	Multi-tissue_structure 59 69	colorectal
+T4	Gene_or_gene_product 92 105	interleukin 2
+T5	Gene_or_gene_product 111 132	beta(2)-microglobulin
+T6	Organism 143 147	mice
+T7	Simple_chemical 150 156	Folate
+T8	Pathological_formation 196 216	colorectal dysplasia
+T9	Cancer 221 227	cancer
+T10	Pathological_formation 253 271	ulcerative colitis
+T11	Pathological_formation 273 275	UC
+T12	Gene_or_gene_product 282 300	interleukin (IL) 2
+T13	Gene_or_gene_product 306 327	beta(2)-microglobulin
+T14	Gene_or_gene_product 329 337	beta(2)m
+T15	Gene_or_gene_product 350 354	IL-2
+T16	Gene_or_gene_product 363 371	beta(2)m
+T17	Organism 379 383	mice
+T18	Cancer 406 418	colon cancer
+T19	Pathological_formation 445 447	UC
+T20	Simple_chemical 496 502	folate
+T21	Pathological_formation 525 527	UC
+T22	Cancer 539 551	colon cancer
+T23	Gene_or_gene_product 559 563	IL-2
+T24	Gene_or_gene_product 572 580	beta(2)m
+T25	Organism 587 591	mice
+T26	Gene_or_gene_product 601 605	IL-2
+T27	Gene_or_gene_product 614 622	beta(2)m
+T28	Organism 629 633	mice
+T29	Simple_chemical 755 761	folate
+T30	Cancer 813 827	colonic tumors
+T31	Pathological_formation 877 886	dysplasia
+T32	Cancer 890 904	adenocarcinoma
+T33	Pathological_formation 923 941	high-grade lesions
+T34	Pathological_formation 943 963	high-grade dysplasia
+T35	Cancer 964 973	carcinoma
+T36	Cancer 995 1009	adenocarcinoma
+T37	Simple_chemical 1018 1024	folate
+T38	Pathological_formation 1139 1157	high-grade lesions
+T39	Simple_chemical 1165 1171	folate
+T40	Simple_chemical 1304 1310	folate
+T41	Pathological_formation 1444 1462	high-grade lesions
+T42	Simple_chemical 1511 1517	folate
+T43	Pathological_formation 1595 1597	UC
+T44	Multi-tissue_structure 1609 1619	colorectal
+T45	Gene_or_gene_product 1642 1646	IL-2
+T46	Gene_or_gene_product 1655 1663	beta(2)m
+T47	Organism 1670 1674	mice
+T48	Simple_chemical 1705 1711	folate
+T49	Multi-tissue_structure 1735 1745	colorectal
+T50	Pathological_formation 1772 1774	UC
+T51	Simple_chemical 1820 1826	folate
+T52	Simple_chemical 1902 1908	folate
+T53	Pathological_formation 1923 1925	UC
+T54	Multi-tissue_structure 1937 1947	colorectal

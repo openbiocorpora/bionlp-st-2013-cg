@@ -1,0 +1,48 @@
+T1	Gene_or_gene_product 24 45	nuclear factor-kappaB
+T2	Simple_chemical 49 113	nuclear factor-kappaB essential modulator-binding domain peptide
+T3	Cancer 161 189	oral squamous cell carcinoma
+T4	Gene_or_gene_product 192 213	Nuclear factor-kappaB
+T5	Gene_or_gene_product 215 224	NF-kappaB
+T6	Cancer 324 331	cancers
+T7	Cancer 343 347	OSCC
+T8	Gene_or_gene_product 426 435	NF-kappaB
+T9	Cancer 450 454	OSCC
+T10	Cell 467 480	OSCC sublines
+T11	Gene_or_gene_product 505 508	GFP
+T12	Cell 520 538	parental cell line
+T13	Cell 540 544	GSAS
+T14	Cell 561 568	GSAS/N3
+T15	Cell 573 575	N5
+T16	Multi-tissue_structure 622 641	cervical lymph node
+T17	Cell 754 759	cells
+T18	Gene_or_gene_product 769 778	NF-kappaB
+T19	Gene_or_gene_product 808 817	NF-kappaB
+T20	Cancer 932 937	tumor
+T21	Organism 948 952	mice
+T22	Gene_or_gene_product 1009 1018	NF-kappaB
+T23	Simple_chemical 1030 1063	NEMO-binding domain (NBD) peptide
+T24	Cell 1082 1089	GSAS/N5
+T25	Organism 1100 1104	mice
+T26	Cancer 1134 1147	tongue tumors
+T27	Cell 1203 1210	GSAS/N3
+T28	Cell 1215 1223	N5 cells
+T29	Gene_or_gene_product 1243 1252	NF-kappaB
+T30	Cell 1361 1366	cells
+T31	Gene_or_gene_product 1406 1415	NF-kappaB
+T32	Gene_or_gene_product 1464 1475	fibronectin
+T33	Gene_or_gene_product 1477 1491	beta1 integrin
+T34	Gene_or_gene_product 1493 1498	MMP-1
+T35	Gene_or_gene_product 1500 1502	-2
+T36	Gene_or_gene_product 1504 1506	-9
+T37	Gene_or_gene_product 1512 1515	-14
+T38	Gene_or_gene_product 1521 1527	VEGF-C
+T39	Cell 1571 1576	cells
+T40	Simple_chemical 1582 1593	NBD peptide
+T41	Cancer 1620 1632	tongue tumor
+T42	Cell 1643 1650	GSAS/N5
+T43	Organism 1662 1666	mice
+T44	Gene_or_gene_product 1717 1726	NF-kappaB
+T45	Cancer 1779 1792	tongue tumors
+T46	Gene_or_gene_product 1847 1856	NF-kappaB
+T47	Simple_chemical 1871 1882	NBD peptide
+T48	Cancer 1956 1960	OSCC

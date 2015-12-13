@@ -1,0 +1,30 @@
+T33	Planned_process 27 34	therapy
+E1	Planned_process:T33 Theme:T3 Instrument:T2
+E2	Planned_process:T33 Theme:T3 Instrument:T1
+T34	Cell_proliferation 105 118	proliferation
+E3	Cell_proliferation:T34 Theme:T4
+T35	Regulation 313 326	have activity
+E4	Regulation:T35 Cause:T6 Theme:T9
+T36	Planned_process 453 463	pretreated
+E5	Planned_process:T36 Theme:T12
+T37	Planned_process 490 497	treated
+E6	Planned_process:T37 Instrument:T13 Instrument:T14 Theme:T12
+T38	Planned_process 620 632	chemotherapy
+E7	Planned_process:T38 Theme:T15
+T39	Planned_process 637 646	radiation
+E8	Planned_process:T39 Theme:T15
+T40	Planned_process 790 797	started
+E9	Planned_process:T40 Instrument:T17 Theme:T16
+T41	Planned_process 863 871	received
+E10	Planned_process:T41 Instrument:T19 Theme:T18
+T42	Planned_process 922 927	given
+E11	Planned_process:T42 Instrument:T20 Theme:T18
+T43	Planned_process 994 1001	treated
+E12	Planned_process:T43 Theme:T21
+T44	Death 1428 1432	died
+E13	Death:T44 Theme:T25
+T45	Planned_process 1450 1462	discontinued
+E14	Planned_process:T45 Instrument:T26 Theme:T27
+M1	Negation E14
+T46	Planned_process 1645 1655	pretreated
+E15	Planned_process:T46 Theme:T31

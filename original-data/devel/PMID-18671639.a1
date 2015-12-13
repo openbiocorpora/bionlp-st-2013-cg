@@ -1,0 +1,32 @@
+T1	Simple_chemical 0 11	Bevacizumab
+T2	Simple_chemical 16 26	irinotecan
+T3	Cancer 38 61	glioblastoma multiforme
+T4	Cell 93 104	Endothelial
+T5	Cancer 179 185	glioma
+T6	Simple_chemical 187 198	Bevacizumab
+T7	Gene_or_gene_product 214 231	immunoglobulin G1
+T8	Gene_or_gene_product 232 289	monoclonal antibody to vascular endothelial growth factor
+T9	Cancer 330 347	malignant gliomas
+T10	Simple_chemical 367 377	irinotecan
+T11	Organism 421 429	patients
+T12	Cancer 464 480	malignant glioma
+T13	Simple_chemical 522 533	bevacizumab
+T14	Simple_chemical 538 548	irinotecan
+T15	Organism 665 673	patients
+T16	Organism 776 784	patients
+T17	Simple_chemical 801 812	bevacizumab
+T18	Organism 854 862	patients
+T19	Simple_chemical 872 883	bevacizumab
+T20	Simple_chemical 907 917	irinotecan
+T21	Organism 1002 1010	patients
+T22	Organism 1108 1116	patients
+T23	Organism 1290 1298	patients
+T24	Organism 1334 1342	patients
+T25	Organism 1389 1397	patients
+T26	Simple_chemical 1434 1445	Bevacizumab
+T27	Organism 1468 1476	patients
+T28	Immaterial_anatomical_entity 1497 1509	intracranial
+T29	Simple_chemical 1552 1563	bevacizumab
+T30	Simple_chemical 1568 1578	irinotecan
+T31	Organism 1670 1678	patients
+T32	Cancer 1695 1711	malignant glioma

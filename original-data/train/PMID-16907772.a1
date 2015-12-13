@@ -1,0 +1,34 @@
+T1	Tissue 17 21	bone
+T2	Organism 70 75	human
+T3	Organ 76 84	mandible
+T4	Multi-tissue_structure 115 128	blood vessels
+T5	Multi-tissue_structure 176 188	blood vessel
+T6	Organism 276 281	human
+T7	Organ 282 290	mandible
+T8	Organism 307 315	patients
+T9	Organ 361 369	mandible
+T10	Tissue 380 384	bone
+T11	Organism 509 517	patients
+T12	Multi-tissue_structure 533 541	Vascular
+T13	Tissue 736 740	bone
+T14	Multi-tissue_structure 804 816	blood vessel
+T15	Tissue 850 854	bone
+T16	Multi-tissue_structure 933 946	blood vessels
+T17	Tissue 962 984	soft connective tissue
+T18	Multi-tissue_structure 1031 1044	blood vessels
+T19	Organism 1180 1188	patients
+T20	Multi-tissue_structure 1221 1233	blood vessel
+T21	Tissue 1245 1249	bone
+T22	Tissue 1294 1298	bone
+T23	Tissue 1330 1334	bone
+T24	Multi-tissue_structure 1388 1401	blood vessels
+T25	Multi-tissue_structure 1438 1451	blood vessels
+T26	Multi-tissue_structure 1485 1497	blood vessel
+T27	Organism 1519 1527	patients
+T28	Tissue 1611 1633	soft connective tissue
+T29	Cell 1692 1697	cells
+T30	Multi-tissue_structure 1954 1967	blood vessels
+T31	Tissue 1989 1993	bone
+T32	Organism 2018 2023	human
+T33	Organ 2024 2032	mandible
+T34	Organism 2044 2052	patients

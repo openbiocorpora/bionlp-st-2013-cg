@@ -1,0 +1,24 @@
+T1	Organism 15 21	clonal
+T2	Cancer 79 86	ovarian
+T3	Cancer 91 110	endometrial cancers
+T4	Cancer 126 132	cancer
+T5	Multi-tissue_structure 167 178	endometrium
+T6	Organ 187 192	ovary
+T7	Cancer 196 205	carcinoma
+T8	Cancer 332 349	primary carcinoma
+T9	Cancer 372 401	synchronous primary neoplasms
+T10	Cancer 659 674	adenocarcinomas
+T11	Multi-tissue_structure 682 693	endometrium
+T12	Organ 698 703	ovary
+T13	Cancer 749 775	synchronous primary tumors
+T14	Cellular_component 789 801	X-chromosome
+T15	Gene_or_gene_product 833 838	K-ras
+T16	Gene_or_gene_product 878 881	p53
+T17	Organism 891 911	human papillomavirus
+T18	Pathological_formation 945 956	endometrial
+T19	Pathological_formation 961 976	ovarian lesions
+T20	Cancer 1052 1066	primary tumors
+T21	Cellular_component 1132 1144	X-chromosome
+T22	Cancer 1207 1221	primary tumors
+T23	Cancer 1329 1359	synchronous primary carcinomas
+T24	Cancer 1373 1382	carcinoma

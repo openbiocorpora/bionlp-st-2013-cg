@@ -1,0 +1,42 @@
+T1	Gene_or_gene_product 0 11	Lactoferrin
+T2	Gene_or_gene_product 21 24	Fas
+T3	Multi-tissue_structure 57 69	colon mucosa
+T4	Simple_chemical 73 85	azoxymethane
+T5	Organism 94 98	rats
+T6	Organism 101 107	Bovine
+T7	Gene_or_gene_product 108 119	lactoferrin
+T8	Simple_chemical 203 215	azoxymethane
+T9	Simple_chemical 217 220	AOM
+T10	Organism 230 233	rat
+T11	Cancer 234 246	colon tumors
+T12	Gene_or_gene_product 342 353	lactoferrin
+T13	Gene_or_gene_product 397 427	tumor necrosis factor receptor
+T14	Gene_or_gene_product 436 439	Fas
+T15	Multi-tissue_structure 448 460	colon mucosa
+T16	Gene_or_gene_product 520 523	Fas
+T17	Organism 545 551	bovine
+T18	Gene_or_gene_product 552 563	lactoferrin
+T19	Cancer 587 592	tumor
+T20	Organism 667 673	bovine
+T21	Gene_or_gene_product 674 685	lactoferrin
+T22	Gene_or_gene_product 689 692	Fas
+T23	Gene_or_gene_product 741 744	Fas
+T24	Gene_or_gene_product 760 769	caspase-8
+T25	Gene_or_gene_product 774 783	caspase-3
+T26	Cellular_component 789 792	DNA
+T27	Multi-tissue_structure 814 826	colon mucosa
+T28	Simple_chemical 830 833	AOM
+T29	Organism 842 846	rats
+T30	Gene_or_gene_product 907 910	Fas
+T31	Gene_or_gene_product 980 989	caspase-8
+T32	Gene_or_gene_product 994 1003	caspase-3
+T33	Gene_or_gene_product 1043 1046	Fas
+T34	Cell 1043 1061	Fas-positive cells
+T35	Cell 1066 1081	apoptotic cells
+T36	Organ 1117 1122	colon
+T37	Organism 1154 1160	bovine
+T38	Gene_or_gene_product 1161 1172	lactoferrin
+T39	Cancer 1182 1187	tumor
+T40	Gene_or_gene_product 1270 1273	Fas
+T41	Gene_or_gene_product 1308 1319	lactoferrin
+T42	Organ 1323 1328	colon

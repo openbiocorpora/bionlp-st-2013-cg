@@ -1,0 +1,54 @@
+*	Equiv T6 T7
+*	Equiv T8 T9
+T35	Negative_regulation 15 23	prevents
+E1	Negative_regulation:T35 Cause:E3 Theme:E2
+T36	Positive_regulation 29 36	induced
+E2	Positive_regulation:T36 Theme:T3 Cause:T2
+T37	Negative_regulation 65 77	sequestering
+T38	Regulation 65 77	sequestering
+E3	Negative_regulation:T37 Theme:T4 Cause:E4
+E4	Regulation:T38 Theme:T5 Cause:T1
+T39	Blood_vessel_development 183 193	angiogenic
+E5	Blood_vessel_development:T39 
+T40	Regulation 256 266	stabilizes
+E6	Regulation:T40 Cause:T12 Theme:T13
+T41	Negative_regulation 285 293	protects
+E7	Negative_regulation:T41 Theme:E9 Cause:T12
+T42	Positive_regulation 309 316	induced
+E8	Positive_regulation:T42 Theme:E9 Cause:T14
+T43	Localization 324 331	leakage
+E9	Localization:T43 Theme:T15
+T44	Negative_regulation 443 448	halts
+E10	Negative_regulation:T44 Theme:E11 Cause:T18
+T45	Positive_regulation 472 478	induce
+E11	Positive_regulation:T45 Theme:E14 Cause:T19
+T46	Phosphorylation 483 498	phosphorylation
+E12	Phosphorylation:T46 Theme:T20
+T47	Positive_regulation 499 508	dependent
+E13	Positive_regulation:T47 Cause:E12 Theme:E14
+T48	Localization 509 523	redistribution
+E14	Localization:T48 Theme:T20
+T49	Negative_regulation 618 626	inhibits
+E15	Negative_regulation:T49 Theme:E16 Cause:T22
+T50	Positive_regulation 631 641	activation
+E16	Positive_regulation:T50 Theme:T23 Cause:T24
+T51	Localization 739 754	internalization
+E17	Localization:T51 Theme:T26
+T52	Positive_regulation 769 777	promotes
+T53	Regulation 769 777	promotes
+E18	Positive_regulation:T52 Cause:E19 Theme:E20
+E19	Regulation:T53 Cause:T27 Theme:T29
+T54	Positive_regulation 782 792	activation
+E20	Positive_regulation:T54 Theme:T28
+T55	Positive_regulation 815 824	resulting
+E21	Positive_regulation:T55 Cause:E18 Theme:E22
+T56	Binding 832 843	association
+E22	Binding:T56 Theme:T30 Theme:T31
+T57	Positive_regulation 927 935	required
+E23	Positive_regulation:T57 Theme:E24
+T58	Positive_regulation 940 949	promoting
+E24	Positive_regulation:T58 Theme:E25
+T59	Negative_regulation 954 964	disruption
+E25	Negative_regulation:T59 Theme:E26
+T60	Binding 980 998	cell-cell contacts
+E26	Binding:T60 Theme:T33

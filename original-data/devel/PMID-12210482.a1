@@ -1,0 +1,51 @@
+T1	Gene_or_gene_product 0 3	Fas
+T2	Gene_or_gene_product 4 14	Fas ligand
+T3	Gene_or_gene_product 45 59	interleukin-12
+T4	Organism 83 89	murine
+T5	Cancer 90 104	prostate tumor
+T6	Cancer 156 161	tumor
+T7	Gene_or_gene_product 176 190	interleukin-12
+T8	Gene_or_gene_product 192 197	IL-12
+T9	Gene_or_gene_product 235 238	Fas
+T10	Gene_or_gene_product 240 245	APO-1
+T11	Gene_or_gene_product 246 250	CD95
+T12	Cellular_component 264 272	membrane
+T13	Gene_or_gene_product 368 372	FasL
+T14	Gene_or_gene_product 427 430	Fas
+T15	Gene_or_gene_product 431 435	FasL
+T16	Gene_or_gene_product 471 476	IL-12
+T17	Cancer 485 490	tumor
+T18	Gene_or_gene_product 515 521	mIL-12
+T19	Organism 550 565	cytomegalovirus
+T20	Organism 595 601	murine
+T21	Gene_or_gene_product 602 607	IL-12
+T22	Cell 620 660	RM-9 murine prostate carcinoma cell line
+T23	Cell 670 680	RM-9 cells
+T24	Cell 685 695	RM-9 cells
+T25	Gene_or_gene_product 720 725	IL-12
+T26	Cell 732 741	RM-9-IL12
+T27	Gene_or_gene_product 737 741	IL12
+T28	Immaterial_anatomical_entity 759 773	subcutaneously
+T29	Organism 799 812	C57BL/J6 mice
+T30	Cancer 814 819	Tumor
+T31	Gene_or_gene_product 918 921	Fas
+T32	Gene_or_gene_product 926 930	FasL
+T33	Cell 1012 1017	cells
+T34	Gene_or_gene_product 1028 1033	IL-12
+T35	Cell 1045 1074	RM-9 prostate carcinoma cells
+T36	Organism 1093 1106	C57BL/J6 mice
+T37	Cell 1137 1147	RM-9 cells
+T38	Cell 1167 1181	RM-9-Luc cells
+T39	Organism 1216 1230	RM-9-IL12 mice
+T40	Organism 1286 1290	mice
+T41	Cell 1317 1327	RM-9 cells
+T42	Cell 1356 1361	cells
+T43	Cancer 1384 1400	RM-9-IL12 tumors
+T44	Gene_or_gene_product 1441 1444	Fas
+T45	Gene_or_gene_product 1449 1453	FasL
+T46	Cancer 1507 1523	RM-9-IL12 tumors
+T47	Cancer 1542 1561	RM-9 control tumors
+T48	Gene_or_gene_product 1653 1656	Fas
+T49	Gene_or_gene_product 1657 1661	FasL
+T50	Gene_or_gene_product 1711 1716	IL-12
+T51	Cancer 1738 1756	prostate carcinoma

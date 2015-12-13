@@ -1,0 +1,15 @@
+T1	Simple_chemical 35 41	Oxygen
+T2	Simple_chemical 120 143	Reactive oxygen species
+T3	Simple_chemical 145 148	ROS
+T4	Cell 176 184	cellular
+T5	Cell 229 245	phagocytic cells
+T6	Simple_chemical 375 378	ROS
+T7	Simple_chemical 399 405	lipids
+T8	Simple_chemical 407 420	nucleic acids
+T9	Cellular_component 426 443	matrix components
+T10	Immaterial_anatomical_entity 474 487	intracellular
+T11	Multi-tissue_structure 525 533	synovial
+T12	Multi-tissue_structure 645 653	synovial
+T13	Gene_or_gene_product 691 722	hypoxia-inducible factor-1alpha
+T14	Gene_or_gene_product 727 748	nuclear factor-kappaB
+T15	Cell 813 821	cellular

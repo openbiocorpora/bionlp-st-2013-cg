@@ -1,0 +1,96 @@
+*	Equiv T6 T7
+*	Equiv T15 T16
+*	Equiv T17 T18
+*	Equiv T33 T34
+T42	Positive_regulation 0 9	Induction
+E1	Positive_regulation:T42 Cause:T2 Theme:T1
+T43	Regulation 27 35	involves
+E2	Regulation:T43 Cause:E1 Theme:T3
+E3	Regulation:T43 Cause:E1 Theme:E4
+T44	Positive_regulation 58 68	sensitizes
+E4	Positive_regulation:T44 Theme:E5
+T45	Death 97 102	death
+E5	Death:T45 Theme:T5
+T46	Binding 258 265	binding
+E6	Binding:T46 Theme:T6
+T47	Regulation 353 361	involved
+E7	Regulation:T47 Cause:T8 Theme:E9
+E8	Regulation:T47 Cause:T8 Theme:E11
+T48	Negative_regulation 369 379	repression
+E9	Negative_regulation:T48 Theme:E10
+T49	Cell_differentiation 388 403	differentiation
+E10	Cell_differentiation:T49 Theme:T9
+T50	Positive_regulation 408 418	activation
+E11	Positive_regulation:T50 Theme:E12
+T51	Cell_proliferation 427 433	growth
+E12	Cell_proliferation:T51 Theme:T10
+T52	Negative_regulation 462 472	inhibition
+E13	Negative_regulation:T52 Cause:T11 Theme:E14
+T53	Cell_differentiation 476 491	differentiation
+E14	Cell_differentiation:T53 Theme:T12
+T54	Positive_regulation 497 508	stimulation
+E15	Positive_regulation:T54 Theme:E16 Cause:T11
+T55	Cell_proliferation 517 530	proliferation
+E16	Cell_proliferation:T55 Theme:T12
+T56	Cell_differentiation 565 580	differentiation
+E17	Cell_differentiation:T56 Theme:T13
+T57	Pathway 630 635	cycle
+E18	Pathway:T57 Theme:T14
+T58	Regulation 693 712	play multiple roles
+E19	Regulation:T58 Cause:T15 Theme:E20
+T59	Development 754 765	development
+E20	Development:T59 Theme:T17
+T60	Positive_regulation 844 850	induce
+E21	Positive_regulation:T60 Cause:T19 Theme:E22
+T61	Cell_differentiation 867 882	differentiation
+E22	Cell_differentiation:T61 Theme:T21
+T62	Negative_regulation 887 894	trigger
+E23	Negative_regulation:T62 Cause:T19 Theme:E24
+T63	Cell_death 895 904	apoptosis
+E24	Cell_death:T63 Theme:T21
+T64	Regulation 946 956	regulation
+E25	Regulation:T64 Theme:T22
+T65	Regulation 1049 1053	role
+E26	Regulation:T65 Cause:T23 Theme:E27
+M1	Speculation E26
+T66	Regulation 1070 1080	regulation
+E27	Regulation:T66 Theme:T24
+T67	Planned_process 1150 1159	treatment
+E28	Planned_process:T67 Theme:T28 Instrument:T29
+T68	Positive_regulation 1204 1213	induction
+E29	Positive_regulation:T68 Cause:E28 Theme:E31
+E30	Positive_regulation:T68 Cause:E28 Theme:E32
+T69	Transcription 1227 1231	mRNA
+E31	Transcription:T69 Theme:T30
+T70	Gene_expression 1236 1243	protein
+E32	Gene_expression:T70 Theme:T30
+T71	Positive_regulation 1249 1258	induction
+E33	Positive_regulation:T71 Theme:E31
+E34	Positive_regulation:T71 Theme:E32
+T72	Planned_process 1288 1297	treatment
+E35	Planned_process:T72 Instrument:T31
+T73	Regulation 1305 1313	mediated
+E36	Regulation:T73 Cause:E38 Theme:E34
+E37	Regulation:T73 Cause:E38 Theme:E33
+T74	Pathway 1324 1331	pathway
+E38	Pathway:T74 Participant:T32
+T75	Positive_regulation 1347 1357	stimulates
+E39	Positive_regulation:T75 Theme:E41 Cause:E34
+E40	Positive_regulation:T75 Theme:E41 Cause:E33
+T76	Gene_expression 1358 1368	expression
+E41	Gene_expression:T76 Theme:T33
+T77	Binding 1457 1468	interaction
+E42	Binding:T77 Theme:T36 Site:T78 Theme2:T35
+T78	DNA_domain_or_region 1488 1496	promoter
+T79	Negative_regulation 1536 1546	inhibition
+E43	Negative_regulation:T79 Theme:E44
+T80	Gene_expression 1555 1565	expression
+E44	Gene_expression:T80 Theme:T38
+T81	Positive_regulation 1566 1576	results in
+E45	Positive_regulation:T81 Cause:E43 Theme:E47
+T82	Planned_process 1607 1614	treated
+E46	Planned_process:T82 Instrument:T39 Theme:T40
+T83	Negative_regulation 1625 1632	delayed
+E47	Negative_regulation:T83 Theme:E48
+T84	Death 1638 1643	death
+E48	Death:T84 Theme:T41

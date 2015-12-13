@@ -1,0 +1,30 @@
+T26	Blood_vessel_development 12 24	angiogenesis
+E1	Blood_vessel_development:T26 
+T27	Breakdown 305 316	dysfunction
+E2	Breakdown:T27 Theme:T6
+T28	Negative_regulation 334 344	disruption
+E3	Negative_regulation:T28 Theme:E4
+T29	Localization 368 376	delivery
+E4	Localization:T29 Theme:T7
+T30	Death 433 440	survive
+E5	Death:T30 Theme:T8
+T31	Regulation 648 656	effected
+E6	Regulation:T31 Theme:T9
+T32	Planned_process 1509 1516	therapy
+E7	Planned_process:T32 Instrument:T20
+T33	Positive_regulation 1761 1769	activate
+E8	Positive_regulation:T33 Theme:E10
+E9	Positive_regulation:T33 Theme:E11
+T34	Blood_vessel_development 1781 1791	angiogenic
+E10	Blood_vessel_development:T34 
+T35	Blood_vessel_development 1795 1816	arteriogenic pathways
+E11	Blood_vessel_development:T35 
+T36	Positive_regulation 1820 1829	stimulate
+E12	Positive_regulation:T36 Theme:E14 Cause:E9
+E13	Positive_regulation:T36 Theme:E14 Cause:E8
+T37	Blood_vessel_development 1830 1847	revascularization
+E14	Blood_vessel_development:T37 
+T38	Blood_vessel_development 2016 2028	angiogenesis
+E15	Blood_vessel_development:T38 
+T39	Blood_vessel_development 2096 2108	angiogenesis
+E16	Blood_vessel_development:T39 

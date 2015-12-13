@@ -1,0 +1,73 @@
+*	Equiv T1 T2
+*	Equiv T4 T5
+*	Equiv T12 T13
+*	Equiv T15 T16
+*	Equiv T19 T20
+*	Equiv T23 T24
+*	Equiv T31 T32
+*	Equiv T35 T36
+*	Equiv T40 T41
+*	Equiv T42 T43
+*	Equiv T44 T45
+*	Equiv T47 T48
+*	Equiv T52 T53
+T54	Mutation 0 4	Loss
+E1	Mutation:T54 
+T55	Mutation 203 212	Mutations
+E2	Mutation:T55 AtLoc:T9
+T56	Mutation 251 257	losses
+E3	Mutation:T56 AtLoc:T10
+T57	Regulation 321 325	role
+E4	Regulation:T57 Cause:T12 Theme:E5
+M1	Speculation E4
+T58	Carcinogenesis 351 365	carcinogenesis
+E5	Carcinogenesis:T58 AtLoc:T14
+T59	Regulation 392 396	role
+E6	Regulation:T59 Cause:T15 Theme:T17
+M2	Speculation E6
+T60	Mutation 438 460	loss of heterozygosity
+E7	Mutation:T60 
+T61	Mutation 462 465	LOH
+E8	Mutation:T61 
+T62	Planned_process 613 624	xenografted
+E9	Planned_process:T62 Theme:T21
+T63	Mutation 971 993	Loss of heterozygosity
+E10	Mutation:T63 Theme:T35 AtLoc:T37
+T64	Regulation 1038 1048	correlated
+E11	Regulation:T64 Theme:E12 Cause:E10
+T65	Gene_expression 1062 1072	expression
+E12	Gene_expression:T65 Theme:T36
+M3	Negation E12
+T66	Gene_expression 1089 1099	expression
+E13	Gene_expression:T66 Theme:T36
+M4	Negation E13
+T67	Mutation 1174 1183	mutations
+E14	Mutation:T67 Theme:T41
+T68	Gene_expression 1199 1203	loss
+E15	Gene_expression:T68 Theme:T42
+M5	Negation E15
+T69	Regulation 1280 1291	correlation
+E16	Regulation:T69 Cause:E18 Theme:E17
+T70	Gene_expression 1319 1329	expression
+E17	Gene_expression:T70 Theme:T45
+M6	Negation E17
+T71	Positive_regulation 1334 1346	upregulation
+E18	Positive_regulation:T71 Theme:T46
+T72	Gene_expression 1369 1373	Loss
+E19	Gene_expression:T72 Theme:T47
+M7	Negation E19
+T73	Regulation 1399 1410	play a role
+E20	Regulation:T73 Cause:E19 Theme:E22
+E21	Regulation:T73 Cause:E19 Theme:E23
+T74	Carcinogenesis 1449 1463	carcinogenesis
+E22	Carcinogenesis:T74 AtLoc:T50
+E23	Carcinogenesis:T74 AtLoc:T49
+T75	Gene_expression 1475 1489	overexpression
+T76	Positive_regulation 1475 1489	overexpression
+E24	Gene_expression:T75 Theme:T51
+E25	Positive_regulation:T76 Theme:E24
+T77	Positive_regulation 1509 1518	important
+E26	Positive_regulation:T77 Theme:E27 Cause:E24
+T78	Gene_expression 1555 1559	loss
+E27	Gene_expression:T78 Theme:T53
+M8	Negation E27

@@ -1,0 +1,37 @@
+T1	Cell 39 65	ovarian cancer A2780 cells
+T2	Gene_or_gene_product 102 106	PTEN
+T3	Gene_or_gene_product 125 129	PTEN
+T4	Gene_or_gene_product 131 188	phosphatase and tensin homologue deleted on chromosome 10
+T5	Cancer 195 200	tumor
+T6	Organism 231 236	human
+T7	Cellular_component 237 253	chromosome 10q23
+T8	Gene_or_gene_product 298 302	PTEN
+T9	Cell 315 319	cell
+T10	Cell 366 378	cancer cells
+T11	Gene_or_gene_product 447 451	PTEN
+T12	Gene_or_gene_product 483 487	PTEN
+T13	Cell 496 516	ovarian cancer cells
+T14	Gene_or_gene_product 583 587	PTEN
+T15	Cancer 604 619	ovarian cancers
+T16	Gene_or_gene_product 672 676	PTEN
+T17	Cell 708 745	ovarian epithelial cancer A2780 cells
+T18	Cell 768 772	cell
+T19	Cell 784 788	cell
+T20	Cell 804 808	cell
+T21	Cell 823 827	cell
+T22	Pathological_formation 903 908	wound
+T23	Gene_or_gene_product 979 983	PTEN
+T24	Gene_or_gene_product 1017 1021	PTEN
+T25	Gene_or_gene_product 1066 1070	PTEN
+T26	Simple_chemical 1075 1086	phosphatase
+T27	Gene_or_gene_product 1096 1100	PTEN
+T28	Cell 1140 1144	cell
+T29	Cell 1186 1206	ovarian cancer cells
+T30	Gene_or_gene_product 1252 1256	PTEN
+T31	Cell 1293 1297	cell
+T32	Cell 1313 1317	cell
+T33	Gene_or_gene_product 1403 1407	PTEN
+T34	Cell 1477 1497	ovarian cancer cells
+T35	Cell 1518 1538	ovarian cancer cells
+T36	Gene_or_gene_product 1554 1558	PTEN
+T37	Cancer 1628 1642	ovarian cancer

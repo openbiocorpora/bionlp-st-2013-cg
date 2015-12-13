@@ -1,0 +1,69 @@
+*	Equiv T6 T7
+T37	Regulation 23 32	regulator
+E1	Regulation:T37 Cause:T1 Theme:T3
+T38	Positive_regulation 55 63	required
+E2	Positive_regulation:T38 Cause:T1 Theme:E4
+E3	Positive_regulation:T38 Cause:T1 Theme:E5
+T39	Development 78 89	development
+E4	Development:T39 Theme:T4
+T40	Cell_transformation 99 113	transformation
+E5	Cell_transformation:T40 Theme:T5
+T41	Pathway 177 184	pathway
+E6	Pathway:T41 Participant:T8 Participant2:T9
+T42	Regulation 185 193	involved
+E7	Regulation:T42 Theme:E8 Cause:T6
+T43	Development 210 220	nucleation
+E8	Development:T43 Theme:T11
+T44	Negative_regulation 382 391	protected
+E9	Negative_regulation:T44 Theme:E10
+T45	Development 404 415	development
+E10	Development:T45 Theme:T15
+T46	Negative_regulation 524 534	suppressor
+E11	Negative_regulation:T46 Cause:T16 Theme:T17
+T47	Negative_regulation 581 595	downregulation
+E12	Negative_regulation:T47 Theme:T18
+T48	Development 643 652	formation
+E13	Development:T48 Theme:T20
+T49	Positive_regulation 753 761	required
+E14	Positive_regulation:T49 Cause:T25 Theme:E16
+E15	Positive_regulation:T49 Cause:T25 Theme:E17
+T50	Cell_proliferation 771 784	proliferation
+E16	Cell_proliferation:T50 Theme:T26
+T51	Cell_transformation 794 808	transformation
+E17	Cell_transformation:T51 Theme:T27
+T52	Negative_regulation 841 855	downregulation
+E18	Negative_regulation:T52 Theme:T28
+T53	Positive_regulation 856 863	results
+E19	Positive_regulation:T53 Cause:E18 Theme:E23
+E20	Positive_regulation:T53 Cause:E18 Theme:E24
+E21	Positive_regulation:T53 Cause:E18 Theme:E25
+E22	Positive_regulation:T53 Cause:E18 Theme:E26
+T54	Localization 889 898	migration
+E23	Localization:T54 Theme:T29
+E24	Localization:T54 Theme:T30
+M1	Negation E23
+M2	Negation E24
+T55	Cell_proliferation 912 918	growth
+E25	Cell_proliferation:T55 Theme:T29
+E26	Cell_proliferation:T55 Theme:T30
+T56	Negative_regulation 1004 1012	ablation
+E27	Negative_regulation:T56 Theme:T31
+T57	Positive_regulation 1021 1028	results
+E28	Positive_regulation:T57 Cause:E27 Theme:E29
+T58	Negative_regulation 1041 1048	defects
+E29	Negative_regulation:T58 Theme:E30
+T59	Development 1074 1085	development
+E30	Development:T59 Theme:T32
+T60	Regulation 1101 1115	essential role
+E31	Regulation:T60 Cause:T31 Theme:T33
+T61	Negative_regulation 1174 1184	inhibition
+E32	Negative_regulation:T61 Theme:T34
+T62	Negative_regulation 1209 1219	protective
+E33	Negative_regulation:T62 Theme:E34 Cause:E36
+T63	Development 1234 1245	development
+E34	Development:T63 Theme:T35
+T64	Cell_proliferation 1253 1266	proliferation
+E35	Cell_proliferation:T64 Theme:T36
+M3	Negation E35
+T65	Negative_regulation 1280 1287	defects
+E36	Negative_regulation:T65 Theme:E35 Cause:E32

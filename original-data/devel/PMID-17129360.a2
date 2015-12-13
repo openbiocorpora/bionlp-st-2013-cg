@@ -1,0 +1,34 @@
+T27	Carcinogenesis 0 14	Carcinogenesis
+E1	Carcinogenesis:T27 
+T28	Carcinogenesis 97 111	carcinogenesis
+E2	Carcinogenesis:T28 
+T29	Carcinogenesis 336 348	carcinogenic
+E3	Carcinogenesis:T29 
+T30	Positive_regulation 453 463	initiating
+E4	Positive_regulation:T30 Theme:T6 Cause:T7
+T31	Carcinogenesis 507 521	carcinogenesis
+E5	Carcinogenesis:T31 
+T32	Carcinogenesis 603 617	carcinogenesis
+E6	Carcinogenesis:T32 
+T33	Regulation 700 710	regulating
+E7	Regulation:T33 Theme:E8
+T34	Cell_proliferation 716 729	proliferation
+E8	Cell_proliferation:T34 Theme:T9
+T35	Pathway 857 863	system
+E9	Pathway:T35 Participant:T11 Participant2:T10
+T36	Binding 941 956	heterodimerizes
+E10	Binding:T36 Theme:T12 Theme2:T13
+T37	Negative_regulation 1074 1094	inhibitory regulator
+E11	Negative_regulation:T37 Cause:T15 Theme:T16
+T38	Negative_regulation 1251 1261	preventing
+E12	Negative_regulation:T38 Theme:E13 Cause:T17
+T39	Carcinogenesis 1262 1276	carcinogenesis
+E13	Carcinogenesis:T39 
+T40	Positive_regulation 1296 1305	enhancing
+E14	Positive_regulation:T40 Theme:T20
+T41	Negative_regulation 1346 1355	thwarting
+E15	Negative_regulation:T41 Cause:E14 Theme:T21
+T42	Positive_regulation 1398 1408	activation
+E16	Positive_regulation:T42 Cause:E17 Theme:T22
+T43	Mutation 1424 1433	mutations
+E17	Mutation:T43 Theme:T23

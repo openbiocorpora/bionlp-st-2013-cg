@@ -1,0 +1,40 @@
+T1	Cell 4 15	cancer cell
+T2	Cell 141 152	Cancer Cell
+T3	Cancer 259 265	cancer
+T4	Cancer 314 321	cancers
+T5	Organism 406 412	animal
+T6	Organism 413 418	human
+T7	Cell 419 424	cells
+T8	Simple_chemical 508 511	ATP
+T9	Simple_chemical 517 520	ADP
+T10	Simple_chemical 525 531	P( i )
+T11	Cellular_component 574 586	mitochondria
+T12	Cell 616 621	cells
+T13	Cellular_component 632 644	mitochondria
+T14	Simple_chemical 659 662	ATP
+T15	Organism 699 704	human
+T16	Cancer 705 712	cancers
+T17	Cancer 805 812	cancers
+T18	Simple_chemical 856 859	ATP
+T19	Simple_chemical 884 890	oxygen
+T20	Cell 927 931	cell
+T21	Cell 1016 1028	cancer cells
+T22	Cell 1095 1099	cell
+T23	Cell 1124 1129	cells
+T24	Simple_chemical 1153 1168	3-bromopyruvate
+T25	Simple_chemical 1170 1176	3-BrPA
+T26	Simple_chemical 1181 1199	lactic acid analog
+T27	Cellular_component 1247 1260	mitochondrial
+T28	Simple_chemical 1261 1264	ATP
+T29	Cancer 1295 1302	cancers
+T30	Cell 1362 1367	cells
+T31	Cancer 1398 1405	cancers
+T32	Organism 1422 1428	rodent
+T33	Cell 1536 1548	cancer cells
+T34	Cell 1571 1575	cell
+T35	Cellular_component 1590 1602	mitochondria
+T36	Cell 1611 1615	cell
+T37	Gene_or_gene_product 1646 1658	cytochrome c
+T38	Cell 1682 1694	cancer cells
+T39	Cell 1898 1910	cancer cells
+T40	Cell 1953 1964	cancer cell

@@ -1,0 +1,39 @@
+T1	Gene_or_gene_product 78 93	phospholipase D
+T2	Organism 115 121	murine
+T3	Cell 122 133	fibroblasts
+T4	Gene_or_gene_product 136 151	Phospholipase D
+T5	Gene_or_gene_product 153 156	PLD
+T6	Cell 219 227	cellular
+T7	Gene_or_gene_product 239 242	PLD
+T8	Cancer 304 311	tumours
+T9	Cell 328 333	cells
+T10	Gene_or_gene_product 367 370	PLD
+T11	Cell 449 459	cell lines
+T12	Gene_or_gene_product 475 479	PLD1
+T13	Gene_or_gene_product 484 488	PLD2
+T14	Cell 494 510	fibroblast cells
+T15	Cell 518 523	cells
+T16	Cell 541 546	cells
+T17	Gene_or_gene_product 633 637	PLD1
+T18	Gene_or_gene_product 642 646	PLD2
+T19	Gene_or_gene_product 696 720	matrix metalloprotease-9
+T20	Gene_or_gene_product 765 769	PLD1
+T21	Cell 765 769	PLD1
+T22	Gene_or_gene_product 774 778	PLD2
+T23	Cell 774 792	PLD2 transformants
+T24	Cell 802 822	vector-transfectants
+T25	Cancer 849 856	sarcoma
+T26	Organism 880 889	nude mice
+T27	Gene_or_gene_product 896 900	PLD1
+T28	Gene_or_gene_product 906 910	PLD2
+T29	Cell 920 924	cell
+T30	Cell 955 965	cell lines
+T31	Cell 1000 1005	cells
+T32	Cell 1043 1048	cells
+T33	Gene_or_gene_product 1078 1087	cyclin D3
+T34	Cell 1156 1160	cell
+T35	Cell 1191 1196	cells
+T36	Gene_or_gene_product 1212 1216	PLD1
+T37	Gene_or_gene_product 1221 1225	PLD2
+T38	Cell 1248 1253	cells
+T39	Gene_or_gene_product 1300 1303	PLD

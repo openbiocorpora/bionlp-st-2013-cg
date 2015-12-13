@@ -1,0 +1,33 @@
+T1	Simple_chemical 10 19	celecoxib
+T2	Simple_chemical 46 62	cyclophosphamide
+T3	Organism 99 107	patients
+T4	Cancer 158 180	non-Hodgkin's lymphoma
+T5	Cancer 241 263	non-Hodgkin's lymphoma
+T6	Gene_or_gene_product 299 315	cyclooxygenase-2
+T7	Simple_chemical 452 468	cyclophosphamide
+T8	Simple_chemical 501 510	celecoxib
+T9	Organism 541 549	patients
+T10	Cancer 589 611	non-Hodgkin's lymphoma
+T11	Organism 683 691	patients
+T12	Organism 743 751	Patients
+T13	Cancer 789 804	B-cell lymphoma
+T14	Cell 972 981	stem cell
+T15	Organ 1359 1363	skin
+T16	Organism_subdivision 1397 1413	gastrointestinal
+T17	Organism 1448 1456	patients
+T18	Pathological_formation 1467 1487	deep vein thromboses
+T19	Organism 1515 1523	patients
+T20	Cancer 1552 1578	acute myelogenous leukemia
+T21	Pathological_formation 1582 1596	myelodysplasia
+T22	Cell 1645 1662	endothelial cells
+T23	Organism_substance 1733 1739	plasma
+T24	Gene_or_gene_product 1740 1774	vascular endothelial growth factor
+T25	Organism 1808 1816	patients
+T26	Simple_chemical 1855 1864	celecoxib
+T27	Simple_chemical 1937 1953	cyclophosphamide
+T28	Simple_chemical 1968 1977	celecoxib
+T29	Cancer 2032 2054	non-Hodgkin's lymphoma
+T30	Multi-tissue_structure 2079 2087	arterial
+T31	Multi-tissue_structure 2092 2098	venous
+T32	Cell 2160 2177	endothelial cells
+T33	Organism 2308 2315	patient

@@ -1,0 +1,13 @@
+T1	Gene_or_gene_product 1 15	Interleukin-18
+T2	Cancer 57 62	tumor
+T3	Gene_or_gene_product 88 93	IL-18
+T4	Gene_or_gene_product 120 152	interferon-gamma inducing factor
+T5	Gene_or_gene_product 154 158	IGIF
+T6	Gene_or_gene_product 179 183	IL-1
+T7	Gene_or_gene_product 315 320	IL-18
+T8	Gene_or_gene_product 353 358	IL-12
+T9	Gene_or_gene_product 392 395	Th1
+T10	Cell 426 430	cell
+T11	Gene_or_gene_product 522 527	IL-18
+T12	Gene_or_gene_product 629 634	IL-18
+T13	Cancer 649 656	tumours

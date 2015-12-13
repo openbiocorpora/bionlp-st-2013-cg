@@ -1,0 +1,31 @@
+T1	Organism 49 64	simian virus 40
+T2	Gene_or_gene_product 65 80	large T-antigen
+T3	Cell 111 119	cellular
+T4	Gene_or_gene_product 120 123	p53
+T5	Organism 170 185	simian virus 40
+T6	Cancer 255 260	tumor
+T7	Simple_chemical 275 289	[gamma-32P]ATP
+T8	Organism 377 382	viral
+T9	Gene_or_gene_product 383 398	large T-antigen
+T10	Cell 434 442	cellular
+T11	Gene_or_gene_product 443 446	p53
+T12	Gene_or_gene_product 572 578	casein
+T13	Simple_chemical 671 674	ATP
+T14	Simple_chemical 679 684	MgCl2
+T15	Simple_chemical 696 699	GTP
+T16	Simple_chemical 703 708	MnCl2
+T17	Amino_acid 715 728	phosphoserine
+T18	Amino_acid 733 749	phosphothreonine
+T19	Amino_acid 766 781	phosphotyrosine
+T20	Gene_or_gene_product 921 936	large T-antigen
+T21	Gene_or_gene_product 941 944	p53
+T22	Gene_or_gene_product 1108 1111	p53
+T23	Gene_or_gene_product 1302 1305	p53
+T24	Gene_or_gene_product 1329 1363	anti-large-T monoclonal antibodies
+T25	Gene_or_gene_product 1383 1398	large T-antigen
+T26	Gene_or_gene_product 1550 1580	anti-p53 monoclonal antibodies
+T27	Gene_or_gene_product 1650 1653	p53
+T28	Organism 1670 1685	simian virus 40
+T29	Organism 1715 1720	human
+T30	Cell 1721 1730	cell line
+T31	Gene_or_gene_product 1828 1831	p53

@@ -1,0 +1,45 @@
+T1	Gene_or_gene_product 0 8	Survivin
+T2	Cancer 23 39	breast carcinoma
+T3	Gene_or_gene_product 96 104	Survivin
+T4	Tissue 160 167	tissues
+T5	Developing_anatomical_structure 175 180	fetal
+T6	Cancer 200 206	cancer
+T7	Tissue 227 241	normal tissues
+T8	Cancer 338 345	gastric
+T9	Cancer 347 357	colorectal
+T10	Cancer 363 381	bladder carcinomas
+T11	Gene_or_gene_product 395 403	survivin
+T12	Cancer 418 435	breast carcinomas
+T13	Gene_or_gene_product 496 501	bcl-2
+T14	Gene_or_gene_product 503 508	bcl-x
+T15	Gene_or_gene_product 528 531	bax
+T16	Simple_chemical 598 606	Paraffin
+T17	Cancer 616 624	sections
+T18	Cancer 631 648	breast carcinomas
+T19	Gene_or_gene_product 672 680	survivin
+T20	Gene_or_gene_product 682 687	bcl-2
+T21	Gene_or_gene_product 689 694	bcl-x
+T22	Gene_or_gene_product 700 703	bax
+T23	Tissue 740 753	breast tissue
+T24	Cancer 758 767	carcinoma
+T25	Cellular_component 769 775	nuclei
+T26	Organism_substance 780 789	cytoplasm
+T27	Cell 842 847	cells
+T28	Gene_or_gene_product 858 866	Survivin
+T29	Cancer 903 920	breast carcinomas
+T30	Tissue 936 949	breast tissue
+T31	Cellular_component 954 960	nuclei
+T32	Organism_substance 966 975	cytoplasm
+T33	Gene_or_gene_product 1031 1039	survivin
+T34	Gene_or_gene_product 1044 1049	bcl-x
+T35	Gene_or_gene_product 1062 1070	survivin
+T36	Gene_or_gene_product 1075 1080	bcl-x
+T37	Gene_or_gene_product 1254 1262	survivin
+T38	Gene_or_gene_product 1268 1273	bcl-2
+T39	Gene_or_gene_product 1277 1280	bax
+T40	Cancer 1335 1340	tumor
+T41	Multi-tissue_structure 1382 1387	nodal
+T42	Cancer 1400 1405	tumor
+T43	Cancer 1457 1474	breast carcinomas
+T44	Gene_or_gene_product 1480 1488	survivin
+T45	Gene_or_gene_product 1522 1527	bcl-x

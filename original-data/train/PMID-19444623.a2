@@ -1,0 +1,97 @@
+*	Equiv T12 T13
+*	Equiv T15 T16
+*	Equiv T21 T22
+*	Equiv T32 T33
+T52	Positive_regulation 0 9	Activated
+E1	Positive_regulation:T52 Theme:T1
+T53	Positive_regulation 20 27	enhance
+E2	Positive_regulation:T53 Theme:E3 Cause:T1
+T54	Localization 48 56	invasion
+E3	Localization:T54 Theme:T2
+T55	Metastasis 80 90	metastasis
+E4	Metastasis:T55 
+T56	Positive_regulation 93 102	Increased
+E5	Positive_regulation:T56 Theme:T4
+T57	Binding 132 143	coagulation
+E6	Binding:T57 Theme:T4
+T58	Positive_regulation 144 154	activation
+E7	Positive_regulation:T58 Theme:E6
+T59	Development 190 201	progression
+E8	Development:T59 Theme:T5
+T60	Positive_regulation 212 222	activation
+E9	Positive_regulation:T60 Theme:T6
+T61	Regulation 268 277	influence
+E10	Regulation:T61 Cause:E9 Theme:E12
+E11	Regulation:T61 Cause:E9 Theme:E13
+T62	Localization 278 292	local invasion
+E12	Localization:T62 Theme:T7
+T63	Metastasis 297 307	metastasis
+E13	Metastasis:T63 Theme:T7
+T64	Localization 343 351	invasion
+E14	Localization:T64 Theme:T9
+T65	Regulation 371 377	effect
+E15	Regulation:T65 Cause:T10 Theme:T12
+M1	Speculation E15
+T66	Positive_regulation 381 390	activated
+E16	Positive_regulation:T66 Theme:T10
+T67	Planned_process 464 471	exposed
+E17	Planned_process:T67 Theme:T14
+T68	Positive_regulation 527 536	activated
+E18	Positive_regulation:T68 Cause:T15 Theme:T18
+T69	Localization 615 623	invasion
+E19	Localization:T69 Theme:T19
+T70	Regulation 662 668	effect
+E20	Regulation:T70 Cause:T20 Theme:T21
+E21	Regulation:T70 Cause:T20 Theme:T23
+M2	Speculation E20
+M3	Speculation E21
+T71	Positive_regulation 820 829	activated
+E22	Positive_regulation:T71 Cause:T25 Theme:T26
+T72	Positive_regulation 840 850	stimulated
+E23	Positive_regulation:T72 Theme:E25 Cause:T26
+T73	Positive_regulation 858 867	dependent
+E24	Positive_regulation:T73 Theme:E25
+T74	Positive_regulation 868 876	increase
+E25	Positive_regulation:T74 Theme:E26
+T75	Localization 891 899	invasion
+E26	Localization:T75 Theme:T27
+T76	Planned_process 901 909	Exposure
+E27	Planned_process:T76 Instrument:T29 Theme:T27
+T77	Positive_regulation 913 922	activated
+E28	Positive_regulation:T77 Theme:T29
+T78	Positive_regulation 979 988	activated
+E29	Positive_regulation:T78 Theme:T30
+T79	Positive_regulation 1013 1024	contributed
+E30	Positive_regulation:T79 Theme:E31 Cause:E27
+T80	Positive_regulation 1041 1049	increase
+E31	Positive_regulation:T80 Theme:E32
+T81	Localization 1053 1061	invasion
+E32	Localization:T81 Theme:T27
+T82	Negative_regulation 1067 1077	inhibition
+E33	Negative_regulation:T82 Theme:E34
+T83	Positive_regulation 1090 1100	activation
+E34	Positive_regulation:T83 Theme:T31 Cause:T32
+T84	Negative_regulation 1132 1142	attenuated
+E35	Negative_regulation:T84 Theme:E36 Cause:E33
+T85	Localization 1147 1155	invasive
+E36	Localization:T85 Theme:T34
+T86	Planned_process 1181 1189	Exposure
+E37	Planned_process:T86 Instrument:T35 Theme:T38
+T87	Positive_regulation 1203 1211	resulted
+E38	Positive_regulation:T87 Cause:E37 Theme:E40
+E39	Positive_regulation:T87 Cause:E37 Theme:E41
+T88	Positive_regulation 1229 1238	increased
+E40	Positive_regulation:T88 Theme:T36
+E41	Positive_regulation:T88 Theme:T37
+T89	Positive_regulation 1294 1303	Activated
+E42	Positive_regulation:T89 Theme:T39
+T90	Positive_regulation 1314 1321	enhance
+E43	Positive_regulation:T90 Theme:E44 Cause:T39
+T91	Localization 1354 1362	invasion
+E44	Localization:T91 Theme:T40
+T92	Positive_regulation 1384 1392	increase
+E45	Positive_regulation:T92 Cause:T39 Theme:T43
+E46	Positive_regulation:T92 Cause:T39 Theme:T44
+T93	Localization 1420 1428	secreted
+E47	Localization:T93 FromLoc:T45 Theme:T43
+E48	Localization:T93 FromLoc:T45 Theme:T44

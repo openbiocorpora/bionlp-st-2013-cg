@@ -1,0 +1,12 @@
+T1	Organism 87 112	New Zealand white rabbits
+T2	Organism 175 195	herpes simplex virus
+T3	Organism 197 200	HSV
+T4	Organism 217 222	human
+T5	Cell 223 245	embryonic kidney cells
+T6	Organism 379 382	HSV
+T7	Tissue 384 394	Epithelial
+T8	Pathological_formation 406 421	disciform edema
+T9	Multi-tissue_structure 480 486	cornea
+T10	Tissue 517 527	Epithelial
+T11	Pathological_formation 542 555	corneal edema
+T12	Multi-tissue_structure 781 788	corneas

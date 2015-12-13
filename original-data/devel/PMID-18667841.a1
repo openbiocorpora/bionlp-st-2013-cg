@@ -1,0 +1,37 @@
+T1	Simple_chemical 0 11	Artemisinin
+T2	Cancer 21 26	tumor
+T3	Gene_or_gene_product 63 99	vascular endothelial growth factor C
+T4	Simple_chemical 135 153	dihydroartemisinin
+T5	Cell 203 229	lymphatic endothelial cell
+T6	Tissue 244 248	tube
+T7	Simple_chemical 305 316	artemisinin
+T8	Cancer 320 325	tumor
+T9	Organism 380 385	mouse
+T10	Cancer 386 406	Lewis lung carcinoma
+T11	Cancer 408 411	LLC
+T12	Organism_subdivision 435 441	orally
+T13	Simple_chemical 455 466	artemisinin
+T14	Multi-tissue_structure 477 487	lymph node
+T15	Organ 492 496	lung
+T16	Cancer 549 554	tumor
+T17	Multi-tissue_structure 595 605	lymph node
+T18	Cancer 618 623	tumor
+T19	Gene_or_gene_product 660 696	vascular endothelial growth factor C
+T20	Gene_or_gene_product 698 704	VEGF-C
+T21	Simple_chemical 737 748	artemisinin
+T22	Organism 757 761	mice
+T23	Organism 786 790	mice
+T24	Gene_or_gene_product 805 813	IL-1beta
+T25	Gene_or_gene_product 822 858	p38 mitogen-activated protein kinase
+T26	Gene_or_gene_product 860 864	MAPK
+T27	Gene_or_gene_product 897 903	VEGF-C
+T28	Cell 924 933	LLC cells
+T29	Simple_chemical 957 968	artemisinin
+T30	Gene_or_gene_product 979 987	p38 MAPK
+T31	Simple_chemical 998 1007	SB-203580
+T32	Gene_or_gene_product 1025 1033	p38 MAPK
+T33	Gene_or_gene_product 1096 1102	VEGF-C
+T34	Simple_chemical 1140 1151	artemisinin
+T35	Multi-tissue_structure 1188 1198	lymph node
+T36	Gene_or_gene_product 1228 1234	VEGF-C
+T37	Cancer 1248 1253	tumor

@@ -1,0 +1,26 @@
+T1	Gene_or_gene_product 0 5	N-myc
+T2	Gene_or_gene_product 58 63	Bcl-2
+T3	Cell 88 107	neuroblastoma cells
+T4	Gene_or_gene_product 110 115	N-myc
+T5	Cancer 174 187	neuroblastoma
+T6	Cell 244 263	neuroblastoma cells
+T7	Gene_or_gene_product 308 313	N-myc
+T8	Gene_or_gene_product 342 347	N-myc
+T9	Cell 351 376	SH-EP neuroblastoma cells
+T10	Organism_substance 412 417	serum
+T11	Gene_or_gene_product 475 480	Bcl-2
+T12	Gene_or_gene_product 482 490	survivin
+T13	Gene_or_gene_product 495 502	FLIP(L)
+T14	Cancer 566 580	neuroblastomas
+T15	Gene_or_gene_product 582 587	Bcl-2
+T16	Cell 598 609	SH-EP cells
+T17	Gene_or_gene_product 720 725	N-myc
+T18	Gene_or_gene_product 772 777	Bcl-2
+T19	Gene_or_gene_product 898 903	Bcl-2
+T20	Gene_or_gene_product 929 937	Survivin
+T21	Gene_or_gene_product 995 1000	N-myc
+T22	Cell 1004 1029	SH-EP neuroblastoma cells
+T23	Organism_substance 1037 1042	serum
+T24	Gene_or_gene_product 1063 1070	FLIP(L)
+T25	Gene_or_gene_product 1141 1146	N-myc
+T26	Cell 1150 1169	neuroblastoma cells

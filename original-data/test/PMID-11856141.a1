@@ -1,0 +1,35 @@
+T1	Gene_or_gene_product 23 33	E-cadherin
+T2	Gene_or_gene_product 38 50	beta-catenin
+T3	Multi-tissue_structure 80 90	submucosal
+T4	Multi-tissue_structure 104 114	lymph node
+T5	Cancer 135 149	gastric cancer
+T6	Gene_or_gene_product 187 197	E-cadherin
+T7	Gene_or_gene_product 202 225	alpha- and beta-catenin
+T8	Organism 260 265	human
+T9	Cancer 266 273	cancers
+T10	Cancer 390 408	gastric carcinomas
+T11	Cancer 485 499	gastric cancer
+T12	Gene_or_gene_product 579 589	E-cadherin
+T13	Gene_or_gene_product 594 617	alpha- and beta-catenin
+T14	Multi-tissue_structure 638 647	specimens
+T15	Organism 657 665	patients
+T16	Cancer 677 691	gastric cancer
+T17	Gene_or_gene_product 711 721	E-cadherin
+T18	Gene_or_gene_product 726 738	beta-catenin
+T19	Cancer 773 779	tumour
+T20	Cancer 812 819	tumours
+T21	Cancer 881 903	intramucosal carcinoma
+T22	Cancer 929 936	tumours
+T23	Gene_or_gene_product 988 998	E-cadherin
+T24	Gene_or_gene_product 999 1006	catenin
+T25	Cancer 1043 1049	cancer
+T26	Gene_or_gene_product 1076 1088	beta-catenin
+T27	Multi-tissue_structure 1109 1119	lymph node
+T28	Gene_or_gene_product 1172 1182	E-cadherin
+T29	Multi-tissue_structure 1240 1250	submucosal
+T30	Cancer 1269 1283	gastric cancer
+T31	Gene_or_gene_product 1306 1316	E-cadherin
+T32	Multi-tissue_structure 1352 1362	submucosal
+T33	Cancer 1401 1415	gastric cancer
+T34	Gene_or_gene_product 1427 1439	beta-catenin
+T35	Multi-tissue_structure 1481 1491	lymph node

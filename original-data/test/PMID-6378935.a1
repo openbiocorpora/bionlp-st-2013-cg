@@ -1,0 +1,14 @@
+T1	Cell 36 44	cellular
+T2	Gene_or_gene_product 45 48	myc
+T3	Cancer 57 74	Burkitt lymphomas
+T4	Cellular_component 77 88	Chromosomal
+T5	Cancer 148 165	Burkitt lymphomas
+T6	Organism 203 208	mouse
+T7	Cancer 209 222	plasmacytomas
+T8	Gene_or_gene_product 281 295	immunoglobulin
+T9	Cellular_component 305 308	DNA
+T10	Gene_or_gene_product 332 335	myc
+T11	Gene_or_gene_product 363 366	myc
+T12	Gene_or_gene_product 461 464	myc
+T13	Cell 531 536	cells
+T14	Cellular_component 560 571	chromosomes

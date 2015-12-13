@@ -1,0 +1,40 @@
+T1	Cell 0 4	Cell
+T2	Tissue 107 125	nonischemic tissue
+T3	Gene_or_gene_product 161 187	hypoxia-inducible factor 1
+T4	Gene_or_gene_product 300 326	Hypoxia-inducible factor 1
+T5	Gene_or_gene_product 328 333	HIF-1
+T6	Gene_or_gene_product 345 379	vascular endothelial growth factor
+T7	Gene_or_gene_product 381 385	VEGF
+T8	Tissue 406 413	hypoxic
+T9	Tissue 414 429	ischemic tissue
+T10	Cell 497 504	cardiac
+T11	Cell 509 523	vascular cells
+T12	Organism 538 543	AdCA5
+T13	Gene_or_gene_product 600 610	HIF-1alpha
+T14	Gene_or_gene_product 678 692	angiopoietin-1
+T15	Gene_or_gene_product 694 700	ANGPT1
+T16	Gene_or_gene_product 703 709	ANGPT2
+T17	Gene_or_gene_product 711 734	placental growth factor
+T18	Gene_or_gene_product 740 772	platelet-derived growth factor-B
+T19	Cell 821 857	HIF-1alpha-null embryonic stem cells
+T20	Gene_or_gene_product 821 831	HIF-1alpha
+T21	Cell 876 880	cell
+T22	Gene_or_gene_product 901 907	ANGPT1
+T23	Gene_or_gene_product 912 918	ANGPT2
+T24	Organism 979 984	AdCA5
+T25	Organism 1066 1071	AdCA5
+T26	Organism 1086 1091	AdCA5
+T27	Organism 1097 1102	mouse
+T28	Organ 1103 1107	eyes
+T29	Multi-tissue_structure 1147 1161	capillary beds
+T30	Gene_or_gene_product 1197 1201	VEGF
+T31	Gene_or_gene_product 1270 1276	ANGPT1
+T32	Gene_or_gene_product 1278 1284	ANGPT2
+T33	Gene_or_gene_product 1286 1318	platelet-derived growth factor-B
+T34	Gene_or_gene_product 1320 1343	placental growth factor
+T35	Gene_or_gene_product 1349 1353	VEGF
+T36	Organism 1362 1367	AdCA5
+T37	Organ 1377 1381	eyes
+T38	Gene_or_gene_product 1411 1416	HIF-1
+T39	Gene_or_gene_product 1608 1618	HIF-1alpha
+T40	Tissue 1659 1677	nonischemic tissue

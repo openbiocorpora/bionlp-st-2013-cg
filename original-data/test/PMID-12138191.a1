@@ -1,0 +1,39 @@
+T1	Organism 0 20	Human papillomavirus
+T2	Gene_or_gene_product 33 35	E6
+T3	Organism 80 85	human
+T4	Gene_or_gene_product 86 90	ADA3
+T5	Organism 103 125	human papillomaviruses
+T6	Organism 127 131	HPVs
+T7	Cancer 153 163	carcinomas
+T8	Multi-tissue_structure 171 177	cervix
+T9	Cancer 188 202	genital tumors
+T10	Organism 208 211	HPV
+T11	Gene_or_gene_product 224 226	E6
+T12	Gene_or_gene_product 287 292	hADA3
+T13	Organism 294 299	human
+T14	Organism 317 322	yeast
+T15	Gene_or_gene_product 351 356	yADA3
+T16	Gene_or_gene_product 369 371	E6
+T17	Gene_or_gene_product 408 410	E6
+T18	Gene_or_gene_product 432 437	hADA3
+T19	Organism 473 476	HPV
+T20	Gene_or_gene_product 477 479	E6
+T21	Gene_or_gene_product 527 529	E6
+T22	Gene_or_gene_product 539 544	hADA3
+T23	Gene_or_gene_product 576 579	p53
+T24	Gene_or_gene_product 620 623	p53
+T25	Gene_or_gene_product 662 664	E6
+T26	Gene_or_gene_product 699 702	p53
+T27	Gene_or_gene_product 736 741	hADA3
+T28	Gene_or_gene_product 768 771	p53
+T29	Cell 806 810	cell
+T30	Cellular_component 830 833	DNA
+T31	Gene_or_gene_product 866 868	E6
+T32	Organism 912 915	HPV
+T33	Gene_or_gene_product 916 918	E6
+T34	Gene_or_gene_product 935 938	p53
+T35	Gene_or_gene_product 978 981	p53
+T36	Gene_or_gene_product 1049 1054	hADA3
+T37	Gene_or_gene_product 1129 1131	E6
+T38	Cell 1152 1160	cellular
+T39	Organism 1177 1180	HPV

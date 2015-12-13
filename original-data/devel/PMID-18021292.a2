@@ -1,0 +1,155 @@
+*	Equiv T8 T9
+*	Equiv T10 T11
+*	Equiv T14 T15
+*	Equiv T16 T17
+*	Equiv T18 T19
+*	Equiv T20 T21
+*	Equiv T22 T23
+T68	Gene_expression 16 26	expression
+E1	Gene_expression:T68 Theme:T1
+T69	Positive_regulation 27 39	up-regulates
+E2	Positive_regulation:T69 Theme:E5 Cause:E6
+E3	Positive_regulation:T69 Theme:E5 Cause:E7
+E4	Positive_regulation:T69 Theme:E5 Cause:E8
+T70	Gene_expression 45 55	expression
+E5	Gene_expression:T70 Theme:T2
+T71	Positive_regulation 96 106	activation
+E6	Positive_regulation:T71 Cause:E1 Theme:T5
+E7	Positive_regulation:T71 Cause:E1 Theme:T6
+E8	Positive_regulation:T71 Cause:E1 Theme:T7
+T72	Positive_regulation 212 224	up-regulates
+T73	Regulation 212 224	up-regulates
+E9	Positive_regulation:T72 Theme:E15 Cause:E31
+E10	Regulation:T73 Cause:T8 Theme:E31
+E11	Positive_regulation:T72 Theme:E15 Cause:E32
+E12	Positive_regulation:T72 Theme:E15 Cause:E33
+E13	Regulation:T73 Cause:T8 Theme:E32
+E14	Regulation:T73 Cause:T8 Theme:E33
+T74	Gene_expression 271 281	expression
+E15	Gene_expression:T74 Theme:T10
+T75	Positive_regulation 287 297	activation
+T76	Regulation 287 297	activation
+E16	Positive_regulation:T75 Theme:T13 Cause:E31
+E17	Regulation:T76 Cause:T8 Theme:E31
+E18	Positive_regulation:T75 Theme:T14 Cause:E31
+E19	Positive_regulation:T75 Theme:T16 Cause:E31
+E20	Positive_regulation:T75 Theme:T16 Cause:E32
+E21	Positive_regulation:T75 Theme:T16 Cause:E33
+E22	Regulation:T76 Cause:T8 Theme:E32
+E23	Regulation:T76 Cause:T8 Theme:E33
+E24	Positive_regulation:T75 Theme:T13 Cause:E32
+E25	Positive_regulation:T75 Theme:T13 Cause:E33
+E26	Positive_regulation:T75 Theme:T14 Cause:E32
+E27	Positive_regulation:T75 Theme:T14 Cause:E33
+T77	Regulation 306 316	regulating
+E28	Regulation:T77 Theme:T12 Cause:T13
+E29	Regulation:T77 Theme:T12 Cause:T14
+E30	Regulation:T77 Theme:T12 Cause:T16
+T78	Pathway 609 617	pathways
+E31	Pathway:T78 Participant:T22
+E32	Pathway:T78 Participant:T20
+E33	Pathway:T78 Participant:T18
+T79	Planned_process 625 636	transfected
+E34	Planned_process:T79 Instrument:T24 Theme:T26
+T80	Positive_regulation 758 767	induction
+E35	Positive_regulation:T80 Theme:T27 Cause:E57
+E36	Positive_regulation:T80 Theme:T28 Cause:E57
+E37	Positive_regulation:T80 Theme:T29 Cause:E57
+E38	Positive_regulation:T80 Theme:T29 Cause:E56
+E39	Positive_regulation:T80 Theme:T27 Cause:E56
+E40	Positive_regulation:T80 Theme:T28 Cause:E56
+T81	Positive_regulation 772 782	activation
+E41	Positive_regulation:T81 Theme:T27 Cause:E57
+E42	Positive_regulation:T81 Theme:T28 Cause:E57
+E43	Positive_regulation:T81 Theme:T29 Cause:E57
+E44	Positive_regulation:T81 Theme:T29 Cause:E56
+E45	Positive_regulation:T81 Theme:T28 Cause:E56
+E46	Positive_regulation:T81 Theme:T27 Cause:E56
+T82	Localization 837 849	localization
+E47	Localization:T82 Theme:T29
+E48	Localization:T82 Theme:T28
+E49	Localization:T82 Theme:T27
+T83	Binding 854 861	binding
+E50	Binding:T83 Site:T84 Theme:T30 Theme2:T29
+E51	Binding:T83 Site:T84 Theme:T30 Theme2:T28
+E52	Binding:T83 Site:T84 Theme:T30 Theme2:T27
+T84	DNA_domain_or_region 899 907	promoter
+T85	Positive_regulation 912 918	induce
+E53	Positive_regulation:T85 Theme:E55 Cause:E56
+E54	Positive_regulation:T85 Theme:E55 Cause:E57
+T86	Gene_expression 924 934	expression
+E55	Gene_expression:T86 Theme:T31
+T87	Pathway 955 963	pathways
+E56	Pathway:T87 Participant:T32 Participant2:T33 Participant3:T34 Participant4:T35
+E57	Pathway:T87 Participant:T36 Participant2:T37 Participant3:T38
+T88	Gene_expression 1046 1058	synthesizing
+E58	Gene_expression:T88 Theme:T39
+T89	Negative_regulation 1107 1115	protects
+E59	Negative_regulation:T89 Theme:E61
+E60	Negative_regulation:T89 Theme:E62
+T90	Catabolism 1150 1161	degradation
+E61	Catabolism:T90 Theme:T43
+E62	Catabolism:T90 Theme:T42
+T91	Regulation 1207 1217	regulation
+E63	Regulation:T91 Theme:T44
+T92	Planned_process 1233 1244	transfected
+E64	Planned_process:T92 Instrument:T45 Theme:T46
+T93	Positive_regulation 1256 1265	Induction
+E65	Positive_regulation:T93 Cause:E69 Theme:T47
+E66	Positive_regulation:T93 Cause:E69 Theme:T48
+E67	Positive_regulation:T93 Cause:E69 Theme:T49
+E68	Positive_regulation:T93 Cause:E69 Theme:T50
+T94	Planned_process 1385 1397	transfection
+E69	Planned_process:T94 Instrument:T51 Theme:T52
+T95	Positive_regulation 1411 1416	leads
+E70	Positive_regulation:T95 Theme:E78 Cause:E65
+E71	Positive_regulation:T95 Theme:E80 Cause:E65
+E72	Positive_regulation:T95 Theme:E78 Cause:E66
+E73	Positive_regulation:T95 Theme:E80 Cause:E66
+E74	Positive_regulation:T95 Theme:E78 Cause:E67
+E75	Positive_regulation:T95 Theme:E80 Cause:E67
+E76	Positive_regulation:T95 Theme:E78 Cause:E68
+E77	Positive_regulation:T95 Theme:E80 Cause:E68
+T96	Dissociation 1453 1460	release
+E78	Dissociation:T96 Theme:T54
+T97	Binding 1471 1476	bound
+E79	Binding:T97 Theme:T54
+T98	Positive_regulation 1486 1496	activation
+E80	Positive_regulation:T98 Theme:E81
+T99	Blood_vessel_development 1500 1512	angiogenesis
+E81	Blood_vessel_development:T99 
+T100	Pathway 1576 1591	signal pathways
+E82	Pathway:T100 Participant:T55 Participant2:T56 Participant3:T57
+E83	Pathway:T100 Participant:T58 Participant2:T59 Participant3:T60 Participant4:T61
+T101	Regulation 1653 1660	mediate
+E84	Regulation:T101 Cause:E83 Theme:E106
+E85	Regulation:T101 Cause:E82 Theme:E106
+E86	Regulation:T101 Cause:E83 Theme:E107
+E87	Regulation:T101 Cause:E82 Theme:E107
+E88	Regulation:T101 Cause:E83 Theme:E103
+E89	Regulation:T101 Cause:E82 Theme:E103
+E90	Regulation:T101 Cause:E83 Theme:E104
+E91	Regulation:T101 Cause:E82 Theme:E104
+E92	Regulation:T101 Cause:E83 Theme:E105
+E93	Regulation:T101 Cause:E82 Theme:E105
+E94	Regulation:T101 Cause:E83 Theme:E100
+E95	Regulation:T101 Cause:E82 Theme:E100
+E96	Regulation:T101 Cause:E83 Theme:E101
+E97	Regulation:T101 Cause:E82 Theme:E101
+E98	Regulation:T101 Cause:E83 Theme:E102
+E99	Regulation:T101 Cause:E82 Theme:E102
+T102	Positive_regulation 1661 1674	up-regulation
+E100	Positive_regulation:T102 Theme:T63
+E101	Positive_regulation:T102 Theme:T64
+E102	Positive_regulation:T102 Theme:T65
+T103	Positive_regulation 1679 1689	activation
+E103	Positive_regulation:T103 Theme:T63
+E104	Positive_regulation:T103 Theme:T64
+E105	Positive_regulation:T103 Theme:T65
+T104	Positive_regulation 1761 1769	increase
+E106	Positive_regulation:T104 Theme:E108
+E107	Positive_regulation:T104 Theme:E109
+T105	Transcription 1775 1788	transcription
+E108	Transcription:T105 Theme:T66
+T106	Blood_vessel_development 1793 1805	angiogenesis
+E109	Blood_vessel_development:T106 

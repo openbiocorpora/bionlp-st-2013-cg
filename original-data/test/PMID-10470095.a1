@@ -1,0 +1,27 @@
+T1	Gene_or_gene_product 15 20	N-myc
+T2	Cancer 55 67	Wilms' tumor
+T3	Gene_or_gene_product 84 87	WT1
+T4	Gene_or_gene_product 94 108	Wilms' tumor 1
+T5	Gene_or_gene_product 110 113	WT1
+T6	Cancer 125 130	tumor
+T7	Simple_chemical 162 166	zinc
+T8	Gene_or_gene_product 196 199	WT1
+T9	Gene_or_gene_product 283 288	N-myc
+T10	Cell 351 355	cell
+T11	Gene_or_gene_product 384 389	N-myc
+T12	Gene_or_gene_product 410 413	WT1
+T13	Organ 432 438	kidney
+T14	Cancer 468 481	Wilms' tumors
+T15	Gene_or_gene_product 521 526	N-myc
+T16	Gene_or_gene_product 558 561	WT1
+T17	Gene_or_gene_product 612 615	WT1
+T18	Amino_acid 617 622	R394W
+T19	Cellular_component 652 655	DNA
+T20	Gene_or_gene_product 693 698	N-myc
+T21	Gene_or_gene_product 795 798	WT1
+T22	Gene_or_gene_product 829 832	WT1
+T23	Gene_or_gene_product 884 889	N-myc
+T24	Gene_or_gene_product 923 926	WT1
+T25	Gene_or_gene_product 997 1000	WT1
+T26	Gene_or_gene_product 1005 1010	N-myc
+T27	Organ 1032 1037	renal

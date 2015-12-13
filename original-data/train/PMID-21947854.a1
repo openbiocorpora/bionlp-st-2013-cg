@@ -1,0 +1,38 @@
+T1	Simple_chemical 0 8	Curcumin
+T2	Cell 44 62	breast cancer cell
+T3	Gene_or_gene_product 86 122	urokinase-type plasminogen activator
+T4	Gene_or_gene_product 126 136	NF-kappa B
+T5	Simple_chemical 158 166	Curcumin
+T6	Simple_chemical 168 227	1,7-bis(4-hydroxy-3-methoxyphenyl)-1,6-heptadiene-3,5-dione
+T7	Organism 258 271	Curcuma longa
+T8	Cancer 310 316	cancer
+T9	Cell 344 356	cancer cells
+T10	Cancer 412 418	cancer
+T11	Simple_chemical 502 510	curcumin
+T12	Organism 514 519	human
+T13	Cell 520 560	mammary epithelial carcinoma MCF-7 cells
+T14	Cell 562 567	Cells
+T15	Simple_chemical 586 594	curcumin
+T16	Cell 612 616	cell
+T17	Cell 645 650	cells
+T18	Gene_or_gene_product 721 730	NF-kappaB
+T19	Cellular_component 734 737	DNA
+T20	Organism_substance 754 770	nuclear extracts
+T21	Gene_or_gene_product 777 785	Trans-AM
+T22	Gene_or_gene_product 786 795	NF-kappaB
+T23	Simple_chemical 858 866	curcumin
+T24	Gene_or_gene_product 888 891	uPA
+T25	Simple_chemical 917 925	curcumin
+T26	Cell 985 996	MCF-7 cells
+T27	Cell 1046 1057	MCF-7 cells
+T28	Simple_chemical 1127 1135	curcumin
+T29	Simple_chemical 1137 1145	Curcumin
+T30	Gene_or_gene_product 1204 1207	uPA
+T31	Gene_or_gene_product 1212 1221	NF-kappaB
+T32	Cellular_component 1222 1225	DNA
+T33	Simple_chemical 1279 1287	curcumin
+T34	Cell 1326 1337	MCF-7 cells
+T35	Gene_or_gene_product 1388 1391	uPA
+T36	Gene_or_gene_product 1399 1408	NF-kappaB
+T37	Simple_chemical 1463 1471	curcumin
+T38	Cancer 1476 1489	breast cancer

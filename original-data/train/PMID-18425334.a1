@@ -1,0 +1,28 @@
+T1	Organism 0 4	MMTV
+T2	Gene_or_gene_product 5 8	cre
+T3	Gene_or_gene_product 18 21	fur
+T4	Gene_or_gene_product 52 57	PLAG1
+T5	Multi-tissue_structure 91 105	salivary gland
+T6	Organism 123 127	mice
+T7	Amino_acid 157 163	serine
+T8	Gene_or_gene_product 423 428	furin
+T9	Gene_or_gene_product 432 437	PLAG1
+T10	Multi-tissue_structure 461 475	salivary gland
+T11	Gene_or_gene_product 508 513	PLAG1
+T12	Organ 532 547	salivary glands
+T13	Cancer 587 608	salivary gland tumors
+T14	Organism 620 624	mice
+T15	Organism 653 657	MMTV
+T16	Gene_or_gene_product 658 661	cre
+T17	Gene_or_gene_product 687 690	fur
+T18	Gene_or_gene_product 718 723	PLAG1
+T19	Organ 765 780	salivary glands
+T20	Multi-tissue_structure 796 807	lymph nodes
+T21	Organ 821 836	salivary glands
+T22	Multi-tissue_structure 897 906	follicles
+T23	Gene_or_gene_product 951 954	fur
+T24	Gene_or_gene_product 981 986	PLAG1
+T25	Gene_or_gene_product 1136 1141	furin
+T26	Gene_or_gene_product 1145 1150	PLAG1
+T27	Multi-tissue_structure 1159 1173	salivary gland
+T28	Organism 1191 1195	mice

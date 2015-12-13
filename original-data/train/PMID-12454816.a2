@@ -1,0 +1,50 @@
+*	Equiv T4 T5
+*	Equiv T15 T16
+T58	Gene_expression 24 34	expression
+E1	Gene_expression:T58 Theme:T1
+T59	Planned_process 148 157	treatment
+E2	Planned_process:T59 Theme:T6
+E3	Planned_process:T59 Theme:T7
+T60	Gene_expression 253 263	expression
+E4	Gene_expression:T60 Theme:T8
+T61	Gene_expression 350 360	expression
+E5	Gene_expression:T61 Theme:T10
+M1	Speculation E5
+T62	Gene_expression 467 477	expression
+E6	Gene_expression:T62 Theme:T13
+T63	Gene_expression 632 642	expression
+E7	Gene_expression:T63 Theme:T17
+M2	Speculation E7
+T64	Gene_expression 734 744	expression
+E8	Gene_expression:T64 Theme:T21
+T65	Localization 845 857	localization
+E9	Localization:T65 Theme:T23
+T66	Gene_expression 1056 1066	expression
+E10	Gene_expression:T66 Theme:T26
+T67	Gene_expression 1075 1085	expression
+E11	Gene_expression:T67 Theme:T27
+T68	Metastasis 1115 1125	metastases
+E12	Metastasis:T68 ToLoc:T28
+T69	Gene_expression 1171 1181	expression
+E13	Gene_expression:T69 Theme:T29
+T70	Gene_expression 1372 1382	expressing
+E14	Gene_expression:T70 Theme:T36
+T71	Gene_expression 1524 1534	expression
+E15	Gene_expression:T71 Theme:T40
+T72	Gene_expression 1635 1645	expression
+E16	Gene_expression:T72 Theme:T42
+T73	Metastasis 1800 1810	metastases
+E17	Metastasis:T73 ToLoc:T47
+T74	Regulation 2019 2028	influence
+E18	Regulation:T74 Theme:E20 Cause:T51
+E19	Regulation:T74 Theme:E20 Cause:T52
+M3	Negation E18
+M4	Negation E19
+T75	Gene_expression 2036 2046	expression
+E20	Gene_expression:T75 Theme:T53
+T76	Metastasis 2113 2123	metastatic
+E21	Metastasis:T76 
+T77	Gene_expression 2142 2152	expression
+E22	Gene_expression:T77 Theme:T55
+T78	Planned_process 2191 2201	undergoing
+E23	Planned_process:T78 Theme:T56

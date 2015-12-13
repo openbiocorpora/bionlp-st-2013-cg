@@ -1,0 +1,20 @@
+T1	Gene_or_gene_product 15 18	src
+T2	Gene_or_gene_product 23 26	ras
+T3	Gene_or_gene_product 58 81	epidermal growth factor
+T4	Organism 97 106	BALB/MK-2
+T5	Cell 107 120	keratinocytes
+T6	Organism 197 213	BALB-/MK-2 mouse
+T7	Cell 214 237	epidermal keratinocytes
+T8	Gene_or_gene_product 247 270	epidermal growth factor
+T9	Simple_chemical 339 342	Ca2
+T10	Organism 374 386	retroviruses
+T11	Gene_or_gene_product 424 427	src
+T12	Gene_or_gene_product 432 435	ras
+T13	Gene_or_gene_product 475 498	epidermal growth factor
+T14	Cell 556 564	cellular
+T15	Organism 581 586	virus
+T16	Cell 595 600	cells
+T17	Immaterial_anatomical_entity 660 673	extracellular
+T18	Simple_chemical 674 681	calcium
+T19	Cell 718 730	keratinocyte
+T20	Cancer 915 947	squamous epithelial malignancies

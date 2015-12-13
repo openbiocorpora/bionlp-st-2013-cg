@@ -1,0 +1,30 @@
+T1	Multi-tissue_structure 9 35	coronary collateral vessel
+T2	Organism 51 59	patients
+T3	Organism 122 130	patients
+T4	Multi-tissue_structure 167 193	coronary collateral vessel
+T5	Multi-tissue_structure 257 263	retina
+T6	Multi-tissue_structure 312 331	coronary collateral
+T7	Organism 353 361	patients
+T8	Organism 421 429	patients
+T9	Organism 467 475	patients
+T10	Multi-tissue_structure 527 553	epicardial coronary artery
+T11	Organism 613 621	patients
+T12	Organism 640 648	patients
+T13	Multi-tissue_structure 673 692	Coronary collateral
+T14	Organism_substance 836 841	Serum
+T15	Gene_or_gene_product 842 876	vascular endothelial growth factor
+T16	Gene_or_gene_product 878 882	VEGF
+T17	Organism 1205 1213	patients
+T18	Organism_substance 1261 1266	Serum
+T19	Gene_or_gene_product 1267 1271	VEGF
+T20	Organism 1294 1302	patients
+T21	Organism 1402 1410	patients
+T22	Gene_or_gene_product 1446 1450	VEGF
+T23	Organism 1491 1499	patients
+T24	Multi-tissue_structure 1522 1541	coronary collateral
+T25	Organism 1553 1561	patients
+T26	Organism_substance 1580 1585	serum
+T27	Gene_or_gene_product 1586 1590	VEGF
+T28	Organism 1619 1627	patients
+T29	Multi-tissue_structure 1747 1754	retinal
+T30	Multi-tissue_structure 1759 1767	coronary

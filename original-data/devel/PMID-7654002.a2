@@ -1,0 +1,55 @@
+T43	Metastasis 0 10	Metastatic
+E1	Metastasis:T43 
+T44	Gene_expression 38 45	express
+E2	Gene_expression:T44 Theme:T2
+T45	Carcinogenesis 142 153	tumorigenic
+E3	Carcinogenesis:T45 AtLoc:T4
+T46	Metastasis 162 172	metastatic
+E4	Metastasis:T46 
+M1	Negation E4
+T47	Regulation 185 195	responsive
+E5	Regulation:T47 Cause:T5 Theme:T4
+M2	Negation E5
+T48	Planned_process 201 212	transfected
+E6	Planned_process:T48 Instrument:T5 Theme:T4
+T49	Carcinogenesis 264 275	tumorigenic
+E7	Carcinogenesis:T49 AtLoc:T6
+M3	Negation E7
+T50	Regulation 288 298	responsive
+E8	Regulation:T50 Cause:T7 Theme:T6
+T51	Metastasis 310 320	metastatic
+E9	Metastasis:T51 
+T52	Planned_process 326 337	transfected
+E10	Planned_process:T52 Instrument:T8 Theme:T6
+T53	Carcinogenesis 403 414	tumorigenic
+E11	Carcinogenesis:T53 AtLoc:T9
+T54	Metastasis 416 426	metastatic
+E12	Metastasis:T54 
+T55	Regulation 435 445	responsive
+E13	Regulation:T55 Cause:T12 Theme:T9
+T56	Gene_expression 464 474	expression
+E14	Gene_expression:T56 Theme:T13
+M4	Speculation E14
+T57	Metastasis 565 575	metastatic
+E15	Metastasis:T57 ToLoc:T17
+T58	Metastasis 831 841	metastatic
+E16	Metastasis:T58 
+T59	Gene_expression 850 859	expressed
+E17	Gene_expression:T59 Theme:T26
+T60	Metastasis 987 997	metastatic
+E18	Metastasis:T60 
+T61	Gene_expression 1043 1053	expression
+E19	Gene_expression:T61 Theme:T30
+T62	Regulation 1200 1210	regulation
+E20	Regulation:T62 Theme:T34
+T63	Localization 1394 1401	present
+E21	Localization:T63 Theme:T36 AtLoc:T37
+T64	Metastasis 1570 1580	metastatic
+E22	Metastasis:T64 
+T65	Metastasis 1606 1616	metastatic
+E23	Metastasis:T65 
+M5	Negation E23
+T66	Positive_regulation 1640 1649	induction
+E24	Positive_regulation:T66 Theme:E25
+T67	Gene_expression 1653 1663	expression
+E25	Gene_expression:T67 Theme:T42

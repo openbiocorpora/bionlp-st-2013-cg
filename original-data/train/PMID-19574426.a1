@@ -1,0 +1,46 @@
+T1	Gene_or_gene_product 16 61	platelet endothelial cell adhesion molecule-1
+T2	Organism 16 71	platelet endothelial cell adhesion molecule-1-null mice
+T3	Gene_or_gene_product 73 126	Platelet endothelial cell adhesion molecule (PECAM)-1
+T4	Cell 161 177	endothelial cell
+T5	Gene_or_gene_product 203 226	anti-PECAM-1 antibodies
+T6	Gene_or_gene_product 314 321	PECAM-1
+T7	Organism 314 331	PECAM-1-null mice
+T8	Gene_or_gene_product 369 376	PECAM-1
+T9	Multi-tissue_structure 380 392	blood vessel
+T10	Cancer 465 470	tumor
+T11	Gene_or_gene_product 507 514	PECAM-1
+T12	Organism 507 524	PECAM-1-null mice
+T13	Multi-tissue_structure 537 548	bone marrow
+T14	Gene_or_gene_product 594 601	PECAM-1
+T15	Organism 594 616	PECAM-1-deficient mice
+T16	Cell 688 699	endothelial
+T17	Cell 709 718	leukocyte
+T18	Gene_or_gene_product 720 727	PECAM-1
+T19	Pathological_formation 738 743	wound
+T20	Cell 765 769	cell
+T21	Cell 782 812	PECAM-1-null endothelial cells
+T22	Gene_or_gene_product 782 789	PECAM-1
+T23	Cellular_component 849 858	filopodia
+T24	Cell 890 895	cells
+T25	Cell 914 944	PECAM-1-null endothelial cells
+T26	Gene_or_gene_product 914 921	PECAM-1
+T27	Organism 959 964	human
+T28	Cell 965 982	endothelial cells
+T29	Gene_or_gene_product 1003 1024	anti-PECAM-1 antibody
+T30	Gene_or_gene_product 1028 1035	PECAM-1
+T31	Gene_or_gene_product 1074 1081	PECAM-1
+T32	Cellular_component 1091 1100	filopodia
+T33	Gene_or_gene_product 1158 1163	Cdc42
+T34	Gene_or_gene_product 1167 1170	Rho
+T35	Cellular_component 1220 1229	filopodia
+T36	Multi-tissue_structure 1249 1268	retinal vasculature
+T37	Cellular_component 1280 1306	long filamentous filopodia
+T38	Cell 1323 1340	endothelial cells
+T39	Tissue 1367 1374	sprouts
+T40	Gene_or_gene_product 1442 1449	PECAM-1
+T41	Organism 1442 1459	PECAM-1-null mice
+T42	Cell 1519 1530	endothelial
+T43	Gene_or_gene_product 1531 1538	PECAM-1
+T44	Gene_or_gene_product 1582 1589	PECAM-1
+T45	Cell 1604 1620	endothelial cell
+T46	Cellular_component 1660 1669	filopodia

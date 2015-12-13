@@ -1,0 +1,66 @@
+*	Equiv T5 T6
+*	Equiv T14 T15
+*	Equiv T20 T21
+T39	Cell_death 21 30	apoptotic
+E1	Cell_death:T39 
+T40	Breakdown 254 261	damaged
+E2	Breakdown:T40 Theme:T7
+T41	Regulation 479 483	role
+E3	Regulation:T41 Theme:T12 Cause:T9
+M1	Speculation E3
+T42	Negative_regulation 555 567	inactivation
+E4	Negative_regulation:T42 Theme:T13
+T43	Positive_regulation 600 607	induced
+E5	Positive_regulation:T43 Theme:T14
+T44	Regulation 665 676	play a role
+E6	Regulation:T44 Cause:T16 Theme:E8
+M2	Speculation E6
+T45	Negative_regulation 684 695	suppression
+E7	Negative_regulation:T45 Theme:T17 Cause:E8
+T46	Negative_regulation 711 730	protective response
+E8	Negative_regulation:T46 Theme:E9
+T47	Carcinogenesis 734 746	carcinogenic
+E9	Carcinogenesis:T47 
+T48	Regulation 810 814	role
+E10	Regulation:T48 Cause:T18 Theme:E11
+M3	Speculation E10
+T49	Regulation 841 849	response
+E11	Regulation:T49 Theme:T19 Cause:T20
+T50	Positive_regulation 929 934	cause
+E12	Positive_regulation:T50 Cause:T20 Theme:T24
+T51	Positive_regulation 962 973	restoration
+E13	Positive_regulation:T51 Theme:T25
+T52	Gene_expression 994 1003	deficient
+E14	Gene_expression:T52 Theme:T26
+M4	Negation E14
+T53	Positive_regulation 1014 1023	increases
+E15	Positive_regulation:T53 Theme:E16 Cause:E13
+T54	Cell_death 1039 1048	apoptosis
+E16	Cell_death:T54 
+T55	Positive_regulation 1049 1055	caused
+E17	Positive_regulation:T55 Theme:E16 Cause:T29
+T56	Breakdown 1065 1073	damaging
+E18	Breakdown:T56 Theme:T28
+T57	Positive_regulation 1150 1159	activated
+E19	Positive_regulation:T57 Theme:T31
+T58	Regulation 1353 1358	roles
+E20	Regulation:T58 Theme:E24
+E21	Regulation:T58 Theme:E25
+E22	Regulation:T58 Theme:E26
+E23	Regulation:T58 Theme:E27
+T59	Growth 1367 1373	growth
+E24	Growth:T59 Theme:T32
+T60	Cell_proliferation 1378 1391	proliferation
+E25	Cell_proliferation:T60 Theme:T32
+T61	Death 1431 1436	death
+E26	Death:T61 Theme:T33
+T62	Pathway 1442 1447	cycle
+E27	Pathway:T62 Theme:T34
+T63	Carcinogenesis 1508 1520	carcinogenic
+E28	Carcinogenesis:T63 
+T64	Breakdown 1592 1599	damaged
+E29	Breakdown:T64 Theme:T36
+T65	Negative_regulation 1648 1658	suppressor
+E30	Negative_regulation:T65 Cause:T37 Theme:E31
+T66	Carcinogenesis 1662 1674	carcinogenic
+E31	Carcinogenesis:T66 AtLoc:T38

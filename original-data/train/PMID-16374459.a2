@@ -1,0 +1,44 @@
+*	Equiv T4 T5
+T30	Regulation 0 10	Regulation
+E1	Regulation:T30 Theme:E3
+E2	Regulation:T30 Theme:E4
+T31	Blood_vessel_development 36 48	angiogenesis
+E3	Blood_vessel_development:T31 Theme:T1
+T32	Localization 55 64	migration
+E4	Localization:T32 Theme:T2
+T33	Positive_regulation 120 130	Activation
+E5	Positive_regulation:T33 Theme:T4
+T34	Positive_regulation 157 164	induces
+E6	Positive_regulation:T34 Cause:E5 Theme:E7
+T35	Regulation 176 183	changes
+E7	Regulation:T35 Theme:T6
+T36	Regulation 242 248	affect
+E8	Regulation:T36 Cause:E7 Theme:T7
+T37	Blood_vessel_development 347 359	angiogenesis
+E9	Blood_vessel_development:T37 
+T38	Localization 366 375	migration
+E10	Localization:T38 Theme:T8
+T39	Regulation 454 465	responsible
+E11	Regulation:T39 Theme:T10
+T40	Positive_regulation 618 626	activate
+E12	Positive_regulation:T40 Cause:T12 Theme:T13
+E13	Positive_regulation:T40 Cause:T11 Theme:T13
+T41	Regulation 752 760	controls
+E14	Regulation:T41 Theme:E16 Cause:T14
+E15	Regulation:T41 Theme:E16 Cause:T16
+T42	Blood_vessel_development 761 773	angiogenesis
+E16	Blood_vessel_development:T42 
+T43	Negative_regulation 827 837	inhibition
+E17	Negative_regulation:T43 Theme:T19
+T44	Negative_regulation 905 915	inhibition
+E18	Negative_regulation:T44 Theme:T20
+T45	Regulation 1042 1049	changes
+E19	Regulation:T45 Cause:T21 Theme:E21
+E20	Regulation:T45 Cause:T21 Theme:E22
+T46	Phosphorylation 1057 1071	phosphorylated
+E21	Phosphorylation:T46 Theme:T22
+T47	Phosphorylation 1076 1093	nonphosphorylated
+E22	Phosphorylation:T47 Theme:T22
+M1	Negation E22
+T48	Negative_regulation 1185 1195	inhibition
+E23	Negative_regulation:T48 Theme:T25 Cause:T26

@@ -1,0 +1,32 @@
+T1	Gene_or_gene_product 14 19	KISS1
+T2	Gene_or_gene_product 24 29	MMP-9
+T3	Cancer 33 59	non-small cell lung cancer
+T4	Gene_or_gene_product 109 114	KISS1
+T5	Gene_or_gene_product 119 145	matrix metalloproteinase-9
+T6	Gene_or_gene_product 147 152	MMP-9
+T7	Cancer 265 277	malignancies
+T8	Cancer 346 372	non-small cell lung cancer
+T9	Cancer 374 379	NSCLC
+T10	Gene_or_gene_product 460 465	KISS1
+T11	Gene_or_gene_product 470 475	MMP-9
+T12	Cancer 479 484	NSCLC
+T13	Gene_or_gene_product 570 575	KISS1
+T14	Gene_or_gene_product 583 588	MMP-9
+T15	Cancer 689 694	NSCLC
+T16	Multi-tissue_structure 714 724	lymph node
+T17	Gene_or_gene_product 752 757	KISS1
+T18	Cancer 822 827	NSCLC
+T19	Gene_or_gene_product 957 962	KISS1
+T20	Multi-tissue_structure 1002 1012	lymph node
+T21	Gene_or_gene_product 1047 1052	MMP-9
+T22	Cancer 1091 1096	NSCLC
+T23	Cancer 1126 1132	tumors
+T24	Cancer 1156 1161	NSCLC
+T25	Gene_or_gene_product 1262 1267	KISS1
+T26	Gene_or_gene_product 1272 1277	MMP-9
+T27	Gene_or_gene_product 1353 1358	KISS1
+T28	Organism 1499 1507	patients
+T29	Gene_or_gene_product 1518 1523	MMP-9
+T30	Gene_or_gene_product 1630 1635	KISS1
+T31	Gene_or_gene_product 1640 1645	MMP-9
+T32	Cancer 1707 1718	lung cancer

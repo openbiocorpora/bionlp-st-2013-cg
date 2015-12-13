@@ -1,0 +1,42 @@
+T1	Cancer 37 59	acute myeloid leukemia
+T2	Gene_or_gene_product 89 126	Granulocyte colony-stimulating factor
+T3	Gene_or_gene_product 128 133	G-CSF
+T4	Organism 304 312	patients
+T5	Gene_or_gene_product 324 329	G-CSF
+T6	Cell 345 356	neutrophils
+T7	Cancer 526 548	acute myeloid leukemia
+T8	Cancer 554 557	AML
+T9	Gene_or_gene_product 601 606	G-CSF
+T10	Cancer 701 704	AML
+T11	Organism 865 873	patients
+T12	Gene_or_gene_product 887 892	G-CSF
+T13	Cell 923 940	malignant myeloid
+T14	Organism 1025 1032	patient
+T15	Cancer 1135 1138	AML
+T16	Organism 1143 1150	patient
+T17	Gene_or_gene_product 1159 1164	G-CSF
+T18	Gene_or_gene_product 1186 1191	G-CSF
+T19	Cell 1271 1279	cellular
+T20	Cell 1299 1311	marrow cells
+T21	Organism 1317 1325	patients
+T22	Gene_or_gene_product 1364 1367	ras
+T23	Gene_or_gene_product 1426 1440	G-CSF receptor
+T24	Organism 1455 1461	murine
+T25	Gene_or_gene_product 1523 1528	G-CSF
+T26	Cell 1576 1580	cell
+T27	Multi-tissue_structure 1651 1662	bone marrow
+T28	Gene_or_gene_product 1672 1677	G-CSF
+T29	Cancer 1716 1719	AML
+T30	Cell 1747 1751	stem
+T31	Cell 1756 1772	progenitor cells
+T32	Gene_or_gene_product 1799 1813	G-CSF receptor
+T33	Gene_or_gene_product 1818 1821	ras
+T34	Organism 1848 1856	patients
+T35	Gene_or_gene_product 1925 1930	G-CSF
+T36	Organism 2005 2012	patient
+T37	Organism 2094 2102	patients
+T38	Cancer 2133 2136	AML
+T39	Cell 2138 2161	hematopoietic stem cell
+T40	Gene_or_gene_product 2343 2357	G-CSF receptor
+T41	Gene_or_gene_product 2439 2444	G-CSF
+T42	Cancer 2542 2552	malignancy

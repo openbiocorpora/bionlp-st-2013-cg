@@ -1,0 +1,33 @@
+T1	Gene_or_gene_product 37 40	Wnt
+T2	Cancer 63 80	colorectal cancer
+T3	Cancer 145 162	colorectal cancer
+T4	Cancer 164 167	CRC
+T5	Gene_or_gene_product 202 205	Wnt
+T6	Gene_or_gene_product 249 275	adenomatous polyposis coli
+T7	Gene_or_gene_product 277 280	APC
+T8	Gene_or_gene_product 286 298	beta-catenin
+T9	Tissue 341 354	normal tissue
+T10	Cancer 362 375	malignant one
+T11	Gene_or_gene_product 447 450	APC
+T12	Gene_or_gene_product 455 467	beta-catenin
+T13	Cancer 497 500	CRC
+T14	Cancer 611 617	tumour
+T15	Tissue 629 645	tissue specimens
+T16	Cancer 652 655	CRC
+T17	Organism 656 664	patients
+T18	Gene_or_gene_product 743 746	APC
+T19	Gene_or_gene_product 770 782	beta-catenin
+T20	Gene_or_gene_product 943 946	APC
+T21	Gene_or_gene_product 1058 1061	APC
+T22	Cancer 1076 1079	CRC
+T23	Gene_or_gene_product 1145 1148	APC
+T24	Cancer 1257 1263	tumour
+T25	Cancer 1274 1280	tumour
+T26	Multi-tissue_structure 1291 1295	node
+T27	Gene_or_gene_product 1337 1340	APC
+T28	Gene_or_gene_product 1399 1402	APC
+T29	Gene_or_gene_product 1407 1419	beta-catenin
+T30	Cancer 1433 1436	CRC
+T31	Gene_or_gene_product 1550 1553	APC
+T32	Gene_or_gene_product 1562 1565	Wnt
+T33	Cancer 1596 1599	CRC

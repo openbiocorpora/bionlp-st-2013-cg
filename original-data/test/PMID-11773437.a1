@@ -1,0 +1,58 @@
+T1	Gene_or_gene_product 0 4	RhoA
+T2	Cell 52 64	thyroid cell
+T3	Gene_or_gene_product 98 128	thyroid transcription factor-1
+T4	Cell 159 164	cells
+T5	Cell 170 180	thyrocytes
+T6	Organ 192 199	thyroid
+T7	Gene_or_gene_product 226 239	thyroglobulin
+T8	Gene_or_gene_product 241 243	Tg
+T9	Gene_or_gene_product 246 261	thyroperoxidase
+T10	Gene_or_gene_product 293 298	TTF-1
+T11	Gene_or_gene_product 300 305	TTF-2
+T12	Gene_or_gene_product 311 316	Pax-8
+T13	Gene_or_gene_product 354 358	RhoA
+T14	Gene_or_gene_product 362 365	TSH
+T15	Cell 392 416	FRTL-5 rat thyroid cells
+T16	Gene_or_gene_product 470 474	RhoA
+T17	Cell 487 499	thyroid cell
+T18	Gene_or_gene_product 625 629	RhoA
+T19	Cell 639 651	FRTL-5 cells
+T20	Gene_or_gene_product 675 679	RhoA
+T21	Cell 681 701	FRTL-5-RhoA QL cells
+T22	Gene_or_gene_product 688 692	RhoA
+T23	Cell 715 725	fibroblast
+T24	Gene_or_gene_product 756 761	actin
+T25	Cellular_component 762 768	fibers
+T26	Cell 778 783	cells
+T27	Gene_or_gene_product 799 803	RhoA
+T28	Cell 833 854	FRTL-5-RhoA N19 cells
+T29	Cellular_component 901 913	cytoskeletal
+T30	Gene_or_gene_product 989 993	RhoA
+T31	Gene_or_gene_product 1005 1008	TSH
+T32	Cancer 1080 1086	tumors
+T33	Organism 1106 1115	nude mice
+T34	Cell 1132 1152	FRTL-5-RhoA QL cells
+T35	Gene_or_gene_product 1139 1143	RhoA
+T36	Gene_or_gene_product 1166 1168	Tg
+T37	Gene_or_gene_product 1173 1178	TTF-1
+T38	Cell 1194 1200	FRTL-5
+T39	Cell 1202 1208	FRTL-5
+T40	Cell 1221 1236	FRTL-5-RhoA N19
+T41	Gene_or_gene_product 1228 1232	RhoA
+T42	Gene_or_gene_product 1346 1351	TTF-1
+T43	Gene_or_gene_product 1402 1406	RhoA
+T44	Cell 1402 1409	RhoA QL
+T45	Gene_or_gene_product 1466 1468	Tg
+T46	Gene_or_gene_product 1559 1564	TTF-1
+T47	Gene_or_gene_product 1589 1593	RhoA
+T48	Cell 1606 1613	thyroid
+T49	Gene_or_gene_product 1632 1635	Ras
+T50	Gene_or_gene_product 1650 1654	RhoA
+T51	Gene_or_gene_product 1691 1694	Ras
+T52	Gene_or_gene_product 1727 1731	RhoA
+T53	Gene_or_gene_product 1777 1780	Ras
+T54	Gene_or_gene_product 1794 1796	Tg
+T55	Gene_or_gene_product 1873 1877	RhoA
+T56	Cell 1899 1911	FRTL-5 cells
+T57	Cell 1957 1964	thyroid
+T58	Gene_or_gene_product 1997 2002	TTF-1

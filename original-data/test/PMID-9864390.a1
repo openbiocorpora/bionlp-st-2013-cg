@@ -1,0 +1,40 @@
+T1	Cancer 17 24	gliomas
+T2	Gene_or_gene_product 26 29	p53
+T3	Gene_or_gene_product 34 39	E2F-1
+T4	Cancer 99 105	glioma
+T5	Cancer 156 162	tumors
+T6	Cancer 216 222	cancer
+T7	Gene_or_gene_product 307 310	p53
+T8	Gene_or_gene_product 314 319	E2F-1
+T9	Cancer 345 351	glioma
+T10	Organism 466 476	Adenovirus
+T11	Gene_or_gene_product 486 489	p53
+T12	Cell 543 555	glioma cells
+T13	Gene_or_gene_product 578 581	p53
+T14	Gene_or_gene_product 610 613	p21
+T15	Gene_or_gene_product 627 630	p16
+T16	Gene_or_gene_product 631 633	Rb
+T17	Gene_or_gene_product 634 637	E2F
+T18	Cancer 700 707	gliomas
+T19	Gene_or_gene_product 818 821	p16
+T20	Gene_or_gene_product 825 827	Rb
+T21	Cell 836 848	glioma cells
+T22	Gene_or_gene_product 883 888	E2F-1
+T23	Cancer 940 947	gliomas
+T24	Gene_or_gene_product 969 972	p53
+T25	Gene_or_gene_product 974 977	p16
+T26	Gene_or_gene_product 981 983	Rb
+T27	Gene_or_gene_product 1005 1008	p21
+T28	Gene_or_gene_product 1013 1016	p16
+T29	Cell 1056 1068	glioma cells
+T30	Gene_or_gene_product 1074 1079	E2F-1
+T31	Gene_or_gene_product 1123 1126	bax
+T32	Gene_or_gene_product 1141 1144	p53
+T33	Gene_or_gene_product 1169 1172	bax
+T34	Gene_or_gene_product 1191 1196	E2F-1
+T35	Cell 1219 1231	glioma cells
+T36	Organism 1254 1262	patients
+T37	Gene_or_gene_product 1333 1336	p53
+T38	Gene_or_gene_product 1340 1345	E2F-1
+T39	Cancer 1373 1379	glioma
+T40	Organism 1380 1388	patients

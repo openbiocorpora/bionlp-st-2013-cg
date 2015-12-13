@@ -1,0 +1,20 @@
+T1	Organism 156 162	infant
+T2	Organism 254 259	sheep
+T3	Organ 260 268	placenta
+T4	Organism 297 302	human
+T5	Organ 303 311	placenta
+T6	Organism 338 343	sheep
+T7	Organ 590 599	placental
+T8	Developing_anatomical_structure 648 653	fetus
+T9	Cell 734 745	trophoblast
+T10	Organ 779 788	placental
+T11	Organism_substance 806 826	uteroplacental blood
+T12	Organ 949 958	placental
+T13	Developing_anatomical_structure 1014 1021	fetuses
+T14	Gene_or_gene_product 1075 1082	insulin
+T15	Gene_or_gene_product 1087 1115	insulin-like growth factor-1
+T16	Gene_or_gene_product 1117 1122	IGF-1
+T17	Simple_chemical 1156 1163	lactate
+T18	Developing_anatomical_structure 1174 1179	fetal
+T19	Simple_chemical 1195 1201	oxygen
+T20	Simple_chemical 1206 1213	glucose

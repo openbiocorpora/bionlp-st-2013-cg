@@ -1,0 +1,116 @@
+*	Equiv T6 T7
+*	Equiv T10 T11
+T51	Gene_expression 5 19	overexpression
+T52	Positive_regulation 5 19	overexpression
+E1	Gene_expression:T51 Theme:T1
+E2	Positive_regulation:T52 Theme:E1
+T53	Positive_regulation 20 28	promotes
+E3	Positive_regulation:T53 Cause:E1 Theme:E4
+T54	Metastasis 40 50	metastasis
+E4	Metastasis:T54 Theme:T4 ToLoc:T2
+T55	Gene_expression 144 158	overexpression
+T56	Positive_regulation 144 158	overexpression
+E5	Gene_expression:T55 Theme:T6
+E6	Positive_regulation:T56 Theme:E5
+T57	Metastasis 175 185	metastasis
+E7	Metastasis:T57 Theme:T8
+T58	Gene_expression 282 296	overexpression
+T59	Positive_regulation 282 296	overexpression
+E8	Gene_expression:T58 Theme:T9
+E9	Positive_regulation:T59 Theme:E8
+T60	Gene_expression 415 429	overexpression
+T61	Positive_regulation 415 429	overexpression
+E10	Gene_expression:T60 Theme:T13
+E11	Positive_regulation:T61 Theme:E10
+T62	Metastasis 457 467	metastasis
+E12	Metastasis:T62 ToLoc:T14
+T63	Gene_expression 493 507	overexpression
+T64	Positive_regulation 493 507	overexpression
+E13	Gene_expression:T63 Theme:T15
+E14	Positive_regulation:T64 Theme:E13
+T65	Positive_regulation 552 561	increased
+E15	Positive_regulation:T65 Cause:E13 Theme:E17
+E16	Positive_regulation:T65 Cause:E13 Theme:E18
+T66	Localization 576 585	migration
+E17	Localization:T66 Theme:T18
+T67	Localization 590 598	invasion
+E18	Localization:T67 Theme:T18
+T68	Positive_regulation 603 611	promoted
+E19	Positive_regulation:T68 Cause:E13 Theme:E20
+T69	Metastasis 631 641	metastasis
+E20	Metastasis:T69 ToLoc:T19
+T70	Negative_regulation 643 654	Suppressing
+E21	Negative_regulation:T70 Theme:E22
+T71	Gene_expression 660 670	expression
+E22	Gene_expression:T71 Theme:T20
+T72	Negative_regulation 680 689	decreased
+E23	Negative_regulation:T72 Cause:E21 Theme:E25
+E24	Negative_regulation:T72 Cause:E21 Theme:E26
+T73	Localization 695 703	motility
+E25	Localization:T73 Theme:T22
+E26	Localization:T73 Theme:T24
+T74	Positive_regulation 808 820	up-regulated
+E27	Positive_regulation:T74 Cause:T25 Theme:E29
+E28	Positive_regulation:T74 Cause:T25 Theme:E30
+T75	Localization 843 852	secretion
+E29	Localization:T75 Theme:T26
+E30	Localization:T75 Theme:T27
+T76	Negative_regulation 857 871	down-regulated
+E31	Negative_regulation:T76 Cause:T25 Theme:E32
+T77	Localization 912 921	secretion
+E32	Localization:T77 Theme:T29
+T78	Positive_regulation 949 956	induced
+E33	Positive_regulation:T78 Cause:T30 Theme:E37
+E34	Positive_regulation:T78 Cause:T30 Theme:E39
+E35	Positive_regulation:T78 Cause:T30 Theme:E40
+E36	Positive_regulation:T78 Cause:T30 Theme:E38
+T79	Translation 988 1006	protein expression
+E37	Translation:T79 Theme:T31
+E38	Translation:T79 Theme:T32
+T80	Transcription 996 1006	expression
+E39	Transcription:T80 Theme:T31
+E40	Transcription:T80 Theme:T32
+T81	Negative_regulation 1066 1077	Attenuating
+E41	Negative_regulation:T81 Theme:E42
+T82	Gene_expression 1089 1099	expression
+E42	Gene_expression:T82 Theme:T33
+T83	Negative_regulation 1109 1120	constrained
+E43	Negative_regulation:T83 Cause:E41 Theme:E44
+T84	Localization 1141 1149	motility
+E44	Localization:T84 Theme:T34
+T85	Positive_regulation 1201 1208	induced
+E45	Positive_regulation:T85 Cause:T36 Theme:E46
+T86	Gene_expression 1223 1233	expression
+E46	Gene_expression:T86 Theme:T37
+T87	Binding 1393 1400	binding
+E47	Binding:T87 Theme:T42 Site:T88 Theme2:T41
+T88	DNA_domain_or_region 1415 1423	promoter
+T89	Positive_regulation 1430 1437	induced
+E48	Positive_regulation:T89 Cause:T43 Theme:E50
+E49	Positive_regulation:T89 Cause:T43 Theme:E51
+T90	Positive_regulation 1449 1464	transactivation
+E50	Positive_regulation:T90 Theme:T44
+T91	Gene_expression 1469 1479	expression
+E51	Gene_expression:T91 Theme:T44
+T92	Positive_regulation 1485 1493	mediated
+E52	Positive_regulation:T92 Cause:T45 Theme:E50
+E53	Positive_regulation:T92 Cause:T45 Theme:E51
+T93	Negative_regulation 1529 1539	suppressed
+E54	Negative_regulation:T93 Cause:E56 Theme:E51
+E55	Negative_regulation:T93 Cause:E56 Theme:E50
+T94	Planned_process 1549 1567	RNAi cotranfection
+E56	Planned_process:T94 Instrument:T46
+T95	Gene_expression 1627 1641	overexpression
+T96	Positive_regulation 1627 1641	overexpression
+E57	Gene_expression:T95 Theme:T47
+E58	Positive_regulation:T96 Theme:E57
+T97	Positive_regulation 1645 1654	promoting
+E59	Positive_regulation:T97 Cause:E57 Theme:E60
+T98	Metastasis 1661 1671	metastasis
+E60	Metastasis:T98 Theme:T48
+T99	Positive_regulation 1681 1693	up-regulated
+E61	Positive_regulation:T99 Theme:T49
+T100	Positive_regulation 1767 1777	facilitate
+E62	Positive_regulation:T100 Cause:T49 Theme:E63
+T101	Localization 1783 1791	motility
+E63	Localization:T101 Theme:T50

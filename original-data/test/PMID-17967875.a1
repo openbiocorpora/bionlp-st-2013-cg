@@ -1,0 +1,45 @@
+T1	Gene_or_gene_product 24 29	Smad1
+T2	Gene_or_gene_product 34 39	Smad5
+T3	Cell 43 56	somatic cells
+T4	Organ 76 82	gonads
+T5	Cancer 103 108	tumor
+T6	Organism 124 128	mice
+T7	Gene_or_gene_product 135 166	transforming growth factor beta
+T8	Gene_or_gene_product 168 175	TGFbeta
+T9	Organism 273 278	human
+T10	Cancer 279 286	cancers
+T11	Gene_or_gene_product 321 328	TGFbeta
+T12	Gene_or_gene_product 342 347	SMAD2
+T13	Gene_or_gene_product 351 356	SMAD4
+T14	Organism 386 391	mouse
+T15	Gene_or_gene_product 407 439	BMP signaling SMADs (BR-SMADs) 1
+T16	Gene_or_gene_product 441 442	5
+T17	Gene_or_gene_product 448 449	8
+T18	Developing_anatomical_structure 461 470	embryonic
+T19	Tissue 521 527	tissue
+T20	Organism 549 553	mice
+T21	Gene_or_gene_product 570 578	BR-SMADs
+T22	Cell 584 597	somatic cells
+T23	Organ 601 608	ovaries
+T24	Organ 613 619	testes
+T25	Gene_or_gene_product 654 659	Smad1
+T26	Gene_or_gene_product 663 668	Smad5
+T27	Organism 672 676	mice
+T28	Gene_or_gene_product 697 702	Smad8
+T29	Organism 734 752	double Smad1 Smad5
+T30	Gene_or_gene_product 741 746	Smad1
+T31	Gene_or_gene_product 747 752	Smad5
+T32	Organism 757 807	triple Smad1 Smad5 Smad8 conditional knockout mice
+T33	Gene_or_gene_product 764 769	Smad1
+T34	Gene_or_gene_product 770 775	Smad5
+T35	Gene_or_gene_product 776 781	Smad8
+T36	Cancer 848 869	granulosa cell tumors
+T37	Organism 876 920	double Smad1 Smad5 conditional knockout mice
+T38	Gene_or_gene_product 883 888	Smad1
+T39	Gene_or_gene_product 889 894	Smad5
+T40	Cancer 960 976	testicular tumor
+T41	Gene_or_gene_product 1082 1089	TGFbeta
+T42	Cellular_component 1144 1164	extracellular matrix
+T43	Gene_or_gene_product 1211 1219	BR-SMADs
+T44	Organ 1267 1274	ovaries
+T45	Organ 1279 1285	testis

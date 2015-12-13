@@ -1,0 +1,31 @@
+T1	Simple_chemical 0 7	Glucose
+T2	Cell 22 34	cancer cells
+T3	Gene_or_gene_product 111 129	type II hexokinase
+T4	Cancer 203 219	malignant tumors
+T5	Simple_chemical 257 264	glucose
+T6	Simple_chemical 268 279	lactic acid
+T7	Tissue 291 298	tissues
+T8	Cancer 310 319	Hepatomas
+T9	Gene_or_gene_product 386 404	type II hexokinase
+T10	Cancer 426 432	tumors
+T11	Simple_chemical 458 477	glucose 6-phosphate
+T12	Simple_chemical 493 499	carbon
+T13	Cancer 600 608	hepatoma
+T14	Gene_or_gene_product 609 627	type II hexokinase
+T15	Gene_or_gene_product 667 691	hypoxia-inducible factor
+T16	Gene_or_gene_product 693 698	HIF-1
+T17	Simple_chemical 776 783	glucose
+T18	Cell 840 854	hepatoma cells
+T19	Gene_or_gene_product 891 909	type II hexokinase
+T20	Simple_chemical 984 991	glucose
+T21	Gene_or_gene_product 1073 1078	HIF-1
+T22	Cancer 1159 1167	hepatoma
+T23	Gene_or_gene_product 1168 1186	type II hexokinase
+T24	Gene_or_gene_product 1340 1345	HIF-1
+T25	Gene_or_gene_product 1384 1391	DNase I
+T26	Cellular_component 1499 1506	nuclear
+T27	Simple_chemical 1584 1591	glucose
+T28	Gene_or_gene_product 1629 1647	type II hexokinase
+T29	Cell 1700 1714	hepatoma cells
+T30	Cell 1758 1763	cells
+T31	Cell 1815 1829	parental cells

@@ -1,0 +1,32 @@
+T1	Gene_or_gene_product 55 59	AP-2
+T2	Gene_or_gene_product 81 87	ErbB-3
+T3	Cell 114 128	malignant cell
+T4	Gene_or_gene_product 138 144	ErbB-3
+T5	Gene_or_gene_product 146 150	HER3
+T6	Gene_or_gene_product 171 203	epidermal growth factor receptor
+T7	Gene_or_gene_product 269 275	ErbB-3
+T8	Gene_or_gene_product 353 359	ErbB-3
+T9	Gene_or_gene_product 403 412	AP-2gamma
+T10	Organism 427 432	human
+T11	Cell 433 451	mammary epithelial
+T12	Cell 456 478	fibroblasts cell lines
+T13	Gene_or_gene_product 544 553	AP-2alpha
+T14	Gene_or_gene_product 557 565	AP-2beta
+T15	Gene_or_gene_product 583 589	ErbB-3
+T16	Gene_or_gene_product 602 611	AP-2alpha
+T17	Gene_or_gene_product 616 625	AP-2gamma
+T18	Gene_or_gene_product 648 654	ErbB-3
+T19	Gene_or_gene_product 723 732	AP-2gamma
+T20	Gene_or_gene_product 752 758	ErbB-3
+T21	Gene_or_gene_product 822 826	AP-2
+T22	Gene_or_gene_product 836 845	AP-2delta
+T23	Gene_or_gene_product 896 902	ErbB-3
+T24	Gene_or_gene_product 952 958	ErbB-3
+T25	Gene_or_gene_product 980 986	ErbB-3
+T26	Cell 1002 1019	cell line MRC-5VA
+T27	Gene_or_gene_product 1039 1044	AP-2A
+T28	Cell 1105 1111	colony
+T29	Gene_or_gene_product 1182 1186	AP-2
+T30	Gene_or_gene_product 1215 1224	AP-2gamma
+T31	Gene_or_gene_product 1244 1250	ErbB-3
+T32	Gene_or_gene_product 1318 1322	AP-2

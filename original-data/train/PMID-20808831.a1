@@ -1,0 +1,67 @@
+T1	Cellular_component 15 22	nuclear
+T2	Gene_or_gene_product 23 29	FOXO3a
+T3	Gene_or_gene_product 79 82	Akt
+T4	Cancer 102 115	breast cancer
+T5	Gene_or_gene_product 134 138	PI3K
+T6	Gene_or_gene_product 139 142	Akt
+T7	Gene_or_gene_product 374 380	FOXO3a
+T8	Gene_or_gene_product 400 403	Akt
+T9	Gene_or_gene_product 407 410	Akt
+T10	Cancer 426 446	breast cancer tissue
+T11	Cellular_component 466 473	nuclear
+T12	Gene_or_gene_product 474 480	FOXO3a
+T13	Multi-tissue_structure 501 511	lymph node
+T14	Gene_or_gene_product 570 573	Akt
+T15	Cancer 588 613	invasive ductal carcinoma
+T16	Simple_chemical 621 630	tamoxifen
+T17	Simple_chemical 635 646	doxorubicin
+T18	Cell 672 696	breast cancer cell lines
+T19	Simple_chemical 722 733	doxorubicin
+T20	Simple_chemical 743 752	tamoxifen
+T21	Cellular_component 783 790	nuclear
+T22	Gene_or_gene_product 807 813	FOXO3a
+T23	Cellular_component 858 865	nuclear
+T24	Gene_or_gene_product 866 872	FOXO3a
+T25	Simple_chemical 933 944	doxorubicin
+T26	Gene_or_gene_product 988 994	FOXO3a
+T27	Cellular_component 995 1002	nuclear
+T28	Cell 1027 1046	breast cancer cells
+T29	Gene_or_gene_product 1061 1067	FOXO3a
+T30	Simple_chemical 1080 1091	doxorubicin
+T31	Cell 1102 1113	MCF-7 cells
+T32	Gene_or_gene_product 1140 1143	Akt
+T33	Cell 1171 1175	cell
+T34	Gene_or_gene_product 1227 1233	FOXO3a
+T35	Gene_or_gene_product 1253 1257	PI3K
+T36	Gene_or_gene_product 1258 1261	Akt
+T37	Cell 1278 1294	MDA-MB-231 cells
+T38	Gene_or_gene_product 1305 1311	FOXO3a
+T39	Simple_chemical 1339 1357	4-hydroxytamoxifen
+T40	Gene_or_gene_product 1374 1380	FOXO3a
+T41	Gene_or_gene_product 1404 1408	PI3K
+T42	Gene_or_gene_product 1409 1412	Akt
+T43	Simple_chemical 1435 1446	doxorubicin
+T44	Gene_or_gene_product 1467 1473	FOXO3a
+T45	Cell 1505 1509	cell
+T46	Gene_or_gene_product 1541 1547	FOXO3a
+T47	Cell 1622 1641	breast cancer cells
+T48	Gene_or_gene_product 1684 1690	FOXO3a
+T49	Gene_or_gene_product 1737 1741	PI3K
+T50	Gene_or_gene_product 1742 1745	Akt
+T51	Multi-tissue_structure 1814 1824	lymph node
+T52	Cancer 1857 1889	invasive ductal breast carcinoma
+T53	Gene_or_gene_product 1925 1928	Akt
+T54	Gene_or_gene_product 1929 1935	FOXO3a
+T55	Cancer 1961 1975	breast cancers
+T56	Gene_or_gene_product 1986 1989	Akt
+T57	Gene_or_gene_product 2026 2032	FOXO3a
+T58	Organism_substance 2040 2049	cytoplasm
+T59	Cellular_component 2055 2062	nuclear
+T60	Gene_or_gene_product 2072 2078	FOXO3a
+T61	Cell 2095 2099	cell
+T62	Cell 2109 2113	cell
+T63	Cellular_component 2147 2154	nuclear
+T64	Gene_or_gene_product 2155 2161	FOXO3a
+T65	Cancer 2176 2189	breast cancer
+T66	Cancer 2207 2213	cancer
+T67	Cell 2334 2352	breast cancer cell

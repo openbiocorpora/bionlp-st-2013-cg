@@ -1,0 +1,34 @@
+T1	Gene_or_gene_product 38 51	alpha-catenin
+T2	Gene_or_gene_product 74 77	p53
+T3	Multi-tissue_structure 96 106	lymph node
+T4	Cancer 127 141	gastric cancer
+T5	Multi-tissue_structure 226 236	lymph node
+T6	Cancer 283 289	tumors
+T7	Gene_or_gene_product 360 368	cadherin
+T8	Gene_or_gene_product 369 376	catenin
+T9	Gene_or_gene_product 389 392	p53
+T10	Cancer 414 428	gastric cancer
+T11	Multi-tissue_structure 453 463	lymph node
+T12	Multi-tissue_structure 501 511	lymph node
+T13	Multi-tissue_structure 602 611	specimens
+T14	Gene_or_gene_product 693 703	E-cadherin
+T15	Gene_or_gene_product 710 723	alpha-catenin
+T16	Gene_or_gene_product 733 736	p53
+T17	Gene_or_gene_product 772 782	E-cadherin
+T18	Gene_or_gene_product 787 800	alpha-catenin
+T19	Gene_or_gene_product 846 849	p53
+T20	Gene_or_gene_product 934 944	E-cadherin
+T21	Gene_or_gene_product 949 962	alpha-catenin
+T22	Gene_or_gene_product 1012 1015	p53
+T23	Gene_or_gene_product 1031 1041	E-cadherin
+T24	Gene_or_gene_product 1045 1058	alpha-catenin
+T25	Gene_or_gene_product 1086 1099	alpha-catenin
+T26	Gene_or_gene_product 1115 1118	p53
+T27	Multi-tissue_structure 1148 1158	lymph node
+T28	Gene_or_gene_product 1257 1270	alpha-catenin
+T29	Gene_or_gene_product 1293 1296	p53
+T30	Multi-tissue_structure 1334 1344	lymph node
+T31	Gene_or_gene_product 1385 1398	alpha-catenin
+T32	Gene_or_gene_product 1403 1406	p53
+T33	Multi-tissue_structure 1444 1454	lymph node
+T34	Cancer 1475 1489	gastric cancer

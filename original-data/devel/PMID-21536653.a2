@@ -1,0 +1,76 @@
+*	Equiv T3 T4
+*	Equiv T11 T12
+*	Equiv T20 T21
+*	Equiv T22 T23
+T46	Regulation 31 40	modulates
+E1	Regulation:T46 Cause:T1 Theme:E2
+T47	Transcription 47 60	transcription
+E2	Transcription:T47 Theme:T2
+T48	Positive_regulation 64 71	promote
+E3	Positive_regulation:T48 Theme:E4 Cause:E1
+T49	Carcinogenesis 72 85	tumorigenesis
+E4	Carcinogenesis:T49 
+T50	Mutation 158 167	amplified
+E5	Mutation:T50 Theme:T3
+T51	Regulation 201 210	functions
+E6	Regulation:T51 Cause:T7 Theme:E7
+M1	Speculation E6
+T52	Carcinogenesis 223 236	tumorigenesis
+E7	Carcinogenesis:T52 
+T53	Regulation 371 381	regulation
+E8	Regulation:T53 Theme:T11
+T54	Regulation 515 526	contributes
+E9	Regulation:T54 Cause:T14 Theme:E10
+T55	Carcinogenesis 530 543	tumorigenesis
+E10	Carcinogenesis:T55 
+T56	Gene_expression 549 559	expression
+E11	Gene_expression:T56 Theme:T15
+T57	Regulation 569 578	modulates
+E12	Regulation:T57 Cause:E11 Theme:E13
+T58	Gene_expression 583 593	expression
+E13	Gene_expression:T58 Theme:T16
+T59	Positive_regulation 604 613	resulting
+E14	Positive_regulation:T59 Cause:E12 Theme:E15
+T60	Positive_regulation 628 636	enhanced
+E15	Positive_regulation:T60 Theme:T18
+T61	Planned_process 690 699	Treatment
+E16	Planned_process:T61 Instrument:T20
+T62	Positive_regulation 818 828	activation
+E17	Positive_regulation:T62 Theme:T24 Cause:E16
+T63	Gene_expression 846 860	overexpression
+T64	Positive_regulation 846 860	overexpression
+E18	Gene_expression:T63 Theme:T25
+E19	Positive_regulation:T64 Theme:E18
+T65	Binding 865 876	interacting
+E20	Binding:T65 Theme:T26 Theme2:T27
+T66	Negative_regulation 893 903	interferes
+E21	Negative_regulation:T66 Theme:E22 Cause:E20
+T67	Binding 913 924	recruitment
+E22	Binding:T67 Theme:T28 Theme2:T29
+T68	Positive_regulation 966 975	enhancing
+E23	Positive_regulation:T68 Theme:E24 Cause:E20
+T69	Protein_domain_or_region 997 999	K9
+T70	Acetylation 1000 1011	acetylation
+E24	Acetylation:T70 Theme:T30 Site:T69
+T71	Positive_regulation 1024 1035	stimulating
+E25	Positive_regulation:T71 Theme:E26 Cause:E20
+T72	Gene_expression 1042 1052	expression
+E26	Gene_expression:T72 Theme:T31
+T73	Planned_process 1094 1103	knockdown
+E27	Planned_process:T73 Theme:T33
+T74	Negative_regulation 1200 1208	decrease
+E28	Negative_regulation:T74 Theme:E29 Cause:E27
+T75	Transcription 1231 1242	mRNA levels
+E29	Transcription:T75 Theme:T37
+T76	Carcinogenesis 1372 1398	tumorigenic transformation
+E30	Carcinogenesis:T76 AtLoc:T41
+T77	Gene_expression 1494 1504	expression
+E31	Gene_expression:T77 Theme:T42
+T78	Positive_regulation 1523 1534	upregulated
+E32	Positive_regulation:T78 Theme:E31
+T79	Development 1576 1587	maintenance
+E33	Development:T79 Theme:T45
+T80	Positive_regulation 1591 1600	essential
+E34	Positive_regulation:T80 Cause:E33 Theme:E35
+T81	Carcinogenesis 1605 1618	tumorigenesis
+E35	Carcinogenesis:T81 

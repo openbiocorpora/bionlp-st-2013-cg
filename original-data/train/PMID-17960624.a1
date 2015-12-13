@@ -1,0 +1,44 @@
+T1	Cancer 0 15	Ovarian cancers
+T2	Gene_or_gene_product 54 61	hCAP-18
+T3	Gene_or_gene_product 81 86	LL-37
+T4	Cell 97 116	ovarian cancer cell
+T5	Gene_or_gene_product 187 192	LL-37
+T6	Gene_or_gene_product 212 251	human cationic antimicrobial protein 18
+T7	Gene_or_gene_product 253 260	hCAP-18
+T8	Cancer 266 272	cancer
+T9	Tissue 347 353	tissue
+T10	Gene_or_gene_product 355 360	LL-37
+T11	Cancer 470 475	tumor
+T12	Gene_or_gene_product 551 558	hCAP-18
+T13	Gene_or_gene_product 559 564	LL-37
+T14	Tissue 589 603	ovarian tissue
+T15	Gene_or_gene_product 634 639	LL-37
+T16	Cell 643 663	ovarian cancer cells
+T17	Gene_or_gene_product 679 686	hCAP-18
+T18	Gene_or_gene_product 687 692	LL-37
+T19	Cell 710 716	immune
+T20	Cell 721 736	granulosa cells
+T21	Tissue 740 761	normal ovarian tissue
+T22	Cancer 776 790	ovarian tumors
+T23	Gene_or_gene_product 832 839	hCAP-18
+T24	Gene_or_gene_product 840 845	LL-37
+T25	Cell 879 884	tumor
+T26	Cell 889 902	stromal cells
+T27	Cell 967 978	immune cell
+T28	Tissue 996 1007	microvessel
+T29	Cancer 1019 1052	epithelial-derived ovarian tumors
+T30	Organism_substance 1131 1159	ovarian tumor tissue lysates
+T31	Cell 1164 1189	ovarian cancer cell lines
+T32	Gene_or_gene_product 1198 1205	hCAP-18
+T33	Gene_or_gene_product 1206 1211	LL-37
+T34	Cell 1226 1251	ovarian cancer cell lines
+T35	Gene_or_gene_product 1269 1274	LL-37
+T36	Gene_or_gene_product 1326 1350	matrix metalloproteinase
+T37	Gene_or_gene_product 1410 1417	hCAP-18
+T38	Gene_or_gene_product 1418 1423	LL-37
+T39	Cancer 1458 1472	ovarian tumors
+T40	Gene_or_gene_product 1485 1490	LL-37
+T41	Organ 1509 1516	ovarian
+T42	Cell 1561 1572	tumor cells
+T43	Cell 1620 1632	immune cells
+T44	Cancer 1738 1752	ovarian cancer

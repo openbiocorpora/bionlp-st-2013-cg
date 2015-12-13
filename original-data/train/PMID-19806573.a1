@@ -1,0 +1,27 @@
+T1	Gene_or_gene_product 11 22	osteopontin
+T2	Organism 36 46	lentivirus
+T3	Cell 77 88	glioma cell
+T4	Gene_or_gene_product 155 166	osteopontin
+T5	Cell 210 220	U251 cells
+T6	Gene_or_gene_product 269 272	uPA
+T7	Gene_or_gene_product 274 279	MMP-2
+T8	Gene_or_gene_product 284 289	MMP-9
+T9	Gene_or_gene_product 421 432	Osteopontin
+T10	Gene_or_gene_product 474 485	osteopontin
+T11	Cell 501 505	cell
+T12	Cell 538 548	U251 cells
+T13	Gene_or_gene_product 581 586	Bcl-2
+T14	Gene_or_gene_product 588 591	uPA
+T15	Gene_or_gene_product 593 598	MMP-2
+T16	Gene_or_gene_product 603 608	MMP-9
+T17	Gene_or_gene_product 630 633	Bax
+T18	Gene_or_gene_product 666 677	Osteopontin
+T19	Cell 696 706	U251 cells
+T20	Gene_or_gene_product 743 746	uPA
+T21	Gene_or_gene_product 748 753	MMP-2
+T22	Gene_or_gene_product 758 763	MMP-9
+T23	Gene_or_gene_product 815 818	Bax
+T24	Gene_or_gene_product 848 853	Bcl 2
+T25	Gene_or_gene_product 878 889	osteopontin
+T26	Organism 917 922	human
+T27	Cancer 923 929	glioma

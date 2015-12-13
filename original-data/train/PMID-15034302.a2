@@ -1,0 +1,26 @@
+T27	Growth 388 394	growth
+E1	Growth:T27 Theme:T9
+T28	Negative_regulation 452 464	inactivating
+E2	Negative_regulation:T28 Theme:E4 Cause:E3
+T29	Mutation 465 474	mutations
+E3	Mutation:T29 Theme:T10
+T30	Pathway 495 512	signaling pathway
+E4	Pathway:T30 Participant:T10
+T31	Pathway 554 563	signaling
+E5	Pathway:T31 Participant:T12
+T32	Gene_expression 652 663	overexpress
+E6	Gene_expression:T32 Theme:T17
+T33	Positive_regulation 728 737	increased
+E7	Positive_regulation:T33 Cause:E6 Theme:E8
+T34	Metastasis 751 761	metastasis
+E8	Metastasis:T34 
+T35	Regulation 925 929	role
+E9	Regulation:T35 Cause:T20 Theme:T21
+T36	Positive_regulation 1016 1025	promoting
+E10	Positive_regulation:T36 Cause:T22 Theme:T23
+T37	Metastasis 1030 1040	metastasis
+E11	Metastasis:T37 
+T38	Regulation 1264 1269	alter
+E12	Regulation:T38 Theme:E13
+T39	Pathway 1300 1307	pathway
+E13	Pathway:T39 Participant:T26

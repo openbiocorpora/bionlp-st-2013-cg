@@ -1,0 +1,53 @@
+*	Equiv T5 T6
+*	Equiv T14 T15
+T37	Positive_regulation 65 75	responsive
+E1	Positive_regulation:T37 Cause:T2 Theme:E2
+T38	Gene_expression 81 90	expressed
+E2	Gene_expression:T38 Theme:T1
+T39	Regulation 139 150	involvement
+E3	Regulation:T39 Cause:T1 Theme:E4
+M1	Speculation E3
+T40	Carcinogenesis 165 178	tumorigenesis
+E4	Carcinogenesis:T40 AtLoc:T4
+T41	Positive_regulation 271 278	induced
+E5	Positive_regulation:T41 Cause:T5 Theme:E6
+T42	Carcinogenesis 284 298	carcinogenesis
+E6	Carcinogenesis:T42 AtLoc:T7
+T43	Planned_process 339 349	transgenic
+E7	Planned_process:T43 Instrument:T9 Theme:T8
+T44	Planned_process 395 402	treated
+E8	Planned_process:T44 Instrument:T11 Theme:T12
+T45	Development 725 738	developmental
+E9	Development:T45 Theme:T16
+T46	Gene_expression 807 817	expression
+E10	Gene_expression:T46 Theme:T20
+T47	Positive_regulation 870 877	induced
+E11	Positive_regulation:T47 Cause:T21 Theme:T20
+T48	Gene_expression 891 905	overexpression
+T49	Positive_regulation 891 905	overexpression
+E12	Gene_expression:T48 Theme:T22
+E13	Positive_regulation:T49 Theme:E12
+T50	Planned_process 958 965	treated
+E14	Planned_process:T50 Instrument:T23 Theme:T24
+T51	Gene_expression 1042 1052	expression
+E15	Gene_expression:T51 Theme:T26
+T52	Positive_regulation 1074 1082	elevated
+E16	Positive_regulation:T52 Theme:E15
+T53	Positive_regulation 1140 1149	increased
+E17	Positive_regulation:T53 Theme:E15
+T54	Gene_expression 1228 1238	expression
+E18	Gene_expression:T54 Theme:T30
+T55	Positive_regulation 1292 1301	increased
+E19	Positive_regulation:T55 Cause:E18 Theme:E20
+T56	Cell_proliferation 1322 1335	proliferation
+E20	Cell_proliferation:T56 Theme:T32
+T57	Positive_regulation 1355 1363	enhanced
+E21	Positive_regulation:T57 Cause:E18 Theme:E22
+T58	Cell_transformation 1389 1403	transformation
+E22	Cell_transformation:T58 Theme:T33
+T59	Positive_regulation 1481 1490	inducible
+E23	Positive_regulation:T59 Cause:T35 Theme:T34
+T60	Regulation 1505 1527	play an important role
+E24	Regulation:T60 Cause:T34 Theme:E25
+T61	Carcinogenesis 1556 1570	carcinogenesis
+E25	Carcinogenesis:T61 AtLoc:T36

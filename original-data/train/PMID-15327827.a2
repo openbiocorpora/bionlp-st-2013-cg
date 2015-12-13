@@ -1,0 +1,28 @@
+T21	Pathway 32 50	signaling networks
+E1	Pathway:T21 Participant:T2
+E2	Pathway:T21 Participant:T1
+T22	Negative_regulation 175 183	protects
+E3	Negative_regulation:T22 Theme:E4 Cause:T3
+T23	Cell_transformation 207 221	transformation
+E4	Cell_transformation:T23 Theme:T5
+T24	Positive_regulation 266 273	leading
+E5	Positive_regulation:T24 Theme:E6 Cause:T6
+T25	Cell_death 294 303	apoptosis
+E6	Cell_death:T25 
+T26	Planned_process 391 399	cultured
+E7	Planned_process:T26 Theme:T8
+T27	Planned_process 411 420	treatment
+E8	Planned_process:T27 Theme:T8
+T28	Breakdown 504 512	damaging
+E9	Breakdown:T28 Theme:T10
+T29	Negative_regulation 567 578	suppressive
+E10	Negative_regulation:T29 Cause:T12 Theme:T11
+T30	Localization 641 649	arriving
+E11	Localization:T30 Theme:T12 ToLoc:T14
+T31	Regulation 822 838	plays a key role
+E12	Regulation:T31 Cause:T16 Theme:T17
+E13	Regulation:T31 Cause:T16 Theme:E15
+T32	Development 899 912	developmental
+E14	Development:T32 Theme:T19
+T33	Regulation 913 920	effects
+E15	Regulation:T33 Theme:E14 Cause:T18

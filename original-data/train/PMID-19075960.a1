@@ -1,0 +1,35 @@
+T1	Gene_or_gene_product 0 4	VEGF
+T2	Gene_or_gene_product 6 20	angiopoietin-1
+T3	Gene_or_gene_product 25 27	-2
+T4	Multi-tissue_structure 74 80	airway
+T5	Multi-tissue_structure 98 111	microvascular
+T6	Multi-tissue_structure 124 130	Airway
+T7	Multi-tissue_structure 148 161	microvascular
+T8	Gene_or_gene_product 301 335	Vascular endothelial growth factor
+T9	Gene_or_gene_product 337 341	VEGF
+T10	Cell 398 414	endothelial cell
+T11	Gene_or_gene_product 541 561	angiopoietin (Ang)-1
+T12	Gene_or_gene_product 566 568	-2
+T13	Gene_or_gene_product 594 598	VEGF
+T14	Gene_or_gene_product 600 605	Ang-1
+T15	Cell 662 679	endothelial cells
+T16	Gene_or_gene_product 701 706	Ang-1
+T17	Gene_or_gene_product 711 715	VEGF
+T18	Gene_or_gene_product 773 777	VEGF
+T19	Gene_or_gene_product 779 784	Ang-2
+T20	Tissue 817 826	capillary
+T21	Cellular_component 855 867	basal lamina
+T22	Cell 900 917	endothelial cells
+T23	Multi-tissue_structure 951 964	blood vessels
+T24	Gene_or_gene_product 972 976	VEGF
+T25	Gene_or_gene_product 978 983	Ang-1
+T26	Gene_or_gene_product 988 990	-2
+T27	Multi-tissue_structure 1039 1045	airway
+T28	Multi-tissue_structure 1063 1076	microvascular
+T29	Gene_or_gene_product 1285 1289	VEGF
+T30	Gene_or_gene_product 1294 1307	angiopoietins
+T31	Multi-tissue_structure 1325 1332	airways
+T32	Gene_or_gene_product 1512 1516	VEGF
+T33	Gene_or_gene_product 1580 1584	VEGF
+T34	Immaterial_anatomical_entity 1588 1601	intracellular
+T35	Gene_or_gene_product 1693 1697	VEGF

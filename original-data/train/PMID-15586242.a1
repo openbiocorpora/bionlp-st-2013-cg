@@ -1,0 +1,20 @@
+T1	Gene_or_gene_product 44 48	Tie2
+T2	Gene_or_gene_product 127 153	Hypoxia-inducible factor-1
+T3	Gene_or_gene_product 155 160	HIF-1
+T4	Simple_chemical 315 321	oxygen
+T5	Gene_or_gene_product 360 365	HIF-1
+T6	Gene_or_gene_product 461 465	VEGF
+T7	Cancer 660 665	tumor
+T8	Organism 826 831	human
+T9	Gene_or_gene_product 832 836	VEGF
+T10	Gene_or_gene_product 855 859	Tie2
+T11	Gene_or_gene_product 861 866	sTie2
+T12	Gene_or_gene_product 886 890	SV40
+T13	Gene_or_gene_product 907 911	SV40
+T14	Gene_or_gene_product 912 917	sTie2
+T15	Gene_or_gene_product 968 973	sTie2
+T16	Tissue 996 1000	tube
+T17	Cell 1039 1056	endothelial cells
+T18	Gene_or_gene_product 1115 1119	SV40
+T19	Gene_or_gene_product 1120 1125	sTie2
+T20	Cancer 1170 1175	tumor

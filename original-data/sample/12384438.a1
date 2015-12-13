@@ -1,0 +1,42 @@
+T2	Gene_or_gene_product 23 69	tissue inhibitor of matrix metalloproteinase-3
+T6	Tissue 89 98	capillary
+T8	Cancer 126 131	tumor
+T10	Cellular_component 184 204	extracellular matrix
+T19	Cellular_component 497 514	basement membrane
+T20	Cellular_component 519 539	extracellular matrix
+T23	Cancer 560 565	tumor
+T29	Gene_or_gene_product 794 800	TIMP-3
+T30	Cell 811 824	neuroblastoma
+T31	Cell 829 849	melanoma tumor cells
+T35	Cell 981 992	tumor cells
+T37	Cancer 1114 1120	tumors
+T38	Multi-tissue_structure 1144 1159	feeding vessels
+T39	Cancer 1206 1212	tumors
+T41	Gene_or_gene_product 1228 1234	TIMP-3
+T42	Cell 1262 1287	CD31(+) endothelial cells
+T43	Gene_or_gene_product 1262 1266	CD31
+T44	Cell 1295 1312	endothelial cells
+T46	Tissue 1339 1346	tubules
+T49	Multi-tissue_structure 1374 1380	vessel
+T52	Cell 1404 1412	pericyte
+T55	Gene_or_gene_product 1498 1532	vascular endothelial (VE)-cadherin
+T56	Cell 1536 1553	endothelial cells
+T57	Gene_or_gene_product 1573 1579	TIMP-3
+T59	Gene_or_gene_product 1621 1627	TIMP-3
+T60	Cancer 1643 1649	tumors
+T62	Gene_or_gene_product 1716 1722	TIMP-3
+T66	Cancer 1763 1768	tumor
+T68	Gene_or_gene_product 1816 1822	TIMP-3
+T71	Tissue 1882 1891	capillary
+T3	Cancer 151 156	tumor
+T1000	Organism 144 150	murine
+T1001	Organism 804 810	murine
+T1002	Organism 1036 1040	mice
+T12	Gene_or_gene_product 324 349	matrix metalloproteinases
+T14	Gene_or_gene_product 351 355	MMPs
+T15	Gene_or_gene_product 370 416	tissue inhibitors of matrix metalloproteinases
+T16	Gene_or_gene_product 418 423	TIMPs
+T18	Gene_or_gene_product 443 446	MMP
+T26	Gene_or_gene_product 653 656	MMP
+T32	Gene_or_gene_product 893 898	TIMPs
+T75	Cancer 600 605	tumor

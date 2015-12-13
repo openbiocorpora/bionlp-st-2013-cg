@@ -1,0 +1,21 @@
+T1	Cancer 15 20	tumor
+T2	Gene_or_gene_product 61 67	mel-18
+T3	Cell 71 80	3Y1 cells
+T4	Gene_or_gene_product 100 102	E6
+T5	Gene_or_gene_product 107 109	E7
+T6	Organism 119 147	human papillomavirus type 18
+T7	Organism 193 196	rat
+T8	Cell 197 223	embryonic fibroblast cells
+T9	Organism 280 283	rat
+T10	Cell 284 293	3Y1 cells
+T11	Gene_or_gene_product 313 315	E6
+T12	Gene_or_gene_product 320 322	E7
+T13	Organism 332 360	human papillomavirus type 18
+T14	Organism 362 367	HPV18
+T15	Gene_or_gene_product 426 429	N56
+T16	Cancer 451 456	tumor
+T17	Cell 471 492	transformed 3Y1 cells
+T18	Gene_or_gene_product 531 533	E6
+T19	Gene_or_gene_product 538 540	E7
+T20	Organism 662 671	mammalian
+T21	Gene_or_gene_product 693 699	mel-18

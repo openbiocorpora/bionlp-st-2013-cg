@@ -1,0 +1,74 @@
+*	Equiv T7 T8
+*	Equiv T9 T10 T11
+T52	Pathway 15 32	signaling pathway
+E1	Pathway:T52 Participant:T1 Participant2:T2
+T53	Negative_regulation 162 172	activities
+E2	Negative_regulation:T53 Cause:T7 Theme:T6
+T54	Positive_regulation 211 220	induction
+E3	Positive_regulation:T54 Cause:E2 Theme:E4
+T55	Cell_death 224 233	apoptosis
+E4	Cell_death:T55 
+T56	Positive_regulation 300 310	initiating
+E5	Positive_regulation:T56 Theme:E6 Cause:T9
+T57	Cell_death 314 341	apoptosis signaling pathway
+E6	Cell_death:T57 
+T58	Binding 347 352	bound
+E7	Binding:T58 Theme:T13 Theme2:T9
+T59	Positive_regulation 436 444	mediated
+E8	Positive_regulation:T59 Theme:E10 Cause:T14
+E9	Positive_regulation:T59 Theme:E10 Cause:T15
+T60	Cell_death 445 454	apoptosis
+E10	Cell_death:T60 
+T61	Regulation 455 467	plays a role
+E11	Regulation:T61 Cause:E10 Theme:E13
+M1	Speculation E11
+T62	Positive_regulation 477 484	induced
+E12	Positive_regulation:T62 Cause:T16 Theme:E13
+T63	Negative_regulation 491 501	regression
+E13	Negative_regulation:T63 Theme:T17
+T64	Gene_expression 522 532	expression
+E14	Gene_expression:T64 Theme:T18
+T65	Gene_expression 587 594	express
+E15	Gene_expression:T65 Theme:T21
+T66	Regulation 662 669	Control
+E16	Regulation:T66 Theme:T23
+T67	Planned_process 703 714	transfected
+E17	Planned_process:T67 Instrument:T25 Theme:T24
+T68	Planned_process 748 758	inoculated
+E18	Planned_process:T68 Instrument:T26 Theme:T29
+T69	Gene_expression 939 949	expression
+E19	Gene_expression:T69 Theme:T31 Theme2:T32
+M2	Speculation E19
+T70	Cell_death 1002 1011	apoptotic
+E20	Cell_death:T70 Theme:T33
+T71	Gene_expression 1034 1044	expressing
+E21	Gene_expression:T71 Theme:T34
+T72	Planned_process 1075 1087	transplanted
+E22	Planned_process:T72 Instrument:T35 Theme:T36
+T73	Growth 1107 1111	grew
+E23	Growth:T73 Theme:T36
+T74	Death 1195 1203	survival
+E24	Death:T74 Theme:T39
+M3	Negation E24
+T75	Death 1273 1281	survival
+E25	Death:T75 Theme:T40
+M4	Negation E25
+T76	Planned_process 1291 1303	transplanted
+E26	Planned_process:T76 Instrument:T41 Theme:T40
+T77	Cell_death 1346 1355	Apoptotic
+E27	Cell_death:T77 Theme:T42
+T78	Positive_regulation 1468 1477	increased
+E28	Positive_regulation:T78 Theme:T44
+E29	Positive_regulation:T78 Theme:T45
+T79	Positive_regulation 1662 1670	mediated
+E30	Positive_regulation:T79 Theme:E32 Cause:T49
+E31	Positive_regulation:T79 Theme:E32 Cause:T48
+T80	Cell_death 1671 1688	apoptosis pathway
+E32	Cell_death:T80 
+T81	Regulation 1693 1703	contribute
+E33	Regulation:T81 Cause:E32 Theme:E35
+M5	Speculation E33
+T82	Positive_regulation 1717 1724	induced
+E34	Positive_regulation:T82 Cause:T50 Theme:E35
+T83	Death 1725 1734	rejection
+E35	Death:T83 Theme:T51

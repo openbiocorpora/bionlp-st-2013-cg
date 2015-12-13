@@ -1,0 +1,40 @@
+T1	Gene_or_gene_product 0 4	Pbx1
+T2	Gene_or_gene_product 31 36	Evi-1
+T3	Cell 40 58	hematopoietic stem
+T4	Cell 59 70	progenitors
+T5	Cell 75 89	leukemic cells
+T6	Gene_or_gene_product 92 126	Ecotropic viral integration site-1
+T7	Gene_or_gene_product 128 133	Evi-1
+T8	Cellular_component 140 147	nuclear
+T9	Cell 226 250	hematopoietic stem cells
+T10	Cell 252 256	HSCs
+T11	Gene_or_gene_product 282 287	Evi-1
+T12	Cancer 317 333	myeloid leukemia
+T13	Organism 365 372	patient
+T14	Gene_or_gene_product 431 436	Evi-1
+T15	Cell 447 451	HSCs
+T16	Cell 456 470	leukemic cells
+T17	Gene_or_gene_product 542 546	Pbx1
+T18	Pathological_formation 568 592	hematopoietic malignancy
+T19	Gene_or_gene_product 614 619	Evi-1
+T20	Gene_or_gene_product 639 644	Evi-1
+T21	Gene_or_gene_product 655 659	Pbx1
+T22	Cell 674 692	hematopoietic stem
+T23	Cell 693 709	progenitor cells
+T24	Gene_or_gene_product 730 734	Pbx1
+T25	Gene_or_gene_product 765 770	Evi-1
+T26	Gene_or_gene_product 783 787	Pbx1
+T27	Gene_or_gene_product 829 833	Pbx1
+T28	Gene_or_gene_product 897 902	Evi-1
+T29	Gene_or_gene_product 953 957	Pbx1
+T30	Multi-tissue_structure 973 984	bone marrow
+T31	Gene_or_gene_product 1003 1006	E2A
+T32	Gene_or_gene_product 1007 1010	HLF
+T33	Gene_or_gene_product 1014 1018	AML1
+T34	Gene_or_gene_product 1019 1022	ETO
+T35	Gene_or_gene_product 1040 1044	Pbx1
+T36	Multi-tissue_structure 1093 1104	bone marrow
+T37	Gene_or_gene_product 1132 1137	Evi-1
+T38	Gene_or_gene_product 1167 1171	Pbx1
+T39	Gene_or_gene_product 1192 1197	Evi-1
+T40	Gene_or_gene_product 1210 1215	Evi-1

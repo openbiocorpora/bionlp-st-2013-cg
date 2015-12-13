@@ -1,0 +1,49 @@
+T1	Simple_chemical 0 21	Lysophosphatidic acid
+T2	Gene_or_gene_product 36 74	tissue inhibitor of metalloproteinases
+T3	Simple_chemical 109 130	lysophosphatidic acid
+T4	Cell 139 143	cell
+T5	Cancer 155 169	Ovarian cancer
+T6	Simple_chemical 202 223	Lysophosphatidic acid
+T7	Simple_chemical 225 228	LPA
+T8	Organism_substance 253 260	ascites
+T9	Cancer 266 280	ovarian cancer
+T10	Organism 281 289	patients
+T11	Cancer 317 331	ovarian cancer
+T12	Simple_chemical 401 404	LPA
+T13	Cell 436 456	ovarian cancer cells
+T14	Cell 466 484	ovarian epithelial
+T15	Cell 488 518	borderline ovarian tumor cells
+T16	Cell 535 547	benign cells
+T17	Simple_chemical 566 569	LPA
+T18	Cell 573 577	cell
+T19	Simple_chemical 608 611	LPA
+T20	Gene_or_gene_product 626 664	tissue inhibitor of metalloproteinases
+T21	Gene_or_gene_product 666 671	TIMPs
+T22	Gene_or_gene_product 674 679	TIMP2
+T23	Gene_or_gene_product 684 689	TIMP3
+T24	Simple_chemical 714 717	LPA
+T25	Gene_or_gene_product 759 763	G(i)
+T26	Gene_or_gene_product 773 802	phosphatidylinositol-3 kinase
+T27	Gene_or_gene_product 804 808	PI3K
+T28	Gene_or_gene_product 811 847	p38 mitogen-activated protein kinase
+T29	Gene_or_gene_product 849 853	MAPK
+T30	Organism_substance 856 865	cytosolic
+T31	Gene_or_gene_product 866 884	phospholipase A(2)
+T32	Gene_or_gene_product 889 925	urokinase type plasminogen activator
+T33	Gene_or_gene_product 927 930	uPA
+T34	Simple_chemical 949 952	LPA
+T35	Cell 961 966	cells
+T36	Gene_or_gene_product 977 982	TIMP3
+T37	Gene_or_gene_product 1030 1073	vascular endothelial growth factor receptor
+T38	Gene_or_gene_product 1078 1086	p38 MAPK
+T39	Simple_chemical 1097 1100	LPA
+T40	Cancer 1112 1117	tumor
+T41	Cancer 1146 1159	ovarian tumor
+T42	Gene_or_gene_product 1195 1199	PI3K
+T43	Simple_chemical 1211 1219	LY294002
+T44	Simple_chemical 1233 1236	LPA
+T45	Organ 1277 1284	ovarian
+T46	Simple_chemical 1305 1308	LPA
+T47	Gene_or_gene_product 1323 1328	TIMP3
+T48	Organism 1407 1412	mouse
+T49	Cancer 1481 1495	ovarian cancer

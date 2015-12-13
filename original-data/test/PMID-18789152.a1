@@ -1,0 +1,47 @@
+T1	Simple_chemical 15 24	docetaxel
+T2	Simple_chemical 63 86	all-trans retinoic acid
+T3	Simple_chemical 88 92	ATRA
+T4	Gene_or_gene_product 120 128	survivin
+T5	Gene_or_gene_product 130 135	BIRC5
+T6	Gene_or_gene_product 138 143	MCL-1
+T7	Gene_or_gene_product 148 156	LTbeta-R
+T8	Cell 188 213	prostate cancer cell line
+T9	Cell 215 221	DU-145
+T10	Cancer 254 288	hormone-refractory prostate cancer
+T11	Cancer 290 294	HRPC
+T12	Simple_chemical 364 373	Docetaxel
+T13	Simple_chemical 422 445	All-trans retinoic acid
+T14	Simple_chemical 447 451	ATRA
+T15	Cell 490 511	prostate cancer cells
+T16	Cancer 558 563	cance
+T17	Simple_chemical 726 735	docetaxel
+T18	Simple_chemical 740 744	ATRA
+T19	Organism 778 783	human
+T20	Cell 784 812	DU-145 prostate cancer cells
+T21	Cell 938 946	XTT cell
+T22	Cellular_component 1032 1035	DNA
+T23	Gene_or_gene_product 1069 1078	caspase 3
+T24	Gene_or_gene_product 1079 1080	7
+T25	Simple_chemical 1165 1174	docetaxel
+T26	Simple_chemical 1175 1179	ATRA
+T27	Simple_chemical 1297 1306	docetaxel
+T28	Simple_chemical 1311 1315	ATRA
+T29	Cell 1364 1376	DU-145 cells
+T30	Cell 1479 1510	DU-145 prostate carcinoma cells
+T31	Simple_chemical 1602 1611	docetaxel
+T32	Simple_chemical 1612 1616	ATRA
+T33	Gene_or_gene_product 1657 1665	survivin
+T34	Gene_or_gene_product 1667 1672	BIRC5
+T35	Gene_or_gene_product 1675 1698	myeloid cell leukemia-1
+T36	Gene_or_gene_product 1700 1705	MCL-1
+T37	Gene_or_gene_product 1711 1736	lymphotoxin beta-receptor
+T38	Gene_or_gene_product 1738 1745	LTbetaR
+T39	Cell 1820 1824	cell
+T40	Simple_chemical 1896 1905	docetaxel
+T41	Simple_chemical 1910 1914	ATRA
+T42	Simple_chemical 2026 2035	docetaxel
+T43	Simple_chemical 2040 2044	ATRA
+T44	Simple_chemical 2072 2081	docetaxel
+T45	Simple_chemical 2117 2126	docetaxel
+T46	Organism 2187 2195	patients
+T47	Cancer 2201 2205	HRPC

@@ -1,0 +1,43 @@
+T1	Gene_or_gene_product 18 24	c-FLIP
+T2	Cell 36 63	DU145 prostate cancer cells
+T3	Gene_or_gene_product 67 70	Fas
+T4	Cell 101 128	DU145 prostate cancer cells
+T5	Gene_or_gene_product 166 169	Fas
+T6	Gene_or_gene_product 190 193	Fas
+T7	Gene_or_gene_product 216 219	Fas
+T8	Gene_or_gene_product 255 259	FasL
+T9	Organism 271 281	adenovirus
+T10	Organism 283 297	AdGFPFasL(TET)
+T11	Cell 413 424	DU145 cells
+T12	Organism 496 510	AdGFPFasL(TET)
+T13	Gene_or_gene_product 540 543	Fas
+T14	Cell 554 559	cells
+T15	Organism 601 615	AdGFPFasL(TET)
+T16	Gene_or_gene_product 653 656	Fas
+T17	Cell 687 698	DU145 cells
+T18	Gene_or_gene_product 729 739	caspases-8
+T19	Gene_or_gene_product 741 743	-3
+T20	Gene_or_gene_product 745 747	-7
+T21	Gene_or_gene_product 753 755	-9
+T22	Gene_or_gene_product 757 760	BID
+T23	Gene_or_gene_product 771 783	cytochrome c
+T24	Cellular_component 797 809	mitochondria
+T25	Gene_or_gene_product 815 819	PARP
+T26	Gene_or_gene_product 858 861	Fas
+T27	Cellular_component 917 932	plasma membrane
+T28	Gene_or_gene_product 959 963	DISC
+T29	Gene_or_gene_product 965 997	death inducing signaling complex
+T30	Gene_or_gene_product 1027 1033	c-FLIP
+T31	Gene_or_gene_product 1035 1073	cellular Flice-like inhibitory protein
+T32	Gene_or_gene_product 1108 1111	Fas
+T33	Gene_or_gene_product 1138 1142	DISC
+T34	Organism 1173 1187	AdGFPFasL(TET)
+T35	Cell 1263 1267	cell
+T36	Gene_or_gene_product 1281 1287	c-FLIP
+T37	Gene_or_gene_product 1333 1339	c-FLIP
+T38	Cell 1354 1365	DU145 cells
+T39	Gene_or_gene_product 1418 1424	c-FLIP
+T40	Gene_or_gene_product 1464 1467	Fas
+T41	Cell 1490 1511	prostate cancer cells
+T42	Gene_or_gene_product 1535 1541	c-FLIP
+T43	Gene_or_gene_product 1554 1557	Fas

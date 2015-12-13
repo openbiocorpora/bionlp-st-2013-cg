@@ -1,0 +1,33 @@
+T1	Organ 9 18	pulmonary
+T2	Cell 72 83	tumor cells
+T3	Organ 91 95	lung
+T4	Anatomical_system 115 126	respiratory
+T5	Cell 188 214	proinflammatory leukocytes
+T6	Cell 283 287	cell
+T7	Cell 378 390	cancer cells
+T8	Cancer 425 440	secondary tumor
+T9	Organ 528 532	lung
+T10	Organ 559 568	pulmonary
+T11	Immaterial_anatomical_entity 609 613	i.v.
+T12	Cell 627 649	B16-F10 melanoma cells
+T13	Organism 653 657	mice
+T14	Organ 702 711	pulmonary
+T15	Organ 759 763	lung
+T16	Gene_or_gene_product 807 810	CD4
+T17	Cell 807 820	CD4(+) T-cell
+T18	Simple_chemical 1030 1045	corticosteroids
+T19	Organ 1085 1094	pulmonary
+T20	Cell 1110 1122	cancer cells
+T21	Cell 1222 1234	cancer cells
+T22	Tissue 1265 1277	lung tissues
+T23	Tissue 1314 1334	vascular endothelium
+T24	Gene_or_gene_product 1351 1360	Galpha(i)
+T25	Cancer 1418 1431	breast cancer
+T26	Organism 1503 1511	patients
+T27	Cancer 1517 1532	lung metastases
+T28	Anatomical_system 1568 1579	respiratory
+T29	Cancer 1644 1659	lung metastases
+T30	Organ 1697 1706	pulmonary
+T31	Cancer 1803 1816	breast cancer
+T32	Organism 1817 1825	patients
+T33	Organ 1836 1840	lung

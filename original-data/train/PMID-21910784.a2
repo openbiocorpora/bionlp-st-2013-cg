@@ -1,0 +1,54 @@
+*	Equiv T9 T10
+*	Equiv T14 T15
+*	Equiv T25 T26
+T39	Planned_process 0 11	Development
+E1	Planned_process:T39 Theme:T1
+T40	Metastasis 44 54	metastasis
+E2	Metastasis:T40 ToLoc:T2 Theme:T3
+T41	Regulation 81 92	Controlling
+E3	Regulation:T41 Theme:E4
+T42	Metastasis 104 114	metastasis
+E4	Metastasis:T42 ToLoc:T4
+T43	Metastasis 170 180	metastasis
+E5	Metastasis:T43 ToLoc:T6
+T44	Regulation 398 420	play an important role
+E6	Regulation:T44 Theme:E7 Cause:T9
+T45	Metastasis 435 445	metastasis
+E7	Metastasis:T45 ToLoc:T11
+T46	Regulation 463 467	role
+E8	Regulation:T46 Cause:T12 Theme:E9
+M1	Speculation E8
+T47	Metastasis 492 502	metastasis
+E9	Metastasis:T47 ToLoc:T13
+T48	Planned_process 507 516	developed
+E10	Planned_process:T48 Instrument:T14
+T49	Localization 604 612	invasive
+E11	Localization:T49 Theme:T16
+M2	Negation E11
+T50	Localization 627 635	secretes
+E12	Localization:T50 Theme:T17 FromLoc:T16
+T51	Planned_process 677 686	injection
+E13	Planned_process:T51 Instrument:T19 Theme:T20
+T52	Positive_regulation 724 732	resulted
+E14	Positive_regulation:T52 Cause:E13 Theme:E15
+T53	Metastasis 767 777	metastasis
+E15	Metastasis:T53 Theme:T21 ToLoc:T22
+T54	Regulation 808 820	contribution
+E16	Regulation:T54 Cause:T23 Theme:E17
+M3	Speculation E16
+T55	Metastasis 845 855	metastasis
+E17	Metastasis:T55 ToLoc:T24
+T56	Planned_process 891 901	introduced
+E18	Planned_process:T56 Theme:T25 Instrument2:T27
+T57	Gene_expression 946 954	produced
+E19	Gene_expression:T57 Theme:T28
+T58	Metastasis 1021 1031	metastases
+E20	Metastasis:T58 ToLoc:T29
+T59	Planned_process 1224 1234	inoculated
+E21	Planned_process:T59 Instrument:T34
+T60	Regulation 1271 1292	plays a critical role
+E22	Regulation:T60 Cause:T36 Theme:E23
+T61	Metastasis 1307 1317	metastasis
+E23	Metastasis:T61 ToLoc:T37
+T62	Metastasis 1430 1440	metastasis
+E24	Metastasis:T62 ToLoc:T38

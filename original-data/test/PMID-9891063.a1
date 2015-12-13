@@ -1,0 +1,42 @@
+T1	Gene_or_gene_product 23 40	von Hippel-Lindau
+T2	Cell 88 109	renal carcinoma cells
+T3	Gene_or_gene_product 137 154	von Hippel-Lindau
+T4	Gene_or_gene_product 156 159	VHL
+T5	Cancer 161 166	tumor
+T6	Gene_or_gene_product 240 243	VHL
+T7	Cancer 263 283	renal cell carcinoma
+T8	Cancer 285 288	RCC
+T9	Cell 328 337	RCC cells
+T10	Gene_or_gene_product 346 349	VHL
+T11	Cell 377 386	RCC cells
+T12	Gene_or_gene_product 412 415	VHL
+T13	Gene_or_gene_product 424 427	VHL
+T14	Gene_or_gene_product 527 530	VHL
+T15	Simple_chemical 544 551	glucose
+T16	Cell 604 613	RCC cells
+T17	Gene_or_gene_product 622 625	VHL
+T18	Gene_or_gene_product 651 654	VHL
+T19	Cell 666 671	cells
+T20	Gene_or_gene_product 703 706	VHL
+T21	Cell 717 722	cells
+T22	Simple_chemical 797 804	glucose
+T23	Gene_or_gene_product 858 861	VHL
+T24	Cell 872 877	cells
+T25	Simple_chemical 1086 1097	tunicamycin
+T26	Simple_chemical 1099 1110	brefeldin A
+T27	Simple_chemical 1116 1125	azetidine
+T28	Gene_or_gene_product 1169 1172	VHL
+T29	Cell 1183 1188	cells
+T30	Cell 1221 1229	cellular
+T31	Gene_or_gene_product 1255 1258	VHL
+T32	Cell 1269 1274	cells
+T33	Simple_chemical 1295 1302	glucose
+T34	Gene_or_gene_product 1342 1345	VHL
+T35	Gene_or_gene_product 1354 1363	ubiquitin
+T36	Cell 1457 1462	cells
+T37	Gene_or_gene_product 1484 1487	VHL
+T38	Gene_or_gene_product 1503 1506	VHL
+T39	Cell 1518 1523	cells
+T40	Gene_or_gene_product 1531 1535	pVHL
+T41	Cell 1633 1637	cell
+T42	Simple_chemical 1667 1674	glucose

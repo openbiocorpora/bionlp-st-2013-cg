@@ -1,0 +1,46 @@
+T1	Gene_or_gene_product 0 21	Nitric oxide synthase
+T2	Cancer 61 67	tumour
+T3	Simple_chemical 82 91	melphalan
+T4	Gene_or_gene_product 96 124	tumour necrosis factor alpha
+T5	Organism_subdivision 140 144	limb
+T6	Simple_chemical 157 169	Nitric oxide
+T7	Simple_chemical 171 173	NO
+T8	Cancer 214 220	tumour
+T9	Organism_substance 221 226	blood
+T10	Cancer 248 254	tumour
+T11	Gene_or_gene_product 283 294	NO synthase
+T12	Simple_chemical 298 304	L-NAME
+T13	Cancer 326 332	tumour
+T14	Simple_chemical 366 372	oxygen
+T15	Tissue 382 395	tumour tissue
+T16	Multi-tissue_structure 409 417	vascular
+T17	Cancer 435 441	tumour
+T18	Simple_chemical 452 458	L-NAME
+T19	Cancer 506 544	renal subcapsular CC531 adenocarcinoma
+T20	Organism 554 558	rats
+T21	Simple_chemical 597 603	L-NAME
+T22	Gene_or_gene_product 625 628	TNF
+T23	Simple_chemical 633 642	melphalan
+T24	Organism_subdivision 671 675	limb
+T25	Cancer 704 730	BN175 soft-tissue sarcomas
+T26	Simple_chemical 756 762	L-NAME
+T27	Cancer 783 797	adenocarcinoma
+T28	Organ 844 849	renal
+T29	Cancer 876 882	tumour
+T30	Simple_chemical 908 914	L-NAME
+T31	Gene_or_gene_product 951 954	TNF
+T32	Simple_chemical 958 967	melphalan
+T33	Simple_chemical 969 975	L-NAME
+T34	Simple_chemical 1046 1052	L-NAME
+T35	Cancer 1104 1110	tumour
+T36	Simple_chemical 1140 1146	L-NAME
+T37	Simple_chemical 1191 1200	melphalan
+T38	Gene_or_gene_product 1205 1208	TNF
+T39	Gene_or_gene_product 1262 1273	NO synthase
+T40	Cancer 1282 1288	tumour
+T41	Cancer 1365 1371	tumour
+T42	Simple_chemical 1382 1388	L-NAME
+T43	Simple_chemical 1421 1430	melphalan
+T44	Gene_or_gene_product 1438 1441	TNF
+T45	Simple_chemical 1495 1501	L-NAME
+T46	Cancer 1529 1536	tumours

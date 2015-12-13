@@ -1,0 +1,33 @@
+*	Equiv T4 T5
+T21	Blood_vessel_development 35 47	angiogenesis
+E1	Blood_vessel_development:T21 
+T22	Blood_vessel_development 85 95	Angiogenic
+E2	Blood_vessel_development:T22 
+T23	Blood_vessel_development 283 295	angiogenesis
+E3	Blood_vessel_development:T23 
+T24	Blood_vessel_development 534 546	angiogenesis
+E4	Blood_vessel_development:T24 
+T25	Localization 601 609	presence
+E5	Localization:T25 Theme:T12
+E6	Localization:T25 Theme:T13
+T26	Blood_vessel_development 665 675	angiogenic
+E7	Blood_vessel_development:T26 
+T27	Development 765 774	formation
+E8	Development:T27 Theme:T15
+T28	Positive_regulation 782 793	accelerated
+E9	Positive_regulation:T28 Theme:E10
+T29	Growth 801 807	growth
+E10	Growth:T29 Theme:T16
+T30	Blood_vessel_development 878 888	angiogenic
+E11	Blood_vessel_development:T30 
+T31	Regulation 947 956	translate
+E12	Regulation:T31 Theme:E13 Cause:T17
+M1	Negation E12
+M2	Speculation E12
+T32	Development 973 982	formation
+E13	Development:T32 Theme:T18
+T33	Regulation 1031 1038	reflect
+E14	Regulation:T33 Cause:T17 Theme:E15
+M3	Speculation E14
+T34	Breakdown 1039 1051	disturbances
+E15	Breakdown:T34 Theme:T20

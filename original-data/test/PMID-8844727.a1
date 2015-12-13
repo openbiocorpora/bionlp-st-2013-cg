@@ -1,0 +1,50 @@
+T1	Simple_chemical 0 8	Curcumin
+T2	Cell 43 50	NIH 3T3
+T3	Cell 55 82	malignant cancer cell lines
+T4	Simple_chemical 85 93	Curcumin
+T5	Cancer 199 204	tumor
+T6	Organism 218 223	mouse
+T7	Organ 224 228	skin
+T8	Simple_chemical 260 268	curcumin
+T9	Cell 277 281	cell
+T10	Cellular_component 293 302	chromatin
+T11	Cellular_component 321 324	DNA
+T12	Organism 386 391	mouse
+T13	Developing_anatomical_structure 392 398	embryo
+T14	Cell 399 417	fibroblast NIH 3T3
+T15	Gene_or_gene_product 418 424	erb B2
+T16	Cell 446 453	NIH 3T3
+T17	Organism 455 460	mouse
+T18	Cell 461 473	sarcoma S180
+T19	Organism 475 480	human
+T20	Cell 481 504	colon cancer cell HT-29
+T21	Organism 506 511	human
+T22	Cell 512 534	kidney cancer cell 293
+T23	Organism 540 545	human
+T24	Cell 546 583	hepatocellular carcinoma Hep G2 cells
+T25	Cell 596 611	primary culture
+T26	Organism 615 620	mouse
+T27	Cell 621 652	embryonic fibroblast C3H 10T1/2
+T28	Organism 654 657	rat
+T29	Cell 658 678	embryonic fibroblast
+T30	Organism 684 689	human
+T31	Cell 690 715	foreskin fibroblast cells
+T32	Cell 768 776	cellular
+T33	Simple_chemical 804 812	curcumin
+T34	Organism 816 821	mouse
+T35	Cell 822 838	fibroblast cells
+T36	Gene_or_gene_product 881 897	protein kinase C
+T37	Gene_or_gene_product 899 902	PKC
+T38	Simple_chemical 924 955	phorbol 12-myristate 13-acetate
+T39	Amino_acid 981 989	tyrosine
+T40	Simple_chemical 1033 1049	arachidonic acid
+T41	Simple_chemical 1051 1053	AA
+T42	Cell 1080 1093	NIH 3T3 cells
+T43	Gene_or_gene_product 1103 1106	PKC
+T44	Simple_chemical 1117 1130	staurosporine
+T45	Simple_chemical 1162 1174	herbimycin A
+T46	Simple_chemical 1184 1186	AA
+T47	Simple_chemical 1208 1218	quinacrine
+T48	Cell 1237 1241	cell
+T49	Cell 1314 1319	cells
+T50	Cell 1334 1342	cellular

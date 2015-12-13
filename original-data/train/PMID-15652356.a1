@@ -1,0 +1,39 @@
+T1	Gene_or_gene_product 0 10	HIF-2alpha
+T2	Organism 25 30	human
+T3	Cell 31 48	fetal paraganglia
+T4	Cancer 53 66	neuroblastoma
+T5	Simple_chemical 109 116	glucose
+T6	Cancer 142 154	Solid tumors
+T7	Cell 220 231	Tumor cells
+T8	Gene_or_gene_product 316 341	hypoxia-inducible factors
+T9	Gene_or_gene_product 343 353	HIF-1alpha
+T10	Gene_or_gene_product 357 363	3alpha
+T11	Gene_or_gene_product 366 370	HIFs
+T12	Gene_or_gene_product 430 440	HIF-2alpha
+T13	Organism 520 526	murine
+T14	Anatomical_system 527 553	sympathetic nervous system
+T15	Anatomical_system 555 558	SNS
+T16	Gene_or_gene_product 587 597	HIF-2alpha
+T17	Organism 632 637	human
+T18	Developing_anatomical_structure 638 643	fetal
+T19	Cell 653 668	SNS paraganglia
+T20	Cancer 670 683	Neuroblastoma
+T21	Developing_anatomical_structure 700 714	SNS precursors
+T22	Cancer 731 745	neuroblastomas
+T23	Cell 761 769	neuronal
+T24	Cell 773 787	neuroendocrine
+T25	Tissue 832 846	necrotic zones
+T26	Gene_or_gene_product 851 861	HIF-2alpha
+T27	Simple_chemical 1002 1009	glucose
+T28	Gene_or_gene_product 1025 1035	HIF-2alpha
+T29	Cancer 1043 1056	neuroblastoma
+T30	Gene_or_gene_product 1068 1078	HIF-2alpha
+T31	Cell 1126 1145	neuroblastoma cells
+T32	Tissue 1150 1156	tissue
+T33	Developing_anatomical_structure 1186 1195	embryonic
+T34	Cell 1238 1251	hypoxic cells
+T35	Cell 1263 1271	neuronal
+T36	Cell 1272 1286	neuroendocrine
+T37	Simple_chemical 1392 1399	glucose
+T38	Cancer 1483 1497	neuroblastomas
+T39	Gene_or_gene_product 1629 1639	HIF-2alpha

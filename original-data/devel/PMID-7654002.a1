@@ -1,0 +1,42 @@
+T1	Cell 11 37	NIH 3T3 x LTA cell hybrids
+T2	Gene_or_gene_product 46 72	72 kDa type IV collagenase
+T3	Organism 107 113	murine
+T4	Cell 114 138	fibroblast cell line LTA
+T5	Gene_or_gene_product 213 218	H-ras
+T6	Cell 242 255	NIH 3T3 cells
+T7	Gene_or_gene_product 284 287	ras
+T8	Gene_or_gene_product 343 346	ras
+T9	Cell 348 368	Somatic cell hybrids
+T10	Cell 377 380	LTA
+T11	Cell 385 398	NIH 3T3 cells
+T12	Gene_or_gene_product 431 434	ras
+T13	Gene_or_gene_product 478 498	type IV collagenases
+T14	Cell 511 514	LTA
+T15	Cell 519 532	NIH 3T3 cells
+T16	Gene_or_gene_product 551 554	ras
+T17	Cell 576 597	LTA x NIH 3T3 hybrids
+T18	Gene_or_gene_product 621 624	ras
+T19	Cell 636 657	NIH 3T3-derived cells
+T20	Gene_or_gene_product 667 673	72 kDa
+T21	Gene_or_gene_product 678 695	92 kDa gelatinase
+T22	Cell 712 715	LTA
+T23	Cell 724 729	cells
+T24	Gene_or_gene_product 772 778	90 kDa
+T25	Cell 842 849	hybrids
+T26	Gene_or_gene_product 860 880	60-72 kDa gelatinase
+T27	Gene_or_gene_product 920 926	92 kDa
+T28	Gene_or_gene_product 961 967	92 kDa
+T29	Cell 1015 1022	hybrids
+T30	Gene_or_gene_product 1057 1074	72 kDa gelatinase
+T31	Tissue 1094 1100	tissue
+T32	Gene_or_gene_product 1135 1141	TIMP-1
+T33	Gene_or_gene_product 1143 1149	TIMP-2
+T34	Gene_or_gene_product 1214 1234	type IV collagenases
+T35	Organism 1330 1335	mouse
+T36	Gene_or_gene_product 1336 1362	72 kDa type IV collagenase
+T37	Cell 1409 1414	cells
+T38	Cell 1471 1485	LTA cell lines
+T39	Cell 1518 1523	cells
+T40	Cell 1581 1588	hybrids
+T41	Cell 1626 1635	LTA cells
+T42	Gene_or_gene_product 1667 1693	72 kDa type IV collagenase

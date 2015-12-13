@@ -1,0 +1,17 @@
+T1	Gene_or_gene_product 38 47	anti-VEGF
+T2	Cancer 118 124	cancer
+T3	Gene_or_gene_product 185 189	VEGF
+T4	Cancer 226 231	tumor
+T5	Gene_or_gene_product 345 354	anti-VEGF
+T6	Cancer 395 400	tumor
+T7	Cancer 421 433	malignancies
+T8	Gene_or_gene_product 698 702	VEGF
+T9	Simple_chemical 728 739	bevacizumab
+T10	Gene_or_gene_product 787 796	anti-VEGF
+T11	Simple_chemical 875 886	bevacizumab
+T12	Simple_chemical 1007 1018	bevacizumab
+T13	Organism 1031 1039	patients
+T14	Cancer 1054 1066	colon cancer
+T15	Gene_or_gene_product 1081 1090	anti-VEGF
+T16	Cancer 1131 1137	cancer
+T17	Cancer 1198 1208	malignancy

@@ -1,0 +1,33 @@
+T1	Gene_or_gene_product 8 16	thrombin
+T2	Cancer 37 42	tumor
+T3	Cancer 201 207	cancer
+T4	Organism 208 216	patients
+T5	Cancer 245 250	tumor
+T6	Gene_or_gene_product 302 310	thrombin
+T7	Cancer 367 372	tumor
+T8	Gene_or_gene_product 425 431	fibrin
+T9	Cell 450 458	cellular
+T10	Gene_or_gene_product 481 489	thrombin
+T11	Gene_or_gene_product 541 549	Thrombin
+T12	Cell 575 592	endothelial cells
+T13	Cellular_component 606 623	basement membrane
+T14	Gene_or_gene_product 639 647	Thrombin
+T15	Gene_or_gene_product 668 702	vascular endothelial growth factor
+T16	Gene_or_gene_product 705 709	VEGF
+T17	Cell 720 736	endothelial cell
+T18	Gene_or_gene_product 823 827	VEGF
+T19	Gene_or_gene_product 839 879	kinase insert domain-containing receptor
+T20	Gene_or_gene_product 881 884	KDR
+T21	Gene_or_gene_product 890 914	fms-like tyrosine kinase
+T22	Gene_or_gene_product 916 921	Flt-1
+T23	Gene_or_gene_product 930 938	Thrombin
+T24	Gene_or_gene_product 980 1006	alpha (v)beta (3) integrin
+T25	Gene_or_gene_product 1061 1069	thrombin
+T26	Gene_or_gene_product 1097 1101	VEGF
+T27	Gene_or_gene_product 1155 1179	matrix metalloprotease-9
+T28	Gene_or_gene_product 1184 1210	alpha (v)beta (3) integrin
+T29	Organism 1214 1219	human
+T30	Cell 1220 1246	prostate cancer PC-3 cells
+T31	Cancer 1295 1300	tumor
+T32	Gene_or_gene_product 1321 1329	thrombin
+T33	Gene_or_gene_product 1371 1388	thrombin receptor

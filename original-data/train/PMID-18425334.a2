@@ -1,0 +1,54 @@
+T29	Positive_regulation 9 17	mediated
+E1	Positive_regulation:T29 Cause:T2 Theme:E2
+T30	Negative_regulation 22 34	inactivation
+E2	Negative_regulation:T30 Theme:T3
+T31	Positive_regulation 73 83	activation
+E3	Positive_regulation:T31 Theme:T4
+T32	Negative_regulation 84 90	delays
+E4	Negative_regulation:T32 Theme:E6 Cause:E3
+E5	Negative_regulation:T32 Theme:E6 Cause:E2
+T33	Carcinogenesis 106 119	tumorigenesis
+E6	Carcinogenesis:T33 AtLoc:T5
+T34	Carcinogenesis 309 330	tumorigenic processes
+E7	Carcinogenesis:T34 
+T35	Regulation 389 393	role
+E8	Regulation:T35 Cause:T8 Theme:E10
+M1	Speculation E8
+T36	Positive_regulation 453 460	induced
+E9	Positive_regulation:T36 Cause:T9 Theme:E10
+T37	Carcinogenesis 476 489	tumorigenesis
+E10	Carcinogenesis:T37 AtLoc:T10
+T38	Gene_expression 514 528	overexpression
+T39	Positive_regulation 514 528	overexpression
+E11	Gene_expression:T38 Theme:T11
+E12	Positive_regulation:T39 Theme:E11
+T40	Positive_regulation 577 583	result
+E13	Positive_regulation:T40 Theme:T13 Cause:E12
+T41	Positive_regulation 662 670	mediated
+E14	Positive_regulation:T41 Cause:T16 Theme:E15
+T42	Negative_regulation 671 683	inactivation
+E15	Negative_regulation:T42 Theme:T17
+T43	Positive_regulation 699 703	over
+E16	Positive_regulation:T43 Theme:E17
+M2	Negation E16
+T44	Gene_expression 704 714	expression
+E17	Gene_expression:T44 Theme:T18
+T45	Positive_regulation 887 896	activated
+E18	Positive_regulation:T45 Theme:T22
+T46	Mutation 913 929	genetic ablation
+E19	Mutation:T46 Theme:T23
+T47	Gene_expression 959 973	overexpression
+T48	Positive_regulation 959 973	overexpression
+E20	Gene_expression:T47 Theme:T24
+E21	Positive_regulation:T48 Theme:E20
+T49	Negative_regulation 1041 1046	delay
+E22	Negative_regulation:T49 Theme:E24 Cause:E21
+E23	Negative_regulation:T49 Theme:E24 Cause:E19
+T50	Carcinogenesis 1050 1063	tumorigenesis
+E24	Carcinogenesis:T50 
+T51	Regulation 1127 1131	role
+E25	Regulation:T51 Cause:T25 Theme:E27
+T52	Positive_regulation 1151 1158	induced
+E26	Positive_regulation:T52 Cause:T26 Theme:E27
+T53	Carcinogenesis 1174 1187	tumorigenesis
+E27	Carcinogenesis:T53 AtLoc:T27

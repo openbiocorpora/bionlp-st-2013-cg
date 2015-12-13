@@ -1,0 +1,31 @@
+T1	Multi-tissue_structure 21 29	vascular
+T2	Multi-tissue_structure 46 57	bone marrow
+T3	Multi-tissue_structure 85 93	vascular
+T4	Organism_substance 133 138	blood
+T5	Multi-tissue_structure 170 186	luminal surfaces
+T6	Multi-tissue_structure 196 201	graft
+T7	Multi-tissue_structure 263 271	vascular
+T8	Multi-tissue_structure 332 347	luminal surface
+T9	Cell 352 369	endothelial cells
+T10	Tissue 436 445	capillary
+T11	Cell 508 525	bone marrow cells
+T12	Cell 585 596	blood cells
+T13	Tissue 629 638	capillary
+T14	Cell 672 684	marrow cells
+T15	Simple_chemical 741 764	polytetrafluoroethylene
+T16	Simple_chemical 766 771	ePTFE
+T17	Multi-tissue_structure 773 788	vascular grafts
+T18	Multi-tissue_structure 794 800	grafts
+T19	Multi-tissue_structure 823 839	abdominal aortic
+T20	Organism 855 859	dogs
+T21	Cell 874 886	Marrow cells
+T22	Gene_or_gene_product 996 1026	basic fibroblast growth factor
+T23	Gene_or_gene_product 1028 1032	bFGF
+T24	Multi-tissue_structure 1043 1049	grafts
+T25	Multi-tissue_structure 1142 1148	grafts
+T26	Multi-tissue_structure 1157 1168	bone marrow
+T27	Multi-tissue_structure 1325 1331	grafts
+T28	Cell 1349 1365	endothelial cell
+T29	Multi-tissue_structure 1432 1438	grafts
+T30	Pathological_formation 1464 1472	thrombus
+T31	Multi-tissue_structure 1480 1491	Bone marrow

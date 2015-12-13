@@ -1,0 +1,45 @@
+T1	Cell 21 33	NIH3T3 cells
+T2	Gene_or_gene_product 59 67	Galpha12
+T3	Cancer 83 91	leukemia
+T4	Gene_or_gene_product 111 114	SET
+T5	Gene_or_gene_product 117 127	Galpha(12)
+T6	Gene_or_gene_product 154 157	G12
+T7	Gene_or_gene_product 168 193	heterotrimeric G proteins
+T8	Cell 227 231	cell
+T9	Gene_or_gene_product 277 283	GTPase
+T10	Gene_or_gene_product 330 340	Galpha(12)
+T11	Gene_or_gene_product 342 357	Galpha(12)Q229L
+T12	Gene_or_gene_product 361 373	Galpha(12)QL
+T13	Cell 439 451	NIH3T3 cells
+T14	Organism_substance 462 467	serum
+T15	Cell 547 551	cell
+T16	Cell 609 613	cell
+T17	Organism_substance 711 716	serum
+T18	Gene_or_gene_product 739 751	Galpha(12)QL
+T19	Cell 764 770	NIH3T3
+T20	Gene_or_gene_product 839 851	Galpha(12)QL
+T21	Cell 864 876	NIH3T3 cells
+T22	Cell 881 886	cells
+T23	Gene_or_gene_product 1075 1109	proliferating cell nuclear antigen
+T24	Gene_or_gene_product 1111 1115	PCNA
+T25	Cancer 1121 1137	myeloid-leukemia
+T26	Gene_or_gene_product 1149 1152	SET
+T27	Gene_or_gene_product 1209 1221	Galpha(12)QL
+T28	Cell 1209 1227	Galpha(12)QL cells
+T29	Cell 1316 1328	NIH3T3 cells
+T30	Gene_or_gene_product 1372 1382	Galpha(12)
+T31	Gene_or_gene_product 1419 1422	SET
+T32	Gene_or_gene_product 1443 1446	SET
+T33	Gene_or_gene_product 1510 1514	PP2A
+T34	Cellular_component 1520 1527	nuclear
+T35	Cell 1566 1571	cells
+T36	Gene_or_gene_product 1593 1603	Galpha(12)
+T37	Cellular_component 1635 1642	nuclear
+T38	Gene_or_gene_product 1700 1712	Galpha(12)QL
+T39	Cell 1700 1718	Galpha(12)QL cells
+T40	Cell 1746 1751	cells
+T41	Gene_or_gene_product 1859 1862	SET
+T42	Gene_or_gene_product 1866 1876	Galpha(12)
+T43	Gene_or_gene_product 1920 1930	Galpha(12)
+T44	Cancer 1956 1964	leukemia
+T45	Gene_or_gene_product 1976 1979	SET

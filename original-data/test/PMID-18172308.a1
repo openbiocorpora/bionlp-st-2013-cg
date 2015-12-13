@@ -1,0 +1,53 @@
+T1	Gene_or_gene_product 14 18	CDK4
+T2	Gene_or_gene_product 22 26	CDK2
+T3	Organism 30 35	mouse
+T4	Immaterial_anatomical_entity 36 47	oral cavity
+T5	Organ 69 78	pituitary
+T6	Gene_or_gene_product 124 133	keratin 5
+T7	Gene_or_gene_product 135 137	K5
+T8	Cell 184 194	basal cell
+T9	Tissue 215 224	epithelia
+T10	Gene_or_gene_product 252 258	K5CDK4
+T11	Organism 252 258	K5CDK4
+T12	Gene_or_gene_product 263 269	K5CDK2
+T13	Organism 263 286	K5CDK2 transgenic mouse
+T14	Developing_anatomical_structure 287 294	embryos
+T15	Gene_or_gene_product 302 306	CDK4
+T16	Gene_or_gene_product 311 315	CDK2
+T17	Tissue 352 359	tissues
+T18	Organ 377 392	adenohypophysis
+T19	Organ 399 404	organ
+T20	Anatomical_system 456 466	oropharynx
+T21	Gene_or_gene_product 470 472	K5
+T22	Tissue 484 490	tissue
+T23	Gene_or_gene_product 530 534	CDKs
+T24	Developing_anatomical_structure 542 565	embryonic oral ectoderm
+T25	Cell 611 616	cells
+T26	Multi-tissue_structure 626 641	pars intermedia
+T27	Organ 649 664	adenohypophysis
+T28	Organism 695 706	K5CDK4 mice
+T29	Gene_or_gene_product 695 701	K5CDK4
+T30	Cell 734 754	pituitary stem cells
+T31	Gene_or_gene_product 768 772	CDK4
+T32	Cell 797 807	stem cells
+T33	Cell 815 849	transit-amplifying (TA)-like cells
+T34	Gene_or_gene_product 866 870	CDK4
+T35	Cell 882 887	cells
+T36	Gene_or_gene_product 897 901	CDK2
+T37	Cell 913 918	cells
+T38	Gene_or_gene_product 952 955	p27
+T39	Gene_or_gene_product 956 960	Kip1
+T40	Cancer 974 994	pituitary carcinomas
+T41	Gene_or_gene_product 1088 1091	p27
+T42	Organism 1088 1101	p27(-/-) mice
+T43	Gene_or_gene_product 1138 1141	CDK
+T44	Tissue 1160 1185	primitive oral epithelium
+T45	Cell 1262 1304	transgene-positive TA-like pituitary cells
+T46	Gene_or_gene_product 1332 1336	CDK4
+T47	Cell 1346 1369	TA-like pituitary cells
+T48	Gene_or_gene_product 1394 1397	p27
+T49	Gene_or_gene_product 1398 1402	Kip1
+T50	Cancer 1414 1439	pituitary adenocarcinomas
+T51	Gene_or_gene_product 1487 1491	CDK4
+T52	Cell 1503 1508	cells
+T53	Cancer 1558 1563	tumor

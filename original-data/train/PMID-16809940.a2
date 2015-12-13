@@ -1,0 +1,69 @@
+*	Equiv T6 T7
+T28	Negative_regulation 0 9	Defective
+E1	Negative_regulation:T28 Theme:E2
+T29	Gene_expression 10 20	expression
+E2	Gene_expression:T29 Theme:T1
+T30	DNA_domain_or_region 47 55	promoter
+T31	DNA_methylation 56 67	methylation
+E3	DNA_methylation:T31 Theme:T1 Site:T30
+T32	Gene_expression 162 172	expression
+E4	Gene_expression:T32 Theme:T3
+T33	Negative_regulation 207 214	reduced
+E5	Negative_regulation:T33 Theme2:E4 Cause:E6
+T34	DNA_methylation 218 234	hypermethylation
+E6	DNA_methylation:T34 Theme:T3
+T35	Regulation 282 293	alterations
+E7	Regulation:T35 Theme:T5
+M1	Speculation E7
+T36	DNA_methylation 389 405	hypermethylation
+E8	DNA_methylation:T36 Theme:T5
+T37	Gene_expression 417 427	expression
+E9	Gene_expression:T37 Theme:T5
+M2	Speculation E9
+T38	Mutation 444 474	12q13.1 loss of heterozygosity
+E10	Mutation:T38 AtLoc:T8
+T39	DNA_methylation 538 554	hypermethylation
+E11	DNA_methylation:T39 Theme:T10 Site:T40
+E12	DNA_methylation:T39 Theme:T10 Site:T41
+T40	DNA_domain_or_region 569 577	promoter
+T41	DNA_domain_or_region 581 587	exon 1
+T42	Gene_expression 601 611	expression
+E13	Gene_expression:T42 Theme:T10
+M3	Negation E13
+T43	DNA_domain_or_region 697 705	promoter
+T44	DNA_methylation 706 717	methylation
+E14	DNA_methylation:T44 Theme:T10 Site:T43
+T45	Cell_death 739 748	apoptotic
+E15	Cell_death:T45 
+T46	DNA_methylation 809 820	methylation
+E16	DNA_methylation:T46 Theme:T14
+T47	DNA_methylation 833 844	methylation
+E17	DNA_methylation:T47 Theme:T15
+E18	DNA_methylation:T47 Theme:T16
+E19	DNA_methylation:T47 Theme:T17
+E20	DNA_methylation:T47 Theme:T18
+E21	DNA_methylation:T47 Theme:T19
+T48	Death 1041 1049	survival
+E22	Death:T48 Theme:T20
+M4	Negation E22
+T49	DNA_methylation 1074 1090	Hypermethylation
+E23	DNA_methylation:T49 Site:T50 Theme:T22
+T50	DNA_domain_or_region 1102 1110	promoter
+T51	Transcription 1250 1265	transcriptional
+E24	Transcription:T51 Theme:T23
+T52	Negative_regulation 1266 1276	repression
+E25	Negative_regulation:T52 Theme:E24 Cause:E26
+T53	DNA_domain_or_region 1297 1305	promoter
+T54	DNA_methylation 1306 1322	hypermethylation
+E26	DNA_methylation:T54 Site:T53 Theme:T23
+T55	Gene_expression 1346 1350	loss
+E27	Gene_expression:T55 Theme:T25
+M5	Negation E27
+T56	Regulation 1440 1450	modulation
+E28	Regulation:T56 Theme:E29 Cause:E30
+T57	Death 1463 1468	death
+E29	Death:T57 Theme:T26
+T58	Cell_death 1472 1481	apoptosis
+E30	Cell_death:T58 
+T59	Carcinogenesis 1495 1508	tumorigenesis
+E31	Carcinogenesis:T59 Theme:T27

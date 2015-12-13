@@ -1,0 +1,25 @@
+T1	Organism 0 7	Tobacco
+T2	Organ 23 27	lung
+T3	Gene_or_gene_product 56 63	IKKbeta
+T4	Gene_or_gene_product 69 73	JNK1
+T5	Pathological_formation 84 96	inflammation
+T6	Organism 119 126	tobacco
+T7	Cancer 157 162	tumor
+T8	Cancer 231 242	lung cancer
+T9	Cancer 278 284	cancer
+T10	Organism 339 346	tobacco
+T11	Cancer 358 363	tumor
+T12	Cancer 414 419	tumor
+T13	Gene_or_gene_product 474 479	K-ras
+T14	Organism 557 564	tobacco
+T15	Cancer 580 585	tumor
+T16	Organism 625 629	mice
+T17	Organism 648 652	mice
+T18	Gene_or_gene_product 673 678	K-ras
+T19	Cell 693 714	lung epithelial cells
+T20	Cancer 716 721	Tumor
+T21	Pathological_formation 755 767	inflammation
+T22	Cell 793 803	pneumocyte
+T23	Gene_or_gene_product 838 845	IKKbeta
+T24	Cell 858 871	myeloid cells
+T25	Gene_or_gene_product 891 895	JNK1

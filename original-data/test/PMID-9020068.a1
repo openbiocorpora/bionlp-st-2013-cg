@@ -1,0 +1,45 @@
+T1	Gene_or_gene_product 0 3	Fas
+T2	Gene_or_gene_product 29 53	receptor tyrosine kinase
+T3	Organism 77 82	human
+T4	Cell 83 106	breast epithelial cells
+T5	Gene_or_gene_product 109 112	Fas
+T6	Cell 122 126	cell
+T7	Cell 149 201	MCF-10AT preneoplastic human breast epithelial cells
+T8	Gene_or_gene_product 223 226	Fas
+T9	Cell 259 264	cells
+T10	Cell 321 325	cell
+T11	Cellular_component 351 360	chromatin
+T12	Cellular_component 392 408	nuclear membrane
+T13	Cellular_component 410 413	DNA
+T14	Gene_or_gene_product 457 460	Fas
+T15	Gene_or_gene_product 477 480	Fas
+T16	Gene_or_gene_product 513 516	p53
+T17	Gene_or_gene_product 539 544	bcl-2
+T18	Gene_or_gene_product 549 552	bax
+T19	Cell 589 594	Cells
+T20	Gene_or_gene_product 613 616	Fas
+T21	Amino_acid 642 650	tyrosine
+T22	Gene_or_gene_product 674 679	c-met
+T23	Amino_acid 703 711	tyrosine
+T24	Gene_or_gene_product 770 773	Fas
+T25	Gene_or_gene_product 790 797	c-erbB2
+T26	Gene_or_gene_product 802 807	c-met
+T27	Cell 821 826	cells
+T28	Gene_or_gene_product 848 851	Fas
+T29	Gene_or_gene_product 886 889	Fas
+T30	Gene_or_gene_product 890 897	c-erbB2
+T31	Gene_or_gene_product 902 905	Fas
+T32	Gene_or_gene_product 906 911	c-met
+T33	Gene_or_gene_product 930 933	Fas
+T34	Cell 953 958	cells
+T35	Gene_or_gene_product 992 996	p120
+T36	Gene_or_gene_product 997 1000	GAP
+T37	Gene_or_gene_product 1009 1014	ERK-1
+T38	Gene_or_gene_product 1055 1059	Grb2
+T39	Gene_or_gene_product 1060 1064	Sosl
+T40	Gene_or_gene_product 1069 1074	MEK-1
+T41	Gene_or_gene_product 1075 1080	ERK-1
+T42	Gene_or_gene_product 1118 1121	Fas
+T43	Gene_or_gene_product 1164 1167	p53
+T44	Gene_or_gene_product 1206 1230	receptor tyrosine kinase
+T45	Cell 1269 1273	cell

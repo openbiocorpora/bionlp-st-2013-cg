@@ -1,0 +1,55 @@
+T46	Blood_vessel_development 18 33	vascularization
+E1	Blood_vessel_development:T46 AtLoc:T1
+T47	Planned_process 91 102	lipofection
+E2	Planned_process:T47 Theme:T5 Instrument:T2
+T48	Planned_process 126 140	administration
+E3	Planned_process:T48 Instrument:T8 Theme:T9
+T49	Localization 287 297	entrapment
+E4	Localization:T49 Theme:T11 AtLoc:T12
+T50	Planned_process 369 380	lipofection
+E5	Planned_process:T50 Theme:T13
+T51	Positive_regulation 406 414	enhanced
+E6	Positive_regulation:T51 Theme:E5 Cause:E7
+M1	Speculation E6
+T52	Positive_regulation 418 428	increasing
+E7	Positive_regulation:T52 Theme:E8
+T53	Blood_vessel_development 443 458	vascularization
+E8	Blood_vessel_development:T53 
+T54	Blood_vessel_development 514 526	angiogenesis
+E9	Blood_vessel_development:T54 AtLoc:T16
+T55	Planned_process 547 556	injection
+E10	Planned_process:T55 Instrument:T18 Theme:T17
+T56	Positive_regulation 654 662	resulted
+E11	Positive_regulation:T56 Cause:E10 Theme:E12
+T57	Positive_regulation 666 675	increased
+E12	Positive_regulation:T57 Theme:E13
+T58	Localization 685 695	entrapment
+E13	Localization:T58 Theme:T19 AtLoc:T20
+T59	Blood_vessel_development 699 716	hypervascularized
+E14	Blood_vessel_development:T59 AtLoc:T20
+T60	Positive_regulation 735 740	boost
+E15	Positive_regulation:T60 Theme:E16 Cause:E10
+M2	Negation E15
+T61	Gene_expression 752 762	expression
+E16	Gene_expression:T61 Theme:T21
+T62	Localization 789 797	delivery
+E17	Localization:T62 Theme:T22
+T63	Positive_regulation 807 817	sufficient
+E18	Positive_regulation:T63 Cause:E17 Theme:E19
+M3	Negation E18
+T64	Planned_process 848 859	lipofection
+E19	Planned_process:T64 Theme:T23
+T65	Planned_process 887 895	injected
+E20	Planned_process:T65 Instrument:T25
+T66	Localization 907 915	migrated
+E21	Localization:T66 Theme:T25 ToLoc:T26
+T67	Planned_process 1024 1035	lipofection
+E22	Planned_process:T67 Theme:T28 Instrument:T29
+T68	Binding 1339 1348	aggregate
+E23	Binding:T68 Theme:T35 Theme:T34
+T69	Binding 1367 1378	aggregation
+E24	Binding:T69 Theme:T34 Theme:T35
+T70	Planned_process 1518 1529	lipofection
+E25	Planned_process:T70 Instrument:T37 Theme:T36
+T71	Dissociation 1783 1795	dissociation
+E26	Dissociation:T71 Theme:T42

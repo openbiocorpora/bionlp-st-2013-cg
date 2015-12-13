@@ -1,0 +1,49 @@
+T32	Positive_regulation 13 20	induces
+E1	Positive_regulation:T32 Cause:T1 Theme:E2
+T33	Cell_death 21 30	apoptosis
+E2	Cell_death:T33 Theme:T3
+T34	Negative_regulation 166 174	inhibits
+E3	Negative_regulation:T34 Cause:T5 Theme:E4
+T35	Cell_proliferation 179 192	proliferation
+E4	Cell_proliferation:T35 Theme:T6
+T36	Regulation 310 317	effects
+E5	Regulation:T36 Cause:T5 Theme:T11
+E6	Regulation:T36 Cause:T5 Theme:T12
+M1	Speculation E5
+M2	Speculation E6
+T37	Regulation 400 406	alters
+E7	Regulation:T37 Cause:T13 Theme:T14
+E8	Regulation:T37 Cause:T13 Theme:T15
+T38	Negative_regulation 426 433	reduces
+E9	Negative_regulation:T38 Cause:T13 Theme:T15
+E10	Negative_regulation:T38 Cause:T13 Theme:T14
+T39	Planned_process 543 553	Incubation
+E11	Planned_process:T39 Instrument:T16
+T40	Death 599 605	killed
+T41	Positive_regulation 599 605	killed
+E12	Death:T40 Theme:T17
+E13	Positive_regulation:T41 Cause:E11 Theme:E12
+E14	Death:T40 Theme:T18
+E15	Positive_regulation:T41 Cause:E11 Theme:E14
+T42	Planned_process 660 670	incubation
+E16	Planned_process:T42 Instrument:T19
+T43	Death 702 708	killed
+T44	Positive_regulation 702 708	killed
+E17	Death:T43 Theme:T20
+E18	Positive_regulation:T44 Theme:E17 Cause:E16
+T45	Planned_process 763 772	treatment
+E19	Planned_process:T45 Instrument:T19
+T46	Regulation 778 785	changed
+E20	Regulation:T46 Cause:E19 Theme:T21
+T47	Positive_regulation 865 871	caused
+E21	Positive_regulation:T47 Cause:E19 Theme:E23
+E22	Positive_regulation:T47 Cause:E19 Theme:E24
+T48	Breakdown 882 894	condensation
+E23	Breakdown:T48 Theme:T24
+T49	Development 903 912	formation
+E24	Development:T49 Theme:T25
+T50	Positive_regulation 966 975	increased
+E25	Positive_regulation:T50 Cause:E19 Theme:T26
+E26	Positive_regulation:T50 Cause:E19 Theme:T27
+T51	Planned_process 1127 1134	therapy
+E27	Planned_process:T51 Theme:T31

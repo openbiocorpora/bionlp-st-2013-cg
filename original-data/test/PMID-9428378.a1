@@ -1,0 +1,19 @@
+T1	Gene_or_gene_product 20 26	HLA-DR
+T2	Cell 42 56	dendritic cell
+T3	Cancer 73 87	gastric cancer
+T4	Gene_or_gene_product 134 160	human leukocyte antigen DR
+T5	Gene_or_gene_product 162 168	HLA-DR
+T6	Cancer 174 179	tumor
+T7	Cell 196 234	S-100-protein-positive dendritic cells
+T8	Gene_or_gene_product 196 201	S-100
+T9	Organism 274 282	patients
+T10	Cancer 288 302	gastric cancer
+T11	Gene_or_gene_product 322 328	HLA-DR
+T12	Cell 386 401	dendritic cells
+T13	Multi-tissue_structure 437 447	lymph node
+T14	Multi-tissue_structure 480 490	peritoneal
+T15	Gene_or_gene_product 552 558	HLA-DR
+T16	Cell 579 594	dendritic cells
+T17	Organism 599 607	patients
+T18	Cancer 624 638	gastric cancer
+T19	Cell 666 681	dendritic cells

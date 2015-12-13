@@ -1,0 +1,67 @@
+*	Equiv T8 T9
+T36	Blood_vessel_development 81 93	angiogenesis
+E1	Blood_vessel_development:T36 AtLoc:T4
+T37	Remodeling 112 122	remodeling
+E2	Remodeling:T37 Theme:T5
+T38	Blood_vessel_development 131 143	angiogenesis
+E3	Blood_vessel_development:T38 AtLoc:T6
+T39	Remodeling 162 172	remodeling
+E4	Remodeling:T39 Theme:T7
+T40	Blood_vessel_development 367 377	angiogenic
+E5	Blood_vessel_development:T40 
+T41	Positive_regulation 387 397	stimulates
+E6	Positive_regulation:T41 Theme:E7 Cause:T8
+T42	Cell_proliferation 415 428	proliferation
+E7	Cell_proliferation:T42 Theme:T10
+T43	Positive_regulation 433 440	induces
+E8	Positive_regulation:T43 Cause:T8 Theme:E9
+T44	Blood_vessel_development 445 457	angiogenesis
+E9	Blood_vessel_development:T44 
+T45	Positive_regulation 624 630	induce
+E10	Positive_regulation:T45 Cause:T14 Theme:E12
+E11	Positive_regulation:T45 Cause:T14 Theme:E13
+T46	Localization 635 644	migration
+E12	Localization:T46 Theme:T15
+T47	Development 649 658	sprouting
+E13	Development:T47 Theme:T15
+T48	Gene_expression 685 697	coexpression
+E14	Gene_expression:T48 Theme:T16 Theme:T17
+T49	Positive_regulation 716 724	enhanced
+E15	Positive_regulation:T49 Cause:E14 Theme:E16
+T50	Blood_vessel_development 725 737	angiogenesis
+E16	Blood_vessel_development:T50 
+T51	Localization 746 754	presence
+E17	Localization:T51 Theme:T18
+T52	Positive_regulation 790 798	promotes
+E18	Positive_regulation:T52 Cause:T19 Theme:T20
+E19	Positive_regulation:T52 Cause:T19 Theme:E22
+E20	Positive_regulation:T52 Cause:T19 Theme:E23
+E21	Positive_regulation:T52 Cause:T19 Theme:E24
+T53	Remodeling 837 847	remodeling
+E22	Remodeling:T53 Theme:T21
+T54	Cell_proliferation 869 882	proliferation
+E23	Cell_proliferation:T54 Theme:T22
+T55	Localization 887 896	migration
+E24	Localization:T55 Theme:T22
+T56	Positive_regulation 923 933	stimulates
+E25	Positive_regulation:T56 Cause:T19 Theme:E26
+T57	Development 934 943	sprouting
+E26	Development:T57 Theme:T23
+T58	Regulation 995 1035	play complementary and coordinated roles
+E27	Regulation:T58 Cause:T26 Theme:E33
+E28	Regulation:T58 Cause:T25 Theme:E33
+E29	Regulation:T58 Cause:T24 Theme:E33
+E30	Regulation:T58 Cause:T26 Theme:E34
+E31	Regulation:T58 Cause:T25 Theme:E34
+E32	Regulation:T58 Cause:T24 Theme:E34
+T59	Blood_vessel_development 1046 1058	angiogenesis
+E33	Blood_vessel_development:T59 AtLoc:T27
+T60	Remodeling 1077 1087	remodeling
+E34	Remodeling:T60 Theme:T28
+T61	Negative_regulation 1134 1144	reversible
+E35	Negative_regulation:T61 Theme:E33
+E36	Negative_regulation:T61 Theme:E34
+T62	Binding 1264 1276	interactions
+E37	Binding:T62 Theme:T29 Theme:T30
+T63	Blood_vessel_development 1396 1406	angiogenic
+E38	Blood_vessel_development:T63 

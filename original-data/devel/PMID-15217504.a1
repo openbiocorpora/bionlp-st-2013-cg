@@ -1,0 +1,22 @@
+T1	Cancer 78 91	breast cancer
+T2	Organism 92 100	patients
+T3	Organism 190 198	patients
+T4	Cancer 260 273	breast cancer
+T5	Organism 351 359	patients
+T6	Organism 436 444	patients
+T7	Cancer 506 537	distant dormant micrometastases
+T8	Organism 627 632	women
+T9	Organism 824 832	patients
+T10	Cancer 900 931	distant dormant micrometastases
+T11	Organism 998 1006	patients
+T12	Organism 1186 1193	patient
+T13	Cancer 1238 1244	cancer
+T14	Organism 1256 1264	patients
+T15	Cancer 1332 1355	dormant micrometastases
+T16	Cancer 1367 1372	tumor
+T17	Cancer 1469 1482	breast cancer
+T18	Organism 1804 1812	patients
+T19	Organism 1904 1912	patients
+T20	Multi-tissue_structure 1930 1941	lymph nodes
+T21	Multi-tissue_structure 2036 2046	lymph node
+T22	Organism 2047 2055	patients

@@ -1,0 +1,72 @@
+*	Equiv T5 T6
+*	Equiv T18 T19
+*	Equiv T20 T21
+T27	Cell_death 0 9	Apoptosis
+E1	Cell_death:T27 Theme:T2
+T28	Positive_regulation 10 17	induced
+E2	Positive_regulation:T28 Cause:T1 Theme:E1
+T29	Regulation 98 108	modulation
+E3	Regulation:T29 Theme:E4
+T30	Positive_regulation 147 157	activation
+E4	Positive_regulation:T30 Theme:T3
+T31	Negative_regulation 190 198	activity
+E5	Negative_regulation:T31 Theme:T4 Cause:T5
+M1	Speculation E5
+T32	Negative_regulation 253 263	suppressor
+E6	Negative_regulation:T32 Cause:T5 Theme:E8
+T33	Positive_regulation 278 285	induced
+E7	Positive_regulation:T33 Theme:E8
+T34	Carcinogenesis 286 300	carcinogenesis
+E8	Carcinogenesis:T34 
+T35	Planned_process 352 361	treatment
+E9	Planned_process:T35 Instrument:T8
+T36	Positive_regulation 362 370	resulted
+E10	Positive_regulation:T36 Cause:E9 Theme:E11
+T37	Regulation 374 381	changes
+E11	Regulation:T37 Theme:E12
+T38	Negative_regulation 417 428	suppression
+E12	Negative_regulation:T38 Theme:T9
+T39	Cell_death 448 457	Apoptosis
+E13	Cell_death:T39 
+T40	Breakdown 484 496	condensation
+E14	Breakdown:T40 Theme:T10
+T41	Breakdown 507 515	blebbing
+E15	Breakdown:T41 Theme:T11
+T42	Breakdown 522 531	shrinkage
+E16	Breakdown:T42 Theme:T12
+T43	Positive_regulation 550 559	induction
+E17	Positive_regulation:T43 Cause:E13 Theme:T13
+T44	Development 641 650	Formation
+E18	Development:T44 Theme:T14
+T45	Negative_regulation 784 794	inhibitory
+E19	Negative_regulation:T45 Cause:T17 Theme:T18
+T46	Positive_regulation 799 809	activation
+E20	Positive_regulation:T46 Cause:T17 Theme:T20
+T47	Negative_regulation 965 974	prevented
+E21	Negative_regulation:T47 Theme:E23
+T48	Positive_regulation 979 986	induced
+E22	Positive_regulation:T48 Cause:T22 Theme:E23
+T49	Cell_death 987 996	apoptosis
+E23	Cell_death:T49 
+T50	Negative_regulation 1014 1023	reduction
+E24	Negative_regulation:T50 Theme:T23
+T51	Negative_regulation 1074 1083	reduction
+E25	Negative_regulation:T51 Theme:T24
+T52	Positive_regulation 1091 1098	induced
+E26	Positive_regulation:T52 Theme:T24
+T53	Carcinogenesis 1176 1188	carcinogenic
+E27	Carcinogenesis:T53 
+M2	Negation E27
+T54	Negative_regulation 1189 1196	effects
+E28	Negative_regulation:T54 Cause:T25 Theme:E27
+T55	Regulation 1227 1239	perturbation
+E29	Regulation:T55 Theme:E30
+T56	Pathway 1247 1274	polyamine metabolic pathway
+E30	Pathway:T56 
+T57	Positive_regulation 1279 1289	triggering
+E31	Positive_regulation:T57 Theme:T26
+T58	Positive_regulation 1324 1330	result
+E32	Positive_regulation:T58 Theme:E34 Cause:E31
+E33	Positive_regulation:T58 Theme:E34 Cause:E29
+T59	Cell_death 1334 1343	apoptosis
+E34	Cell_death:T59 

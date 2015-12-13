@@ -1,0 +1,124 @@
+*	Equiv T4 T5
+*	Equiv T12 T13
+*	Equiv T14 T15
+*	Equiv T20 T21
+*	Equiv T64 T63
+T58	Protein_domain_or_region 0 8	Domain 5
+T59	Protein_processing 12 19	cleaved
+E1	Protein_processing:T59 Theme:T1
+T60	Negative_regulation 52 60	inhibits
+T61	Regulation 52 60	inhibits
+E2	Negative_regulation:T60 Cause:E3 Theme:E4
+E3	Regulation:T61 Cause:T1 Theme:T3 CSite:T58
+T62	Localization 78 87	migration
+E4	Localization:T62 Theme:T2
+T63	Protein_domain_or_region 101 109	Domain 5
+T64	Protein_domain_or_region 111 113	D5
+T65	Protein_processing 118 125	cleaved
+E5	Protein_processing:T65 Theme:T4
+T66	Negative_regulation 164 172	inhibits
+E6	Negative_regulation:T66 Theme:E8 Cause:T4 CSite:T63
+T67	Blood_vessel_development 173 185	angiogenesis
+E7	Blood_vessel_development:T67 
+T68	Localization 215 224	migration
+E8	Localization:T68 Theme:T6
+T69	Pathway 248 266	signaling pathways
+E9	Pathway:T69 
+T70	Regulation 267 275	involved
+E10	Regulation:T70 Theme:E11 Cause:E9
+T71	Protein_domain_or_region 287 289	D5
+T72	Negative_regulation 290 300	inhibition
+E11	Negative_regulation:T72 Theme:E12 Cause:T8 CSite:T71
+T73	Localization 321 330	migration
+E12	Localization:T73 Theme:T9
+T74	Protein_domain_or_region 405 407	D5
+T75	Negative_regulation 408 418	inhibition
+E13	Negative_regulation:T75 Theme:T14 Cause:E16
+E14	Negative_regulation:T75 Theme:T12 Cause:E16
+M1	Speculation E13
+M2	Speculation E14
+T76	Localization 465 474	migration
+E15	Localization:T76 Theme:T11
+T77	Regulation 558 561	act
+E16	Regulation:T77 Theme:E17 Cause:T10 CSite:T74
+T78	Pathway 589 606	signaling pathway
+E17	Pathway:T78 Participant:T16 Participant2:T17
+T79	Protein_domain_or_region 616 618	D5
+T80	Negative_regulation 619 626	inhibit
+E18	Negative_regulation:T80 Cause:T18 Theme:E21 CSite:T79
+E19	Negative_regulation:T80 Cause:T18 Theme:E20 CSite:T79
+T81	Localization 716 726	chemotaxis
+E20	Localization:T81 Theme:T20
+E21	Localization:T81 Theme:T22
+T82	Positive_regulation 761 769	response
+E22	Positive_regulation:T82 Cause:T24 Theme:E20
+E23	Positive_regulation:T82 Cause:T24 Theme:E21
+E24	Positive_regulation:T82 Cause:T23 Theme:E21
+E25	Positive_regulation:T82 Cause:T23 Theme:E20
+T83	Negative_regulation 789 799	inhibition
+E26	Negative_regulation:T83 Cause:T25 Theme:E28
+E27	Negative_regulation:T83 Cause:T25 Theme:E29
+T84	Localization 803 812	migration
+E28	Localization:T84 Theme:T20
+E29	Localization:T84 Theme:T22
+T85	Negative_regulation 823 831	reversed
+E30	Negative_regulation:T85 Theme:E26
+E31	Negative_regulation:T85 Theme:E27
+T86	Protein_domain_or_region 909 911	D5
+T87	Negative_regulation 912 920	decrease
+E32	Negative_regulation:T87 Cause:T27 Theme:E33 CSite:T86
+T88	Localization 944 953	migration
+E33	Localization:T88 Theme:T28
+T89	Positive_regulation 1016 1027	stimulation
+E34	Positive_regulation:T89 Cause:T30 Theme:T28
+E35	Positive_regulation:T89 Cause:T29 Theme:T28
+T90	Protein_domain_or_region 1054 1056	D5
+T91	Negative_regulation 1057 1063	reduce
+E36	Negative_regulation:T91 Cause:T31 Theme:E37 CSite:T90
+T92	Localization 1068 1080	localization
+E37	Localization:T92 Theme:T32 ToLoc:T33
+T93	Positive_regulation 1135 1146	stimulation
+E38	Positive_regulation:T93 Cause:T34 Theme:T28
+E39	Positive_regulation:T93 Cause:T35 Theme:T28
+T94	Pathway 1173 1205	intracellular signaling pathways
+E40	Pathway:T94 
+T95	Regulation 1223 1229	effect
+E41	Regulation:T95 Cause:T37 Theme:E43
+E42	Regulation:T95 Cause:T37 Theme:E44
+M3	Speculation E42
+M4	Speculation E41
+T96	Phosphorylation 1244 1259	phosphorylation
+E43	Phosphorylation:T96 Theme:T39
+E44	Phosphorylation:T96 Theme:T38
+T97	Protein_domain_or_region 1315 1317	D5
+T98	Negative_regulation 1318 1325	inhibit
+E45	Negative_regulation:T98 Cause:T40 Theme:E47 CSite:T97
+E46	Negative_regulation:T98 Cause:T40 Theme:E48 CSite:T97
+T99	Phosphorylation 1326 1341	phosphorylation
+E47	Phosphorylation:T99 Theme:T42
+E48	Phosphorylation:T99 Theme:T41
+T100	Positive_regulation 1370 1381	stimulation
+E49	Positive_regulation:T100 Cause:T44 Theme:T28
+E50	Positive_regulation:T100 Cause:T43 Theme:T28
+T101	Negative_regulation 1465 1470	block
+E51	Negative_regulation:T101 Theme:E52
+T102	Localization 1488 1497	migration
+E52	Localization:T102 Theme:T48
+T103	Negative_regulation 1502 1509	disrupt
+E53	Negative_regulation:T103 Theme:E54
+T104	Localization 1519 1531	localization
+E54	Localization:T104 Theme:T49 ToLoc:T50
+T105	Positive_regulation 1561 1572	stimulation
+E55	Positive_regulation:T105 Theme:T28 Cause:T51
+E56	Positive_regulation:T105 Theme:T28 Cause:T52
+T106	Protein_domain_or_region 1634 1636	D5
+T107	Regulation 1644 1650	alters
+E57	Regulation:T107 Cause:T53 Theme:E58 CSite:T106
+T108	Pathway 1666 1675	signaling
+E58	Pathway:T108 Participant:T54 Participant2:T55
+T109	Negative_regulation 1679 1686	inhibit
+E59	Negative_regulation:T109 Theme:E60 Cause:E57
+T110	Localization 1704 1713	migration
+E60	Localization:T110 Theme:T56
+T111	Regulation 1722 1733	alterations
+E61	Regulation:T111 Theme:T57

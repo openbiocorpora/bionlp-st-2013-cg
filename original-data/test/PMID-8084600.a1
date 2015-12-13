@@ -1,0 +1,30 @@
+T1	Gene_or_gene_product 27 31	junB
+T2	Gene_or_gene_product 64 69	v-fos
+T3	Cell 96 107	Rat-1 cells
+T4	Gene_or_gene_product 210 215	v-fos
+T5	Cell 228 239	Rat-1 cells
+T6	Cell 320 329	revertant
+T7	Gene_or_gene_product 413 418	c-jun
+T8	Gene_or_gene_product 422 426	junB
+T9	Gene_or_gene_product 488 493	c-jun
+T10	Cell 533 543	revertants
+T11	Cell 586 591	cells
+T12	Gene_or_gene_product 623 628	c-jun
+T13	Cell 655 665	revertants
+T14	Cell 710 728	revertant EMS-1-19
+T15	Gene_or_gene_product 785 790	v-fos
+T16	Cell 799 803	cell
+T17	Cell 862 871	revertant
+T18	Gene_or_gene_product 941 946	c-jun
+T19	Gene_or_gene_product 994 999	c-jun
+T20	Gene_or_gene_product 1015 1019	junB
+T21	Cell 1083 1101	revertant EMS-1-19
+T22	Gene_or_gene_product 1129 1133	junB
+T23	Cell 1170 1178	EMS-1-19
+T24	Cell 1204 1215	Rat-1 cells
+T25	Gene_or_gene_product 1240 1245	v-fos
+T26	Cell 1258 1263	cells
+T27	Gene_or_gene_product 1312 1316	junB
+T28	Gene_or_gene_product 1411 1415	junB
+T29	Gene_or_gene_product 1457 1462	v-fos
+T30	Cell 1489 1506	Rat-1 fibroblasts

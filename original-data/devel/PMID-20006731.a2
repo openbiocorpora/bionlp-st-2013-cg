@@ -1,0 +1,105 @@
+*	Equiv T5 T6
+T54	Positive_regulation 46 57	potentiates
+E1	Positive_regulation:T54 Cause:T1 Theme:E3
+T55	Positive_regulation 87 94	induced
+E2	Positive_regulation:T55 Theme:E3 Cause:T2
+T56	Cell_transformation 100 114	transformation
+E3	Cell_transformation:T56 Theme:T3
+T57	Regulation 116 120	role
+E4	Regulation:T57 Theme:E3 Cause:T4
+M1	Speculation E4
+T58	Positive_regulation 343 352	increased
+E5	Positive_regulation:T58 Cause:T8 Theme:T9
+T59	Regulation 436 447	independent
+E6	Regulation:T59 Theme:E7
+M2	Negation E6
+T60	Cell_proliferation 448 454	growth
+E7	Cell_proliferation:T60 Theme:T9
+T61	Regulation 471 479	response
+E8	Regulation:T61 Cause:T10 Theme:E7
+T62	Metabolism 524 533	metabolic
+E9	Metabolism:T62 Theme:T11
+T63	Positive_regulation 534 544	activation
+E10	Positive_regulation:T63 Theme:E9
+T64	Regulation 583 594	independent
+E11	Regulation:T64 Theme:E12
+M3	Negation E11
+T65	Cell_proliferation 600 606	growth
+E12	Cell_proliferation:T65 Theme:T12
+T66	Cell_transformation 629 643	transformation
+E13	Cell_transformation:T66 Theme:T13
+T67	Positive_regulation 644 653	resulting
+E14	Positive_regulation:T67 Cause:E13 Theme:E15
+T68	Carcinogenesis 672 683	tumorigenic
+E15	Carcinogenesis:T68 
+T69	Positive_regulation 774 785	potentiates
+E16	Positive_regulation:T69 Theme:E18 Cause:T14
+T70	Positive_regulation 791 798	induced
+E17	Positive_regulation:T70 Theme:E18 Cause:T15
+T71	Carcinogenesis 799 813	tumorigenicity
+E18	Carcinogenesis:T71 
+T72	Regulation 831 837	effect
+E19	Regulation:T72 Cause:T14 Theme:E22
+E20	Regulation:T72 Cause:T14 Theme:E21
+M4	Speculation E19
+M5	Speculation E20
+T73	Positive_regulation 845 855	activation
+E21	Positive_regulation:T73 Theme:T16
+E22	Positive_regulation:T73 Theme:T17
+T74	Regulation 926 936	influenced
+E23	Regulation:T74 Cause:T19 Theme:E22
+E24	Regulation:T74 Cause:T19 Theme:E21
+T75	Planned_process 977 986	treatment
+E25	Planned_process:T75 Instrument:T20
+T76	Positive_regulation 994 1003	induction
+E26	Positive_regulation:T76 Cause:E25 Theme:T21
+E27	Positive_regulation:T76 Cause:E25 Theme:T22
+T77	Positive_regulation 1102 1111	induction
+E28	Positive_regulation:T77 Theme:T24
+T78	Positive_regulation 1115 1123	response
+E29	Positive_regulation:T78 Cause:T25 Theme:E28
+T79	Negative_regulation 1150 1160	attenuated
+E30	Negative_regulation:T79 Theme:E28 Cause:T26
+T80	Positive_regulation 1199 1208	induction
+E31	Positive_regulation:T80 Theme:T27
+T81	Regulation 1217 1226	unaltered
+E32	Regulation:T81 Theme:E31 Cause:T26
+M6	Negation E32
+T82	Negative_regulation 1228 1239	Attenuation
+E33	Negative_regulation:T82 Cause:T29 Theme:E34
+T83	Positive_regulation 1253 1263	activation
+E34	Positive_regulation:T83 Theme:T28
+T84	Planned_process 1385 1392	treated
+E35	Planned_process:T84 Instrument:T32 Theme:T33
+T85	Negative_regulation 1556 1566	attenuated
+E36	Negative_regulation:T85 Theme:E38 Cause:T40
+E37	Negative_regulation:T85 Theme:E38 Cause:T38
+T86	Positive_regulation 1577 1587	activation
+E38	Positive_regulation:T86 Theme:T41
+T87	Planned_process 1596 1603	treated
+E39	Planned_process:T87 Instrument:T42 Theme:T43
+T88	Negative_regulation 1669 1684	down-regulation
+E40	Negative_regulation:T88 Theme:T44
+T89	Negative_regulation 1693 1704	attenuation
+E41	Negative_regulation:T89 Cause:T46 Theme:T45
+T90	Planned_process 1753 1762	Treatment
+E42	Planned_process:T90 Theme:T47
+T91	Positive_regulation 1797 1808	potentiated
+E43	Positive_regulation:T91 Theme:E45 Cause:E42
+T92	Regulation 1819 1830	independent
+E44	Regulation:T92 Theme:E45
+M7	Negation E44
+T93	Cell_proliferation 1831 1837	growth
+E45	Cell_proliferation:T93 Theme:T50
+T94	Planned_process 1846 1853	treated
+E46	Planned_process:T94 Instrument:T49 Theme:T50
+T95	Regulation 1902 1906	role
+E47	Regulation:T95 Cause:E48 Theme:E49
+T96	Negative_regulation 1914 1929	down-regulation
+E48	Negative_regulation:T96 Theme:T51
+T97	Positive_regulation 1933 1945	potentiation
+E49	Positive_regulation:T97 Cause:T53 Theme:E51
+T98	Positive_regulation 1954 1961	induced
+E50	Positive_regulation:T98 Cause:T52 Theme:E51
+T99	Carcinogenesis 1962 1976	tumorogenicity
+E51	Carcinogenesis:T99 

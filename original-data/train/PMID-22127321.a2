@@ -1,0 +1,11 @@
+*	Equiv T6 T7
+T15	Positive_regulation 181 186	cause
+E1	Positive_regulation:T15 Theme:T6 Cause:T4
+T16	Infection 410 419	infection
+E2	Infection:T16 Participant:T10
+T17	Positive_regulation 470 477	induced
+E3	Positive_regulation:T17 Cause:T12 Theme:E4
+T18	Carcinogenesis 478 492	leukemogenesis
+E4	Carcinogenesis:T18 
+T19	Planned_process 564 571	therapy
+E5	Planned_process:T19 Theme:T14

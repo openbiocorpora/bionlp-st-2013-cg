@@ -1,0 +1,22 @@
+T1	Gene_or_gene_product 0 28	Insulin-like growth factor I
+T2	Cancer 37 42	tumor
+T3	Gene_or_gene_product 43 53	hexokinase
+T4	Cell 72 84	cancer cells
+T5	Cell 131 143	cancer cells
+T6	Cell 277 287	metastatic
+T7	Cell 297 322	vascularized cancer cells
+T8	Gene_or_gene_product 375 385	hexokinase
+T9	Gene_or_gene_product 466 489	Type II like hexokinase
+T10	Cancer 493 499	tumors
+T11	Gene_or_gene_product 567 574	insulin
+T12	Gene_or_gene_product 599 617	hexokinase Type II
+T13	Organ 665 671	muscle
+T14	Cell 691 703	cancer cells
+T15	Gene_or_gene_product 716 743	insulin-like growth factors
+T16	Gene_or_gene_product 795 802	insulin
+T17	Gene_or_gene_product 850 877	insulin-like growth factors
+T18	Cancer 919 924	tumor
+T19	Gene_or_gene_product 925 935	hexokinase
+T20	Gene_or_gene_product 970 998	insulin-like growth factor I
+T21	Gene_or_gene_product 1014 1024	hexokinase
+T22	Cell 1093 1110	cancer cell lines

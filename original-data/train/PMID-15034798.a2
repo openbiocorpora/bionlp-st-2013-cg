@@ -1,0 +1,75 @@
+*	Equiv T15 T16
+*	Equiv T19 T20
+*	Equiv T21 T22
+T34	Regulation 0 4	Role
+E1	Regulation:T34 Cause:T1 Theme:E3
+E2	Regulation:T34 Cause:T1 Theme:E4
+T35	Blood_vessel_development 20 32	angiogenesis
+E3	Blood_vessel_development:T35 
+T36	Development 43 54	progression
+E4	Development:T36 Theme:T2
+T37	Pathway 154 172	coagulation system
+E5	Pathway:T37 
+T38	Positive_regulation 183 192	activated
+E6	Positive_regulation:T38 Theme:E5
+T39	Regulation 218 241	plays an important role
+E7	Regulation:T39 Cause:E5 Theme:T5
+T40	Positive_regulation 311 320	activates
+E8	Positive_regulation:T40 Cause:T6 Theme:E9
+T41	Blood_vessel_development 321 333	angiogenesis
+E9	Blood_vessel_development:T41 
+T42	Positive_regulation 354 363	essential
+E10	Positive_regulation:T42 Cause:E9 Theme:E12
+E11	Positive_regulation:T42 Cause:E9 Theme:E13
+T43	Growth 373 379	growth
+E12	Growth:T43 Theme:T7
+T44	Metastasis 384 394	metastasis
+E13	Metastasis:T44 Theme:T7
+T45	Metabolism 432 441	formation
+E14	Metabolism:T45 Theme:T8
+T46	Positive_regulation 508 518	activation
+E15	Positive_regulation:T46 Cause:T10 Theme:E16
+T47	Blood_vessel_development 522 534	angiogenesis
+E16	Blood_vessel_development:T47 
+T48	Negative_regulation 550 559	decreases
+E17	Negative_regulation:T48 Cause:E18 Theme:T12
+T49	Binding 596 602	attach
+E18	Binding:T49 Theme:T11 Theme:T13
+T50	Positive_regulation 656 667	potentiates
+E19	Positive_regulation:T50 Cause:T14 Theme:E21
+T51	Positive_regulation 712 719	induced
+E20	Positive_regulation:T51 Theme:E21 Cause:T15
+T52	Cell_proliferation 737 750	proliferation
+E21	Cell_proliferation:T52 Theme:T17
+T53	Positive_regulation 788 801	up-regulation
+E22	Positive_regulation:T53 Theme:E24
+E23	Positive_regulation:T53 Theme:E25
+T54	Gene_expression 809 819	expression
+E24	Gene_expression:T54 Theme:T19
+E25	Gene_expression:T54 Theme:T21
+T55	Positive_regulation 939 948	increases
+E26	Positive_regulation:T55 Cause:T23 Theme:E28
+E27	Positive_regulation:T55 Cause:T23 Theme:E29
+T56	Transcription 953 957	mRNA
+E28	Transcription:T56 Theme:T24
+T57	Gene_expression 962 976	protein levels
+E29	Gene_expression:T57 Theme:T24
+T58	Positive_regulation 1070 1079	increases
+E30	Positive_regulation:T58 Theme:E31 Cause:T25
+T59	Localization 1084 1093	secretion
+E31	Localization:T59 Theme:T26
+T60	Positive_regulation 1106 1114	enhances
+E32	Positive_regulation:T60 Cause:T25 Theme:E36
+E33	Positive_regulation:T60 Cause:T25 Theme:E38
+E34	Positive_regulation:T60 Cause:T25 Theme:E39
+E35	Positive_regulation:T60 Cause:T25 Theme:E37
+T61	Gene_expression 1119 1129	expression
+E36	Gene_expression:T61 Theme:T27
+E37	Gene_expression:T61 Theme:T28
+T62	Translation 1134 1151	protein synthesis
+E38	Translation:T62 Theme:T27
+E39	Translation:T62 Theme:T28
+T63	Blood_vessel_development 1280 1290	angiogenic
+E40	Blood_vessel_development:T63 
+T64	Positive_regulation 1301 1310	promoting
+E41	Positive_regulation:T64 Theme:T31 Cause:T32

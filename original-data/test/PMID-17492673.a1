@@ -1,0 +1,38 @@
+T1	Organism 20 27	caprine
+T2	Organism_subdivision 28 37	caruncles
+T3	Simple_chemical 78 89	swainsonine
+T4	Organism 98 102	does
+T5	Tissue 104 117	Microvascular
+T6	Organism_subdivision 137 146	caruncles
+T7	Organism 182 187	goats
+T8	Organism_subdivision 306 315	caruncles
+T9	Organism 332 336	does
+T10	Multi-tissue_structure 354 370	capillary meshes
+T11	Multi-tissue_structure 461 472	vasculature
+T12	Multi-tissue_structure 573 581	branches
+T13	Multi-tissue_structure 585 600	radial arteries
+T14	Tissue 655 666	capillaries
+T15	Tissue 691 700	Capillary
+T16	Tissue 800 809	sinusoids
+T17	Tissue 824 833	sinusoids
+T18	Developing_anatomical_structure 898 903	fetal
+T19	Organism 919 926	caprine
+T20	Organ 927 935	placenta
+T21	Immaterial_anatomical_entity 976 986	interhemal
+T22	Organ 1010 1027	endotheliochorial
+T23	Organ 1032 1049	hemochorial types
+T24	Tissue 1110 1119	sinusoids
+T25	Multi-tissue_structure 1124 1130	crypts
+T26	Organ 1183 1192	placental
+T27	Organ 1207 1216	Placental
+T28	Cancer 1341 1346	tumor
+T29	Simple_chemical 1362 1373	swainsonine
+T30	Organism 1394 1402	locoweed
+T31	Cancer 1423 1429	cancer
+T32	Multi-tissue_structure 1439 1447	vascular
+T33	Tissue 1485 1495	sinusoidal
+T34	Tissue 1536 1545	capillary
+T35	Simple_chemical 1565 1576	Swainsonine
+T36	Multi-tissue_structure 1610 1621	vasculature
+T37	Multi-tissue_structure 1671 1679	vascular
+T38	Cancer 1736 1742	cancer

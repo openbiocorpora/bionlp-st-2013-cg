@@ -1,0 +1,37 @@
+T10	Binding 23 35	interactions
+E1	Binding:T10 Theme:T1
+T11	Metastasis 76 86	metastasis
+E2	Metastasis:T11 
+T12	Blood_vessel_development 91 103	angiogenesis
+E3	Blood_vessel_development:T12 
+T13	Metastasis 105 115	Metastasis
+E4	Metastasis:T13 
+T14	Blood_vessel_development 126 138	angiogenesis
+E5	Blood_vessel_development:T14 AtLoc:T2
+T15	Binding 306 317	interaction
+E6	Binding:T15 Theme:T3
+T16	Regulation 367 376	mediating
+E7	Regulation:T16 Theme:E10
+E8	Regulation:T16 Theme:E11
+E9	Regulation:T16 Theme:E12
+T17	Binding 386 394	adhesion
+E10	Binding:T17 Theme:T4
+T18	Breakdown 396 414	matrix dissolution
+E11	Breakdown:T18 Theme:T5
+T19	Localization 429 437	motility
+E12	Localization:T19 Theme:T6
+T20	Positive_regulation 441 448	achieve
+E13	Positive_regulation:T20 Theme:E19 Cause:E7
+E14	Positive_regulation:T20 Theme:E20 Cause:E7
+E15	Positive_regulation:T20 Theme:E19 Cause:E9
+E16	Positive_regulation:T20 Theme:E20 Cause:E9
+E17	Positive_regulation:T20 Theme:E19 Cause:E8
+E18	Positive_regulation:T20 Theme:E20 Cause:E8
+T21	Metastasis 449 459	metastasis
+E19	Metastasis:T21 Theme:T7
+T22	Blood_vessel_development 479 497	neovascularization
+E20	Blood_vessel_development:T22 AtLoc:T8
+T23	Blood_vessel_development 737 749	angiogenesis
+E21	Blood_vessel_development:T23 AtLoc:T9
+T24	Metastasis 754 764	metastatic
+E22	Metastasis:T24 

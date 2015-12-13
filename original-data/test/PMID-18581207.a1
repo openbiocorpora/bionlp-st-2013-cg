@@ -1,0 +1,40 @@
+T1	Cell 0 22	Tumor endothelial cell
+T2	Simple_chemical 32 70	cyclic RGD-modified heparin derivative
+T3	Cancer 103 108	tumor
+T4	Tissue 138 155	tumor endothelium
+T5	Simple_chemical 165 197	cRGD-modified heparin derivative
+T6	Simple_chemical 199 206	cRGD-HL
+T7	Simple_chemical 220 244	heparin-lithocholic acid
+T8	Simple_chemical 246 248	HL
+T9	Simple_chemical 255 261	cRGDyK
+T10	Simple_chemical 299 306	cRGD-HL
+T11	Cancer 327 332	tumor
+T12	Simple_chemical 389 396	cRGD-HL
+T13	Cell 420 436	endothelial cell
+T14	Gene_or_gene_product 463 474	vitronectin
+T15	Tissue 476 480	tube
+T16	Gene_or_gene_product 521 545	alpha(v)beta(3) integrin
+T17	Cancer 588 593	tumor
+T18	Simple_chemical 606 613	cRGD-HL
+T19	Cancer 647 652	tumor
+T20	Tissue 664 675	microvessel
+T21	Cancer 689 725	squamous cell carcinoma (SCC7) tumor
+T22	Simple_chemical 740 747	cRGD-HL
+T23	Cell 798 815	endothelial cells
+T24	Gene_or_gene_product 819 830	vitronectin
+T25	Tissue 836 854	tubular structures
+T26	Cell 858 875	endothelial cells
+T27	Simple_chemical 889 895	cRGDyK
+T28	Simple_chemical 900 902	HL
+T29	Simple_chemical 904 911	cRGD-HL
+T30	Gene_or_gene_product 950 974	alpha(v)beta(3) integrin
+T31	Simple_chemical 1014 1021	cRGD-HL
+T32	Gene_or_gene_product 1095 1099	bFGF
+T33	Multi-tissue_structure 1124 1136	blood vessel
+T34	Simple_chemical 1200 1207	cRGD-HL
+T35	Gene_or_gene_product 1248 1263	alpha(v)beta(3)
+T36	Cancer 1316 1323	tumoral
+T37	Cancer 1341 1351	SCC7 tumor
+T38	Simple_chemical 1397 1429	cRGD-modified heparin derivative
+T39	Cancer 1477 1488	solid tumor
+T40	Cancer 1542 1549	cancers

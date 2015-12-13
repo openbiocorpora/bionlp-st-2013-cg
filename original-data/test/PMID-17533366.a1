@@ -1,0 +1,42 @@
+T1	Gene_or_gene_product 12 17	Tip30
+T2	Organism 52 58	murine
+T3	Cell 59 83	mammary epithelial cells
+T4	Pathological_formation 88 106	ductal hyperplasia
+T5	Organ 114 127	mammary gland
+T6	Cell 148 172	mammary epithelial cells
+T7	Cell 174 178	MECs
+T8	Cancer 250 255	tumor
+T9	Gene_or_gene_product 294 299	Tip30
+T10	Cancer 305 310	tumor
+T11	Gene_or_gene_product 339 356	estrogen receptor
+T12	Cell 383 387	MECs
+T13	Cell 405 408	MEC
+T14	Gene_or_gene_product 472 477	Tip30
+T15	Pathological_formation 492 510	ductal hyperplasia
+T16	Organism 514 519	mouse
+T17	Organ 520 534	mammary glands
+T18	Pathological_formation 563 582	mammary hyperplasia
+T19	Gene_or_gene_product 593 598	Tip30
+T20	Cell 593 618	Tip30(-/-) mammary glands
+T21	Tissue 647 663	mammary fat pads
+T22	Multi-tissue_structure 677 690	mammary trees
+T23	Pathological_formation 706 724	ductal hyperplasia
+T24	Gene_or_gene_product 738 743	Tip30
+T25	Cell 787 791	MECs
+T26	Cell 832 836	MECs
+T27	Cell 858 873	wild-type cells
+T28	Tissue 949 967	mammary epithelial
+T29	Gene_or_gene_product 983 988	Wisp2
+T30	Gene_or_gene_product 993 998	Igf-1
+T31	Gene_or_gene_product 1002 1007	Tip30
+T32	Cell 1002 1018	Tip30(-/-) cells
+T33	Gene_or_gene_product 1040 1045	Wisp2
+T34	Gene_or_gene_product 1049 1054	Igf-1
+T35	Gene_or_gene_product 1123 1128	Tip30
+T36	Cell 1123 1139	Tip30(-/-) cells
+T37	Gene_or_gene_product 1178 1183	Tip30
+T38	Cell 1226 1229	MEC
+T39	Gene_or_gene_product 1277 1282	Wisp2
+T40	Gene_or_gene_product 1287 1292	Igf-1
+T41	Organ 1328 1341	mammary gland
+T42	Cell 1357 1361	MECs

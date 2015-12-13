@@ -1,0 +1,27 @@
+T1	Gene_or_gene_product 0 8	Netrin-1
+T2	Organ 39 44	bowel
+T3	Cancer 70 87	colorectal cancer
+T4	Cancer 127 133	cancer
+T5	Organ 204 209	bowel
+T6	Pathological_formation 234 252	ulcerative colitis
+T7	Cancer 312 329	colorectal cancer
+T8	Cancer 477 494	colorectal cancer
+T9	Gene_or_gene_product 561 570	NF-kappaB
+T10	Cancer 622 627	tumor
+T11	Cell 690 706	epithelial cells
+T12	Gene_or_gene_product 738 746	netrin-1
+T13	Gene_or_gene_product 803 806	DCC
+T14	Gene_or_gene_product 811 816	UNC5H
+T15	Organ 836 850	colonic crypts
+T16	Gene_or_gene_product 866 875	NF-kappaB
+T17	Cancer 895 913	colorectal cancers
+T18	Organ 932 937	bowel
+T19	Organism 947 955	patients
+T20	Gene_or_gene_product 987 995	netrin-1
+T21	Gene_or_gene_product 1052 1060	netrin-1
+T22	Cancer 1089 1106	colorectal cancer
+T23	Gene_or_gene_product 1140 1148	netrin-1
+T24	Organism 1169 1174	mouse
+T25	Pathological_formation 1185 1195	ulcerative
+T26	Cancer 1215 1232	colorectal cancer
+T27	Cancer 1284 1301	colorectal cancer

@@ -1,0 +1,20 @@
+T1	Cancer 0 11	Solid tumor
+T2	Multi-tissue_structure 41 52	vasculature
+T3	Gene_or_gene_product 58 61	TNF
+T4	Cancer 80 92	solid tumors
+T5	Cancer 135 141	cancer
+T6	Cell 343 347	cell
+T7	Cancer 391 403	solid tumors
+T8	Cancer 430 435	tumor
+T9	Multi-tissue_structure 447 458	vasculature
+T10	Multi-tissue_structure 509 523	tumor vascular
+T11	Cancer 593 598	tumor
+T12	Multi-tissue_structure 627 638	vasculature
+T13	Cell 684 694	tumor cell
+T14	Multi-tissue_structure 710 728	tumor vascular bed
+T15	Cancer 792 797	tumor
+T16	Gene_or_gene_product 873 900	tumor necrosis factor alpha
+T17	Gene_or_gene_product 902 905	TNF
+T18	Gene_or_gene_product 989 992	TNF
+T19	Multi-tissue_structure 1043 1061	tumor vascular bed
+T20	Cancer 1087 1092	tumor

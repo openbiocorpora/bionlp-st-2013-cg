@@ -1,0 +1,38 @@
+T1	Gene_or_gene_product 3 47	antibody directed against PDGF receptor beta
+T2	Cancer 65 70	tumor
+T3	Gene_or_gene_product 112 141	anti-VEGF receptor 2 antibody
+T4	Gene_or_gene_product 143 173	Platelet-derived growth factor
+T5	Gene_or_gene_product 175 179	PDGF
+T6	Gene_or_gene_product 200 205	PDGFR
+T7	Cancer 265 270	tumor
+T8	Cell 319 327	pericyte
+T9	Multi-tissue_structure 344 350	vessel
+T10	Simple_chemical 405 408	1B3
+T11	Organism 427 432	mouse
+T12	Gene_or_gene_product 433 442	PDGFRbeta
+T13	Simple_chemical 444 447	1B3
+T14	Gene_or_gene_product 457 466	PDGFRbeta
+T15	Gene_or_gene_product 510 517	PDGF-BB
+T16	Gene_or_gene_product 644 653	PDGFRbeta
+T17	Gene_or_gene_product 700 703	Akt
+T18	Gene_or_gene_product 708 719	MAPK p42/44
+T19	Cell 724 735	tumor cells
+T20	Simple_chemical 756 759	1B3
+T21	Cancer 791 796	tumor
+T22	Simple_chemical 835 840	DC101
+T23	Organism 871 876	mouse
+T24	Gene_or_gene_product 877 922	vascular endothelial growth factor receptor 2
+T25	Cancer 929 939	pancreatic
+T26	Cancer 941 947	BxPC-3
+T27	Cancer 955 1001	non-small cell lung (NCI-H460) tumor xenograft
+T28	Simple_chemical 1044 1047	1B3
+T29	Simple_chemical 1052 1057	DC101
+T30	Cancer 1061 1077	BxPC-3 xenograft
+T31	Organism 1086 1090	mice
+T32	Cancer 1103 1108	tumor
+T33	Organism 1130 1134	mice
+T34	Organism 1162 1166	mice
+T35	Simple_chemical 1180 1185	DC101
+T36	Gene_or_gene_product 1249 1270	PDGFRbeta antagonists
+T37	Cancer 1302 1307	tumor
+T38	Cancer 1371 1378	cancers

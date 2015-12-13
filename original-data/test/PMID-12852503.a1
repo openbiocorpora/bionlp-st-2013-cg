@@ -1,0 +1,29 @@
+T1	Tissue 14 20	tissue
+T2	Simple_chemical 41 50	polyester
+T3	Simple_chemical 55 68	polypropylene
+T4	Immaterial_anatomical_entity 87 106	preperitoneal space
+T5	Tissue 108 114	Tissue
+T6	Pathological_formation 197 212	inguinal hernia
+T7	Tissue 304 310	tissue
+T8	Simple_chemical 336 345	polyester
+T9	Simple_chemical 377 390	polypropylene
+T10	Simple_chemical 392 394	PP
+T11	Simple_chemical 406 415	polyester
+T12	Simple_chemical 441 450	polyester
+T13	Simple_chemical 465 474	polyester
+T14	Immaterial_anatomical_entity 620 639	preperitoneal space
+T15	Tissue 773 780	fibrous
+T16	Tissue 785 788	fat
+T17	Tissue 804 821	connective tissue
+T18	Organism_substance 892 899	exudate
+T19	Simple_chemical 1023 1025	PP
+T20	Tissue 1048 1055	fibrous
+T21	Simple_chemical 1111 1113	PP
+T22	Tissue 1136 1153	connective tissue
+T23	Tissue 1244 1247	fat
+T24	Organism_substance 1288 1295	exudate
+T25	Simple_chemical 1321 1330	polyester
+T26	Tissue 1366 1372	tissue
+T27	Simple_chemical 1394 1396	PP
+T28	Tissue 1440 1457	connective tissue
+T29	Tissue 1478 1485	fibrous

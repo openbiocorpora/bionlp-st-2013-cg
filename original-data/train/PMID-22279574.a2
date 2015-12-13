@@ -1,0 +1,108 @@
+*	Equiv T7 T8
+*	Equiv T13 T14
+*	Equiv T25 T26
+T72	Cell_death 14 23	apoptosis
+E1	Cell_death:T72 
+T73	Pathway 32 41	signaling
+E2	Pathway:T73 Participant:T2
+T74	Negative_regulation 42 52	disruption
+E3	Negative_regulation:T74 Theme:E2 Cause:T4
+T75	Metastasis 122 132	metastatic
+E4	Metastasis:T75 
+T76	Planned_process 247 259	therapeutics
+E5	Planned_process:T76 Theme:T9
+T77	Planned_process 304 313	treatment
+E6	Planned_process:T77 Theme:T11
+T78	Planned_process 496 512	chemotherapeutic
+E7	Planned_process:T78 Theme:T15 Instrument:T13
+T79	Negative_regulation 545 555	inhibition
+E8	Negative_regulation:T79 Theme:T16 Cause:T17
+T80	Cell_proliferation 691 704	proliferation
+E9	Cell_proliferation:T80 Theme:T20
+T81	Metastasis 894 904	metastasis
+E10	Metastasis:T81 
+T82	Growth 950 956	growth
+E11	Growth:T82 Theme:T29
+T83	Metastasis 961 971	metastasis
+E12	Metastasis:T83 Theme:T29
+T84	Negative_regulation 1020 1029	inhibitor
+E13	Negative_regulation:T84 Cause:T30 Theme:T31
+T85	Negative_regulation 1033 1044	suppressing
+E14	Negative_regulation:T85 Cause:T30 Theme:T33
+E15	Negative_regulation:T85 Cause:T30 Theme:T34
+M1	Negation E15
+T86	Planned_process 1138 1147	treatment
+E16	Planned_process:T86 Instrument:T35
+T87	Pathway 1154 1159	cycle
+E17	Pathway:T87 Theme:T36
+T88	Negative_regulation 1160 1166	arrest
+E18	Negative_regulation:T88 Theme:E17
+T89	Positive_regulation 1171 1178	induced
+E19	Positive_regulation:T89 Theme:E18 Cause:E16
+T90	Regulation 1216 1224	mediated
+E20	Regulation:T90 Cause:T37 Theme:E21
+T91	Cell_death 1225 1234	apoptosis
+E21	Cell_death:T91 
+T92	Negative_regulation 1241 1250	disrupted
+E22	Negative_regulation:T92 Cause:E23 Theme:T39
+T93	Negative_regulation 1272 1286	downregulating
+E23	Negative_regulation:T93 Cause:T38 Theme:T40
+T94	Negative_regulation 1317 1326	inhibited
+E24	Negative_regulation:T94 Cause:T41 Theme:T42
+E25	Negative_regulation:T94 Cause:T41 Theme:T43
+T95	Negative_regulation 1354 1361	reduced
+E26	Negative_regulation:T95 Cause:T41 Theme:E27
+T96	Binding 1400 1409	formation
+E27	Binding:T96 Theme:T44 Theme2:T45
+T97	Negative_regulation 1414 1423	decreased
+E28	Negative_regulation:T97 Theme:E29 Cause:T41
+T98	Binding 1454 1464	assemblies
+E29	Binding:T98 Theme:T46
+T99	Planned_process 1491 1500	injection
+E30	Planned_process:T99 Instrument:T49 Theme:T47
+T100	Planned_process 1509 1523	administration
+E31	Planned_process:T100 Instrument:T49 Theme:T48
+T101	Negative_regulation 1544 1553	inhibited
+E32	Negative_regulation:T101 Theme:E34 Cause:E31
+E33	Negative_regulation:T101 Theme:E34 Cause:E30
+T102	Growth 1575 1581	growth
+E34	Growth:T102 Theme:T50
+T103	Negative_regulation 1617 1624	delayed
+E35	Negative_regulation:T103 Theme:E36
+T104	Metastasis 1630 1640	metastasis
+E36	Metastasis:T104 ToLoc:T52
+T105	Acetylation 1675 1686	Acetylation
+E37	Acetylation:T105 Theme:T55
+T106	Cell_death 1737 1746	apoptotic
+E38	Cell_death:T106 
+T107	Dephosphorylation 1768 1786	de-phosphorylation
+E39	Dephosphorylation:T107 Theme:T57
+T108	Planned_process 1830 1837	treated
+E40	Planned_process:T108 Theme:T58
+T109	Pathway 1899 1926	intrinsic apoptotic pathway
+E41	Pathway:T109 
+T110	Regulation 1931 1938	involve
+E42	Regulation:T110 Cause:E41 Theme:E44
+M2	Speculation E42
+T111	Growth 1953 1959	growth
+E43	Growth:T111 Theme:T59
+T112	Negative_regulation 1960 1967	effects
+E44	Negative_regulation:T112 Cause:T60 Theme:E43
+T113	Negative_regulation 2017 2027	suppresses
+E45	Negative_regulation:T113 Cause:T62 Theme:E46
+T114	Metastasis 2034 2044	metastasis
+E46	Metastasis:T114 Theme:T63
+T115	Negative_regulation 2060 2070	inhibition
+E47	Negative_regulation:T115 Cause:T62 Theme:E52
+E48	Negative_regulation:T115 Cause:T62 Theme:E53
+E49	Negative_regulation:T115 Cause:T62 Theme:E54
+E50	Negative_regulation:T115 Cause:T62 Theme:E55
+E51	Negative_regulation:T115 Cause:T62 Theme:E56
+T116	Pathway 2110 2118	pathways
+E52	Pathway:T116 Participant:T64
+E53	Pathway:T116 Participant:T65
+E54	Pathway:T116 Participant:T66
+E55	Pathway:T116 Participant:T67
+E56	Pathway:T116 Participant:T68
+T117	Planned_process 2265 2277	chemotherapy
+E57	Planned_process:T117 Theme:T71

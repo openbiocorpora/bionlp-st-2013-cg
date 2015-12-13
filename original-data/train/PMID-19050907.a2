@@ -1,0 +1,21 @@
+*	Equiv T13 T14
+*	Equiv T15 T16
+*	Equiv T17 T18
+*	Equiv T19 T20
+T33	Gene_expression 1292 1302	expression
+E1	Gene_expression:T33 Theme:T19
+E2	Gene_expression:T33 Theme:T17
+E3	Gene_expression:T33 Theme:T15
+E4	Gene_expression:T33 Theme:T13
+T34	Positive_regulation 1784 1793	promoting
+E5	Positive_regulation:T34 Theme:E6
+T35	Blood_vessel_development 1794 1806	angiogenesis
+E6	Blood_vessel_development:T35 
+T36	Positive_regulation 1957 1965	activity
+E7	Positive_regulation:T36 Theme:T27
+E8	Positive_regulation:T36 Theme:T26
+T37	Regulation 2041 2047	effect
+E9	Regulation:T37 Theme:E11 Cause:T27
+E10	Regulation:T37 Theme:E11 Cause:T26
+T38	Remodeling 2058 2068	remodeling
+E11	Remodeling:T38 Theme:T28

@@ -1,0 +1,75 @@
+*	Equiv T18 T19
+T49	Negative_regulation 40 44	lost
+E1	Negative_regulation:T49 Theme:T2
+T50	Metastasis 61 71	metastasis
+E2	Metastasis:T50 Theme:T3
+T51	Cell_transformation 77 91	transformation
+E3	Cell_transformation:T51 Theme:T4
+E4	Cell_transformation:T51 Theme:T5
+T52	Negative_regulation 259 265	brakes
+E5	Negative_regulation:T52 Theme:E8
+E6	Negative_regulation:T52 Theme:E9
+E7	Negative_regulation:T52 Theme:E10
+T53	Cell_proliferation 274 280	growth
+E8	Cell_proliferation:T53 Theme:T8
+T54	Localization 282 291	migration
+E9	Localization:T54 Theme:T8
+T55	Death 301 309	survival
+E10	Death:T55 Theme:T9
+M1	Negation E10
+T56	Carcinogenesis 365 375	initiation
+E11	Carcinogenesis:T56 Theme:T10
+T57	Development 380 391	progression
+E12	Development:T57 Theme:T10
+T58	Regulation 475 483	involved
+E13	Regulation:T58 Theme:E19 Cause:E20
+E14	Regulation:T58 Theme:E19 Cause:E21
+E15	Regulation:T58 Theme:E19 Cause:E22
+E16	Regulation:T58 Theme:E19 Cause:E23
+E17	Regulation:T58 Theme:E19 Cause:E24
+E18	Regulation:T58 Theme:E19 Cause:E25
+T59	Positive_regulation 536 547	progression
+E19	Positive_regulation:T59 Theme:T15
+T60	Regulation 556 563	effects
+E20	Regulation:T60 Cause:T11 Theme:E26
+E21	Regulation:T60 Theme:E26 Cause:T12
+E22	Regulation:T60 Theme:E26 Cause:T13
+E23	Regulation:T60 Theme:E27 Cause:T11
+E24	Regulation:T60 Theme:E27 Cause:T12
+E25	Regulation:T60 Theme:E27 Cause:T13
+T61	Growth 580 586	growth
+E26	Growth:T61 Theme:T16
+T62	Localization 596 605	migration
+E27	Localization:T62 Theme:T17
+T63	Binding 644 650	linked
+E28	Binding:T63 Theme:T20 Theme:T18
+T64	Gene_expression 670 679	expressed
+E29	Gene_expression:T64 Theme:T18
+T65	Binding 734 739	binds
+E30	Binding:T65 Theme:T26 Theme:T24
+E31	Binding:T65 Theme:T27 Theme:T24
+E32	Binding:T65 Theme:T24 Theme2:T28
+T66	Positive_regulation 851 861	stimulates
+E33	Positive_regulation:T66 Cause:T29 Theme:E34
+T67	Remodeling 875 889	reorganization
+E34	Remodeling:T67 Theme:T30
+T68	Positive_regulation 912 921	resulting
+E35	Positive_regulation:T68 Theme:E37 Cause:E33
+E36	Positive_regulation:T68 Theme:E38 Cause:E33
+T69	Binding 925 933	adhesion
+E37	Binding:T69 Theme:T32
+T70	Development 947 956	formation
+E38	Development:T70 Theme:T33
+T71	Regulation 969 976	targets
+E39	Regulation:T71 Theme:T37 Cause:E41
+E40	Regulation:T71 Theme:T38 Cause:E41
+T72	Pathway 990 999	signaling
+E41	Pathway:T72 Participant:T34
+T73	Binding 1101 1109	adhesion
+E42	Binding:T73 Theme:T39
+T74	Localization 1114 1123	migration
+E43	Localization:T74 Theme:T39
+T75	Gene_expression 1157 1167	expression
+E44	Gene_expression:T75 Theme:T40
+T76	Negative_regulation 1349 1353	loss
+E45	Negative_regulation:T76 Theme:T43

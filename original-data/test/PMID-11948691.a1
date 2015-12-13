@@ -1,0 +1,56 @@
+T1	Gene_or_gene_product 0 7	VEGF165
+T2	Gene_or_gene_product 51 58	VEGFR-2
+T3	Gene_or_gene_product 63 75	neuropilin-1
+T4	Gene_or_gene_product 89 96	VEGF165
+T5	Gene_or_gene_product 132 136	NRP1
+T6	Gene_or_gene_product 142 149	VEGFR-2
+T7	Gene_or_gene_product 151 154	KDR
+T8	Cellular_component 162 169	surface
+T9	Cell 173 190	endothelial cells
+T10	Cell 192 194	EC
+T11	Gene_or_gene_product 205 212	VEGF165
+T12	Gene_or_gene_product 224 227	KDR
+T13	Cell 232 234	EC
+T14	Gene_or_gene_product 261 268	VEGF165
+T15	Gene_or_gene_product 288 292	NRP1
+T16	Cell 296 316	prostate tumor cells
+T17	Cancer 346 351	tumor
+T18	Gene_or_gene_product 429 433	NRP1
+T19	Gene_or_gene_product 488 492	NRP1
+T20	Gene_or_gene_product 497 500	KDR
+T21	Immaterial_anatomical_entity 505 518	intracellular
+T22	Gene_or_gene_product 538 542	NRP1
+T23	Gene_or_gene_product 547 550	KDR
+T24	Cell 579 581	EC
+T25	Gene_or_gene_product 585 605	anti-NRP1 antibodies
+T26	Gene_or_gene_product 630 637	VEGF165
+T27	Gene_or_gene_product 652 659	VEGF121
+T28	Gene_or_gene_product 684 688	NRP1
+T29	Gene_or_gene_product 746 753	VEGF165
+T30	Gene_or_gene_product 755 759	NRP1
+T31	Gene_or_gene_product 765 768	KDR
+T32	Immaterial_anatomical_entity 792 805	intercellular
+T33	Cell 831 833	EC
+T34	Gene_or_gene_product 845 848	KDR
+T35	Cell 860 865	cells
+T36	Gene_or_gene_product 877 881	NRP1
+T37	Cell 901 923	breast carcinoma cells
+T38	Gene_or_gene_product 925 932	VEGF165
+T39	Gene_or_gene_product 972 976	NRP1
+T40	Cell 986 991	cells
+T41	Gene_or_gene_product 1003 1006	KDR
+T42	Gene_or_gene_product 1108 1111	KDR
+T43	Gene_or_gene_product 1116 1120	NRP1
+T44	Gene_or_gene_product 1140 1152	125I-VEGF165
+T45	Gene_or_gene_product 1164 1167	KDR
+T46	Gene_or_gene_product 1228 1235	VEGF165
+T47	Gene_or_gene_product 1237 1240	KDR
+T48	Gene_or_gene_product 1246 1250	NRP1
+T49	Gene_or_gene_product 1263 1270	VEGF165
+T50	Gene_or_gene_product 1282 1285	KDR
+T51	Cellular_component 1321 1328	surface
+T52	Cell 1332 1334	EC
+T53	Cell 1381 1391	tumor cell
+T54	Gene_or_gene_product 1392 1396	NRP1
+T55	Cell 1401 1403	EC
+T56	Gene_or_gene_product 1404 1407	KDR

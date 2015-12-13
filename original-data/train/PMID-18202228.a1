@@ -1,0 +1,52 @@
+T1	Gene_or_gene_product 0 5	RUNX1
+T2	Cellular_component 6 9	DNA
+T3	Gene_or_gene_product 32 37	RUNX1
+T4	Gene_or_gene_product 38 44	PRDM16
+T5	Cancer 64 82	BCR-ABL+ leukemias
+T6	Gene_or_gene_product 64 67	BCR
+T7	Gene_or_gene_product 68 71	ABL
+T8	Cellular_component 132 134	21
+T9	Cell 157 163	clonal
+T10	Simple_chemical 178 186	imatinib
+T11	Cellular_component 247 258	chromosomal
+T12	Gene_or_gene_product 282 287	RUNX1
+T13	Cancer 330 358	acute myeloblastic leukemias
+T14	Cancer 360 364	AMLs
+T15	Cancer 430 459	acute lymphoblastic leukemias
+T16	Cancer 461 465	ALLs
+T17	Cancer 471 500	chronic myelogenous leukemias
+T18	Cancer 502 506	CMLs
+T19	Cancer 518 536	BCR-ABL+ leukemias
+T20	Gene_or_gene_product 518 521	BCR
+T21	Gene_or_gene_product 522 525	ABL
+T22	Cellular_component 568 581	chromosome 21
+T23	Cancer 651 680	myeloid blast crisis [BC] CML
+T24	Cancer 692 709	chronic phase CML
+T25	Cellular_component 722 725	DNA
+T26	Gene_or_gene_product 744 749	RUNX1
+T27	Cancer 792 805	BCR-ABL+ ALLs
+T28	Gene_or_gene_product 792 795	BCR
+T29	Gene_or_gene_product 796 799	ABL
+T30	Cancer 809 824	lymphoid BC CML
+T31	Gene_or_gene_product 843 848	RUNX1
+T32	Cellular_component 922 924	21
+T33	Cellular_component 1009 1020	chromosomal
+T34	Gene_or_gene_product 1021 1026	RUNX1
+T35	Gene_or_gene_product 1085 1091	PRDM16
+T36	Cellular_component 1095 1110	chromosome 1p36
+T37	Organism 1145 1153	patients
+T38	Cancer 1157 1172	myeloid BC CMLs
+T39	Cancer 1216 1228	BCR-ABL+ ALL
+T40	Gene_or_gene_product 1216 1219	BCR
+T41	Gene_or_gene_product 1220 1223	ABL
+T42	Organism 1234 1242	patients
+T43	Gene_or_gene_product 1258 1263	RUNX1
+T44	Gene_or_gene_product 1278 1283	RUNX1
+T45	Gene_or_gene_product 1284 1290	PRDM16
+T46	Gene_or_gene_product 1400 1403	BCR
+T47	Gene_or_gene_product 1404 1407	ABL
+T48	Gene_or_gene_product 1423 1428	RUNX1
+T49	Cancer 1514 1517	CML
+T50	Cancer 1525 1537	BCR-ABL+ ALL
+T51	Gene_or_gene_product 1525 1528	BCR
+T52	Gene_or_gene_product 1529 1532	ABL

@@ -1,0 +1,43 @@
+T1	Organism_substance 0 5	Serum
+T2	Gene_or_gene_product 14 41	vascular adhesion protein-1
+T3	Cancer 77 91	gastric cancer
+T4	Gene_or_gene_product 106 133	Vascular adhesion protein-1
+T5	Gene_or_gene_product 135 140	VAP-1
+T6	Cell 152 168	leukocyte tissue
+T7	Organism_substance 192 197	serum
+T8	Gene_or_gene_product 206 211	VAP-1
+T9	Gene_or_gene_product 213 219	sVAP-1
+T10	Cancer 312 329	colorectal cancer
+T11	Gene_or_gene_product 335 341	sVAP-1
+T12	Multi-tissue_structure 467 477	lymph node
+T13	Organ 482 487	liver
+T14	Gene_or_gene_product 509 515	sVAP-1
+T15	Cancer 554 568	gastric cancer
+T16	Organism_substance 630 635	serum
+T17	Gene_or_gene_product 636 642	sVAP-1
+T18	Cancer 700 714	gastric cancer
+T19	Organism_substance 738 743	serum
+T20	Cancer 767 781	gastric cancer
+T21	Organism 782 790	patients
+T22	Gene_or_gene_product 815 821	sVAP-1
+T23	Gene_or_gene_product 898 904	sVAP-1
+T24	Cancer 915 921	cancer
+T25	Organism 922 930	patients
+T26	Cancer 997 1004	disease
+T27	Cancer 1018 1023	Tumor
+T28	Multi-tissue_structure 1030 1037	serosal
+T29	Multi-tissue_structure 1048 1058	lymph node
+T30	Multi-tissue_structure 1071 1081	peritoneal
+T31	Gene_or_gene_product 1154 1160	sVAP-1
+T32	Gene_or_gene_product 1168 1174	sVAP-1
+T33	Multi-tissue_structure 1220 1230	lymph node
+T34	Organism 1243 1251	Patients
+T35	Gene_or_gene_product 1263 1269	sVAP-1
+T36	Organism 1324 1332	patients
+T37	Gene_or_gene_product 1349 1355	sVAP-1
+T38	Cancer 1379 1393	gastric cancer
+T39	Organism 1394 1402	patients
+T40	Gene_or_gene_product 1435 1441	sVAP-1
+T41	Cancer 1487 1501	gastric cancer
+T42	Gene_or_gene_product 1515 1521	sVAP-1
+T43	Multi-tissue_structure 1574 1584	lymph node

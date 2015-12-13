@@ -1,0 +1,69 @@
+*	Equiv T5 T6
+*	Equiv T25 T26
+T50	Regulation 0 6	Effect
+E1	Regulation:T50 Theme:T1
+M1	Speculation E1
+T51	Planned_process 10 22	transplanted
+E2	Planned_process:T51 Instrument:T1
+T52	Positive_regulation 81 92	improvement
+E3	Positive_regulation:T52 Theme:T3 Cause:E1
+T53	Planned_process 188 203	transplantation
+E4	Planned_process:T53 Instrument:T5
+T54	Planned_process 458 470	transplanted
+E5	Planned_process:T54 Instrument:T9 Theme:T10
+T55	Planned_process 557 569	transplanted
+E6	Planned_process:T55 Instrument:T11
+T56	Planned_process 700 708	isolated
+E7	Planned_process:T56 Instrument:T14 Theme:T15
+T57	Planned_process 713 721	cultured
+E8	Planned_process:T57 Theme:T14
+T58	Cell_death 736 745	apoptosis
+E9	Cell_death:T58 Theme:T16
+T59	Planned_process 871 880	injection
+E10	Planned_process:T59 Instrument:T19 Theme:T18
+T60	Cell_differentiation 1063 1078	differentiation
+E11	Cell_differentiation:T60 Theme:T22
+T61	Planned_process 1086 1093	grafted
+E12	Planned_process:T61 Instrument:T22
+T62	Planned_process 1143 1158	transplantation
+E13	Planned_process:T62 Instrument:T24
+T63	Cell_death 1377 1386	apoptosis
+E14	Cell_death:T63 Theme:T30
+T64	Cell_death 1479 1488	apoptosis
+E15	Cell_death:T64 Theme:T32
+E16	Cell_death:T64 Theme:T33
+T65	Planned_process 1665 1674	Engrafted
+E17	Planned_process:T65 Instrument:T34
+T66	Death 1680 1688	survived
+E18	Death:T66 Theme:T34
+M2	Negation E18
+T67	Cell_proliferation 1690 1702	proliferated
+E19	Cell_proliferation:T67 Theme:T34
+T68	Cell_differentiation 1707 1721	differentiated
+E20	Cell_differentiation:T68 Theme:T34
+T69	Gene_expression 1760 1770	expression
+E21	Gene_expression:T69 Theme:T36
+T70	Planned_process 1948 1963	transplantation
+E22	Planned_process:T70 Instrument:T38
+T71	Negative_regulation 1990 2000	attenuated
+E23	Negative_regulation:T71 Theme:E24 Cause:E22
+T72	Cell_death 2001 2010	apoptosis
+E24	Cell_death:T72 Theme:T39
+T73	Regulation 2096 2102	effect
+E25	Regulation:T73 Theme:T40
+T74	Positive_regulation 2107 2115	elevated
+E26	Positive_regulation:T74 Theme:E25
+T75	Positive_regulation 2437 2445	improved
+E27	Positive_regulation:T75 Theme:T45
+T76	Positive_regulation 2510 2517	improve
+T77	Regulation 2510 2517	improve
+E28	Positive_regulation:T76 Theme:T48 Cause:E29
+E29	Regulation:T77 Cause:T47 Theme:E30
+T78	Blood_vessel_development 2555 2567	angiogenesis
+E30	Blood_vessel_development:T78 
+T79	Negative_regulation 2572 2582	decreasing
+E31	Negative_regulation:T79 Theme:E32 Cause:T47
+T80	Cell_death 2597 2606	apoptosis
+E32	Cell_death:T80 Theme:T49
+T81	Planned_process 2612 2624	transplanted
+E33	Planned_process:T81 Instrument:T47

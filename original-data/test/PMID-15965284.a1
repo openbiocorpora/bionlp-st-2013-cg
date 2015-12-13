@@ -1,0 +1,31 @@
+T1	Simple_chemical 59 74	zoledronic acid
+T2	Cancer 96 111	bone metastases
+T3	Organism 115 123	patients
+T4	Cancer 139 151	solid tumors
+T5	Cancer 178 193	bone metastases
+T6	Simple_chemical 219 234	Bisphosphonates
+T7	Anatomical_system 311 319	skeletal
+T8	Cancer 345 360	bone metastases
+T9	Cancer 442 447	tumor
+T10	Cell 524 540	tumor cell lines
+T11	Cancer 596 601	tumor
+T12	Cell 635 650	accessory cells
+T13	Simple_chemical 743 758	zoledronic acid
+T14	Cancer 791 806	bone metastases
+T15	Organism 810 818	patients
+T16	Cancer 834 846	solid tumors
+T17	Cancer 856 871	bone metastases
+T18	Organism 917 925	patients
+T19	Cancer 964 970	cancer
+T20	Cancer 980 995	bone metastases
+T21	Simple_chemical 1046 1061	zoledronic acid
+T22	Organism 1079 1087	Patients
+T23	Cancer 1111 1126	bone metastases
+T24	Organism 1172 1180	patients
+T25	Cancer 1187 1202	bone metastases
+T26	Simple_chemical 1232 1247	zoledronic acid
+T27	Simple_chemical 1412 1427	bisphosphonates
+T28	Cancer 1488 1503	bone metastases
+T29	Simple_chemical 1634 1649	bisphosphonates
+T30	Organism 1653 1661	patients
+T31	Cancer 1674 1689	bone metastases

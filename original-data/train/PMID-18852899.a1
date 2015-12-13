@@ -1,0 +1,57 @@
+T1	Gene_or_gene_product 0 5	M-CSF
+T2	Gene_or_gene_product 26 30	MAPK
+T3	Gene_or_gene_product 31 34	ERK
+T4	Gene_or_gene_product 47 50	Sp1
+T5	Gene_or_gene_product 61 65	VEGF
+T6	Gene_or_gene_product 123 128	M-CSF
+T7	Cell 138 160	mononuclear phagocytes
+T8	Cancer 225 231	tumors
+T9	Gene_or_gene_product 233 237	VEGF
+T10	Cell 291 307	endothelial cell
+T11	Multi-tissue_structure 330 342	blood vessel
+T12	Gene_or_gene_product 392 397	M-CSF
+T13	Gene_or_gene_product 444 448	VEGF
+T14	Organism 454 459	human
+T15	Cell 460 469	monocytes
+T16	Gene_or_gene_product 553 558	M-CSF
+T17	Gene_or_gene_product 567 571	VEGF
+T18	Gene_or_gene_product 617 621	VEGF
+T19	Gene_or_gene_product 643 653	luciferase
+T20	Gene_or_gene_product 698 701	HIF
+T21	Gene_or_gene_product 717 721	VEGF
+T22	Gene_or_gene_product 760 770	luciferase
+T23	Gene_or_gene_product 793 798	M-CSF
+T24	Gene_or_gene_product 843 848	M-CSF
+T25	Gene_or_gene_product 857 861	VEGF
+T26	Gene_or_gene_product 874 878	MAPK
+T27	Gene_or_gene_product 879 882	ERK
+T28	Gene_or_gene_product 931 934	Sp1
+T29	Gene_or_gene_product 963 966	ERK
+T30	Gene_or_gene_product 970 973	Sp1
+T31	Gene_or_gene_product 985 990	M-CSF
+T32	Gene_or_gene_product 999 1003	VEGF
+T33	Gene_or_gene_product 1035 1040	M-CSF
+T34	Cellular_component 1058 1065	nuclear
+T35	Gene_or_gene_product 1082 1085	Sp1
+T36	Gene_or_gene_product 1108 1111	ERK
+T37	Gene_or_gene_product 1146 1149	Sp1
+T38	Gene_or_gene_product 1175 1179	VEGF
+T39	Gene_or_gene_product 1203 1206	ERK
+T40	Gene_or_gene_product 1217 1221	VEGF
+T41	Gene_or_gene_product 1243 1248	M-CSF
+T42	Organism 1257 1262	human
+T43	Cell 1263 1272	monocytes
+T44	Gene_or_gene_product 1317 1322	M-CSF
+T45	Gene_or_gene_product 1331 1335	VEGF
+T46	Gene_or_gene_product 1415 1420	M-CSF
+T47	Cell 1432 1454	mononuclear phagocytes
+T48	Gene_or_gene_product 1465 1469	VEGF
+T49	Gene_or_gene_product 1548 1561	VEGF antibody
+T50	Gene_or_gene_product 1572 1577	M-CSF
+T51	Multi-tissue_structure 1586 1598	blood vessel
+T52	Gene_or_gene_product 1646 1649	ERK
+T53	Gene_or_gene_product 1655 1658	Sp1
+T54	Gene_or_gene_product 1682 1687	M-CSF
+T55	Gene_or_gene_product 1696 1700	VEGF
+T56	Gene_or_gene_product 1762 1767	M-CSF
+T57	Gene_or_gene_product 1795 1799	VEGF

@@ -1,0 +1,32 @@
+*	Equiv T4 T5
+T20	Gene_expression 1 11	Expression
+E1	Gene_expression:T20 Theme:T1
+T21	Gene_expression 124 134	expression
+E2	Gene_expression:T21 Theme:T3
+M1	Speculation E2
+T22	Gene_expression 231 241	expression
+E3	Gene_expression:T22 Theme:T6
+M2	Speculation E3
+T23	Gene_expression 395 405	expression
+E4	Gene_expression:T23 Theme:T11
+T24	Cell_differentiation 492 507	differentiation
+E5	Cell_differentiation:T24 
+T25	Metastasis 523 533	metastasis
+E6	Metastasis:T25 ToLoc:T12
+T26	Gene_expression 561 571	expression
+E7	Gene_expression:T26 Theme:T13
+T27	Gene_expression 688 698	expression
+E8	Gene_expression:T27 Theme:T16
+T28	Cell_differentiation 785 800	differentiation
+E9	Cell_differentiation:T28 
+T29	Metastasis 816 826	metastasis
+E10	Metastasis:T29 ToLoc:T17
+T30	Regulation 870 880	contribute
+E11	Regulation:T30 Cause:T18 Theme:E13
+E12	Regulation:T30 Cause:T18 Theme:E14
+M3	Speculation E11
+M4	Speculation E12
+T31	Development 888 898	initiation
+E13	Development:T31 Theme:T19
+T32	Metastasis 902 912	metastasis
+E14	Metastasis:T32 Theme:T19

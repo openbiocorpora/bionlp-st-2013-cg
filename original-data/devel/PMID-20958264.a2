@@ -1,0 +1,90 @@
+*	Equiv T11 T12
+*	Equiv T14 T15
+*	Equiv T16 T17
+*	Equiv T19 T20
+*	Equiv T26 T27
+*	Equiv T33 T34
+T48	Positive_regulation 9 19	stimulates
+E1	Positive_regulation:T48 Theme:E3 Cause:E5
+E2	Positive_regulation:T48 Theme:E3 Cause:E6
+T49	Glycolysis 20 30	glycolysis
+E3	Glycolysis:T49 
+T50	Synthesis 49 58	synthesis
+E4	Synthesis:T50 Theme:T2
+T51	Positive_regulation 62 72	increasing
+E5	Positive_regulation:T51 Cause:T1 Theme:T3
+E6	Positive_regulation:T51 Cause:T1 Theme:T4
+T52	Positive_regulation 438 448	activation
+E7	Positive_regulation:T52 Cause:T8 Theme:T11
+T53	Positive_regulation 475 485	activation
+E8	Positive_regulation:T53 Cause:T8 Theme:T14
+T54	Positive_regulation 575 585	Activation
+E9	Positive_regulation:T54 Cause:T18 Theme:T16
+T55	Positive_regulation 637 646	increased
+E10	Positive_regulation:T55 Theme:E11 Cause:E9
+T56	Phosphorylation 647 662	phosphorylation
+E11	Phosphorylation:T56 Theme:T19
+T57	Binding 732 737	bound
+E12	Binding:T57 Site:T58 Theme:T21 Theme2:T19
+T58	DNA_domain_or_region 741 744	CRE
+T59	Positive_regulation 777 786	resulting
+E13	Positive_regulation:T59 Cause:E12 Theme:E15
+T60	Transcription 790 805	transcriptional
+E14	Transcription:T60 Theme:T22
+T61	Positive_regulation 806 816	activation
+E15	Positive_regulation:T61 Theme:E14
+T62	Positive_regulation 834 847	Up-regulation
+E16	Positive_regulation:T62 Theme:E17
+T63	Gene_expression 858 868	expression
+E17	Gene_expression:T63 Theme:T23
+T64	Regulation 873 881	mediated
+E18	Regulation:T64 Theme:E16 Cause:E19
+T65	Binding 896 903	binding
+E19	Binding:T65 Theme:T25 Site:T66
+T66	DNA_domain_or_region 956 964	promoter
+T67	Positive_regulation 970 979	activated
+E20	Positive_regulation:T67 Theme:E21
+T68	Pathway 1017 1035	signalling pathway
+E21	Pathway:T68 Participant:T26 Participant2:T28
+T69	Regulation 1051 1062	contributes
+E22	Regulation:T69 Cause:E21 Theme:E24
+E23	Regulation:T69 Cause:E21 Theme:E25
+T70	Phosphorylation 1070 1085	phosphorylation
+E24	Phosphorylation:T70 Theme:T30 Site:T31
+E25	Phosphorylation:T70 Theme:T30 Site:T32
+T71	Positive_regulation 1118 1127	resulting
+E26	Positive_regulation:T71 Theme:E28 Cause:E25
+E27	Positive_regulation:T71 Theme:E28 Cause:E24
+T72	Positive_regulation 1148 1158	activation
+E28	Positive_regulation:T72 Theme:T33
+T73	Localization 1213 1219	uptake
+E29	Localization:T73 Theme:T35
+T74	Negative_regulation 1250 1257	blocked
+E30	Negative_regulation:T74 Theme:E29 Cause:E32
+E31	Negative_regulation:T74 Theme:E29 Cause:E33
+T75	Planned_process 1261 1274	knocking-down
+E32	Planned_process:T75 Theme:T36
+T76	Negative_regulation 1327 1337	inhibition
+E33	Negative_regulation:T76 Cause:E34 Theme:T37
+T77	Planned_process 1370 1379	treatment
+E34	Planned_process:T77 Instrument:T38
+T78	Positive_regulation 1426 1435	induction
+E35	Positive_regulation:T78 Cause:T40 Theme:E36
+T79	Synthesis 1453 1462	synthesis
+E36	Synthesis:T79 Theme:T39
+T80	Positive_regulation 1475 1483	requires
+E37	Positive_regulation:T80 Theme:E35 Cause:E42
+E38	Positive_regulation:T80 Theme:E35 Cause:E44
+E39	Positive_regulation:T80 Theme:E35 Cause:E43
+T81	Transcription 1488 1503	transcriptional
+E40	Transcription:T81 Theme:T41
+E41	Transcription:T81 Theme:T42
+T82	Positive_regulation 1504 1517	up-regulation
+E42	Positive_regulation:T82 Theme:E40
+E43	Positive_regulation:T82 Theme:E41
+T83	Phosphorylation 1541 1556	phosphorylation
+E44	Phosphorylation:T83 Theme:T43
+T84	Positive_regulation 1567 1576	generated
+E45	Positive_regulation:T84 Cause:E46 Theme:E44
+T85	Pathway 1593 1611	signalling pathway
+E46	Pathway:T85 Participant:T44 Participant2:T45

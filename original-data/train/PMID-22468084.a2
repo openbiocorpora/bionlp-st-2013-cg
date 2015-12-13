@@ -1,0 +1,44 @@
+*	Equiv T6 T7
+T55	Gene_expression 0 10	Expression
+E1	Gene_expression:T55 Theme:T1
+E2	Gene_expression:T55 Theme:T2
+T56	Gene_expression 117 127	expression
+E3	Gene_expression:T56 Theme:T5
+E4	Gene_expression:T56 Theme:T6
+M1	Speculation E3
+M2	Speculation E4
+T57	Pathway 287 295	pathways
+E5	Pathway:T57 Theme:T9
+E6	Pathway:T57 Theme:T10
+T58	Gene_expression 411 421	Expression
+E7	Gene_expression:T58 Theme:T5
+E8	Gene_expression:T58 Theme:T6
+M3	Speculation E7
+M4	Speculation E8
+T59	Gene_expression 571 581	expression
+E9	Gene_expression:T59 Theme:T15
+T60	Cell_proliferation 669 682	proliferation
+E10	Cell_proliferation:T60 Theme:T17
+T61	Cell_proliferation 730 743	proliferation
+E11	Cell_proliferation:T61 Theme:T17
+T62	Gene_expression 787 793	absent
+E12	Gene_expression:T62 Theme:T18
+M5	Negation E12
+T63	Cell_proliferation 1068 1081	proliferation
+E13	Cell_proliferation:T63 Theme:T23
+T64	Positive_regulation 1097 1110	up-regulation
+E14	Positive_regulation:T64 Theme:T27
+T65	Mutation 1202 1220	gene amplification
+E15	Mutation:T65 Theme:T31 AtLoc:T28
+T66	Gene_expression 1709 1719	expression
+E16	Gene_expression:T66 Theme:T47
+E17	Gene_expression:T66 Theme:T46
+T67	Positive_regulation 1772 1785	up-regulation
+E18	Positive_regulation:T67 Theme:T49
+E19	Positive_regulation:T67 Theme:T50
+T68	Regulation 1931 1941	modulation
+E20	Regulation:T68 Theme:E21
+T69	Cell_proliferation 1950 1963	proliferation
+E21	Cell_proliferation:T69 Theme:T53
+T70	Carcinogenesis 1979 1993	carcinogenesis
+E22	Carcinogenesis:T70 AtLoc:T54

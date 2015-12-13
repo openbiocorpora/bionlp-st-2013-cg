@@ -1,0 +1,45 @@
+T1	Simple_chemical 0 11	Simvastatin
+T2	Cell 33 44	B-CLL cells
+T3	Cellular_component 62 75	mitochondrial
+T4	Gene_or_gene_product 76 85	caspase 9
+T5	Cancer 115 143	Chronic lymphocytic leukemia
+T6	Cancer 145 148	CLL
+T7	Cancer 169 177	leukemia
+T8	Simple_chemical 326 333	statins
+T9	Gene_or_gene_product 361 419	3-hydroxy-3-methyl glutaryl coenzyme A (HMG-CoA) reductase
+T10	Cancer 430 440	neoplastic
+T11	Simple_chemical 493 504	simvastatin
+T12	Simple_chemical 506 509	Sim
+T13	Cell 514 531	malignant B cells
+T14	Organism 545 553	patients
+T15	Cancer 559 562	CLL
+T16	Cell 631 642	B-CLL cells
+T17	Organism 651 659	patients
+T18	Simple_chemical 695 698	Sim
+T19	Cellular_component 783 796	mitochondrial
+T20	Cell 846 851	cells
+T21	Simple_chemical 865 868	Sim
+T22	Gene_or_gene_product 953 960	annexin
+T23	Amino_acid 980 998	phosphatidylserine
+T24	Cell 1048 1053	cells
+T25	Simple_chemical 1156 1172	propidium iodide
+T26	Simple_chemical 1241 1244	Sim
+T27	Gene_or_gene_product 1328 1336	caspases
+T28	Simple_chemical 1347 1350	Sim
+T29	Gene_or_gene_product 1387 1397	caspases 9
+T30	Gene_or_gene_product 1399 1400	8
+T31	Gene_or_gene_product 1406 1407	3
+T32	Gene_or_gene_product 1425 1432	caspase
+T33	Simple_chemical 1443 1452	Z-VAD.fmk
+T34	Gene_or_gene_product 1463 1472	caspase 8
+T35	Gene_or_gene_product 1477 1478	3
+T36	Gene_or_gene_product 1512 1521	caspase 9
+T37	Cell 1547 1567	clonal B lymphocytes
+T38	Organism 1573 1581	patients
+T39	Cancer 1587 1590	CLL
+T40	Simple_chemical 1594 1605	simvastatin
+T41	Simple_chemical 1696 1699	Sim
+T42	Cellular_component 1729 1742	mitochondrial
+T43	Gene_or_gene_product 1743 1752	caspase 9
+T44	Gene_or_gene_product 1794 1803	caspase 3
+T45	Gene_or_gene_product 1808 1809	8

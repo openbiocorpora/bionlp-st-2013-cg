@@ -1,0 +1,35 @@
+T1	Gene_or_gene_product 0 5	H-ras
+T2	Organism 19 24	human
+T3	Cancer 25 44	pituitary carcinoma
+T4	Organ 82 91	pituitary
+T5	Gene_or_gene_product 254 257	ras
+T6	Cancer 281 286	tumor
+T7	Gene_or_gene_product 303 306	p53
+T8	Cancer 310 337	invasive pituitary adenomas
+T9	Cancer 342 352	carcinomas
+T10	Gene_or_gene_product 393 396	p53
+T11	Gene_or_gene_product 460 462	N-
+T12	Gene_or_gene_product 466 471	K-ras
+T13	Cancer 502 512	carcinomas
+T14	Cancer 545 553	deposits
+T15	Gene_or_gene_product 574 579	H-ras
+T16	Cancer 633 660	pituitary tumor secondaries
+T17	Cancer 690 718	primary pituitary carcinomas
+T18	Cancer 739 747	adenomas
+T19	Simple_chemical 781 782	G
+T20	Simple_chemical 786 787	C
+T21	Simple_chemical 820 821	G
+T22	Simple_chemical 825 826	A
+T23	Amino_acid 868 875	glycine
+T24	Amino_acid 879 887	arginine
+T25	Amino_acid 896 903	alanine
+T26	Amino_acid 907 916	threonine
+T27	Amino_acid 933 944	amino acids
+T28	Simple_chemical 1006 1013	adenine
+T29	Gene_or_gene_product 1038 1043	H-ras
+T30	Gene_or_gene_product 1165 1168	p53
+T31	Gene_or_gene_product 1173 1176	ras
+T32	Organ 1201 1210	pituitary
+T33	Gene_or_gene_product 1258 1263	H-ras
+T34	Cancer 1320 1340	pituitary metastases
+T35	Cancer 1461 1477	pituitary tumors

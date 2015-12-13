@@ -1,0 +1,60 @@
+T22	Binding 91 101	associated
+E1	Binding:T22 Theme:T4 Theme:T7
+T23	Regulation 206 216	implicated
+E2	Regulation:T23 Theme:T8 Cause:T4
+E3	Regulation:T23 Theme:T9 Cause:T4
+E4	Regulation:T23 Theme:T8 Cause:T7
+E5	Regulation:T23 Theme:T9 Cause:T7
+T24	Regulation 277 281	role
+E6	Regulation:T24 Cause:T10 Theme:T11
+T25	Regulation 331 341	regulation
+E7	Regulation:T25 Theme:E8 Cause:T10
+M1	Speculation E7
+T26	Cell_proliferation 350 363	proliferation
+E8	Cell_proliferation:T26 Theme:T12
+T27	Regulation 365 372	control
+E9	Regulation:T27 Cause:T10 Theme:E10
+M2	Speculation E9
+T28	Cell_death 376 385	apoptosis
+E10	Cell_death:T28 
+T29	Positive_regulation 387 396	promotion
+E11	Positive_regulation:T29 Cause:T10 Theme:E12
+M3	Speculation E11
+T30	Blood_vessel_development 400 412	angiogenesis
+E12	Blood_vessel_development:T30 
+T31	Positive_regulation 418 429	stimulation
+E13	Positive_regulation:T31 Cause:T10 Theme:E15
+E14	Positive_regulation:T31 Cause:T10 Theme:E16
+M4	Speculation E14
+M5	Speculation E13
+T32	Localization 433 441	invasion
+E15	Localization:T32 Theme:T11
+T33	Metastasis 442 452	metastasis
+E16	Metastasis:T33 
+T34	Regulation 472 476	role
+E17	Regulation:T34 Cause:T13 Theme:E18
+T35	Carcinogenesis 494 505	oncogenesis
+E18	Carcinogenesis:T35 
+T36	Negative_regulation 528 538	inhibition
+E19	Negative_regulation:T36 Theme:T14
+T37	Planned_process 588 597	therapies
+E20	Planned_process:T37 Theme:T15
+T38	Positive_regulation 598 603	leads
+E21	Positive_regulation:T38 Cause:E20 Theme:E25
+E22	Positive_regulation:T38 Theme:E27 Cause:E20
+E23	Positive_regulation:T38 Cause:E19 Theme:E25
+E24	Positive_regulation:T38 Theme:E27 Cause:E19
+T39	Death 618 623	death
+E25	Death:T39 Theme:T16
+T40	Growth 627 633	growth
+E26	Growth:T40 Theme:T16
+T41	Negative_regulation 634 644	inhibition
+E27	Negative_regulation:T41 Theme:E26
+T42	Negative_regulation 707 711	play
+E28	Negative_regulation:T42 Cause:T17 Theme:T18
+T43	Positive_regulation 788 797	promoting
+E29	Positive_regulation:T43 Theme:E30 Cause:T17
+T44	Cell_death 801 810	apoptotic
+E30	Cell_death:T44 
+T45	Planned_process 847 854	therapy
+E31	Planned_process:T45 Theme:T19

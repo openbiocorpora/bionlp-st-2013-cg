@@ -1,0 +1,22 @@
+T1	Gene_or_gene_product 29 32	p53
+T2	Cancer 33 38	tumor
+T3	Gene_or_gene_product 112 115	p53
+T4	Cancer 116 121	tumor
+T5	Cell 215 220	cells
+T6	Gene_or_gene_product 287 290	p53
+T7	Cell 341 345	cell
+T8	Cell 420 425	cells
+T9	Cell 449 453	cell
+T10	Gene_or_gene_product 574 577	p53
+T11	Cancer 697 703	cancer
+T12	Gene_or_gene_product 730 733	p53
+T13	Simple_chemical 838 845	glucose
+T14	Cellular_component 891 904	mitochondrial
+T15	Simple_chemical 932 935	ATP
+T16	Gene_or_gene_product 973 976	p53
+T17	Cell 993 998	cells
+T18	Cellular_component 1090 1093	DNA
+T19	Gene_or_gene_product 1162 1165	p53
+T20	Cellular_component 1204 1217	mitochondrial
+T21	Cell 1322 1334	cancer cells
+T22	Gene_or_gene_product 1385 1388	p53

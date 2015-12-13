@@ -1,0 +1,16 @@
+T1	Cancer 0 6	Cancer
+T2	Cancer 103 108	tumor
+T3	Cell 175 191	neoplastic cells
+T4	Cell 208 213	cells
+T5	Gene_or_gene_product 328 338	E-cadherin
+T6	Gene_or_gene_product 339 345	alpha-
+T7	Gene_or_gene_product 347 352	beta-
+T8	Gene_or_gene_product 354 367	gamma-catenin
+T9	Gene_or_gene_product 572 582	E-Cadherin
+T10	Gene_or_gene_product 635 645	E-cadherin
+T11	Gene_or_gene_product 686 696	E-cadherin
+T12	Cell 766 774	cultures
+T13	Cancer 780 795	invasive tumors
+T14	Cell 819 824	cells
+T15	Gene_or_gene_product 849 859	E-cadherin
+T16	Gene_or_gene_product 977 987	E-cadherin

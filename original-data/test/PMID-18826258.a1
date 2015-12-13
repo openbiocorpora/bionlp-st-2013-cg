@@ -1,0 +1,15 @@
+T1	Cell 8 12	cell
+T2	Gene_or_gene_product 43 51	perlecan
+T3	Gene_or_gene_product 53 61	Perlecan
+T4	Immaterial_anatomical_entity 78 90	pericellular
+T5	Cell 130 134	cell
+T6	Cell 514 518	cell
+T7	Gene_or_gene_product 559 567	perlecan
+T8	Cancer 703 709	cancer
+T9	Gene_or_gene_product 769 777	perlecan
+T10	Gene_or_gene_product 987 999	endorepellin
+T11	Gene_or_gene_product 1004 1013	integrins
+T12	Cell 1039 1044	cells
+T13	Cellular_component 1052 1072	extracellular matrix
+T14	Gene_or_gene_product 1207 1215	perlecan
+T15	Cell 1238 1242	cell

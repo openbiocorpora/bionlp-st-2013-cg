@@ -1,0 +1,36 @@
+T1	Gene_or_gene_product 14 17	DCC
+T2	Gene_or_gene_product 22 30	netrin-1
+T3	Organism 41 46	human
+T4	Multi-tissue_structure 47 58	endometrium
+T5	Multi-tissue_structure 82 93	endometrial
+T6	Gene_or_gene_product 131 134	DCC
+T7	Cancer 170 175	tumor
+T8	Multi-tissue_structure 214 233	uterine endometrium
+T9	Gene_or_gene_product 349 352	DCC
+T10	Gene_or_gene_product 369 377	netrin-1
+T11	Multi-tissue_structure 393 404	endometrium
+T12	Cancer 412 430	endometrial cancer
+T13	Gene_or_gene_product 459 462	DCC
+T14	Gene_or_gene_product 467 475	netrin-1
+T15	Multi-tissue_structure 486 504	endometrial glands
+T16	Cell 512 529	cancer cell lines
+T17	Gene_or_gene_product 604 607	DCC
+T18	Gene_or_gene_product 612 620	netrin-1
+T19	Multi-tissue_structure 716 734	Endometrial glands
+T20	Gene_or_gene_product 797 800	DCC
+T21	Gene_or_gene_product 805 813	netrin-1
+T22	Multi-tissue_structure 819 825	glands
+T23	Gene_or_gene_product 872 875	DCC
+T24	Cell 912 941	endometrial cancer cell lines
+T25	Gene_or_gene_product 954 957	DCC
+T26	Gene_or_gene_product 979 982	DCC
+T27	Cell 1001 1018	cancer cell lines
+T28	Gene_or_gene_product 1037 1045	netrin-1
+T29	Gene_or_gene_product 1118 1126	netrin-1
+T30	Gene_or_gene_product 1170 1173	DCC
+T31	Gene_or_gene_product 1174 1182	netrin-1
+T32	Cell 1204 1209	cells
+T33	Multi-tissue_structure 1231 1248	endometrial gland
+T34	Gene_or_gene_product 1347 1350	DCC
+T35	Cell 1394 1418	endometrial cancer cells
+T36	Gene_or_gene_product 1426 1429	DCC

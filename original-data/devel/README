@@ -1,0 +1,37 @@
+Development data for BioNLP Shared Task 2013 - Cancer Genetics task (CG)
+
+Contains 100 PubMed abstracts and their annotations.
+
+For format details, please refer to the shared task homepage.
+http://2013.bionlp-st.org/file-formats
+
+
+File Descriptions:
+
+*.txt	Document text.
+	Each of these files consists of two lines, one for the title and 
+	one for the abstract.
+
+*.a1	Standoff annotations for core physical entities.
+
+*.a2	Standoff annotations for events and secondary physical entities.
+        For training, the participants will be provided with these files.
+        For test, the participants have to create this annotation.
+
+
+History:
+
+16 Jan 2013: initial version released.
+
+
+Authors:
+
+BioNLP Shared Task 2013 CG task organizers:
+
+* Sampo Pyysalo: task chair
+* Tomoko Ohta: primary annotation
+* Rafal Rak: workflows, annotation support
+* Sophia Ananiadou: principal investigator
+
+bionlp-st@bionlp-st.org
+http://2013.bionlp-st.org/tasks/cancer-genetics

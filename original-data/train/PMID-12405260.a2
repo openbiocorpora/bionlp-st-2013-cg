@@ -1,0 +1,62 @@
+T26	Regulation 84 95	involvement
+E1	Regulation:T26 Cause:T1 Theme:T3
+E2	Regulation:T26 Cause:T1 Theme:E3
+T27	Blood_vessel_development 110 122	angiogenesis
+E3	Blood_vessel_development:T27 
+T28	Regulation 289 296	engaged
+E4	Regulation:T28 Theme:E6 Cause:T4 Site:T30
+E5	Regulation:T28 Theme:E6 Cause:T4 Site:T31
+T29	Transcription 304 317	transcription
+E6	Transcription:T29 Theme:T9
+T30	DNA_domain_or_region 334 336	p1
+T31	DNA_domain_or_region 341 353	p2 promoters
+T32	Cell_death 379 388	apoptotic
+E7	Cell_death:T32 
+T33	Gene_expression 450 458	produces
+E8	Gene_expression:T33 Theme:T10
+T34	Planned_process 624 636	transfection
+E9	Planned_process:T34 Instrument:T13 Theme:T12
+T35	Gene_expression 641 656	superexpression
+E10	Gene_expression:T35 Theme:T13
+T36	Positive_regulation 661 669	increase
+E11	Positive_regulation:T36 Theme:T14
+T37	Positive_regulation 710 717	leading
+E12	Positive_regulation:T37 Theme:E14 Cause:E11
+T38	Cell_death 721 730	apoptosis
+E13	Cell_death:T38 Theme:T12
+T39	Negative_regulation 731 741	protection
+E14	Negative_regulation:T39 Theme:E13
+T40	Gene_expression 789 799	expression
+E15	Gene_expression:T40 Theme:T15
+T41	Negative_regulation 807 817	restricted
+E16	Negative_regulation:T41 Theme:E15
+M1	Negation E16
+T42	Regulation 923 941	mechanisms linking
+E17	Regulation:T42 Cause:T19 Theme:E18
+M2	Speculation E17
+T43	Carcinogenesis 952 966	carcinogenesis
+E18	Carcinogenesis:T43 
+T44	Regulation 983 987	role
+E19	Regulation:T44 Cause:T19 Theme:E26
+E20	Regulation:T44 Cause:T19 Theme:E23
+E21	Regulation:T44 Cause:T19 Theme:E25
+E22	Regulation:T44 Cause:T19 Theme:E24
+M3	Speculation E19
+M4	Speculation E20
+M5	Speculation E21
+M6	Speculation E22
+T45	Regulation 1020 1031	influencing
+E23	Regulation:T45 Theme:E27
+E24	Regulation:T45 Theme:E29
+E25	Regulation:T45 Theme:E30
+E26	Regulation:T45 Theme:E28
+T46	Negative_regulation 1042 1052	antagonism
+E27	Negative_regulation:T46 Theme:T21
+E28	Negative_regulation:T46 Theme:T20
+T47	Positive_regulation 1068 1077	induction
+E29	Positive_regulation:T47 Theme:E31 Cause:T23
+E30	Positive_regulation:T47 Theme:E31 Cause:T22
+T48	Blood_vessel_development 1087 1099	angiogenesis
+E31	Blood_vessel_development:T48 AtLoc:T24
+T49	Carcinogenesis 1148 1157	oncogenic
+E32	Carcinogenesis:T49 

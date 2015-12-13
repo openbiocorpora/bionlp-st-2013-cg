@@ -1,0 +1,40 @@
+T1	Gene_or_gene_product 0 3	WNT
+T2	Gene_or_gene_product 4 7	TCF
+T3	Gene_or_gene_product 26 30	LEF1
+T4	Gene_or_gene_product 35 40	HOXB9
+T5	Cancer 50 69	lung adenocarcinoma
+T6	Cancer 99 118	lung adenocarcinoma
+T7	Organ 149 155	organs
+T8	Cancer 245 256	lung tumors
+T9	Gene_or_gene_product 298 301	WNT
+T10	Gene_or_gene_product 302 305	TCF
+T11	Organ 367 372	brain
+T12	Tissue 377 381	bone
+T13	Cancer 389 408	lung adenocarcinoma
+T14	Gene_or_gene_product 458 461	WNT
+T15	Gene_or_gene_product 462 465	TCF
+T16	Organ 517 523	organs
+T17	Cancer 535 554	lung adenocarcinoma
+T18	Multi-tissue_structure 608 618	lymph node
+T19	Cell 627 657	lung adenocarcinoma cell lines
+T20	Gene_or_gene_product 679 682	WNT
+T21	Gene_or_gene_product 683 686	TCF
+T22	Gene_or_gene_product 709 712	TCF
+T23	Cell 731 736	cells
+T24	Organ 770 775	brain
+T25	Organ 780 784	bone
+T26	Organism 799 803	mice
+T27	Cancer 833 838	tumor
+T28	Organ 853 858	lungs
+T29	Gene_or_gene_product 864 867	WNT
+T30	Gene_or_gene_product 868 871	TCF
+T31	Gene_or_gene_product 885 890	HOXB9
+T32	Gene_or_gene_product 895 899	LEF1
+T33	Cancer 956 962	colony
+T34	Gene_or_gene_product 991 994	WNT
+T35	Gene_or_gene_product 995 998	TCF
+T36	Gene_or_gene_product 1025 1029	LEF1
+T37	Gene_or_gene_product 1034 1039	HOXB9
+T38	Cell 1067 1092	lung adenocarcinoma cells
+T39	Organ 1109 1114	bones
+T40	Organ 1123 1128	brain

@@ -1,0 +1,59 @@
+T1	Simple_chemical 0 9	Estradiol
+T2	Gene_or_gene_product 20 24	IL-8
+T3	Organism 45 50	human
+T4	Tissue 51 64	breast tissue
+T5	Cancer 69 82	breast cancer
+T6	Gene_or_gene_product 92 96	IL-8
+T7	Gene_or_gene_product 100 105	CXCL8
+T8	Cancer 131 136	tumor
+T9	Cancer 185 198	breast cancer
+T10	Simple_chemical 200 208	Estrogen
+T11	Organism_subdivision 223 229	breast
+T12	Cancer 249 254	tumor
+T13	Gene_or_gene_product 296 300	IL-8
+T14	Tissue 321 334	breast tissue
+T15	Cancer 338 351	breast cancer
+T16	Cell 374 378	cell
+T17	Tissue 390 396	tissue
+T18	Gene_or_gene_product 405 409	IL-8
+T19	Gene_or_gene_product 443 447	IL-8
+T20	Tissue 481 487	tissue
+T21	Gene_or_gene_product 521 525	IL-8
+T22	Organism 536 541	human
+T23	Tissue 542 555	breast tissue
+T24	Organism 591 596	women
+T25	Cancer 616 630	breast cancers
+T26	Organism 634 639	women
+T27	Cancer 661 674	breast cancer
+T28	Organism 678 682	mice
+T29	Gene_or_gene_product 736 740	IL-8
+T30	Simple_chemical 745 754	estradiol
+T31	Tissue 765 778	breast tissue
+T32	Cancer 783 814	hormone-dependent breast cancer
+T33	Simple_chemical 833 842	estradiol
+T34	Gene_or_gene_product 866 870	IL-8
+T35	Tissue 897 910	breast tissue
+T36	Cancer 939 952	breast cancer
+T37	Simple_chemical 954 963	estradiol
+T38	Gene_or_gene_product 974 978	IL-8
+T39	Simple_chemical 996 1004	estrogen
+T40	Simple_chemical 1005 1014	tamoxifen
+T41	Gene_or_gene_product 1042 1046	IL-8
+T42	Cancer 1092 1098	tumors
+T43	Organism 1102 1111	nude mice
+T44	Simple_chemical 1116 1128	anti-IL-8 Ab
+T45	Cell 1139 1155	endothelial cell
+T46	Cell 1181 1192	cancer cell
+T47	Gene_or_gene_product 1202 1206	IL-8
+T48	Cancer 1211 1217	tumors
+T49	Gene_or_gene_product 1227 1231	IL-8
+T50	Simple_chemical 1307 1316	estradiol
+T51	Gene_or_gene_product 1358 1362	IL-8
+T52	Organism 1373 1378	human
+T53	Tissue 1379 1392	breast tissue
+T54	Organism 1397 1402	human
+T55	Cancer 1403 1416	breast cancer
+T56	Gene_or_gene_product 1418 1422	IL-8
+T57	Simple_chemical 1466 1474	estrogen
+T58	Organism_subdivision 1482 1488	breast
+T59	Cancer 1508 1513	tumor

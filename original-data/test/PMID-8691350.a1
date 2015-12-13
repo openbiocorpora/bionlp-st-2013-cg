@@ -1,0 +1,30 @@
+T1	Cancer 45 71	non-small cell lung cancer
+T2	Cancer 73 79	Tumour
+T3	Cancer 120 126	tumour
+T4	Tissue 192 203	microvessel
+T5	Cancer 214 240	non-small cell lung cancer
+T6	Multi-tissue_structure 401 409	vascular
+T7	Cancer 457 487	non-small cell lung carcinomas
+T8	Gene_or_gene_product 499 531	JC70 monoclonal antibody to CD31
+T9	Multi-tissue_structure 539 547	vascular
+T10	Organ 586 589	eye
+T11	Organ 717 720	eye
+T12	Multi-tissue_structure 777 785	Vascular
+T13	Gene_or_gene_product 850 854	Ki67
+T14	Gene_or_gene_product 860 864	EGFR
+T15	Gene_or_gene_product 868 871	p53
+T16	Cancer 884 891	Tumours
+T17	Organism 905 913	patients
+T18	Multi-tissue_structure 976 984	vascular
+T19	Multi-tissue_structure 1056 1066	lymph node
+T20	Multi-tissue_structure 1148 1156	vascular
+T21	Multi-tissue_structure 1293 1301	vascular
+T22	Multi-tissue_structure 1428 1436	vascular
+T23	Organism 1583 1591	patients
+T24	Multi-tissue_structure 1602 1610	vascular
+T25	Multi-tissue_structure 1672 1680	vascular
+T26	Cancer 1737 1763	non-small cell lung cancer
+T27	Cell 1870 1881	cancer cell
+T28	Multi-tissue_structure 1895 1906	lymph nodes
+T29	Multi-tissue_structure 1927 1935	vascular
+T30	Organism 2070 2078	patients

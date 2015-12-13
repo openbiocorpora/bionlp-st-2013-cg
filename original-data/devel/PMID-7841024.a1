@@ -1,0 +1,49 @@
+T1	Organism 42 45	rat
+T2	Cancer 46 54	hepatoma
+T3	Cell 80 88	subclone
+T4	Cell 101 110	spheroids
+T5	Cancer 128 134	tumors
+T6	Cell 136 143	H4IIEC3
+T7	Cell 145 147	H4
+T8	Organism 167 170	rat
+T9	Cell 171 184	hepatoma line
+T10	Cell 189 191	H5
+T11	Cell 214 222	subclone
+T12	Cell 259 268	spheroids
+T13	Cancer 286 305	subcutaneous tumors
+T14	Organism 309 322	juvenile rats
+T15	Cell 324 332	H4 cells
+T16	Cell 353 362	spheroids
+T17	Cell 371 379	H5 cells
+T18	Cell 394 415	grape-like structures
+T19	Simple_chemical 417 420	31P
+T20	Simple_chemical 444 459	phosphocreatine
+T21	Cell 475 487	H5 spheroids
+T22	Cell 499 511	H4 spheroids
+T23	Cancer 515 521	tumors
+T24	Simple_chemical 523 535	[13C]Lactate
+T25	Simple_chemical 552 564	[13C]glucose
+T26	Simple_chemical 595 607	[13C]alanine
+T27	Cell 645 657	H5 spheroids
+T28	Simple_chemical 691 703	[13C]glucose
+T29	Cell 732 744	H4 spheroids
+T30	Amino_acid 760 767	alanine
+T31	Simple_chemical 796 803	lactate
+T32	Amino_acid 805 814	glutamate
+T33	Amino_acid 819 828	glutamine
+T34	Simple_chemical 857 875	tricarboxylic acid
+T35	Simple_chemical 877 880	TCA
+T36	Cancer 889 895	Tumors
+T37	Cell 899 907	H4 cells
+T38	Cancer 935 941	tumors
+T39	Cell 945 953	H5 cells
+T40	Simple_chemical 1011 1023	[13C]alanine
+T41	Simple_chemical 1025 1037	[13C]lactate
+T42	Amino_acid 1042 1051	glutamate
+T43	Simple_chemical 1083 1086	TCA
+T44	Cancer 1111 1120	H4 tumors
+T45	Simple_chemical 1151 1154	31P
+T46	Simple_chemical 1159 1162	13C
+T47	Cell 1212 1214	H4
+T48	Cell 1219 1231	H5 spheroids
+T49	Cancer 1236 1242	tumors

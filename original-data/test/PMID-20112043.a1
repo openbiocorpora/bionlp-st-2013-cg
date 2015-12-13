@@ -1,0 +1,31 @@
+T1	Gene_or_gene_product 0 10	14-3-3zeta
+T2	Gene_or_gene_product 39 51	beta-catenin
+T3	Cancer 123 157	stage I non-small cell lung cancer
+T4	Gene_or_gene_product 191 201	14-3-3zeta
+T5	Cell 228 236	cellular
+T6	Cancer 262 267	tumor
+T7	Gene_or_gene_product 310 320	14-3-3zeta
+T8	Gene_or_gene_product 325 337	beta-catenin
+T9	Tissue 382 400	same tumor tissues
+T10	Gene_or_gene_product 493 503	14-3-3zeta
+T11	Gene_or_gene_product 508 520	beta-catenin
+T12	Cancer 532 558	non-small-cell lung cancer
+T13	Cancer 560 565	NSCLC
+T14	Cancer 581 586	NSCLC
+T15	Tissue 600 619	normal lung tissues
+T16	Organism 644 652	patients
+T17	Gene_or_gene_product 673 683	14-3-3zeta
+T18	Gene_or_gene_product 688 700	beta-catenin
+T19	Gene_or_gene_product 851 861	14-3-3zeta
+T20	Cancer 881 894	stage I NSCLC
+T21	Gene_or_gene_product 927 937	14-3-3zeta
+T22	Multi-tissue_structure 975 985	lymph node
+T23	Gene_or_gene_product 1047 1059	beta-catenin
+T24	Multi-tissue_structure 1119 1129	lymph node
+T25	Gene_or_gene_product 1151 1163	beta-catenin
+T26	Gene_or_gene_product 1218 1228	14-3-3zeta
+T27	Gene_or_gene_product 1256 1266	14-3-3zeta
+T28	Gene_or_gene_product 1271 1283	beta-catenin
+T29	Cancer 1367 1372	NSCLC
+T30	Gene_or_gene_product 1374 1384	14-3-3zeta
+T31	Cancer 1428 1433	NSCLC

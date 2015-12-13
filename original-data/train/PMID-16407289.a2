@@ -1,0 +1,47 @@
+*	Equiv T3 T4
+*	Equiv T5 T6
+*	Equiv T29 T30
+T39	Regulation 0 10	Regulation
+E1	Regulation:T39 Theme:T1 Cause:T2
+T40	Binding 320 324	bind
+E2	Binding:T40 Theme:T7
+T41	Regulation 347 357	implicated
+E3	Regulation:T41 Cause:T8 Theme:E4
+M1	Speculation E3
+T42	Protein_processing 370 380	maturation
+E4	Protein_processing:T42 Theme:T9
+T43	Development 473 481	modeling
+E5	Development:T43 Theme:T10
+T44	Regulation 491 500	regulated
+E6	Regulation:T44 Cause:T11 Theme:E5
+T45	Gene_expression 530 540	deficiency
+E7	Gene_expression:T45 Theme:T12
+M2	Negation E7
+T46	Positive_regulation 599 608	increased
+E8	Positive_regulation:T46 Theme:T16
+E9	Positive_regulation:T46 Theme:T17
+T47	Positive_regulation 779 788	increased
+E10	Positive_regulation:T47 Theme:T22
+E11	Positive_regulation:T47 Theme:T21
+T48	Gene_expression 798 807	deficient
+E12	Gene_expression:T48 Theme:T23
+M3	Negation E12
+T49	Gene_expression 891 901	deficiency
+E13	Gene_expression:T49 Theme:T27
+M4	Negation E13
+T50	Negative_regulation 1010 1020	Inhibition
+E14	Negative_regulation:T50 Theme:T29
+T51	Negative_regulation 1058 1065	blocked
+E15	Negative_regulation:T51 Cause:E14 Theme:E16
+T52	Gene_expression 1084 1094	expression
+E16	Gene_expression:T52 Theme:T31
+T53	Gene_expression 1104 1113	deficient
+E17	Gene_expression:T53 Theme:T32
+M5	Negation E17
+T54	Regulation 1131 1141	regulation
+E18	Regulation:T54 Theme:T34
+T55	Regulation 1300 1304	role
+E19	Regulation:T55 Cause:T37 Theme:T38
+E20	Regulation:T55 Cause:T37 Theme:E21
+T56	Blood_vessel_development 1360 1372	angiogenesis
+E21	Blood_vessel_development:T56 

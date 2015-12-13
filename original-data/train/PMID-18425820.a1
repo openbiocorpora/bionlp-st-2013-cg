@@ -1,0 +1,25 @@
+T1	Gene_or_gene_product 60 86	pyruvate kinase subtype M2
+T2	Cell 109 119	tumor cell
+T3	Cell 136 147	Tumor cells
+T4	Gene_or_gene_product 181 207	pyruvate kinase subtype M2
+T5	Gene_or_gene_product 209 214	M2-PK
+T6	Simple_chemical 290 309	phosphoenolpyruvate
+T7	Simple_chemical 311 314	PEP
+T8	Simple_chemical 346 349	PEP
+T9	Cell 464 474	tumor cell
+T10	Gene_or_gene_product 520 525	M2-PK
+T11	Gene_or_gene_product 584 589	M2-PK
+T12	Gene_or_gene_product 711 716	M2-PK
+T13	Gene_or_gene_product 754 756	PK
+T14	Simple_chemical 786 789	ATP
+T15	Simple_chemical 790 793	ADP
+T16	Cell 814 819	cells
+T17	Gene_or_gene_product 852 857	M2-PK
+T18	Cell 929 952	NIH3T3 cell populations
+T19	Cell 969 973	cell
+T20	Cell 1021 1025	cell
+T21	Gene_or_gene_product 1047 1052	M2-PK
+T22	Organism 1117 1122	human
+T23	Cell 1123 1148	U-2 OS osteosarcoma cells
+T24	Gene_or_gene_product 1222 1255	pyruvate kinase isoenzyme type M2
+T25	Cell 1321 1331	tumor cell

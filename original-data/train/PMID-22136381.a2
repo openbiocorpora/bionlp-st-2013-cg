@@ -1,0 +1,119 @@
+*	Equiv T4 T5
+T49	Negative_regulation 10 20	inhibition
+E1	Negative_regulation:T49 Theme:T1 Cause:T2
+T50	Negative_regulation 114 124	suppresses
+E2	Negative_regulation:T50 Theme:E3 Cause:E1
+T51	Metastasis 129 139	metastasis
+E3	Metastasis:T51 Theme:T3
+T52	Metastasis 150 160	metastatic
+E4	Metastasis:T52 
+T53	Positive_regulation 226 236	activation
+E5	Positive_regulation:T53 Theme:T4
+T54	Regulation 237 248	contributes
+E6	Regulation:T54 Cause:E5 Theme:E7
+T55	Metastasis 271 281	metastasis
+E7	Metastasis:T55 
+T56	Regulation 415 422	effects
+E8	Regulation:T56 Cause:E9 Theme:E10
+M1	Speculation E8
+T57	Negative_regulation 436 446	inhibition
+E9	Negative_regulation:T57 Theme:T8
+T58	Metastasis 455 465	metastasis
+E10	Metastasis:T58 Theme:T9
+T59	Planned_process 486 497	established
+E11	Planned_process:T59 Theme:T10
+T60	Gene_expression 509 519	expressing
+E12	Gene_expression:T60 Theme:T11
+T61	Planned_process 601 608	passage
+E13	Planned_process:T61 Theme:T14
+E14	Planned_process:T61 Theme:T15
+T62	Metastasis 642 652	metastasis
+E15	Metastasis:T62 ToLoc:T16
+T63	Localization 708 717	migration
+E16	Localization:T63 Theme:T17
+M2	Speculation E16
+T64	Localization 722 730	invasion
+E17	Localization:T64 Theme:T17
+M3	Speculation E17
+T65	Gene_expression 794 804	expression
+E18	Gene_expression:T65 Theme:T18
+M4	Speculation E18
+T66	Metastasis 828 838	metastasis
+E19	Metastasis:T66 
+T67	Metastasis 905 915	metastasis
+E20	Metastasis:T67 
+T68	Death 920 928	survival
+E21	Death:T68 Theme:T21
+M5	Negation E21
+T69	Planned_process 938 947	engrafted
+E22	Planned_process:T69 Instrument:T20 Theme:T21
+T70	Regulation 986 993	effects
+E23	Regulation:T70 Cause:T23 Theme:E24
+M6	Speculation E23
+T71	Metastasis 1068 1078	metastasis
+E24	Metastasis:T71 
+T72	Planned_process 1090 1099	engrafted
+E25	Planned_process:T72 Instrument:T24 Theme:T25
+T73	Planned_process 1124 1133	engrafted
+E26	Planned_process:T73 Instrument:T26
+T74	Metastasis 1192 1202	metastatic
+E27	Metastasis:T74 
+T75	Positive_regulation 1234 1242	enhanced
+E28	Positive_regulation:T75 Theme:T29
+T76	Regulation 1268 1280	contributing
+E29	Regulation:T76 Cause:E28 Theme:E33
+E30	Regulation:T76 Cause:E28 Theme:E34
+E31	Regulation:T76 Cause:E28 Theme:E35
+E32	Regulation:T76 Cause:E28 Theme:E36
+T77	Positive_regulation 1284 1293	increased
+E33	Positive_regulation:T77 Theme:E37
+E34	Positive_regulation:T77 Theme:E39
+E35	Positive_regulation:T77 Theme:E38
+E36	Positive_regulation:T77 Theme:E40
+T78	Localization 1294 1303	migration
+E37	Localization:T78 Theme:T27
+E38	Localization:T78 Theme:T28
+T79	Localization 1305 1313	invasion
+E39	Localization:T79 Theme:T27
+E40	Localization:T79 Theme:T28
+T80	Gene_expression 1385 1395	expression
+E41	Gene_expression:T80 Theme:T32
+E42	Gene_expression:T80 Theme:T33
+E43	Gene_expression:T80 Theme:T34
+E44	Gene_expression:T80 Theme:T35
+E45	Gene_expression:T80 Theme:T36
+E46	Gene_expression:T80 Theme:T37
+E47	Gene_expression:T80 Theme:T38
+T81	Metastasis 1426 1436	metastasis
+E48	Metastasis:T81 
+T82	Positive_regulation 1534 1545	upregulated
+E49	Positive_regulation:T82 Theme:E41
+E50	Positive_regulation:T82 Theme:E42
+E51	Positive_regulation:T82 Theme:E43
+E52	Positive_regulation:T82 Theme:E44
+E53	Positive_regulation:T82 Theme:E45
+E54	Positive_regulation:T82 Theme:E46
+E55	Positive_regulation:T82 Theme:E47
+T83	Metastasis 1560 1570	metastatic
+E56	Metastasis:T83 
+T84	Negative_regulation 1594 1604	suppressed
+E57	Negative_regulation:T84 Cause:T40 Theme:E59
+E58	Negative_regulation:T84 Cause:T40 Theme:E60
+T85	Metastasis 1605 1615	metastasis
+E59	Metastasis:T85 
+T86	Growth 1633 1639	growth
+E60	Growth:T86 Theme:T41
+T87	Planned_process 1651 1661	inoculated
+E61	Planned_process:T87 Instrument:T42 Theme:T43
+T88	Metastasis 1737 1747	metastasis
+E62	Metastasis:T88 
+T89	Planned_process 1769 1778	engrafted
+E63	Planned_process:T89 Theme:T45
+T90	Negative_regulation 1833 1843	inhibition
+E64	Negative_regulation:T90 Cause:T47 Theme:E65
+T91	Positive_regulation 1857 1867	activation
+E65	Positive_regulation:T91 Theme:T46
+T92	Planned_process 1925 1934	treatment
+E66	Planned_process:T92 Theme:T48
+T93	Metastasis 1945 1955	metastatic
+E67	Metastasis:T93 Theme:T48

@@ -1,0 +1,41 @@
+T1	Gene_or_gene_product 13 17	Id-1
+T2	Gene_or_gene_product 21 26	FGF-2
+T3	Gene_or_gene_product 48 53	EGR-1
+T4	Cell 69 88	neuroblastoma cells
+T5	Cell 92 96	cell
+T6	Gene_or_gene_product 105 135	Inhibitor of differentiation-1
+T7	Gene_or_gene_product 137 141	Id-1
+T8	Gene_or_gene_product 345 349	Id-1
+T9	Cell 383 387	cell
+T10	Cell 422 426	cell
+T11	Gene_or_gene_product 456 460	Id-1
+T12	Cell 512 516	cell
+T13	Cell 560 564	cell
+T14	Cell 625 629	cell
+T15	Gene_or_gene_product 637 663	Fibroblast growth factor-2
+T16	Gene_or_gene_product 665 670	FGF-2
+T17	Anatomical_system 773 795	central nervous system
+T18	Anatomical_system 797 800	CNS
+T19	Gene_or_gene_product 816 821	FGF-2
+T20	Cell 852 860	neuronal
+T21	Cell 908 935	neuroblastoma SK-N-MC cells
+T22	Gene_or_gene_product 960 964	Id-1
+T23	Gene_or_gene_product 1057 1062	FGF-2
+T24	Gene_or_gene_product 1084 1088	Id-1
+T25	Organism 1096 1101	human
+T26	Cell 1102 1125	neuroblastoma cell line
+T27	Cell 1127 1134	SK-N-MC
+T28	Cell 1169 1174	cells
+T29	Gene_or_gene_product 1180 1185	FGF-2
+T30	Gene_or_gene_product 1222 1226	Id-1
+T31	Gene_or_gene_product 1282 1287	FGF-2
+T32	Gene_or_gene_product 1317 1323	ERK1/2
+T33	Gene_or_gene_product 1376 1399	early growth response-1
+T34	Gene_or_gene_product 1401 1406	Egr-1
+T35	Gene_or_gene_product 1472 1477	Egr-1
+T36	Gene_or_gene_product 1483 1487	Id-1
+T37	Cell 1513 1525	cell culture
+T38	Gene_or_gene_product 1550 1554	Id-1
+T39	Gene_or_gene_product 1601 1606	FGF-2
+T40	Cell 1615 1620	cells
+T41	Cell 1633 1637	cell

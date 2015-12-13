@@ -1,0 +1,58 @@
+T1	Simple_chemical 19 27	magnolol
+T2	Cell 36 40	cell
+T3	Cell 50 82	CGTH W-2 thyroid carcinoma cells
+T4	Simple_chemical 85 93	Magnolol
+T5	Tissue 125 129	bark
+T6	Organism 133 152	Magnolia officialis
+T7	Cell 163 167	cell
+T8	Cell 220 232	cancer cells
+T9	Simple_chemical 284 292	magnolol
+T10	Cell 296 328	CGTH W-2 thyroid carcinoma cells
+T11	Simple_chemical 366 374	magnolol
+T12	Organism_substance 378 383	serum
+T13	Cell 420 425	cells
+T14	Gene_or_gene_product 482 494	Cytochrome-c
+T15	Organism_substance 524 533	cytoplasm
+T16	Cell 551 556	cells
+T17	Cellular_component 580 592	mitochondria
+T18	Cell 604 609	cells
+T19	Gene_or_gene_product 675 683	caspases
+T20	Gene_or_gene_product 685 694	caspase-3
+T21	Gene_or_gene_product 699 701	-7
+T22	Gene_or_gene_product 718 746	poly (ADP-ribose) polymerase
+T23	Gene_or_gene_product 748 752	PARP
+T24	Simple_chemical 757 765	magnolol
+T25	Gene_or_gene_product 801 826	apoptosis inducing factor
+T26	Gene_or_gene_product 828 831	AIF
+T27	Cellular_component 880 892	mitochondria
+T28	Cellular_component 900 907	nucleus
+T29	Gene_or_gene_product 930 934	PARP
+T30	Gene_or_gene_product 938 945	caspase
+T31	Simple_chemical 963 971	magnolol
+T32	Gene_or_gene_product 1025 1033	caspases
+T33	Gene_or_gene_product 1038 1042	PARP
+T34	Simple_chemical 1057 1065	magnolol
+T35	Gene_or_gene_product 1076 1131	phosphatase and tensin homolog deleted on chromosome 10
+T36	Gene_or_gene_product 1133 1137	PTEN
+T37	Gene_or_gene_product 1155 1158	Akt
+T38	Gene_or_gene_product 1198 1202	PTEN
+T39	Gene_or_gene_product 1222 1225	Akt
+T40	Simple_chemical 1251 1259	magnolol
+T41	Gene_or_gene_product 1328 1331	Akt
+T42	Gene_or_gene_product 1335 1344	caspase 9
+T43	Gene_or_gene_product 1373 1377	PARP
+T44	Gene_or_gene_product 1399 1406	caspase
+T45	Simple_chemical 1438 1446	magnolol
+T46	Immaterial_anatomical_entity 1527 1540	intracellular
+T47	Simple_chemical 1541 1544	ATP
+T48	Gene_or_gene_product 1559 1563	PARP
+T49	Simple_chemical 1600 1608	magnolol
+T50	Gene_or_gene_product 1637 1649	cytochrome-c
+T51	Gene_or_gene_product 1650 1659	caspase 3
+T52	Gene_or_gene_product 1660 1664	PARP
+T53	Gene_or_gene_product 1665 1668	AIF
+T54	Gene_or_gene_product 1673 1677	PTEN
+T55	Gene_or_gene_product 1678 1681	Akt
+T56	Gene_or_gene_product 1682 1691	caspase 9
+T57	Gene_or_gene_product 1692 1696	PARP
+T58	Gene_or_gene_product 1723 1727	PARP

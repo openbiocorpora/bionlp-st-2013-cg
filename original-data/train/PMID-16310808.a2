@@ -1,0 +1,115 @@
+*	Equiv T13 T14
+T37	Regulation 22 31	affecting
+E1	Regulation:T37 Cause:T1 Theme:E5
+E2	Regulation:T37 Cause:T1 Theme:E6
+E3	Regulation:T37 Cause:T1 Theme:E7
+E4	Regulation:T37 Cause:T1 Theme:E8
+T38	Localization 37 46	secretion
+E5	Localization:T38 Theme:T2
+T39	Localization 48 62	cell migration
+E6	Localization:T39 Theme:T6
+T40	Binding 64 72	adhesion
+E7	Binding:T40 Theme:T6
+T41	Development 92 101	formation
+E8	Development:T41 Theme:T4
+T42	Blood_vessel_development 140 152	Angiogenesis
+E9	Blood_vessel_development:T42 
+T43	Development 171 180	formation
+E10	Development:T43 Theme:T7
+T44	Regulation 216 225	regulated
+E11	Regulation:T44 Theme:E9
+T45	Blood_vessel_development 233 243	angiogenic
+E12	Blood_vessel_development:T45 
+T46	Positive_regulation 261 270	stimulate
+E13	Positive_regulation:T46 Theme:E16
+E14	Positive_regulation:T46 Theme:E17
+E15	Positive_regulation:T46 Theme:E18
+T47	Localization 292 299	migrate
+E16	Localization:T47 Theme:T8
+T48	Cell_proliferation 301 312	proliferate
+E17	Cell_proliferation:T48 Theme:T8
+T49	Cell_differentiation 317 330	differentiate
+E18	Cell_differentiation:T49 Theme:T8
+T50	Development 334 338	form
+E19	Development:T50 Theme:T9
+T51	Development 386 397	development
+E20	Development:T51 Theme:T10
+T52	Remodeling 415 425	remodeling
+E21	Remodeling:T52 Theme:T11
+T53	Development 508 517	formation
+E22	Development:T53 Theme:T12
+T54	Blood_vessel_development 604 616	angiogenesis
+E23	Blood_vessel_development:T54 
+T55	Negative_regulation 643 660	inhibitory action
+E24	Negative_regulation:T55 Theme:E23 Cause:T13
+M1	Speculation E24
+T56	Regulation 732 741	influence
+E25	Regulation:T56 Cause:T15 Theme:E26
+M2	Speculation E25
+T57	Blood_vessel_development 781 793	angiogenesis
+E26	Blood_vessel_development:T57 
+T58	Regulation 840 846	effect
+E27	Regulation:T58 Cause:T16 Theme:E31
+E28	Regulation:T58 Cause:T16 Theme:E34
+E29	Regulation:T58 Cause:T16 Theme:E33
+E30	Regulation:T58 Cause:T16 Theme:E32
+M3	Speculation E27
+M4	Speculation E28
+M5	Speculation E29
+M6	Speculation E30
+T59	Localization 870 879	secretion
+E31	Localization:T59 Theme:T17
+T60	Localization 881 895	cell migration
+E32	Localization:T60 Theme:T21
+T61	Binding 897 905	adhesion
+E33	Binding:T61 Theme:T21
+T62	Development 930 939	formation
+E34	Development:T62 Theme:T19
+T63	Negative_regulation 1045 1054	inhibited
+E35	Negative_regulation:T63 Theme:E36 Cause:T22
+T64	Localization 1060 1069	secretion
+E36	Localization:T64 Theme:T23
+T65	Negative_regulation 1089 1098	decreased
+E37	Negative_regulation:T65 Cause:T22 Theme:E38
+T66	Development 1113 1119	formed
+E38	Development:T66 Theme:T24
+T67	Positive_regulation 1140 1149	increased
+E39	Positive_regulation:T67 Theme:E40 Cause:T22
+T68	Binding 1155 1163	adhesion
+E40	Binding:T68 Theme:T26 Theme:T25
+T69	Planned_process 1177 1191	Administration
+E41	Planned_process:T69 Instrument:T27
+T70	Positive_regulation 1243 1252	increased
+E42	Positive_regulation:T70 Theme:E43 Cause:E41
+T71	Localization 1258 1267	migration
+E43	Localization:T71 Theme:T28
+T72	Negative_regulation 1292 1301	decreased
+E44	Negative_regulation:T72 Theme:E45 Cause:E41
+T73	Localization 1307 1316	migration
+E45	Localization:T73 Theme:T29
+T74	Regulation 1385 1391	change
+E46	Regulation:T74 Cause:T30 Theme:E47
+M7	Negation E46
+T75	Cell_proliferation 1397 1410	proliferation
+E47	Cell_proliferation:T75 Theme:T31
+T76	Blood_vessel_development 1456 1466	angiogenic
+E48	Blood_vessel_development:T76 
+T77	Negative_regulation 1467 1473	action
+E49	Negative_regulation:T77 Theme:E48 Cause:T33
+T78	Positive_regulation 1492 1495	due
+E50	Positive_regulation:T78 Theme:E49 Cause:E52
+E51	Positive_regulation:T78 Theme:E49 Cause:E53
+T79	Negative_regulation 1506 1523	inhibitory action
+E52	Negative_regulation:T79 Theme:E54
+E53	Negative_regulation:T79 Theme:E55
+T80	Localization 1532 1541	secretion
+E54	Localization:T80 Theme:T34
+T81	Development 1568 1577	formation
+E55	Development:T81 Theme:T35
+T82	Regulation 1606 1615	influence
+E56	Regulation:T82 Cause:T33 Theme:E58
+E57	Regulation:T82 Cause:T33 Theme:E59
+T83	Localization 1635 1644	migration
+E58	Localization:T83 Theme:T36
+T84	Binding 1649 1657	adhesion
+E59	Binding:T84 Theme:T36

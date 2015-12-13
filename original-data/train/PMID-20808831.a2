@@ -1,0 +1,101 @@
+*	Equiv T8 T9
+T68	Localization 30 42	localization
+E1	Localization:T68 AtLoc:T1 Theme:T2
+T69	Positive_regulation 70 78	promotes
+E2	Positive_regulation:T69 Theme:E3
+T70	Phosphorylation 83 98	phosphorylation
+E3	Phosphorylation:T70 Theme:T3
+T71	Pathway 143 157	signal pathway
+E4	Pathway:T71 Participant:T5 Participant2:T6
+T72	Regulation 158 174	plays a key role
+E5	Regulation:T72 Cause:E4 Theme:E6
+T73	Carcinogenesis 178 191	tumorigenesis
+E6	Carcinogenesis:T73 
+T74	Phosphorylation 385 399	phosphorylated
+E7	Phosphorylation:T74 Theme:T8
+T75	Gene_expression 412 422	expression
+E8	Gene_expression:T75 Theme:T7
+E9	Gene_expression:T75 Theme:T9
+T76	Gene_expression 574 584	expression
+E10	Gene_expression:T76 Theme:T14
+T77	Localization 791 803	accumulation
+E11	Localization:T77 AtLoc:T21 Theme:T22
+T78	Planned_process 945 954	treatment
+E12	Planned_process:T78 Instrument:T25
+T79	Positive_regulation 955 962	induces
+E13	Positive_regulation:T79 Cause:E12 Theme:E14
+T80	Cell_proliferation 963 976	proliferation
+E14	Cell_proliferation:T80 Theme:T28
+T81	Negative_regulation 977 983	arrest
+E15	Negative_regulation:T81 Theme:E14
+T82	Localization 1003 1013	relocation
+E16	Localization:T82 Theme:T26 ToLoc:T27
+T83	Positive_regulation 1048 1057	Induction
+E17	Positive_regulation:T83 Theme:T29
+T84	Positive_regulation 1118 1128	sufficient
+E18	Positive_regulation:T84 Cause:E17 Theme:E20
+E19	Positive_regulation:T84 Cause:E17 Theme:E22
+T85	Positive_regulation 1132 1139	promote
+E20	Positive_regulation:T85 Theme:E21
+T86	Phosphorylation 1144 1159	phosphorylation
+E21	Phosphorylation:T86 Theme:T32
+T87	Negative_regulation 1164 1170	arrest
+E22	Negative_regulation:T87 Theme:E23
+T88	Cell_proliferation 1176 1189	proliferation
+E23	Cell_proliferation:T88 Theme:T33
+T89	Planned_process 1203 1212	knockdown
+E24	Planned_process:T89 Theme:T34
+T90	Gene_expression 1234 1244	expression
+E25	Gene_expression:T90 Theme:T34
+T91	Negative_regulation 1245 1252	reduced
+E26	Negative_regulation:T91 Cause:E24 Theme:T35
+E27	Negative_regulation:T91 Cause:E24 Theme:T36
+T92	Positive_regulation 1328 1335	induced
+E28	Positive_regulation:T92 Theme:T38 Cause:T39
+T93	Positive_regulation 1381 1390	induction
+E29	Positive_regulation:T93 Theme:T40
+T94	Positive_regulation 1391 1403	up-regulates
+E30	Positive_regulation:T94 Cause:E29 Theme:T41
+E31	Positive_regulation:T94 Cause:E29 Theme:T42
+T95	Positive_regulation 1474 1483	induction
+E32	Positive_regulation:T95 Theme:T44
+T96	Regulation 1495 1501	effect
+E33	Regulation:T96 Cause:E32 Theme:E34
+T97	Cell_proliferation 1510 1523	proliferation
+E34	Cell_proliferation:T97 Theme:T45
+T98	Positive_regulation 1691 1701	activation
+E35	Positive_regulation:T98 Theme:T48
+T99	Positive_regulation 1706 1713	enhance
+E36	Positive_regulation:T99 Cause:E35 Theme:E37
+T100	Positive_regulation 1714 1729	hyperactivation
+E37	Positive_regulation:T100 Theme:E38
+T101	Pathway 1746 1753	pathway
+E38	Pathway:T101 Participant:T49 Participant2:T50
+T102	Metastasis 1825 1835	metastasis
+E39	Metastasis:T102 ToLoc:T51 Theme:T52
+T103	Pathway 1936 1945	signaling
+E40	Pathway:T103 Participant:T53 Participant2:T54
+T104	Positive_regulation 1976 1985	activated
+E41	Positive_regulation:T104 Theme:T56
+T105	Negative_regulation 1999 2009	inactivate
+E42	Negative_regulation:T105 Cause:T56 Theme:E43
+M1	Negation E42
+T106	Localization 2014 2025	re-localize
+E43	Localization:T106 ToLoc:T58 Theme:T57
+T107	Localization 2063 2071	targeted
+E44	Localization:T107 AtLoc:T59 Theme:T60
+T108	Positive_regulation 2088 2094	induce
+E45	Positive_regulation:T108 Cause:T60 Theme:E47
+E46	Positive_regulation:T108 Cause:T60 Theme:E49
+M2	Negation E45
+M3	Negation E46
+T109	Death 2100 2105	death
+E47	Death:T109 Theme:T61
+T110	Pathway 2114 2119	cycle
+E48	Pathway:T110 Theme:T62
+T111	Negative_regulation 2120 2126	arrest
+E49	Negative_regulation:T111 Theme:E48
+T112	Gene_expression 2162 2172	expression
+E50	Gene_expression:T112 Theme:T64
+T113	Development 2214 2225	progression
+E51	Development:T113 Theme:T66

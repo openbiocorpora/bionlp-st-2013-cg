@@ -1,0 +1,42 @@
+T1	Cancer 0 27	Pancreatic endocrine tumors
+T2	Gene_or_gene_product 71 74	AKT
+T3	Gene_or_gene_product 75 79	mTOR
+T4	Cancer 162 189	pancreatic endocrine tumors
+T5	Cancer 191 195	PETs
+T6	Organism 278 285	patient
+T7	Cancer 367 371	PETs
+T8	Multi-tissue_structure 413 431	pancreatic samples
+T9	Tissue 574 580	tissue
+T10	Gene_or_gene_product 625 645	tuberous sclerosis 2
+T11	Gene_or_gene_product 647 651	TSC2
+T12	Gene_or_gene_product 657 687	phosphatase and tensin homolog
+T13	Gene_or_gene_product 689 693	PTEN
+T14	Cancer 737 743	tumors
+T15	Gene_or_gene_product 847 870	somatostatin receptor 2
+T16	Gene_or_gene_product 872 877	SSTR2
+T17	Cancer 905 916	insulinomas
+T18	Cancer 946 952	tumors
+T19	Gene_or_gene_product 972 999	fibroblast growth factor 13
+T20	Gene_or_gene_product 1001 1006	FGF13
+T21	Organ 1065 1070	liver
+T22	Gene_or_gene_product 1117 1121	TSC2
+T23	Gene_or_gene_product 1126 1130	PTEN
+T24	Gene_or_gene_product 1161 1164	Akt
+T25	Gene_or_gene_product 1165 1194	mammalian target of rapamycin
+T26	Gene_or_gene_product 1196 1200	mTOR
+T27	Gene_or_gene_product 1241 1245	mTOR
+T28	Simple_chemical 1251 1260	rapamycin
+T29	Simple_chemical 1264 1270	RAD001
+T30	Cell 1281 1285	cell
+T31	Cell 1303 1317	PET cell lines
+T32	Gene_or_gene_product 1371 1375	PI3K
+T33	Gene_or_gene_product 1376 1379	Akt
+T34	Gene_or_gene_product 1380 1384	mTOR
+T35	Cancer 1396 1399	PET
+T36	Gene_or_gene_product 1434 1438	mTOR
+T37	Cancer 1483 1504	neuroendocrine tumors
+T38	Gene_or_gene_product 1534 1538	SSTR
+T39	Gene_or_gene_product 1575 1579	SSTR
+T40	Gene_or_gene_product 1634 1646	somatostatin
+T41	Gene_or_gene_product 1679 1684	FGF13
+T42	Organism 1745 1753	patients

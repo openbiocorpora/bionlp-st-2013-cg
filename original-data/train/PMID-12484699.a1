@@ -1,0 +1,12 @@
+T1	Gene_or_gene_product 14 45	transforming growth factor-beta
+T2	Multi-tissue_structure 60 68	vascular
+T3	Gene_or_gene_product 103 140	transforming growth factor (TGF)-beta
+T4	Cell 198 206	cellular
+T5	Gene_or_gene_product 267 275	TGF-beta
+T6	Cancer 342 348	cancer
+T7	Multi-tissue_structure 373 381	vascular
+T8	Gene_or_gene_product 635 643	TGF-beta
+T9	Gene_or_gene_product 680 688	TGF-beta
+T10	Cell 706 725	vascular wall cells
+T11	Gene_or_gene_product 751 759	TGF-beta
+T12	Gene_or_gene_product 794 799	Smads

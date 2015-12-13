@@ -1,0 +1,17 @@
+T1	Gene_or_gene_product 8 28	integrin alpha5beta1
+T2	Gene_or_gene_product 51 55	A5-1
+T3	Gene_or_gene_product 125 145	Integrin alpha5beta1
+T4	Gene_or_gene_product 341 361	integrin alpha5beta1
+T5	Gene_or_gene_product 362 373	Fibronectin
+T6	Gene_or_gene_product 440 444	A5-1
+T7	Gene_or_gene_product 446 452	VILVLF
+T8	Gene_or_gene_product 477 497	integrin alpha5beta1
+T9	Gene_or_gene_product 630 634	A5-1
+T10	Gene_or_gene_product 648 656	integrin
+T11	Gene_or_gene_product 657 668	fibronectin
+T12	Cell 762 799	human umbilical vein endothelial cell
+T13	Multi-tissue_structure 836 851	tubular network
+T14	Gene_or_gene_product 867 871	bFGF
+T15	Organism 904 909	chick
+T16	Multi-tissue_structure 910 934	chorioallantoic membrane
+T17	Gene_or_gene_product 963 967	A5-1

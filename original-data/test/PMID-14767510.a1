@@ -1,0 +1,47 @@
+T1	Gene_or_gene_product 14 19	EphA2
+T2	Gene_or_gene_product 24 34	E-cadherin
+T3	Cancer 38 55	colorectal cancer
+T4	Cancer 74 80	cancer
+T5	Gene_or_gene_product 122 127	EphA2
+T6	Gene_or_gene_product 145 148	Eph
+T7	Cancer 215 222	cancers
+T8	Gene_or_gene_product 246 256	E-cadherin
+T9	Immaterial_anatomical_entity 261 274	intercellular
+T10	Cell 296 312	epithelial cells
+T11	Cancer 407 414	cancers
+T12	Cell 419 435	epithelial cells
+T13	Gene_or_gene_product 437 442	EphA2
+T14	Gene_or_gene_product 447 457	E-cadherin
+T15	Cellular_component 482 499	cell-cell contact
+T16	Gene_or_gene_product 528 538	E-cadherin
+T17	Gene_or_gene_product 549 554	EphA2
+T18	Gene_or_gene_product 631 636	EphA2
+T19	Gene_or_gene_product 641 651	E-cadherin
+T20	Gene_or_gene_product 750 755	EphA2
+T21	Gene_or_gene_product 760 770	E-cadherin
+T22	Organism 775 783	patients
+T23	Cancer 789 806	colorectal cancer
+T24	Gene_or_gene_product 853 858	EphA2
+T25	Gene_or_gene_product 863 873	E-cadherin
+T26	Gene_or_gene_product 879 884	EphA2
+T27	Gene_or_gene_product 889 899	E-cadherin
+T28	Cancer 942 957	primary lesions
+T29	Cancer 961 978	colorectal cancer
+T30	Gene_or_gene_product 1004 1009	EphA2
+T31	Organ 1060 1065	liver
+T32	Multi-tissue_structure 1078 1094	lymphatic vessel
+T33	Gene_or_gene_product 1204 1209	EphA2
+T34	Cancer 1238 1253	primary lesions
+T35	Multi-tissue_structure 1259 1269	lymph node
+T36	Gene_or_gene_product 1359 1369	E-cadherin
+T37	Cancer 1437 1442	tumor
+T38	Multi-tissue_structure 1447 1463	lymphatic vessel
+T39	Gene_or_gene_product 1576 1581	EphA2
+T40	Gene_or_gene_product 1586 1596	E-cadherin
+T41	Gene_or_gene_product 1672 1677	EphA2
+T42	Tissue 1689 1716	colorectal carcinoma tissue
+T43	Cancer 1741 1747	cancer
+T44	Gene_or_gene_product 1827 1832	EphA2
+T45	Gene_or_gene_product 1837 1847	E-cadherin
+T46	Cancer 1878 1883	tumor
+T47	Cancer 1898 1915	colorectal cancer

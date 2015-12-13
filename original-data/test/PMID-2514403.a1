@@ -1,0 +1,27 @@
+T1	Gene_or_gene_product 40 45	v-fos
+T2	Gene_or_gene_product 194 199	v-fos
+T3	Gene_or_gene_product 271 276	v-fos
+T4	Organism 293 301	FBJ-MuSV
+T5	Organism 325 332	chicken
+T6	Cell 341 346	cells
+T7	Gene_or_gene_product 438 443	v-fos
+T8	Organism 465 472	chicken
+T9	Cell 473 491	embryo fibroblasts
+T10	Cell 509 517	cellular
+T11	Organism 535 542	chicken
+T12	Cell 543 561	neuroretinal cells
+T13	Gene_or_gene_product 619 624	v-fos
+T14	Amino_acid 634 640	Met111
+T15	Amino_acid 641 647	Ile206
+T16	Amino_acid 763 773	amino acid
+T17	Organism 930 935	human
+T18	Organism 937 942	mouse
+T19	Organism 947 954	chicken
+T20	Gene_or_gene_product 955 960	c-fos
+T21	Cellular_component 1029 1032	DNA
+T22	Gene_or_gene_product 1051 1055	GCN4
+T23	Gene_or_gene_product 1060 1065	c-jun
+T24	Gene_or_gene_product 1089 1092	fos
+T25	Organism 1172 1179	chicken
+T26	Cell 1180 1198	embryo fibroblasts
+T27	Gene_or_gene_product 1239 1242	fos

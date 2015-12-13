@@ -1,0 +1,58 @@
+*	Equiv T28 T29
+T43	Cell_differentiation 131 146	differentiation
+E1	Cell_differentiation:T43 Theme:T6
+E2	Cell_differentiation:T43 Theme:T7
+E3	Cell_differentiation:T43 Theme:T8
+T44	Cell_differentiation 197 211	differentiated
+E4	Cell_differentiation:T44 Theme:T9
+E5	Cell_differentiation:T44 Theme:T10
+T45	Pathway 252 261	signaling
+E6	Pathway:T45 Participant:T11
+T46	Regulation 287 297	regulating
+E7	Regulation:T46 Cause:E6 Theme:T12
+E8	Regulation:T46 Cause:E6 Theme:T13
+T47	Positive_regulation 442 452	activation
+E9	Positive_regulation:T47 Theme:E10
+T48	Pathway 460 469	signaling
+E10	Pathway:T48 Participant:T16
+T49	Positive_regulation 470 477	induces
+E11	Positive_regulation:T49 Cause:E9 Theme:T17
+T50	Regulation 534 540	exerts
+E12	Regulation:T50 Cause:T20 Theme:E16
+E13	Regulation:T50 Cause:T20 Theme:E17
+E14	Regulation:T50 Cause:T20 Theme:E18
+E15	Regulation:T50 Cause:T20 Theme:E19
+T51	Positive_regulation 587 597	activation
+E16	Positive_regulation:T51 Cause:T22 Theme:E20
+E17	Positive_regulation:T51 Cause:T21 Theme:E20
+E18	Positive_regulation:T51 Cause:T22 Theme:E21
+E19	Positive_regulation:T51 Cause:T21 Theme:E21
+T52	Pathway 623 631	pathways
+E20	Pathway:T52 Participant:T23
+E21	Pathway:T52 Participant:T24
+T53	Positive_regulation 671 679	mediated
+E22	Positive_regulation:T53 Cause:T25 Theme:E23
+T54	Planned_process 680 692	introduction
+E23	Planned_process:T54 Theme:T26
+T55	Cell_transformation 820 829	transform
+T56	Positive_regulation 820 829	transform
+E24	Cell_transformation:T55 Theme:T30
+E25	Positive_regulation:T56 Cause:T28 Theme:E24
+E26	Cell_transformation:T55 Theme:T31
+E27	Positive_regulation:T56 Cause:T28 Theme:E26
+T57	Cell_transformation 971 985	transformation
+E28	Cell_transformation:T57 
+T58	Cell_differentiation 1000 1014	differentiated
+E29	Cell_differentiation:T58 Theme:T35
+T59	Cell_transformation 1033 1044	transformed
+E30	Cell_transformation:T59 Theme:T35
+T60	Cell_differentiation 1136 1150	differentiated
+E31	Cell_differentiation:T60 Theme:T37
+T61	Cell_transformation 1189 1203	transformation
+E32	Cell_transformation:T61 
+T62	Planned_process 1313 1319	target
+E33	Planned_process:T62 Theme:T40
+T63	Cell_transformation 1417 1431	transformation
+E34	Cell_transformation:T63 
+T64	Cell_differentiation 1459 1473	differentiated
+E35	Cell_differentiation:T64 Theme:T42

@@ -1,0 +1,36 @@
+T1	Simple_chemical 0 8	Dopamine
+T2	Gene_or_gene_product 38 53	VEGF receptor 2
+T3	Gene_or_gene_product 66 129	Src-homology-2-domain-containing protein tyrosine phosphatase 2
+T4	Gene_or_gene_product 131 165	Vascular endothelial growth factor
+T5	Gene_or_gene_product 167 171	VEGF
+T6	Simple_chemical 395 403	dopamine
+T7	Gene_or_gene_product 418 422	VEGF
+T8	Gene_or_gene_product 450 465	VEGF receptor 2
+T9	Gene_or_gene_product 467 474	VEGFR-2
+T10	Cell 477 493	endothelial cell
+T11	Tissue 520 533	microvascular
+T12	Gene_or_gene_product 621 628	VEGFR-2
+T13	Simple_chemical 661 669	dopamine
+T14	Gene_or_gene_product 697 717	D2 dopamine receptor
+T15	Gene_or_gene_product 719 723	D2DR
+T16	Gene_or_gene_product 742 749	VEGFR-2
+T17	Cellular_component 757 769	cell surface
+T18	Simple_chemical 771 779	Dopamine
+T19	Gene_or_gene_product 843 904	Src-homology-2-domain-containing protein tyrosine phosphatase
+T20	Gene_or_gene_product 906 911	SHP-2
+T21	Gene_or_gene_product 918 922	D2DR
+T22	Cellular_component 930 942	cell surface
+T23	Simple_chemical 944 952	Dopamine
+T24	Gene_or_gene_product 987 991	VEGF
+T25	Gene_or_gene_product 1019 1024	SHP-2
+T26	Gene_or_gene_product 1108 1113	SHP-2
+T27	Gene_or_gene_product 1122 1127	SHP-2
+T28	Gene_or_gene_product 1150 1157	VEGFR-2
+T29	Gene_or_gene_product 1219 1224	SHP-2
+T30	Simple_chemical 1247 1255	dopamine
+T31	Gene_or_gene_product 1280 1284	VEGF
+T32	Gene_or_gene_product 1312 1319	VEGFR-2
+T33	Gene_or_gene_product 1339 1342	Src
+T34	Gene_or_gene_product 1410 1427	SHP-2 phosphatase
+T35	Simple_chemical 1435 1443	dopamine
+T36	Gene_or_gene_product 1467 1474	VEGFR-2

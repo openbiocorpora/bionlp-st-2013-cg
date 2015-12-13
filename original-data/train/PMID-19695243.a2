@@ -1,0 +1,65 @@
+*	Equiv T7 T8
+*	Equiv T9 T10
+*	Equiv T11 T12
+*	Equiv T15 T16
+T55	Positive_regulation 211 219	enhances
+E1	Positive_regulation:T55 Theme:E2
+T56	Negative_regulation 241 249	activity
+E2	Negative_regulation:T56 Theme:T5
+T57	Blood_vessel_development 448 458	angiogenic
+E3	Blood_vessel_development:T57 
+T58	Negative_regulation 473 483	activities
+E4	Negative_regulation:T58 Cause:T7 Theme:E3
+E5	Negative_regulation:T58 Cause:T9 Theme:E3
+E6	Negative_regulation:T58 Cause:T11 Theme:E3
+E7	Negative_regulation:T58 Cause:T7 Theme:T6
+E8	Negative_regulation:T58 Cause:T9 Theme:T6
+E9	Negative_regulation:T58 Cause:T11 Theme:T6
+T59	Cell_proliferation 662 675	proliferation
+E10	Cell_proliferation:T59 Theme:T14
+T60	Localization 743 752	secretion
+E11	Localization:T60 Theme:T15
+T61	Planned_process 838 845	exposed
+E12	Planned_process:T61 Instrument:T19 Theme:T18
+E13	Planned_process:T61 Theme:T17 Instrument:T19
+E14	Planned_process:T61 Instrument:T22 Theme:T17
+E15	Planned_process:T61 Instrument:T21 Theme:T17
+E16	Planned_process:T61 Instrument:T20 Theme:T17
+E17	Planned_process:T61 Instrument:T20 Theme:T18
+E18	Planned_process:T61 Instrument:T22 Theme:T18
+E19	Planned_process:T61 Instrument:T21 Theme:T18
+T62	Growth 1010 1016	growth
+E20	Growth:T62 Theme:T26
+T63	Negative_regulation 1251 1260	inhibited
+E21	Negative_regulation:T63 Theme:E24 Cause:T33
+E22	Negative_regulation:T63 Theme:E24 Cause:T35
+E23	Negative_regulation:T63 Theme:E24 Cause:T34
+M1	Negation E22
+M2	Negation E23
+T64	Cell_proliferation 1278 1291	proliferation
+E24	Cell_proliferation:T64 Theme:T36
+T65	Planned_process 1321 1329	exposure
+E25	Planned_process:T65 Instrument:T39 Instrument:T40 Instrument:T41 Theme:T37
+E26	Planned_process:T65 Instrument:T39 Instrument:T40 Instrument:T41 Theme:T38
+T66	Positive_regulation 1534 1542	increase
+E27	Positive_regulation:T66 Theme:E28
+T67	Localization 1551 1560	secretion
+E28	Localization:T67 Theme:T42
+T68	Negative_regulation 1662 1670	inhibits
+E29	Negative_regulation:T68 Theme:E35 Cause:T47
+E30	Negative_regulation:T68 Theme:T49 Cause:T47
+E31	Negative_regulation:T68 Theme:T49 Cause:T46
+E32	Negative_regulation:T68 Theme:T49 Cause:T45
+E33	Negative_regulation:T68 Theme:E35 Cause:T46
+E34	Negative_regulation:T68 Theme:E35 Cause:T45
+M3	Negation E30
+M4	Negation E31
+M5	Negation E29
+M6	Negation E33
+T69	Growth 1677 1689	tumor growth
+E35	Growth:T69 Theme:T48
+T70	Planned_process 1788 1795	therapy
+E36	Planned_process:T70 Instrument:T52 Instrument:T51 Instrument:T50
+T71	Regulation 1804 1810	affect
+E37	Regulation:T71 Cause:E36 Theme:T53
+M7	Negation E37

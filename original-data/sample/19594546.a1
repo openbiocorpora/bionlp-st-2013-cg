@@ -1,0 +1,41 @@
+T2	Gene_or_gene_product 0 5	c-Ski
+T5	Cancer 30 35	tumor
+T9	Cancer 140 157	gastric carcinoma
+T13	Gene_or_gene_product 160 165	c-Ski
+T15	Gene_or_gene_product 336 341	Smad2
+T16	Gene_or_gene_product 343 348	Smad3
+T17	Gene_or_gene_product 354 359	Smad4
+T18	Gene_or_gene_product 380 385	c-Ski
+T22	Gene_or_gene_product 524 549	TGF-beta type II receptor
+T23	Cancer 568 585	gastric carcinoma
+T25	Cancer 604 609	tumor
+T26	Cancer 638 643	tumor
+T30	Gene_or_gene_product 711 733	thrombospondin (TSP)-1
+T31	Gene_or_gene_product 769 774	c-Ski
+T32	Cancer 797 814	gastric carcinoma
+T33	Cell 815 830	OCUM-2MLN cells
+T36	Gene_or_gene_product 850 855	c-Ski
+T38	Cell 888 903	OCUM-2MLN cells
+T40	Gene_or_gene_product 920 925	c-Ski
+T41	Cancer 1074 1080	tumors
+T43	Gene_or_gene_product 1110 1135	TGF-beta type II receptor
+T45	Cancer 1224 1230	tumors
+T46	Gene_or_gene_product 1242 1247	c-Ski
+T47	Cancer 1268 1274	tumors
+T50	Gene_or_gene_product 1289 1294	TSP-1
+T51	Gene_or_gene_product 1303 1311	TGF-beta
+T52	Gene_or_gene_product 1330 1335	c-Ski
+T55	Gene_or_gene_product 1364 1369	TSP-1
+T56	Cancer 1392 1398	tumors
+T58	Gene_or_gene_product 1410 1415	c-Ski
+T61	Gene_or_gene_product 1453 1458	c-Ski
+T63	Cancer 1510 1527	gastric carcinoma
+T3	Cancer 428 442	gastric cancer
+T64	Cancer 409 416	cancers
+T1000	Organism 778 783	human
+T1001	Organism 1020 1044	BALB/c nu/nu female mice
+T72	Gene_or_gene_product 82 113	transforming growth factor-beta
+T73	Gene_or_gene_product 256 293	transforming growth factor (TGF)-beta
+T74	Gene_or_gene_product 484 492	TGF-beta
+T75	Gene_or_gene_product 866 874	TGF-beta
+T66	Cancer 993 1016	subcutaneous xenografts

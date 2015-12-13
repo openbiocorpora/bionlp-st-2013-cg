@@ -1,0 +1,19 @@
+T1	Gene_or_gene_product 15 21	Merlin
+T2	Cancer 33 62	non-small cell lung carcinoma
+T3	Gene_or_gene_product 164 170	Merlin
+T4	Cancer 182 208	non-small cell lung cancer
+T5	Cancer 210 215	NSCLC
+T6	Gene_or_gene_product 245 251	Merlin
+T7	Cancer 275 280	NSCLC
+T8	Tissue 294 300	tissue
+T9	Cancer 304 309	NSCLC
+T10	Tissue 321 332	lung tissue
+T11	Gene_or_gene_product 409 415	Merlin
+T12	Multi-tissue_structure 512 522	lymph node
+T13	Gene_or_gene_product 581 587	Merlin
+T14	Cancer 599 604	NSCLC
+T15	Multi-tissue_structure 616 636	lung tissue sections
+T16	Gene_or_gene_product 702 708	Merlin
+T17	Multi-tissue_structure 805 815	lymph node
+T18	Gene_or_gene_product 849 855	Merlin
+T19	Cancer 916 921	NSCLC

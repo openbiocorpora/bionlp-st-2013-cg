@@ -1,0 +1,41 @@
+T1	Gene_or_gene_product 0 23	Lactate-dehydrogenase 5
+T2	Cancer 44 70	non-small cell lung cancer
+T3	Gene_or_gene_product 113 141	transketolase-like protein 1
+T4	Gene_or_gene_product 168 189	lactate dehydrogenase
+T5	Gene_or_gene_product 191 194	LDH
+T6	Gene_or_gene_product 208 212	LDH5
+T7	Simple_chemical 252 260	pyruvate
+T8	Simple_chemical 279 286	lactate
+T9	Gene_or_gene_product 288 292	LDH5
+T10	Cell 311 323	cancer cells
+T11	Simple_chemical 411 417	oxygen
+T12	Gene_or_gene_product 436 440	LDH5
+T13	Cancer 500 520	primary lung cancers
+T14	Organism 592 599	patient
+T15	Cancer 619 639	Primary lung cancers
+T16	Tissue 654 680	non neoplastic lung tissue
+T17	Gene_or_gene_product 706 710	LDH5
+T18	Gene_or_gene_product 765 769	LDH5
+T19	Gene_or_gene_product 805 809	LDH5
+T20	Organism 880 887	patient
+T21	Gene_or_gene_product 950 970	transketolase like 1
+T22	Gene_or_gene_product 980 985	TKTL1
+T23	Gene_or_gene_product 1017 1021	LDH5
+T24	Cancer 1062 1067	NSCLC
+T25	Gene_or_gene_product 1077 1081	LDH5
+T26	Gene_or_gene_product 1101 1105	LDH5
+T27	Tissue 1137 1164	non neoplastic lung tissues
+T28	Gene_or_gene_product 1188 1192	LDH5
+T29	Cancer 1247 1261	adenocarcinoma
+T30	Cancer 1269 1292	squamous cell carcinoma
+T31	Cancer 1300 1320	large cell carcinoma
+T32	Gene_or_gene_product 1482 1487	TKTL1
+T33	Gene_or_gene_product 1492 1496	LDH5
+T34	Gene_or_gene_product 1626 1630	LDH5
+T35	Gene_or_gene_product 1635 1640	TKTL1
+T36	Cancer 1664 1669	tumor
+T37	Gene_or_gene_product 1710 1714	LDH5
+T38	Cancer 1735 1740	NSCLC
+T39	Gene_or_gene_product 1816 1820	LDH5
+T40	Gene_or_gene_product 1870 1875	TKTL1
+T41	Simple_chemical 1978 1985	glucose

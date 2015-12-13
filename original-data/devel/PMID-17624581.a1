@@ -1,0 +1,18 @@
+T1	Cancer 52 59	cancers
+T2	Cancer 142 148	tumors
+T3	Simple_chemical 387 394	glucose
+T4	Cancer 419 436	metastatic cancer
+T5	Organism 440 446	humans
+T6	Gene_or_gene_product 510 520	HIF-1alpha
+T7	Gene_or_gene_product 525 530	c-myc
+T8	Cancer 1000 1007	cancers
+T9	Cancer 1231 1237	cancer
+T10	Organism 1398 1403	human
+T11	Cancer 1404 1411	cancers
+T12	Simple_chemical 1484 1491	glucose
+T13	Cancer 1495 1513	metastatic lesions
+T14	Simple_chemical 1622 1626	acid
+T15	Cell 1644 1656	cancer cells
+T16	Simple_chemical 1731 1738	glucose
+T17	Simple_chemical 1787 1792	NADPH
+T18	Simple_chemical 1818 1824	ribose

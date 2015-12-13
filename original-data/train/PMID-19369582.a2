@@ -1,0 +1,68 @@
+*	Equiv T8 T9
+*	Equiv T17 T18
+*	Equiv T19 T20
+T32	Blood_vessel_development 67 77	angiogenic
+E1	Blood_vessel_development:T32 
+T33	Positive_regulation 78 88	activation
+E2	Positive_regulation:T33 Theme:E1
+T34	Blood_vessel_development 143 155	Angiogenesis
+E3	Blood_vessel_development:T34 
+T35	Growth 211 217	growth
+E4	Growth:T35 Theme:T1
+T36	Remodeling 222 228	repair
+E5	Remodeling:T36 Theme:T1
+T37	Localization 248 258	recruiting
+E6	Localization:T37 Theme:T2
+T38	Blood_vessel_development 287 297	angiogenic
+E7	Blood_vessel_development:T38 
+T39	Cell_proliferation 331 342	proliferate
+E8	Cell_proliferation:T39 Theme:T3
+T40	Cell_differentiation 347 360	differentiate
+E9	Cell_differentiation:T40 Theme:T3
+T41	Development 364 368	form
+E10	Development:T41 Theme:T4
+E11	Development:T41 Theme:T5
+T42	Cell_transformation 501 515	transformation
+E12	Cell_transformation:T42 Theme:T6
+T43	Regulation 542 549	changes
+E13	Regulation:T43 Theme:E14
+T44	Positive_regulation 570 580	activation
+E14	Positive_regulation:T44 Theme:T7
+T45	Metabolism 724 734	metabolism
+E15	Metabolism:T45 Theme:T11
+T46	Pathway 814 832	metabolic pathways
+E16	Pathway:T46 Participant:T13
+T47	Synthesis 853 862	synthesis
+E17	Synthesis:T47 Theme:T14
+T48	Pathway 876 881	cycle
+E18	Pathway:T48 Participant:T15
+T49	Glycolysis 890 909	glycolytic pathways
+E19	Glycolysis:T49 
+T50	Cell_proliferation 982 995	proliferation
+E20	Cell_proliferation:T50 Theme:T16
+T51	Positive_regulation 1079 1090	stimulation
+E21	Positive_regulation:T51 Theme:T19
+E22	Positive_regulation:T51 Theme:T17
+T52	Metabolism 1169 1179	metabolism
+E23	Metabolism:T52 Theme:T22
+T53	Pathway 1192 1205	cycle pathway
+E24	Pathway:T53 Participant:T23
+T54	Catabolism 1248 1256	depleted
+E25	Catabolism:T54 Theme:T24
+T55	Metabolism 1397 1407	metabolism
+E26	Metabolism:T55 Theme:T26
+T56	Pathway 1420 1438	phosphate pathways
+E27	Pathway:T56 Participant:T27
+T57	Negative_regulation 1439 1446	reduced
+E28	Negative_regulation:T57 Theme:E29
+T58	Localization 1467 1476	migration
+E29	Localization:T58 Theme:T28
+T59	Negative_regulation 1716 1724	inhibits
+E30	Negative_regulation:T59 Theme:E32
+E31	Negative_regulation:T59 Theme:E34
+T60	Cell_proliferation 1736 1749	proliferation
+E32	Cell_proliferation:T60 Theme:T30
+T61	Positive_regulation 1760 1767	induced
+E33	Positive_regulation:T61 Cause:T31 Theme:E34
+T62	Blood_vessel_development 1768 1780	angiogenesis
+E34	Blood_vessel_development:T62 

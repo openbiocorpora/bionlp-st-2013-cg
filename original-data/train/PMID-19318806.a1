@@ -1,0 +1,48 @@
+T1	Gene_or_gene_product 4 17	semaphorin 7A
+T2	Gene_or_gene_product 27 36	Plexin C1
+T3	Cancer 52 60	melanoma
+T4	Cell 102 113	melanocytes
+T5	Cell 118 139	melanocyte stem cells
+T6	Cancer 144 152	melanoma
+T7	Cancer 214 219	tumor
+T8	Cell 269 273	cell
+T9	Cell 296 300	cell
+T10	Cancer 395 403	melanoma
+T11	Gene_or_gene_product 405 416	Semaphorins
+T12	Gene_or_gene_product 446 453	Plexins
+T13	Gene_or_gene_product 458 469	neuropilins
+T14	Cell 487 495	neuronal
+T15	Cancer 530 535	tumor
+T16	Multi-tissue_structure 567 579	blood vessel
+T17	Cell 591 595	cell
+T18	Gene_or_gene_product 607 620	Semaphorin 7A
+T19	Gene_or_gene_product 622 628	Sema7A
+T20	Cellular_component 635 643	membrane
+T21	Gene_or_gene_product 651 661	semaphorin
+T22	Organism 683 688	human
+T23	Cell 689 702	keratinocytes
+T24	Gene_or_gene_product 727 733	Sema7A
+T25	Organism 743 748	human
+T26	Cell 749 760	melanocytes
+T27	Gene_or_gene_product 769 784	beta1-integrins
+T28	Gene_or_gene_product 793 811	Plexin C1 receptor
+T29	Gene_or_gene_product 844 850	Sema7A
+T30	Cellular_component 862 874	cytoskeletal
+T31	Organism 893 898	human
+T32	Cell 899 910	melanocytes
+T33	Cellular_component 938 946	dendrite
+T34	Gene_or_gene_product 980 989	Plexin C1
+T35	Organism 1003 1008	human
+T36	Cell 1009 1020	melanocytes
+T37	Gene_or_gene_product 1029 1036	cofilin
+T38	Gene_or_gene_product 1041 1054	LIM kinase II
+T39	Cell 1096 1100	cell
+T40	Gene_or_gene_product 1171 1180	Plexin C1
+T41	Cancer 1243 1261	metastatic lesions
+T42	Cancer 1294 1308	melanoma tumor
+T43	Gene_or_gene_product 1357 1366	Plexin C1
+T44	Cancer 1370 1389	metastatic melanoma
+T45	Cancer 1404 1420	primary melanoma
+T46	Gene_or_gene_product 1458 1467	Plexin C1
+T47	Cancer 1482 1487	tumor
+T48	Cancer 1511 1519	melanoma

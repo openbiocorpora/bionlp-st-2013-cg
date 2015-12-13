@@ -1,0 +1,61 @@
+*	Equiv T3 T4
+T40	Positive_regulation 123 130	induced
+E1	Positive_regulation:T40 Cause:T3 Theme:E2
+T41	Cell_death 131 151	apoptotic cell death
+E2	Cell_death:T41 Theme:T6
+T42	Regulation 232 238	modify
+E3	Regulation:T42 Theme:E5
+E4	Regulation:T42 Theme:E6
+T43	Negative_regulation 253 261	activity
+E5	Negative_regulation:T43 Cause:T8 Theme:T11
+E6	Negative_regulation:T43 Cause:T8 Theme:T14
+T44	Positive_regulation 561 569	enhanced
+E7	Positive_regulation:T44 Theme:T21 Cause:T15
+E8	Positive_regulation:T44 Theme:T21 Cause:T16
+E9	Positive_regulation:T44 Theme:T21 Cause:T17
+E10	Positive_regulation:T44 Theme:T21 Cause:T18
+E11	Positive_regulation:T44 Theme:T21 Cause:T19
+E12	Positive_regulation:T44 Theme:T21 Cause:T20
+M1	Negation E11
+M2	Negation E12
+T45	Positive_regulation 627 634	induced
+E13	Positive_regulation:T45 Theme:E18 Cause:T22
+E14	Positive_regulation:T45 Theme:E18 Cause:T15
+E15	Positive_regulation:T45 Theme:E18 Cause:T16
+E16	Positive_regulation:T45 Theme:E18 Cause:T17
+E17	Positive_regulation:T45 Theme:E18 Cause:T18
+T46	Breakdown 656 669	fragmentation
+E18	Breakdown:T46 Theme:T23
+T47	Regulation 718 726	inactive
+E19	Regulation:T47 Theme:E18 Cause:T19
+E20	Regulation:T47 Theme:E18 Cause:T20
+M3	Negation E19
+M4	Negation E20
+T48	Localization 739 747	presence
+E21	Localization:T48 Theme:T25 AtLoc:T24
+T49	Positive_regulation 805 812	induced
+E22	Positive_regulation:T49 Cause:T26 Theme:E23
+T50	Breakdown 817 830	fragmentation
+E23	Breakdown:T50 Theme:T27
+T51	Positive_regulation 861 870	activated
+E24	Positive_regulation:T51 Theme:T28
+T52	Positive_regulation 1053 1062	activated
+E25	Positive_regulation:T52 Theme:T29
+E26	Positive_regulation:T52 Theme:T31
+T53	Negative_regulation 1097 1104	reduced
+E27	Negative_regulation:T53 Theme:E28 Cause:E29
+T54	Metabolism 1117 1128	consumption
+E28	Metabolism:T54 Theme:T34
+T55	Negative_regulation 1157 1167	inhibition
+E29	Negative_regulation:T55 Theme:E30 Cause:T33
+T56	Glycolysis 1171 1181	glycolysis
+E30	Glycolysis:T56 
+T57	Negative_regulation 1215 1222	reduced
+E31	Negative_regulation:T57 Theme:E33 Cause:T35
+E32	Negative_regulation:T57 Theme:E33 Cause:T36
+T58	Metabolism 1235 1246	consumption
+E33	Metabolism:T58 Theme:T37
+T59	Metabolism 1304 1315	consumption
+E34	Metabolism:T59 Theme:T38
+T60	Regulation 1326 1334	specific
+E35	Regulation:T60 Theme:E34 Cause:T39

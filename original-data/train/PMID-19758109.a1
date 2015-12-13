@@ -1,0 +1,31 @@
+T1	Simple_chemical 0 7	AVE8062
+T2	Simple_chemical 15 29	combretastatin
+T3	Multi-tissue_structure 41 49	vascular
+T4	Cancer 131 136	tumor
+T5	Multi-tissue_structure 191 213	tumor vascular network
+T6	Cell 307 324	endothelial cells
+T7	Cellular_component 329 349	extracellular matrix
+T8	Cancer 420 425	tumor
+T9	Simple_chemical 442 467	vascular-targeting agents
+T10	Simple_chemical 469 472	VTA
+T11	Simple_chemical 475 479	VTAs
+T12	Simple_chemical 512 533	antiangiogenic agents
+T13	Simple_chemical 538 564	vascular-disrupting agents
+T14	Simple_chemical 566 570	VDAs
+T15	Simple_chemical 573 577	VTAs
+T16	Cancer 691 703	tumor masses
+T17	Tissue 715 730	tumor periphery
+T18	Gene_or_gene_product 835 848	VEGF receptor
+T19	Simple_chemical 850 854	VDAs
+T20	Multi-tissue_structure 904 917	tumor vessels
+T21	Cancer 957 963	masses
+T22	Cancer 1021 1043	peripheral tumor layer
+T23	Simple_chemical 1045 1049	VDAs
+T24	Simple_chemical 1157 1176	small-molecule VDAs
+T25	Simple_chemical 1182 1192	flavonoids
+T26	Simple_chemical 1202 1238	5,6-dimethylxanthenone-4-acetic acid
+T27	Simple_chemical 1240 1245	DMXAA
+T28	Simple_chemical 1252 1284	microtubule-destabilizing agents
+T29	Simple_chemical 1420 1438	antitubulin agents
+T30	Simple_chemical 1444 1482	combretastatin A4-phosphate derivative
+T31	Simple_chemical 1484 1492	AVE8062A

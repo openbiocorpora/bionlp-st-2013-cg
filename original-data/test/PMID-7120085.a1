@@ -1,0 +1,18 @@
+T1	Simple_chemical 11 49	3-chloromethylthiochromone-1,1-dioxide
+T2	Simple_chemical 53 65	nucleic acid
+T3	Cell 116 143	Ehrlich ascites tumor cells
+T4	Simple_chemical 146 184	3-Chloromethylthiochromone-1,1-dioxide
+T5	Cancer 226 251	Ehrlich ascites carcinoma
+T6	Cancer 287 313	P-388 lymphocytic leukemia
+T7	Simple_chemical 414 417	RNA
+T8	Cellular_component 422 425	DNA
+T9	Cell 439 460	Ehrlich ascites cells
+T10	Simple_chemical 547 559	nucleic acid
+T11	Simple_chemical 637 649	nucleic acid
+T12	Simple_chemical 682 708	3-chloromethylthiochromone
+T13	Gene_or_gene_product 717 754	orotidine monophosphate decarboxylase
+T14	Simple_chemical 762 771	primidine
+T15	Gene_or_gene_product 860 870	hexokinase
+T16	Gene_or_gene_product 872 891	phosphofructokinase
+T17	Gene_or_gene_product 893 901	succinic
+T18	Gene_or_gene_product 906 940	alpha-ketoglutarate dehydrogenases

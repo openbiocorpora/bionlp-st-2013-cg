@@ -1,0 +1,82 @@
+*	Equiv T7 T8
+*	Equiv T11 T12
+T37	Binding 30 35	binds
+E1	Binding:T37 Theme:T1 Theme:T2
+T38	Protein_domain_or_region 53 74	plasminogen kringle 1
+T39	Protein_domain_or_region 75 76	5
+T40	Negative_regulation 82 92	attenuates
+E2	Negative_regulation:T40 Cause:T1 Theme:E4
+T41	Blood_vessel_development 101 111	angiogenic
+E3	Blood_vessel_development:T41 
+T42	Negative_regulation 112 120	property
+E4	Negative_regulation:T42 Theme:E3 Cause:T1
+T43	Blood_vessel_development 200 210	angiogenic
+E5	Blood_vessel_development:T43 
+T44	Negative_regulation 211 219	property
+E6	Negative_regulation:T44 Theme:E5 Cause:T4
+E7	Negative_regulation:T44 Theme:T5 Cause:T4
+T45	Protein_domain_or_region 302 323	plasminogen kringle 1
+T46	Protein_domain_or_region 327 328	4
+T47	Protein_domain_or_region 348 357	kringle 5
+T48	Protein_processing 374 389	autoproteolysis
+E8	Protein_processing:T48 Theme:T7
+T49	Protein_processing 470 477	cleaved
+T50	Positive_regulation 470 477	cleaved
+E9	Protein_processing:T49 Theme:T11
+E10	Positive_regulation:T50 Cause:T13 Theme:E9 Site:T51
+T51	Protein_domain_or_region 496 504	domain V
+T52	Positive_regulation 524 533	resulting
+E11	Positive_regulation:T52 Cause:E9 Theme:E12
+T53	Binding 537 544	binding
+E12	Binding:T53 Theme:T15 Theme:T14
+T54	Blood_vessel_development 565 575	angiogenic
+E13	Blood_vessel_development:T54 
+T55	Negative_regulation 576 586	properties
+E14	Negative_regulation:T55 Theme:E13 Cause:T16
+E15	Negative_regulation:T55 Theme:E13 Cause:T17
+T56	Binding 733 740	binding
+E16	Binding:T56 Theme:T18 Theme:T19
+T57	Binding 807 814	binding
+E17	Binding:T57 Theme:T20 Theme:T21
+T58	Negative_regulation 832 842	attenuates
+E18	Negative_regulation:T58 Cause:T20 Theme:E20
+T59	Blood_vessel_development 851 861	angiogenic
+E19	Blood_vessel_development:T59 
+T60	Negative_regulation 862 871	functions
+E20	Negative_regulation:T60 Theme:E19 Cause:T21
+T61	Cell_proliferation 888 901	proliferation
+E21	Cell_proliferation:T61 Theme:T22
+E22	Cell_proliferation:T61 Theme:T23
+T62	Localization 968 976	invasion
+E23	Localization:T62 ToLoc:T24 Theme:T23
+E24	Localization:T62 ToLoc:T24 Theme:T22
+T63	Development 990 999	formation
+E25	Development:T63 Theme:T25
+T64	Blood_vessel_development 1041 1053	angiogenesis
+E26	Blood_vessel_development:T64 
+T65	Binding 1093 1097	bind
+E27	Binding:T65 Theme:T27 Theme:T28
+M1	Negation E27
+T66	Negative_regulation 1110 1117	inhibit
+E28	Negative_regulation:T66 Cause:T27 Theme:E30
+M2	Negation E28
+T67	Blood_vessel_development 1126 1136	angiogenic
+E29	Blood_vessel_development:T67 
+T68	Negative_regulation 1137 1145	activity
+E30	Negative_regulation:T68 Theme:E29 Cause:T28
+T69	Blood_vessel_development 1192 1204	angiogenesis
+E31	Blood_vessel_development:T69 
+T70	Positive_regulation 1231 1239	promotes
+E32	Positive_regulation:T70 Cause:T30 Theme:E33
+T71	Blood_vessel_development 1240 1252	angiogenesis
+E33	Blood_vessel_development:T71 
+T72	Negative_regulation 1303 1311	inhibits
+E34	Negative_regulation:T72 Cause:T32 Theme:E35
+T73	Blood_vessel_development 1312 1324	angiogenesis
+E35	Blood_vessel_development:T73 
+T74	Positive_regulation 1422 1430	promotes
+E36	Positive_regulation:T74 Cause:E38 Theme:E37
+T75	Blood_vessel_development 1431 1443	angiogenesis
+E37	Blood_vessel_development:T75 
+T76	Binding 1447 1458	interacting
+E38	Binding:T76 Theme:T34 Theme:T35

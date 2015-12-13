@@ -1,0 +1,38 @@
+T1	Organism 66 71	human
+T2	Cancer 72 95	breast cancer xenograft
+T3	Organism 329 338	nude mice
+T4	Organism 349 354	human
+T5	Cancer 355 388	MDA MB231 breast cancer xenograft
+T6	Gene_or_gene_product 402 428	Green fluorescence protein
+T7	Cell 441 453	cancer cells
+T8	Tissue 477 492	mammary fat pad
+T9	Organism 509 513	mice
+T10	Organism 532 536	mice
+T11	Organism 701 705	mice
+T12	Cancer 815 829	Tumor sections
+T13	Cell 848 865	endothelial cells
+T14	Gene_or_gene_product 871 875	CD31
+T15	Simple_chemical 880 883	PAS
+T16	Gene_or_gene_product 887 918	hypoxia inducible factor 1alpha
+T17	Gene_or_gene_product 920 923	HIF
+T18	Cancer 940 946	tumors
+T19	Cancer 980 986	tumors
+T20	Cancer 1041 1048	capsule
+T21	Cancer 1054 1060	cortex
+T22	Cancer 1087 1094	capsule
+T23	Multi-tissue_structure 1123 1136	Blood vessels
+T24	Tissue 1138 1149	capillaries
+T25	Cellular_component 1155 1177	endothelial pseudopods
+T26	Cancer 1227 1234	capsule
+T27	Cancer 1236 1245	subcortex
+T28	Cancer 1248 1254	Tumors
+T29	Multi-tissue_structure 1339 1352	blood vessels
+T30	Cancer 1360 1369	subcortex
+T31	Cellular_component 1379 1401	endothelial pseudopods
+T32	Gene_or_gene_product 1427 1430	HIF
+T33	Cancer 1451 1457	tumors
+T34	Organism 1482 1486	Mice
+T35	Organ 1543 1547	lung
+T36	Cancer 1576 1581	tumor
+T37	Organism 1608 1612	mice
+T38	Cancer 1724 1729	tumor

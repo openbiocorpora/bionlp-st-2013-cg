@@ -1,0 +1,83 @@
+*	Equiv T9 T10
+*	Equiv T11 T12
+*	Equiv T17 T18
+*	Equiv T38 T39
+T60	Negative_regulation 52 60	inhibits
+E1	Negative_regulation:T60 Cause:T2 Theme:E4
+E2	Negative_regulation:T60 Cause:T2 Theme:E5
+T61	Pathway 66 71	cycle
+E3	Pathway:T61 Theme:T4
+T62	Positive_regulation 72 83	progression
+E4	Positive_regulation:T62 Theme:E3
+T63	Cell_transformation 98 112	transformation
+E5	Cell_transformation:T63 Theme:T4
+T64	Negative_regulation 143 163	negatively regulates
+E6	Negative_regulation:T64 Theme:E8 Cause:E9
+T65	Pathway 169 174	cycle
+E7	Pathway:T65 Participant:T6
+T66	Positive_regulation 175 186	progression
+E8	Positive_regulation:T66 Theme:E7
+T67	Negative_regulation 215 225	inhibiting
+E9	Negative_regulation:T67 Theme:T7 Cause:T5
+T68	Pathway 270 275	cycle
+E10	Pathway:T68 Theme:T8
+T69	Negative_regulation 356 367	inactivated
+E11	Negative_regulation:T69 Theme:T15 Cause:T9
+E12	Negative_regulation:T69 Theme:T15 Cause:T11
+T70	Gene_expression 416 423	express
+E13	Gene_expression:T70 Theme:T16
+T71	Gene_expression 549 558	expressed
+E14	Gene_expression:T71 Theme:T20
+T72	Negative_regulation 658 668	suppressor
+E15	Negative_regulation:T72 Cause:T23 Theme:T24
+T73	Pathway 685 692	pathway
+E16	Pathway:T73 Participant:T25
+T74	Gene_expression 967 976	expressed
+E17	Gene_expression:T74 Theme:T32
+T75	Gene_expression 1030 1040	expression
+E18	Gene_expression:T75 Theme:T40
+T76	Positive_regulation 1049 1056	induced
+E19	Positive_regulation:T76 Theme:E18 Cause:E20
+T77	Planned_process 1114 1123	treatment
+E20	Planned_process:T77 Instrument:T41
+T78	Pathway 1143 1148	cycle
+E21	Pathway:T78 
+T79	Negative_regulation 1149 1158	inhibitor
+E22	Negative_regulation:T79 Cause:T40 Theme:E21
+T80	Positive_regulation 1207 1213	induce
+E23	Positive_regulation:T80 Cause:T44 Theme:E25
+T81	Pathway 1219 1224	cycle
+E24	Pathway:T81 Participant:T45
+T82	Negative_regulation 1225 1231	arrest
+E25	Negative_regulation:T82 Theme:E24
+T83	Positive_regulation 1241 1250	dependent
+E26	Positive_regulation:T83 Cause:T46 Theme:E23
+T84	Negative_regulation 1298 1305	inhibit
+E27	Negative_regulation:T84 Cause:T48 Theme:E29
+E28	Negative_regulation:T84 Cause:T48 Theme:E31
+T85	Development 1311 1320	formation
+E29	Development:T85 Theme:T49
+T86	Regulation 1335 1346	independent
+E30	Regulation:T86 Theme:E31
+M1	Negation E30
+T87	Growth 1347 1353	growth
+E31	Growth:T87 Theme:T51
+T88	Cell_transformation 1415 1427	transforming
+E32	Cell_transformation:T88 Theme:T51
+T89	Negative_regulation 1428 1438	properties
+E33	Negative_regulation:T89 Cause:T53 Theme:E32
+T90	Positive_regulation 1465 1474	dependent
+E34	Positive_regulation:T90 Cause:T54 Theme:E33
+T91	Regulation 1613 1623	regulation
+E35	Regulation:T91 Cause:T55 Theme:E39
+E36	Regulation:T91 Cause:T56 Theme:E39
+E37	Regulation:T91 Cause:T55 Theme:E40
+E38	Regulation:T91 Cause:T56 Theme:E40
+T92	Pathway 1659 1667	pathways
+E39	Pathway:T92 Participant:T58
+E40	Pathway:T92 Participant:T57
+T93	Pathway 1693 1701	pathways
+E41	Pathway:T93 
+T94	Negative_regulation 1711 1722	suppression
+E42	Negative_regulation:T94 Theme:T59 Cause:E40
+E43	Negative_regulation:T94 Theme:T59 Cause:E39

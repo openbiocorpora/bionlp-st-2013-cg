@@ -1,0 +1,31 @@
+T1	Gene_or_gene_product 0 20	Dynein light chain 1
+T2	Gene_or_gene_product 24 46	p21-activated kinase 1
+T3	Cancer 79 88	cancerous
+T4	Gene_or_gene_product 116 136	dynein light chain 1
+T5	Gene_or_gene_product 138 142	DLC1
+T6	Gene_or_gene_product 174 196	p21-activated kinase 1
+T7	Gene_or_gene_product 198 202	Pak1
+T8	Gene_or_gene_product 205 209	Pak1
+T9	Gene_or_gene_product 210 214	DLC1
+T10	Cell 254 258	cell
+T11	Gene_or_gene_product 286 290	Pak1
+T12	Gene_or_gene_product 312 316	DLC1
+T13	Amino_acid 320 325	Ser88
+T14	Gene_or_gene_product 327 331	Pak1
+T15	Gene_or_gene_product 363 367	DLC1
+T16	Gene_or_gene_product 372 376	BimL
+T17	Gene_or_gene_product 464 468	BimL
+T18	Gene_or_gene_product 472 476	Pak1
+T19	Gene_or_gene_product 531 536	Bcl-2
+T20	Gene_or_gene_product 582 586	DLC1
+T21	Gene_or_gene_product 595 599	DLC1
+T22	Amino_acid 600 605	Ser88
+T23	Cancer 625 634	cancerous
+T24	Cell 649 668	breast cancer cells
+T25	Gene_or_gene_product 670 674	DLC1
+T26	Organism 721 726	human
+T27	Cancer 727 740	breast tumors
+T28	Cell 760 764	cell
+T29	Gene_or_gene_product 787 791	Pak1
+T30	Gene_or_gene_product 792 796	DLC1
+T31	Cancer 885 894	cancerous

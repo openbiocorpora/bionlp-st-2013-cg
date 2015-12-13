@@ -1,0 +1,42 @@
+*	Equiv T18 T19
+*	Equiv T25 T26
+*	Equiv T27 T28
+T38	Positive_regulation 61 68	induced
+E1	Positive_regulation:T38 Cause:T3 Theme:E2
+T39	Metastasis 76 86	metastatic
+E2	Metastasis:T39 ToLoc:T4
+T40	Metastasis 229 239	metastatic
+E3	Metastasis:T40 Theme:T6
+T41	Planned_process 301 322	intraportal injection
+E4	Planned_process:T41 Instrument:T8 Theme:T7
+T42	Positive_regulation 543 552	induction
+E5	Positive_regulation:T42 Theme:T11
+T43	Positive_regulation 700 709	Increased
+E6	Positive_regulation:T43 Theme:T18
+T44	Regulation 875 884	unchanged
+E7	Regulation:T44 Theme:T21
+E8	Regulation:T44 Theme:T22
+E9	Regulation:T44 Theme:T23
+E10	Regulation:T44 Theme:T24
+M1	Negation E7
+M2	Negation E8
+M3	Negation E9
+M4	Negation E10
+T45	Negative_regulation 933 942	decreased
+E11	Negative_regulation:T45 Theme:T25
+E12	Negative_regulation:T45 Theme:T27
+T46	Localization 1189 1195	enters
+E13	Localization:T46 Theme:T31 ToLoc:T32
+T47	Positive_regulation 1240 1249	undergoes
+E14	Positive_regulation:T47 Theme:E15
+T48	Metabolism 1250 1260	metabolism
+E15	Metabolism:T48 Theme:T31
+T49	Regulation 1291 1301	unaffected
+E16	Regulation:T49 Cause:E17 Theme:T31
+M5	Negation E16
+T50	Metastasis 1311 1321	metastasis
+E17	Metastasis:T50 ToLoc:T34
+T51	Localization 1350 1358	delivery
+E18	Localization:T51 Theme:T31 ToLoc:T37
+T52	Planned_process 1421 1433	preparations
+E19	Planned_process:T52 Theme:T37

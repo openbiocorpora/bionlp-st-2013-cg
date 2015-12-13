@@ -1,0 +1,62 @@
+T1	Gene_or_gene_product 27 31	AP-1
+T2	Organism 56 62	murine
+T3	Organ 63 67	skin
+T4	Simple_chemical 98 118	cumene hydroperoxide
+T5	Simple_chemical 121 138	Organic peroxides
+T6	Cancer 210 220	skin tumor
+T7	Pathological_formation 241 262	epidermal hyperplasia
+T8	Simple_chemical 295 307	free radical
+T9	Simple_chemical 362 382	cumene hydroperoxide
+T10	Simple_chemical 384 391	Cum-OOH
+T11	Gene_or_gene_product 413 432	activator protein-1
+T12	Gene_or_gene_product 434 438	AP-1
+T13	Cell 495 499	cell
+T14	Simple_chemical 591 598	Cum-OOH
+T15	Simple_chemical 619 632	free radicals
+T16	Organ 661 665	skin
+T17	Simple_chemical 669 678	vitamin E
+T18	Organism 689 693	mice
+T19	Cell 718 746	JB6 P+ mouse epidermal cells
+T20	Organism 725 730	mouse
+T21	Gene_or_gene_product 751 755	AP-1
+T22	Gene_or_gene_product 756 766	luciferase
+T23	Organism 787 791	mice
+T24	Simple_chemical 824 831	Cum-OOH
+T25	Gene_or_gene_product 853 857	AP-1
+T26	Cancer 907 912	tumor
+T27	Simple_chemical 996 1003	Cum-OOH
+T28	Simple_chemical 1025 1036	glutathione
+T29	Simple_chemical 1038 1041	GSH
+T30	Organism 1046 1051	mouse
+T31	Cell 1052 1067	epidermal cells
+T32	Cell 1069 1075	JB6 P+
+T33	Gene_or_gene_product 1105 1109	AP-1
+T34	Organism 1111 1115	Mice
+T35	Simple_chemical 1128 1154	dimethyl-benz[a]anthracene
+T36	Simple_chemical 1156 1160	DMBA
+T37	Simple_chemical 1188 1195	Cum-OOH
+T38	Simple_chemical 1237 1273	12-O-tetradecanoylphorbol-13-acetate
+T39	Simple_chemical 1275 1278	TPA
+T40	Gene_or_gene_product 1331 1335	AP-1
+T41	Organ 1339 1343	skin
+T42	Simple_chemical 1387 1394	Cum-OOH
+T43	Simple_chemical 1398 1401	TPA
+T44	Gene_or_gene_product 1415 1419	AP-1
+T45	Pathological_formation 1468 1477	Papilloma
+T46	Simple_chemical 1513 1517	DMBA
+T47	Simple_chemical 1518 1521	TPA
+T48	Simple_chemical 1527 1531	DMBA
+T49	Simple_chemical 1532 1539	Cum-OOH
+T50	Organism 1548 1555	animals
+T51	Cancer 1565 1580	skin carcinomas
+T52	Simple_chemical 1604 1608	DMBA
+T53	Simple_chemical 1609 1616	Cum-OOH
+T54	Organism 1625 1629	mice
+T55	Simple_chemical 1680 1699	thiobarbituric acid
+T56	Simple_chemical 1759 1762	GSH
+T57	Organ 1820 1824	skin
+T58	Simple_chemical 1828 1832	DMBA
+T59	Simple_chemical 1833 1840	Cum-OOH
+T60	Organism 1849 1853	mice
+T61	Simple_chemical 1882 1889	Cum-OOH
+T62	Gene_or_gene_product 1941 1945	AP-1

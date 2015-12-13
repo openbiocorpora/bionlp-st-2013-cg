@@ -1,0 +1,97 @@
+T36	Regulation 25 32	effects
+E1	Regulation:T36 Cause:T1 Theme:E3
+T37	Cell_death 51 63	cytotoxicity
+T38	Positive_regulation 51 63	cytotoxicity
+E2	Cell_death:T37 
+E3	Positive_regulation:T38 Theme:E2
+T39	Death 95 100	death
+E4	Death:T39 Theme:T3
+T40	Planned_process 219 228	treatment
+E5	Planned_process:T40 Instrument:T6 Theme:T7
+T41	Positive_regulation 337 347	activation
+E6	Positive_regulation:T41 Theme:E7
+T42	Cell_death 355 372	apoptotic pathway
+E7	Cell_death:T42 
+T43	Regulation 497 504	effects
+E8	Regulation:T43 Cause:T10 Theme:T11
+M1	Speculation E8
+T44	Positive_regulation 633 640	induced
+E9	Positive_regulation:T44 Cause:T12 Theme:E10
+T45	Cell_death 641 650	apoptosis
+E10	Cell_death:T45 
+T46	Planned_process 714 723	incubated
+E11	Planned_process:T46 Instrument:T14 Theme:T13
+T47	Planned_process 815 824	treatment
+E12	Planned_process:T47 Instrument:T15 Theme:T13
+T48	Planned_process 849 859	incubation
+E13	Planned_process:T48 Instrument:T16
+T49	Planned_process 964 974	incubation
+E14	Planned_process:T49 Instrument:T17
+T50	Planned_process 1004 1012	exposure
+E15	Planned_process:T50 Instrument:T17
+T51	Planned_process 1054 1063	treatment
+E16	Planned_process:T51 Instrument:T18
+T52	Positive_regulation 1081 1089	resulted
+E17	Positive_regulation:T52 Cause:E16 Theme:E19
+E18	Positive_regulation:T52 Cause:E16 Theme:E21
+T53	Negative_regulation 1110 1118	decrease
+E19	Negative_regulation:T53 Theme:E20
+T54	Death 1122 1128	viable
+E20	Death:T54 Theme:T19
+M2	Negation E20
+T55	Positive_regulation 1151 1159	increase
+E21	Positive_regulation:T55 Theme:E22
+T56	Cell_death 1163 1172	apoptosis
+E22	Cell_death:T56 
+T57	Planned_process 1211 1221	incubation
+E23	Planned_process:T57 Instrument:T20
+T58	Positive_regulation 1222 1228	led to
+E24	Positive_regulation:T58 Cause:E23 Theme:E27
+E25	Positive_regulation:T58 Cause:E23 Theme:E28
+E26	Positive_regulation:T58 Cause:E23 Theme:E29
+T59	Phosphorylation 1229 1244	phosphorylation
+E27	Phosphorylation:T59 Theme:T21 Site:T22
+T60	Positive_regulation 1267 1276	induction
+E28	Positive_regulation:T60 Theme:T23
+T61	Positive_regulation 1299 1307	increase
+E29	Positive_regulation:T61 Theme:T24
+T62	Planned_process 1367 1376	treatment
+E30	Planned_process:T62 Instrument:T25
+T63	Negative_regulation 1394 1401	reduced
+E31	Negative_regulation:T63 Cause:E30 Theme:T26
+T64	Positive_regulation 1446 1451	raise
+E32	Positive_regulation:T64 Cause:E30 Theme:E33
+M3	Negation E32
+T65	Death 1469 1473	dead
+E33	Death:T65 Theme:T27
+T66	Planned_process 1498 1507	treatment
+E34	Planned_process:T66 Instrument:T28
+T67	Positive_regulation 1534 1542	resulted
+E35	Positive_regulation:T67 Cause:E34 Theme:E37
+T68	Pathway 1551 1556	cycle
+E36	Pathway:T68 Theme:T29
+T69	Negative_regulation 1557 1563	arrest
+E37	Negative_regulation:T69 Theme:E36
+T70	Phosphorylation 1611 1626	phosphorylation
+E38	Phosphorylation:T70 Theme:T30
+M4	Negation E38
+T71	Positive_regulation 1631 1641	activation
+E39	Positive_regulation:T71 Theme:T30
+M5	Negation E39
+T72	Positive_regulation 1653 1661	enhanced
+E40	Positive_regulation:T72 Theme:E41
+M6	Negation E40
+T73	Gene_expression 1662 1672	expression
+E41	Gene_expression:T73 Theme:T31
+T74	Positive_regulation 1731 1737	induce
+E42	Positive_regulation:T74 Cause:T32 Theme:E43
+T75	Death 1743 1748	death
+E43	Death:T75 Theme:T33
+T76	Cell_death 1752 1761	apoptosis
+E44	Cell_death:T76 
+T77	Planned_process 1790 1799	treatment
+E45	Planned_process:T77 Instrument:T32
+T78	Regulation 1853 1861	response
+E46	Regulation:T78 Theme:T34 Cause:E47
+T79	Planned_process 1892 1900	exposure
+E47	Planned_process:T79 Instrument:T35

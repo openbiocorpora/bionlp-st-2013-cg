@@ -1,0 +1,25 @@
+T21	Regulation 210 218	involved
+E1	Regulation:T21 Theme:E2
+T22	Localization 228 236	invasion
+E2	Localization:T22 Theme:T2
+T23	Regulation 512 516	role
+E3	Regulation:T23 Theme:E5
+E4	Regulation:T23 Theme:E5
+M1	Speculation E3
+M2	Speculation E4
+T24	Localization 526 534	invasion
+E5	Localization:T24 Theme:T4
+T25	Planned_process 1048 1059	established
+E6	Planned_process:T25 Theme:T17
+T26	Death 1304 1312	survival
+E7	Death:T26 Theme:T19
+M3	Negation E7
+T27	Death 1338 1346	survival
+E8	Death:T27 Theme:T19
+M4	Negation E8
+T28	Death 1390 1398	survival
+E9	Death:T28 Theme:T19
+M5	Negation E9
+T29	Death 1426 1434	survival
+E10	Death:T29 Theme:T19
+M6	Negation E10

@@ -1,0 +1,68 @@
+*	Equiv T13 T14
+*	Equiv T15 T16
+*	Equiv T17 T18
+T48	Metastasis 5 15	metastasis
+E1	Metastasis:T48 
+T49	Negative_regulation 16 23	effects
+E2	Negative_regulation:T49 Cause:T1 Theme:E1
+T50	Negative_regulation 72 82	inhibition
+E3	Negative_regulation:T50 Cause:E2 Theme:T3
+T51	Negative_regulation 109 123	downregulation
+E4	Negative_regulation:T51 Cause:E2 Theme:E5
+T52	Pathway 149 156	signals
+E5	Pathway:T52 Participant:T4 Participant2:T5 Participant3:T6
+T53	Regulation 479 485	effect
+E6	Regulation:T53 Theme:E10 Cause:T13
+E7	Regulation:T53 Theme:E10 Cause:T15
+E8	Regulation:T53 Theme:E10 Cause:T17
+E9	Regulation:T53 Theme:E10 Cause:T11
+T54	Negative_regulation 615 625	inhibition
+E10	Negative_regulation:T54 Theme:E11
+T55	Metastasis 663 673	metastasis
+E11	Metastasis:T55 
+T56	Negative_regulation 825 843	inhibitory effects
+E12	Negative_regulation:T56 Cause:T24 Theme:E13
+T57	Localization 856 865	migration
+E13	Localization:T57 Theme:T25
+T58	Gene_expression 871 881	expression
+E14	Gene_expression:T58 Theme:T26
+E15	Gene_expression:T58 Theme:T27
+T59	Negative_regulation 910 919	inhibited
+E16	Negative_regulation:T59 Cause:T29 Theme:E14
+E17	Negative_regulation:T59 Cause:T29 Theme:E15
+T60	Negative_regulation 965 983	suppressive effect
+E18	Negative_regulation:T60 Cause:T30 Theme:T31
+E19	Negative_regulation:T60 Cause:T30 Theme:T32
+T61	Regulation 1007 1014	involve
+E20	Regulation:T61 Theme:E22 Cause:E18
+E21	Regulation:T61 Theme:E22 Cause:E19
+M1	Speculation E20
+M2	Speculation E21
+T62	Negative_regulation 1019 1029	inhibition
+E22	Negative_regulation:T62 Theme:T33
+T63	Regulation 1071 1079	involved
+E23	Regulation:T63 Theme:E30 Cause:T35
+E24	Regulation:T63 Theme:E30 Cause:T36
+E25	Regulation:T63 Theme:E30 Cause:T37
+E26	Regulation:T63 Theme:E30 Cause:T38
+E27	Regulation:T63 Theme:E30 Cause:T39
+E28	Regulation:T63 Theme:E30 Cause:T40
+E29	Regulation:T63 Theme:E30 Cause:T41
+T64	Metastasis 1083 1093	metastasis
+E30	Metastasis:T64 
+T65	Negative_regulation 1214 1223	inhibited
+E31	Negative_regulation:T65 Cause:T42 Theme:T35
+E32	Negative_regulation:T65 Cause:T42 Theme:T36
+E33	Negative_regulation:T65 Cause:T42 Theme:T37
+E34	Negative_regulation:T65 Cause:T42 Theme:T38
+E35	Negative_regulation:T65 Cause:T42 Theme:T39
+E36	Negative_regulation:T65 Cause:T42 Theme:T40
+E37	Negative_regulation:T65 Cause:T42 Theme:T41
+T66	Planned_process 1342 1351	treatment
+E38	Planned_process:T66 Instrument:T45
+T67	Negative_regulation 1423 1433	prevention
+E39	Negative_regulation:T67 Cause:T46 Theme:E41
+T68	Planned_process 1438 1447	treatment
+E40	Planned_process:T68 Theme:T47 Instrument:T46
+T69	Metastasis 1466 1476	metastasis
+E41	Metastasis:T69 Theme:T47

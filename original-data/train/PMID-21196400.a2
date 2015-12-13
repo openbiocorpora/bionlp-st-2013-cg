@@ -1,0 +1,56 @@
+*	Equiv T3 T4
+T22	Regulation 41 45	role
+E1	Regulation:T22 Cause:T1 Theme:E3
+E2	Regulation:T22 Cause:T1 Theme:E4
+T23	Localization 56 64	invasion
+E3	Localization:T23 Theme:T2
+T24	Metastasis 69 79	metastasis
+E4	Metastasis:T24 Theme:T2
+T25	Metastasis 140 150	metastasis
+E5	Metastasis:T25 
+T26	Negative_regulation 151 161	suppressor
+E6	Negative_regulation:T26 Theme:E5 Cause:T3
+T27	Metastasis 173 183	metastatic
+E7	Metastasis:T27 
+T28	Negative_regulation 218 233	down-regulation
+E8	Negative_regulation:T28 Theme:T6
+T29	Positive_regulation 255 261	caused
+E9	Positive_regulation:T29 Cause:E10 Theme:E8
+M1	Speculation E9
+T30	DNA_methylation 269 280	methylation
+E10	DNA_methylation:T30 Theme:T7
+T31	Metastasis 431 441	metastasis
+E11	Metastasis:T31 
+T32	Negative_regulation 442 452	suppressor
+E12	Negative_regulation:T32 Theme:E11 Cause:T9
+M2	Negation E12
+T33	Binding 499 508	interacts
+E13	Binding:T33 Theme:T9
+T34	Regulation 535 543	regulate
+E14	Regulation:T34 Theme:T10 Cause:E13
+T35	Regulation 604 612	involved
+E15	Regulation:T35 Cause:T11 Theme:E16
+T36	Pathway 624 641	signaling pathway
+E16	Pathway:T36 Participant:T12
+T37	Development 649 659	developing
+E17	Development:T37 Theme:T13
+T38	Regulation 804 818	important role
+E18	Regulation:T38 Cause:T16 Theme:E20
+E19	Regulation:T38 Cause:T16 Theme:E21
+T39	Carcinogenesis 835 849	carcinogenesis
+E20	Carcinogenesis:T39 
+T40	Metastasis 854 864	metastasis
+E21	Metastasis:T40 
+T41	Regulation 1079 1083	role
+E22	Regulation:T41 Cause:T19 Theme:E25
+E23	Regulation:T41 Cause:T19 Theme:E26
+E24	Regulation:T41 Cause:T19 Theme:E27
+M3	Speculation E22
+M4	Speculation E23
+M5	Speculation E24
+T42	Metastasis 1094 1104	metastasis
+E25	Metastasis:T42 Theme:T20
+T43	Carcinogenesis 1106 1120	carcinogenesis
+E26	Carcinogenesis:T43 
+T44	Development 1126 1137	development
+E27	Development:T44 Theme:T20

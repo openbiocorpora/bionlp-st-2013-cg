@@ -1,0 +1,50 @@
+*	Equiv T5 T4
+*	Equiv T20 T21
+T47	Pathway 245 254	signaling
+E1	Pathway:T47 Participant:T7 Participant2:T8
+T48	Positive_regulation 319 326	induces
+E2	Positive_regulation:T48 Cause:T10 Theme:E3
+T49	Gene_expression 335 345	expression
+E3	Gene_expression:T49 Theme:T11
+T50	Negative_regulation 407 416	attenuate
+E4	Negative_regulation:T50 Theme:E5 Cause:E2
+T51	Positive_regulation 434 444	activation
+E5	Positive_regulation:T51 Theme:T13
+T52	Gene_expression 522 532	expression
+E6	Gene_expression:T52 Theme:T14
+T53	Planned_process 648 656	targeted
+E7	Planned_process:T53 Instrument:T18 Instrument:T19 Theme:T22
+T54	Planned_process 720 727	coupled
+E8	Planned_process:T54 Instrument:T18 Instrument:T19
+T55	Gene_expression 864 873	expressed
+E9	Gene_expression:T55 Theme:T23
+T56	Negative_regulation 932 945	downregulated
+E10	Negative_regulation:T56 Theme:E9
+T57	Planned_process 968 982	administration
+E11	Planned_process:T57 Theme:T28 Instrument:T26
+E12	Planned_process:T57 Theme:T28 Instrument:T27
+T58	Positive_regulation 1012 1020	resulted
+E13	Positive_regulation:T58 Theme:E16 Cause:E12
+E14	Positive_regulation:T58 Theme:E16 Cause:E11
+T59	Regulation 1039 1048	sensitive
+E15	Regulation:T59 Cause:T29 Theme:E16
+T60	Positive_regulation 1049 1061	reactivation
+E16	Positive_regulation:T60 Theme:T30 Site:T61
+T61	DNA_domain_or_region 1076 1084	promoter
+T62	DNA_domain_or_region 1181 1189	promoter
+T63	Positive_regulation 1204 1211	induced
+E17	Positive_regulation:T63 Site:T62 Theme:T34
+T64	Gene_expression 1293 1302	deficient
+E18	Gene_expression:T64 Theme:T38
+M1	Negation E18
+T65	Positive_regulation 1368 1376	mediated
+E19	Positive_regulation:T65 Cause:T40 Theme:E20
+T66	Gene_expression 1385 1399	overexpression
+E20	Gene_expression:T66 Theme:T41
+T67	DNA_domain_or_region 1490 1498	promoter
+T68	Gene_expression 1529 1539	expression
+E21	Gene_expression:T68 Theme:T43
+T69	Positive_regulation 1543 1552	activated
+E22	Positive_regulation:T69 Theme:T45
+T70	Infection 1620 1629	infection
+E23	Infection:T70 

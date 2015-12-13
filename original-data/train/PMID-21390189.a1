@@ -1,0 +1,41 @@
+T1	Cellular_component 7 10	DNA
+T2	Simple_chemical 102 108	RAF265
+T3	Gene_or_gene_product 118 123	B-Raf
+T4	Gene_or_gene_product 124 131	VEGFR-2
+T5	Cancer 253 259	cancer
+T6	Cancer 325 331	cancer
+T7	Simple_chemical 346 352	RAF265
+T8	Gene_or_gene_product 362 367	B-Raf
+T9	Gene_or_gene_product 368 413	vascular endothelial growth factor receptor-2
+T10	Cell 526 570	A375M(B-Raf(V600E)) human melanoma cell line
+T11	Gene_or_gene_product 532 537	B-Raf
+T12	Simple_chemical 572 578	RAF265
+T13	Simple_chemical 589 622	2-deoxy-2-[(18)F]fluoro-d-glucose
+T14	Simple_chemical 624 627	FDG
+T15	Cell 645 649	cell
+T16	Simple_chemical 698 704	RAF265
+T17	Simple_chemical 720 723	FDG
+T18	Cancer 740 756	tumor xenografts
+T19	Cellular_component 852 855	DNA
+T20	Cancer 887 903	tumor xenografts
+T21	Simple_chemical 968 975	glucose
+T22	Simple_chemical 980 989	thymidine
+T23	Simple_chemical 1078 1081	FDG
+T24	Simple_chemical 1083 1115	3-deoxy-3-[(18)F]fluorothymidine
+T25	Gene_or_gene_product 1121 1130	annexin V
+T26	Simple_chemical 1179 1185	RAF265
+T27	Simple_chemical 1224 1230	RAF265
+T28	Cancer 1261 1270	xenograft
+T29	Organism 1280 1285	human
+T30	Cancer 1286 1294	melanoma
+T31	Simple_chemical 1309 1316	glucose
+T32	Cellular_component 1343 1346	DNA
+T33	Cell 1368 1372	cell
+T34	Simple_chemical 1406 1409	FDG
+T35	Simple_chemical 1486 1489	FDG
+T36	Simple_chemical 1518 1524	RAF265
+T37	Cancer 1541 1546	tumor
+T38	Cellular_component 1557 1560	DNA
+T39	Cellular_component 1673 1676	DNA
+T40	Cancer 1764 1770	cancer
+T41	Cancer 1855 1860	tumor

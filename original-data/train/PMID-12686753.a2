@@ -1,0 +1,43 @@
+*	Equiv T7 T8
+*	Equiv T18 T19
+*	Equiv T21 T22
+T31	Positive_regulation 10 17	induces
+E1	Positive_regulation:T31 Cause:T2 Theme:E2
+T32	Cell_death 18 27	apoptosis
+E2	Cell_death:T32 
+T33	Negative_regulation 32 40	inhibits
+E3	Negative_regulation:T33 Cause:T2 Theme:E4
+T34	Transcription 41 51	expression
+E4	Transcription:T34 Theme:T3
+T35	Positive_regulation 158 165	induces
+E5	Positive_regulation:T35 Cause:T7 Theme:E6
+M1	Speculation E5
+T36	Cell_death 166 175	apoptosis
+E6	Cell_death:T36 
+T37	Breakdown 400 413	fragmentation
+E7	Breakdown:T37 Theme:T13
+T38	Planned_process 466 473	treated
+E8	Planned_process:T38 Theme:T14 Instrument:T15
+T39	Planned_process 572 579	treated
+E9	Planned_process:T39 Theme:T16 Instrument:T17
+T40	Cell_death 616 625	apoptosis
+E10	Cell_death:T40 Theme:T16
+T41	Negative_regulation 781 798	inhibitory effect
+E11	Negative_regulation:T41 Cause:T20 Theme:E13
+E12	Negative_regulation:T41 Cause:T20 Theme:E14
+M2	Speculation E11
+M3	Speculation E12
+T42	Gene_expression 806 816	expression
+E13	Gene_expression:T42 Theme:T21
+T43	Synthesis 852 861	synthesis
+E14	Synthesis:T43 Theme:T23
+T44	Transcription 863 873	Expression
+E15	Transcription:T44 Theme:T24
+T45	Synthesis 892 901	synthesis
+E16	Synthesis:T45 Theme:T25
+T46	Negative_regulation 917 926	inhibited
+E17	Negative_regulation:T46 Cause:T26 Theme:E15
+E18	Negative_regulation:T46 Cause:T26 Theme:E16
+T47	Negative_regulation 1004 1010	effect
+E19	Negative_regulation:T47 Theme:T28 Cause:T27
+M4	Speculation E19

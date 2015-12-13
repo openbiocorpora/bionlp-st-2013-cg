@@ -1,0 +1,57 @@
+T1	Gene_or_gene_product 0 15	Topoisomerase I
+T2	Cancer 38 63	primary colorectal cancer
+T3	Cancer 68 89	lymph node metastases
+T4	Gene_or_gene_product 92 107	Topoisomerase I
+T5	Gene_or_gene_product 109 115	topo I
+T6	Cancer 161 178	malignant disease
+T7	Cancer 191 208	colorectal cancer
+T8	Gene_or_gene_product 267 273	topo I
+T9	Cancer 277 294	colorectal tumors
+T10	Gene_or_gene_product 335 341	topo I
+T11	Cancer 372 389	colorectal cancer
+T12	Cancer 394 415	lymph node metastases
+T13	Gene_or_gene_product 452 458	topo I
+T14	Gene_or_gene_product 506 509	p53
+T15	Gene_or_gene_product 522 556	proliferating cell nuclear antigen
+T16	Gene_or_gene_product 558 562	PCNA
+T17	Gene_or_gene_product 617 623	topo I
+T18	Organism 658 663	human
+T19	Cancer 664 681	colorectal cancer
+T20	Cancer 696 725	lymph node metastasis samples
+T21	Gene_or_gene_product 727 733	Topo I
+T22	Cell 780 785	cells
+T23	Gene_or_gene_product 808 814	topo I
+T24	Gene_or_gene_product 964 967	p53
+T25	Gene_or_gene_product 980 984	PCNA
+T26	Gene_or_gene_product 1041 1047	topo I
+T27	Gene_or_gene_product 1068 1074	Topo I
+T28	Multi-tissue_structure 1104 1114	lymph node
+T29	Gene_or_gene_product 1156 1162	Topo I
+T30	Cancer 1208 1215	samples
+T31	Cell 1252 1263	tumor cells
+T32	Cellular_component 1282 1289	nuclear
+T33	Cellular_component 1301 1308	nuclear
+T34	Organism_substance 1313 1324	cytoplasmic
+T35	Cell 1366 1371	cells
+T36	Gene_or_gene_product 1383 1389	topo I
+T37	Cancer 1393 1418	primary colorectal cancer
+T38	Organism 1477 1485	Patients
+T39	Cancer 1491 1504	rectal cancer
+T40	Gene_or_gene_product 1517 1523	topo I
+T41	Cancer 1551 1563	colon tumors
+T42	Gene_or_gene_product 1620 1626	topo I
+T43	Gene_or_gene_product 1709 1712	p53
+T44	Gene_or_gene_product 1725 1729	PCNA
+T45	Gene_or_gene_product 1753 1759	topo I
+T46	Cancer 1777 1784	primary
+T47	Multi-tissue_structure 1789 1799	lymph node
+T48	Gene_or_gene_product 1888 1894	topo I
+T49	Cancer 1937 1942	tumor
+T50	Organism 1966 1973	patient
+T51	Gene_or_gene_product 1982 1985	p53
+T52	Gene_or_gene_product 1990 1994	PCNA
+T53	Gene_or_gene_product 2029 2035	topo I
+T54	Gene_or_gene_product 2052 2058	topo I
+T55	Gene_or_gene_product 2135 2141	Topo I
+T56	Organism 2182 2190	patients
+T57	Gene_or_gene_product 2202 2208	topo I

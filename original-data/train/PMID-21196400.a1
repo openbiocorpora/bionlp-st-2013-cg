@@ -1,0 +1,21 @@
+T1	Gene_or_gene_product 0 5	MTSS1
+T2	Cancer 49 55	cancer
+T3	Gene_or_gene_product 82 87	MTSS1
+T4	Gene_or_gene_product 89 112	metastasis suppressor-1
+T5	Cell 184 212	bladder carcinoma cell lines
+T6	Gene_or_gene_product 237 242	MTSS1
+T7	Cellular_component 265 268	DNA
+T8	Cancer 322 328	cancer
+T9	Gene_or_gene_product 377 382	MTSS1
+T10	Gene_or_gene_product 544 549	actin
+T11	Gene_or_gene_product 595 600	MTSS1
+T12	Gene_or_gene_product 620 623	Shh
+T13	Multi-tissue_structure 660 673	hair follicle
+T14	Cancer 681 702	basal cell carcinomas
+T15	Organ 710 714	skin
+T16	Gene_or_gene_product 745 750	MTSS1
+T17	Gene_or_gene_product 911 916	MTSS1
+T18	Cell 930 935	cells
+T19	Gene_or_gene_product 1071 1076	MTSS1
+T20	Cancer 1087 1093	cancer
+T21	Gene_or_gene_product 1168 1173	MTSS1

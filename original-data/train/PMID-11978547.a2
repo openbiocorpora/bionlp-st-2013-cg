@@ -1,0 +1,102 @@
+*	Equiv T8 T9
+*	Equiv T16 T17
+*	Equiv T21 T22
+T47	Positive_regulation 8 17	induction
+E1	Positive_regulation:T47 Theme:E3
+E2	Positive_regulation:T47 Theme:E4
+T48	Gene_expression 41 51	expression
+E3	Gene_expression:T48 Theme:T1
+E4	Gene_expression:T48 Theme:T2
+T49	Regulation 102 110	mediated
+E5	Regulation:T49 Theme:E1
+E6	Regulation:T49 Theme:E2
+T50	Growth 203 214	proliferate
+E7	Growth:T50 Theme:T4
+T51	Growth 219 223	grow
+E8	Growth:T51 Theme:T4
+T52	Positive_regulation 272 278	induce
+E9	Positive_regulation:T52 Theme:E11
+E10	Positive_regulation:T52 Theme:E12
+T53	Cell_proliferation 279 292	proliferation
+E11	Cell_proliferation:T53 Theme:T7
+T54	Localization 297 306	migration
+E12	Localization:T54 Theme:T7
+T55	Blood_vessel_development 368 378	angiogenic
+E13	Blood_vessel_development:T55 
+T56	Positive_regulation 433 442	Increased
+E14	Positive_regulation:T56 Theme:E15
+T57	Gene_expression 448 458	expression
+E15	Gene_expression:T57 Theme:T10
+T58	Regulation 488 498	associated
+E16	Regulation:T58 Theme:E15 Cause:E20
+E17	Regulation:T58 Cause:E18 Theme:E15
+T59	Positive_regulation 522 531	increased
+E18	Positive_regulation:T59 Theme:E19
+T60	Cell_proliferation 544 550	growth
+E19	Cell_proliferation:T60 Theme:T12
+T61	Metastasis 567 577	metastasis
+E20	Metastasis:T61 Theme:T11 ToLoc:T13
+T62	Negative_regulation 579 586	Reduced
+E21	Negative_regulation:T62 Theme:T14
+T63	Positive_regulation 620 628	increase
+E22	Positive_regulation:T63 Theme:E23 Cause:E24
+T64	Gene_expression 634 644	production
+E23	Gene_expression:T64 Theme:T15
+T65	Positive_regulation 648 657	induction
+E24	Positive_regulation:T65 Theme:T16 Cause:E21
+T66	Positive_regulation 784 790	induce
+E25	Positive_regulation:T66 Theme:E27
+E26	Positive_regulation:T66 Theme:E28
+M1	Speculation E26
+M2	Speculation E25
+T67	Gene_expression 811 821	expression
+E27	Gene_expression:T67 Theme:T20
+E28	Gene_expression:T67 Theme:T19
+T68	Positive_regulation 891 900	activated
+E29	Positive_regulation:T68 Theme:T23
+E30	Positive_regulation:T68 Theme:T21
+T69	Regulation 1010 1019	regulated
+E31	Regulation:T69 Theme:E33
+E32	Regulation:T69 Theme:E34
+T70	Gene_expression 1040 1050	expression
+E33	Gene_expression:T70 Theme:T25
+E34	Gene_expression:T70 Theme:T24
+T71	Positive_regulation 1184 1191	induced
+E35	Positive_regulation:T71 Theme:T29
+E36	Positive_regulation:T71 Theme:T30
+T72	Positive_regulation 1240 1250	activation
+E37	Positive_regulation:T72 Theme:T29
+E38	Positive_regulation:T72 Theme:T30
+T73	Positive_regulation 1267 1276	induction
+E39	Positive_regulation:T73 Theme:E41
+E40	Positive_regulation:T73 Theme:E42
+T74	Gene_expression 1291 1301	expression
+E41	Gene_expression:T74 Theme:T32
+T75	Binding 1310 1317	binding
+E42	Binding:T75 Theme:T32 Theme2:T33
+T76	Negative_regulation 1337 1344	blocked
+E43	Negative_regulation:T76 Cause:T35 Theme:E42
+E44	Negative_regulation:T76 Cause:T35 Theme:E41
+T77	Positive_regulation 1389 1398	increased
+E45	Positive_regulation:T77 Theme:E46
+T78	Gene_expression 1404 1414	production
+E46	Gene_expression:T78 Theme:T36
+T79	Planned_process 1452 1461	treatment
+E47	Planned_process:T79 Instrument:T38
+T80	Gene_expression 1477 1491	Overexpression
+E48	Gene_expression:T80 Theme:T40
+E49	Gene_expression:T80 Theme:T39
+T81	Positive_regulation 1525 1531	induce
+E50	Positive_regulation:T81 Theme:E53
+E51	Positive_regulation:T81 Theme:E52
+T82	Gene_expression 1552 1562	expression
+E52	Gene_expression:T82 Theme:T42
+E53	Gene_expression:T82 Theme:T41
+T83	Positive_regulation 1592 1601	induction
+E54	Positive_regulation:T83 Theme:T43
+T84	Regulation 1622 1631	regulates
+E55	Regulation:T84 Cause:E54 Theme:E57
+E56	Regulation:T84 Cause:E54 Theme:E58
+T85	Gene_expression 1652 1662	expression
+E57	Gene_expression:T85 Theme:T44
+E58	Gene_expression:T85 Theme:T45

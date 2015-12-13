@@ -1,0 +1,76 @@
+*	Equiv T6 T7
+*	Equiv T31 T32
+*	Equiv T33 T34
+T38	Gene_expression 6 21	over-expression
+E1	Gene_expression:T38 Theme:T1
+T39	Positive_regulation 54 63	increases
+E2	Positive_regulation:T39 Cause:E1 Theme:E3
+T40	Cell_proliferation 64 77	proliferation
+E3	Cell_proliferation:T40 Theme:T2
+T41	Planned_process 98 105	culture
+E4	Planned_process:T41 Theme:T2
+T42	Gene_expression 300 310	expression
+E5	Gene_expression:T42 Theme:T8
+T43	Positive_regulation 314 322	elevated
+E6	Positive_regulation:T43 Theme:E5
+T44	Gene_expression 407 422	over-expression
+E7	Gene_expression:T44 Theme:T11
+T45	Positive_regulation 440 447	promote
+E8	Positive_regulation:T45 Theme:E9 Cause:E7
+T46	Carcinogenesis 464 477	tumorigenesis
+E9	Carcinogenesis:T46 
+T47	Planned_process 551 561	transgenic
+E10	Planned_process:T47 Theme:T16 Instrument:T13 Instrument2:T14 Instrument3:T15
+T48	Planned_process 663 673	transgenic
+E11	Planned_process:T48 Theme:T19
+T49	Cell_division 735 744	divisions
+E12	Cell_division:T49 Theme:T19
+T50	Gene_expression 799 814	over-expression
+E13	Gene_expression:T50 Theme:T21
+T51	Regulation 826 832	effect
+E14	Regulation:T51 Cause:E13 Theme:E18
+E15	Regulation:T51 Cause:E13 Theme:E19
+E16	Regulation:T51 Cause:E13 Theme:E20
+E17	Regulation:T51 Cause:E13 Theme:E21
+T52	Cell_proliferation 881 894	proliferation
+E18	Cell_proliferation:T52 Theme:T22
+T53	Cell_differentiation 911 923	neurogenesis
+E19	Cell_differentiation:T53 Theme:T22
+T54	Cell_differentiation 928 940	neurogenesis
+E20	Cell_differentiation:T54 Theme:T22
+T55	Cell_differentiation 941 952	gliogenesis
+E21	Cell_differentiation:T55 Theme:T22
+T56	Development 960 971	development
+E22	Development:T56 Theme:T24
+T57	Planned_process 979 989	transgenic
+E23	Planned_process:T57 Instrument:T25 Theme:T26
+T58	Reproduction 1000 1004	born
+E24	Reproduction:T58 Theme:T26
+T59	Planned_process 1115 1125	transgenic
+E25	Planned_process:T59 Theme:T28
+T60	Development 1131 1137	formed
+E26	Development:T60 Theme:T29
+M1	Negation E26
+T61	Regulation 1197 1204	effects
+E27	Regulation:T61 Cause:E29 Theme:E32
+E28	Regulation:T61 Cause:E29 Theme:E33
+T62	Gene_expression 1214 1229	over-expression
+E29	Gene_expression:T62 Theme:T30
+T63	Negative_regulation 1274 1284	attenuated
+E30	Negative_regulation:T63 Theme:E32
+E31	Negative_regulation:T63 Theme:E33
+T64	Positive_regulation 1285 1294	induction
+E32	Positive_regulation:T64 Theme:T31
+E33	Positive_regulation:T64 Theme:T33
+T65	Gene_expression 1366 1375	expressed
+E34	Gene_expression:T65 Theme:T31
+E35	Gene_expression:T65 Theme:T33
+M2	Negation E34
+M3	Negation E35
+T66	Gene_expression 1437 1452	over-expression
+E36	Gene_expression:T66 Theme:T37
+T67	Positive_regulation 1542 1548	induce
+E37	Positive_regulation:T67 Cause:E36 Theme:E38
+M4	Negation E37
+T68	Carcinogenesis 1549 1562	tumorigenesis
+E38	Carcinogenesis:T68 

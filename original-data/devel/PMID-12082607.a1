@@ -1,0 +1,42 @@
+T1	Organism 47 52	human
+T2	Cell 53 70	endothelial cells
+T3	Gene_or_gene_product 100 132	telomerase reverse transcriptase
+T4	Gene_or_gene_product 134 148	SV40 T antigen
+T5	Gene_or_gene_product 163 168	N-ras
+T6	Organism 235 240	human
+T7	Cell 241 258	endothelial cells
+T8	Cell 260 263	ECs
+T9	Organism 308 313	human
+T10	Gene_or_gene_product 314 324	telomerase
+T11	Gene_or_gene_product 326 331	hTERT
+T12	Organism 348 352	SV40
+T13	Gene_or_gene_product 353 362	T antigen
+T14	Gene_or_gene_product 364 369	SV40T
+T15	Gene_or_gene_product 385 390	N-ras
+T16	Gene_or_gene_product 410 415	hTERT
+T17	Cell 482 505	bone marrow-derived ECs
+T18	Cell 507 512	BMECs
+T19	Gene_or_gene_product 519 524	hTERT
+T20	Cell 536 540	BMEC
+T21	Cell 615 620	BMECs
+T22	Gene_or_gene_product 638 643	hTERT
+T23	Cell 695 700	BMECs
+T24	Gene_or_gene_product 718 723	SV40T
+T25	Cell 725 731	BMSVTs
+T26	Cell 795 801	BMSVTs
+T27	Cell 980 986	BMSVTs
+T28	Gene_or_gene_product 992 997	hTERT
+T29	Cell 1040 1048	cultures
+T30	Cell 1050 1056	BMSVTs
+T31	Gene_or_gene_product 1075 1080	hTERT
+T32	Cancer 1132 1139	tumours
+T33	Cell 1149 1154	BMECs
+T34	Gene_or_gene_product 1169 1174	SV40T
+T35	Gene_or_gene_product 1176 1181	hTERT
+T36	Gene_or_gene_product 1186 1191	N-ras
+T37	Cancer 1322 1329	tumours
+T38	Organism 1390 1395	human
+T39	Cell 1396 1399	ECs
+T40	Pathological_formation 1501 1509	vascular
+T41	Pathological_formation 1514 1535	angiogenic neoplasias
+T42	Cell 1595 1597	EC

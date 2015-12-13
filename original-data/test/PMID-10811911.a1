@@ -1,0 +1,26 @@
+T1	Gene_or_gene_product 42 54	14-3-3 sigma
+T2	Cancer 88 101	breast cancer
+T3	Gene_or_gene_product 118 136	14-3-3 final sigma
+T4	Gene_or_gene_product 138 149	final sigma
+T5	Cellular_component 177 180	DNA
+T6	Cell 200 205	cells
+T7	Gene_or_gene_product 294 305	final sigma
+T8	Cell 352 374	breast carcinoma cells
+T9	Tissue 390 407	breast epithelium
+T10	Gene_or_gene_product 473 484	final sigma
+T11	Cancer 527 544	breast carcinomas
+T12	Gene_or_gene_product 569 580	final sigma
+T13	Gene_or_gene_product 745 756	final sigma
+T14	Cancer 793 806	breast tumors
+T15	Gene_or_gene_product 876 887	final sigma
+T16	Gene_or_gene_product 936 947	final sigma
+T17	Cell 963 987	breast cancer cell lines
+T18	Simple_chemical 1002 1024	5-aza-2'-deoxycytidine
+T19	Gene_or_gene_product 1080 1091	final sigma
+T20	Cell 1098 1117	Breast cancer cells
+T21	Gene_or_gene_product 1126 1137	final sigma
+T22	Cellular_component 1176 1187	chromosomal
+T23	Gene_or_gene_product 1278 1289	final sigma
+T24	Cell 1363 1367	cell
+T25	Gene_or_gene_product 1474 1485	final sigma
+T26	Cancer 1546 1559	breast cancer

@@ -1,0 +1,53 @@
+T1	Cell 0 17	Islet endothelial
+T2	Simple_chemical 80 86	IL-1Ra
+T3	Organism 120 126	GK rat
+T4	Multi-tissue_structure 192 197	islet
+T5	Organism 229 234	human
+T6	Multi-tissue_structure 260 265	islet
+T7	Cell 298 315	endothelial cells
+T8	Cell 374 390	endothelial cell
+T9	Multi-tissue_structure 405 411	islets
+T10	Organism 461 483	Goto-Kakizaki (GK) rat
+T11	Tissue 502 520	islet endotheliuml
+T12	Multi-tissue_structure 581 586	islet
+T13	Simple_chemical 641 681	interleukin-1 (IL-1) receptor antagonist
+T14	Simple_chemical 683 689	IL-1Ra
+T15	Multi-tissue_structure 779 785	islets
+T16	Organism 821 823	GK
+T17	Organism 836 847	Wistar rats
+T18	Organism 862 869	GK rats
+T19	Simple_chemical 904 910	IL-1Ra
+T20	Simple_chemical 912 919	Kineret
+T21	Simple_chemical 946 952	saline
+T22	Multi-tissue_structure 1021 1026	islet
+T23	Organ 1045 1053	pancreas
+T24	Cell 1148 1164	endothelial cell
+T25	Multi-tissue_structure 1204 1212	vascular
+T26	Gene_or_gene_product 1291 1306	angiotensinogen
+T27	Gene_or_gene_product 1311 1328	epoxide hydrolase
+T28	Gene_or_gene_product 1356 1371	12-lipoxygenase
+T29	Gene_or_gene_product 1376 1410	vascular endothelial growth factor
+T30	Organism 1471 1473	GK
+T31	Multi-tissue_structure 1474 1480	islets
+T32	Simple_chemical 1488 1494	IL-1Ra
+T33	Organism 1508 1515	GK rats
+T34	Tissue 1556 1567	endothelium
+T35	Cell 1571 1583	immune cells
+T36	Simple_chemical 1628 1634	IL-1Ra
+T37	Multi-tissue_structure 1649 1654	islet
+T38	Organism 1741 1747	GK rat
+T39	Multi-tissue_structure 1748 1754	islets
+T40	Cell 1806 1828	islet endothelial cell
+T41	Simple_chemical 1949 1955	IL-1Ra
+T42	Cell 1964 1981	islet endothelial
+T43	Cell 1985 1997	immune cells
+T44	Cell 2046 2057	endothelial
+T45	Gene_or_gene_product 2075 2079	IL-1
+T46	Organism 2083 2085	GK
+T47	Multi-tissue_structure 2086 2091	islet
+T48	Tissue 2133 2150	islet endothelium
+T49	Cell 2168 2177	beta-cell
+T50	Cell 2241 2250	beta-cell
+T51	Organism 2266 2273	GK rats
+T52	Cell 2289 2311	islet endothelial cell
+T53	Cell 2364 2373	beta-cell

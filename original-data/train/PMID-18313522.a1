@@ -1,0 +1,21 @@
+T1	Gene_or_gene_product 40 79	anti-vascular endothelial growth factor
+T2	Simple_chemical 80 91	bevacizumab
+T3	Simple_chemical 93 100	Avastin
+T4	Simple_chemical 125 136	bevacizumab
+T5	Tissue 187 193	macula
+T6	Organism 228 236	patients
+T7	Pathological_formation 265 270	edema
+T8	Tissue 285 294	capillary
+T9	Simple_chemical 432 443	bevacizumab
+T10	Organism 513 520	patient
+T11	Multi-tissue_structure 665 672	retinal
+T12	Simple_chemical 712 723	Bevacizumab
+T13	Multi-tissue_structure 764 771	retinal
+T14	Pathological_formation 799 804	edema
+T15	Organism 867 875	patients
+T16	Organism 1037 1045	patients
+T17	Simple_chemical 1117 1128	bevacizumab
+T18	Simple_chemical 1191 1202	bevacizumab
+T19	Multi-tissue_structure 1301 1309	vascular
+T20	Gene_or_gene_product 1362 1396	vascular endothelial growth factor
+T21	Tissue 1417 1423	tissue

@@ -1,0 +1,98 @@
+*	Equiv T6 T7
+*	Equiv T32 T33
+T69	Negative_regulation 0 8	Impaired
+E1	Negative_regulation:T69 Theme:T1
+T70	Negative_regulation 28 38	attenuates
+E2	Negative_regulation:T70 Cause:E1 Theme:E5
+E3	Negative_regulation:T70 Cause:E1 Theme:E6
+T71	Positive_regulation 44 51	induced
+E4	Positive_regulation:T71 Cause:T2 Theme:E5
+T72	Cell_transformation 61 75	transformation
+E5	Cell_transformation:T72 Theme:T3
+T73	Carcinogenesis 103 117	carcinogenesis
+E6	Carcinogenesis:T73 AtLoc:T5
+T74	Cell_transformation 188 202	transformation
+E7	Cell_transformation:T74 Theme:T8
+T75	Development 230 241	development
+E8	Development:T75 Theme:T9
+T76	Development 246 257	progression
+E9	Development:T76 Theme:T9
+T77	Regulation 357 367	modulating
+E10	Regulation:T77 Cause:T11 Theme:T13
+E11	Regulation:T77 Cause:T11 Theme:T12
+T78	Cell_transformation 372 384	transforming
+E12	Cell_transformation:T78 
+T79	Cell_transformation 417 429	transforming
+E13	Cell_transformation:T79 
+T80	Cell_transformation 458 470	transforming
+E14	Cell_transformation:T80 
+T81	Positive_regulation 596 603	induced
+E15	Positive_regulation:T81 Cause:T16 Theme:E16
+T82	Cell_transformation 609 623	transformation
+E16	Cell_transformation:T82 Theme:T17
+T83	Positive_regulation 646 653	induced
+E17	Positive_regulation:T83 Cause:T18 Theme:E18
+T84	Carcinogenesis 662 676	carcinogenesis
+E18	Carcinogenesis:T84 AtLoc:T19
+T85	Mutation 873 887	mutation N172D
+E19	Mutation:T85 
+T86	Positive_regulation 944 955	responsible
+E20	Positive_regulation:T86 Cause:E19 Theme:E21
+T87	Negative_regulation 960 968	impaired
+E21	Negative_regulation:T87 Theme:T23
+T88	Cell_transformation 1029 1040	transformed
+E22	Cell_transformation:T88 Theme:T24
+T89	Cell_transformation 1102 1113	transformed
+E23	Cell_transformation:T89 
+T90	Negative_regulation 1145 1157	interference
+E24	Negative_regulation:T90 Theme:T26
+T91	Regulation 1206 1213	effects
+E25	Regulation:T91 Cause:T27 Theme:E27
+M1	Speculation E25
+T92	Positive_regulation 1234 1241	induced
+E26	Positive_regulation:T92 Cause:T28 Theme:E27
+T93	Carcinogenesis 1250 1264	carcinogenesis
+E27	Carcinogenesis:T93 AtLoc:T29
+T94	Planned_process 1392 1399	crossed
+E28	Planned_process:T94 Instrument:T31 Instrument2:T34 Theme:T35
+T95	Development 1522 1531	developed
+E29	Development:T95 Theme:T44
+T96	Negative_regulation 1673 1680	reduced
+E30	Negative_regulation:T96 Theme:T50
+T97	Regulation 1707 1713	affect
+E31	Regulation:T97 Cause:E30 Theme:E32
+M2	Negation E31
+T98	Development 1727 1736	formation
+E32	Development:T98 Theme:T51
+T99	Carcinogenesis 1744 1757	tumorigenesis
+E33	Carcinogenesis:T99 
+T100	Negative_regulation 1775 1783	impaired
+E34	Negative_regulation:T100 Theme:T52
+T101	Negative_regulation 1802 1809	reduces
+E35	Negative_regulation:T101 Cause:E34 Theme:E36
+T102	Development 1830 1839	outgrowth
+E36	Development:T102 Theme:T54
+T103	Carcinogenesis 1900 1911	tumorigenic
+E37	Carcinogenesis:T103 
+T104	Development 2078 2089	progression
+E38	Development:T104 Theme:T61
+T105	Regulation 2113 2121	involved
+E39	Regulation:T105 Theme:E41
+E40	Regulation:T105 Theme:E42
+T106	Pathway 2129 2138	signaling
+E41	Pathway:T106 Participant:T62
+T107	Remodeling 2147 2153	repair
+E42	Remodeling:T107 Theme:T63
+T108	Negative_regulation 2174 2186	inactivating
+E43	Negative_regulation:T108 Cause:E44 Theme:T64
+T109	Mutation 2187 2196	mutations
+E44	Mutation:T109 
+T110	Negative_regulation 2209 2215	impair
+E45	Negative_regulation:T110 Cause:E44 Theme:E48
+E46	Negative_regulation:T110 Cause:E44 Theme:E49
+T111	Positive_regulation 2221 2228	induced
+E47	Positive_regulation:T111 Theme:E48 Cause:T65
+T112	Cell_transformation 2238 2252	transformation
+E48	Cell_transformation:T112 Theme:T66
+T113	Carcinogenesis 2280 2294	carcinogenesis
+E49	Carcinogenesis:T113 AtLoc:T68

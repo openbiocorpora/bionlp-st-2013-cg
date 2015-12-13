@@ -1,0 +1,36 @@
+T1	Simple_chemical 14 29	perfluorocarbon
+T2	Simple_chemical 47 53	oxygen
+T3	Multi-tissue_structure 66 91	tissue-engineered trachea
+T4	Simple_chemical 122 137	perfluorocarbon
+T5	Simple_chemical 155 161	oxygen
+T6	Simple_chemical 171 178	Oxygent
+T7	Multi-tissue_structure 200 225	tissue-engineered trachea
+T8	Multi-tissue_structure 227 230	TET
+T9	Simple_chemical 286 293	Oxygent
+T10	Tissue 336 342	tissue
+T11	Simple_chemical 343 349	oxygen
+T12	Cell 412 422	epithelial
+T13	Tissue 476 490	TET epithelium
+T14	Cell 528 539	Chondrocyte
+T15	Simple_chemical 609 626	glycosaminoglycan
+T16	Tissue 653 659	Tissue
+T17	Tissue 672 696	TET epithelial scaffolds
+T18	Organism 743 748	chick
+T19	Multi-tissue_structure 749 780	embryo chorioallantoic membrane
+T20	Simple_chemical 782 789	Oxygent
+T21	Tissue 821 835	TET epithelial
+T22	Simple_chemical 1015 1022	lactate
+T23	Simple_chemical 1099 1106	lactate
+T24	Simple_chemical 1107 1115	pyruvate
+T25	Simple_chemical 1176 1183	lactate
+T26	Simple_chemical 1184 1191	glucose
+T27	Cell 1254 1265	Chondrocyte
+T28	Simple_chemical 1278 1285	Oxygent
+T29	Simple_chemical 1308 1325	glycosaminoglycan
+T30	Simple_chemical 1421 1440	mucopolysaccharides
+T31	Tissue 1528 1537	capillary
+T32	Multi-tissue_structure 1580 1605	chorioallantoic membranes
+T33	Simple_chemical 1678 1685	Oxygent
+T34	Tissue 1696 1710	TET epithelial
+T35	Tissue 1728 1738	epithelial
+T36	Tissue 1799 1815	cartilage tissue

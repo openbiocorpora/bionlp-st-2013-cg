@@ -1,0 +1,40 @@
+T1	Gene_or_gene_product 0 30	Basic fibroblast growth factor
+T2	Gene_or_gene_product 55 67	collagen VII
+T3	Gene_or_gene_product 79 90	collagenase
+T4	Cancer 96 119	squamous cell carcinoma
+T5	Organism 179 187	Patients
+T6	Gene_or_gene_product 264 281	collagen type VII
+T7	Gene_or_gene_product 310 332	fibroblast collagenase
+T8	Cancer 366 399	cutaneous squamous cell carcinoma
+T9	Organism 401 409	Patients
+T10	Gene_or_gene_product 471 482	collagenase
+T11	Cancer 507 530	squamous cell carcinoma
+T12	Gene_or_gene_product 581 598	collagen type VII
+T13	Gene_or_gene_product 621 632	collagenase
+T14	Cancer 638 661	squamous cell carcinoma
+T15	Organism_substance 704 709	Urine
+T16	Organism 718 726	patients
+T17	Organism 741 749	patients
+T18	Organism 794 802	patients
+T19	Organism 848 856	patients
+T20	Organism 904 912	patients
+T21	Organism 917 925	patients
+T22	Gene_or_gene_product 959 989	basic fibroblast growth factor
+T23	Gene_or_gene_product 991 995	bFGF
+T24	Organism 1039 1047	patients
+T25	Organism 1198 1206	patients
+T26	Organism_substance 1267 1274	urinary
+T27	Gene_or_gene_product 1275 1279	bFGF
+T28	Organism 1306 1314	patients
+T29	Gene_or_gene_product 1347 1351	bFGF
+T30	Gene_or_gene_product 1435 1439	bFGF
+T31	Organism 1452 1460	patients
+T32	Gene_or_gene_product 1493 1497	bFGF
+T33	Gene_or_gene_product 1525 1529	bFGF
+T34	Gene_or_gene_product 1615 1619	bFGF
+T35	Organism 1628 1636	patients
+T36	Organism 1755 1763	patients
+T37	Gene_or_gene_product 1798 1802	bFGF
+T38	Gene_or_gene_product 1838 1860	fibroblast collagenase
+T39	Cancer 1884 1907	squamous cell carcinoma
+T40	Gene_or_gene_product 2028 2032	bFGF

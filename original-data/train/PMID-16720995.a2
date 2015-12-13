@@ -1,0 +1,24 @@
+*	Equiv T6 T7
+*	Equiv T10 T11
+*	Equiv T13 T12
+T26	Breakdown 48 54	damage
+E1	Breakdown:T26 Theme:T3
+T27	Remodeling 105 126	morphological changes
+E2	Remodeling:T27 Theme:T5
+T28	Positive_regulation 179 187	promoted
+E3	Positive_regulation:T28 Theme:E2 Cause:T6
+T29	Positive_regulation 358 365	promote
+E4	Positive_regulation:T29 Theme:E5 Cause:T9
+T30	Synthesis 366 375	formation
+E5	Synthesis:T30 Theme:T10
+T31	Gene_expression 513 522	expressed
+E6	Gene_expression:T31 Theme:T12
+T32	Remodeling 613 634	morphological changes
+E7	Remodeling:T32 Theme:T17
+T33	Regulation 724 744	plays a pivotal role
+E8	Regulation:T33 Cause:T20 Theme:E10
+E9	Regulation:T33 Cause:T20 Theme:E11
+T34	Breakdown 748 765	structural damage
+E10	Breakdown:T34 Theme:T21
+T35	Blood_vessel_development 786 801	neoangiogenesis
+E11	Blood_vessel_development:T35 AtLoc:T21

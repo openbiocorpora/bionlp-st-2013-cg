@@ -1,0 +1,19 @@
+T1	Gene_or_gene_product 19 31	collagen XII
+T2	Cell 47 64	mesenchymal cells
+T3	Gene_or_gene_product 67 79	Collagen XII
+T4	Organ 144 156	interstitial
+T5	Gene_or_gene_product 157 165	collagen
+T6	Cellular_component 166 173	fibrils
+T7	Cell 220 231	fibroblasts
+T8	Cell 291 296	cells
+T9	Gene_or_gene_product 325 330	v-myc
+T10	Gene_or_gene_product 334 339	v-src
+T11	Cell 349 354	cells
+T12	Simple_chemical 370 388	methylcholanthrene
+T13	Cancer 397 409	fibrosarcoma
+T14	Cell 427 432	cells
+T15	Gene_or_gene_product 451 464	collagen, XII
+T16	Organism 593 611	Rous sarcoma virus
+T17	Gene_or_gene_product 729 741	collagen XII
+T18	Cellular_component 794 814	extracellular matrix
+T19	Cell 830 835	cells

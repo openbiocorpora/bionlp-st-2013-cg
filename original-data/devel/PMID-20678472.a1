@@ -1,0 +1,31 @@
+T1	Simple_chemical 0 12	Sanguinarine
+T2	Organism 34 39	human
+T3	Cell 40 58	osteosarcoma cells
+T4	Simple_chemical 121 152	benzo[c]phenanthridine alkaloid
+T5	Simple_chemical 153 165	sanguinarine
+T6	Cell 196 211	cancerous cells
+T7	Organ 246 250	lung
+T8	Organism_subdivision 252 258	breast
+T9	Organ 260 270	pancreatic
+T10	Organ 275 280	colon
+T11	Cancer 321 333	osteosarcoma
+T12	Cancer 337 366	primary malignant bone tumour
+T13	Simple_chemical 387 399	sanguinarine
+T14	Cell 451 456	MG-63
+T15	Cell 461 497	SaOS-2 human osteosarcoma cell lines
+T16	Simple_chemical 572 584	sanguinarine
+T17	Cell 623 634	MG-63 cells
+T18	Cell 640 652	SaOS-2 cells
+T19	Simple_chemical 689 701	sanguinarine
+T20	Cell 729 745	cell populations
+T21	Cellular_component 790 812	mitochondrial membrane
+T22	Cell 831 836	MG-63
+T23	Cell 841 853	SaOS-2 cells
+T24	Cellular_component 872 881	chromatin
+T25	Cellular_component 916 932	apoptotic bodies
+T26	Gene_or_gene_product 994 1003	caspase-8
+T27	Gene_or_gene_product 1008 1017	caspase-9
+T28	Cell 1026 1031	MG-63
+T29	Cell 1036 1048	SaOS-2 cells
+T30	Simple_chemical 1071 1083	sanguinarine
+T31	Cancer 1115 1126	bone cancer

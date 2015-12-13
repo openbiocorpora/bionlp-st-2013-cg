@@ -1,0 +1,17 @@
+*	Equiv T2 T3
+T13	Planned_process 131 143	inoculations
+E1	Planned_process:T13 Theme:T1 Instrument:T2
+T14	Planned_process 324 335	inoculation
+E2	Planned_process:T14 Instrument:T6
+T15	Cell_death 427 438	necrotizing
+E3	Cell_death:T15 
+T16	Blood_vessel_development 454 472	neovascularization
+E4	Blood_vessel_development:T16 AtLoc:T9
+T17	Development 487 496	developed
+E5	Development:T17 Theme:T9
+T18	Development 561 570	developed
+E6	Development:T18 Theme:T11
+T19	Blood_vessel_development 728 746	neovascularization
+E7	Blood_vessel_development:T19 AtLoc:T12
+T20	Cell_death 752 763	necrotizing
+E8	Cell_death:T20 

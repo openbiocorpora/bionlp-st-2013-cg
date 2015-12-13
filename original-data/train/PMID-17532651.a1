@@ -1,0 +1,14 @@
+T1	Multi-tissue_structure 109 117	vascular
+T2	Organism_subdivision 138 148	lower limb
+T3	Immaterial_anatomical_entity 238 250	endovascular
+T4	Organism 268 276	patients
+T5	Gene_or_gene_product 343 364	phosphodiesterase III
+T6	Simple_chemical 375 385	cilostazol
+T7	Organism 487 495	patients
+T8	Tissue 559 565	tissue
+T9	Simple_chemical 650 660	cilostazol
+T10	Organism 681 689	patients
+T11	Multi-tissue_structure 966 972	vessel
+T12	Organism_subdivision 1020 1030	lower limb
+T13	Organism 1222 1230	patients
+T14	Multi-tissue_structure 1236 1255	peripheral arterial

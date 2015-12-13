@@ -1,0 +1,30 @@
+T1	Organism 47 52	human
+T2	Cell 53 64	fibroblasts
+T3	Simple_chemical 68 73	Co-60
+T4	Gene_or_gene_product 89 95	Ha-ras
+T5	Organism 173 178	human
+T6	Cell 179 190	fibroblasts
+T7	Cell 213 227	immortal cells
+T8	Simple_chemical 256 261	Co-60
+T9	Cell 314 319	cells
+T10	Cell 321 327	KMST-6
+T11	Gene_or_gene_product 417 423	Ha-ras
+T12	Organism 449 469	human lung carcinoma
+T13	Organism 473 500	Harvey murine sarcoma virus
+T14	Cell 506 518	KMST-6 cells
+T15	Organism 587 596	nude mice
+T16	Cancer 606 612	tumors
+T17	Organism 683 687	mice
+T18	Cancer 693 699	tumors
+T19	Organism 745 749	mice
+T20	Gene_or_gene_product 755 761	Ha-ras
+T21	Organism 800 805	human
+T22	Cell 806 817	fibroblasts
+T23	Cell 830 838	immortal
+T24	Cell 842 859	tumorigenic cells
+T25	Organism 953 958	human
+T26	Cell 959 964	cells
+T27	Cellular_component 981 991	chromosome
+T28	Gene_or_gene_product 1029 1035	Ha-ras
+T29	Cell 1108 1112	cell
+T30	Organism 1213 1222	nude mice

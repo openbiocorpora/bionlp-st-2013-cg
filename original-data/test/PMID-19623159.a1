@@ -1,0 +1,28 @@
+T1	Organ 55 60	heart
+T2	Multi-tissue_structure 122 135	blood vessels
+T3	Multi-tissue_structure 150 163	blood vessels
+T4	Organism_subdivision 384 388	body
+T5	Multi-tissue_structure 470 483	blood vessels
+T6	Multi-tissue_structure 580 595	coronary artery
+T7	Pathological_formation 624 630	wounds
+T8	Multi-tissue_structure 632 642	Myocardial
+T9	Multi-tissue_structure 856 869	blood vessels
+T10	Multi-tissue_structure 883 891	coronary
+T11	Multi-tissue_structure 928 936	coronary
+T12	Multi-tissue_structure 952 964	bypass graft
+T13	Organism_substance 991 996	blood
+T14	Multi-tissue_structure 1026 1042	coronary vessels
+T15	Multi-tissue_structure 1121 1131	myocardial
+T16	Multi-tissue_structure 1198 1204	vessel
+T17	Multi-tissue_structure 1281 1300	coronary collateral
+T18	Multi-tissue_structure 1383 1393	myocardial
+T19	Organism 1421 1426	human
+T20	Cell 1508 1524	progenitor cells
+T21	Multi-tissue_structure 1541 1554	blood vessels
+T22	Gene_or_gene_product 1556 1590	Vascular endothelial growth factor
+T23	Gene_or_gene_product 1592 1596	VEGF
+T24	Gene_or_gene_product 1599 1623	fibroblast growth factor
+T25	Gene_or_gene_product 1625 1628	FGF
+T26	Cell 1656 1678	bone marrow stem cells
+T27	Multi-tissue_structure 1743 1758	coronary artery
+T28	Organ 1981 1986	heart

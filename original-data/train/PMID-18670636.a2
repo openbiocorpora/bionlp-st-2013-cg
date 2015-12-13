@@ -1,0 +1,57 @@
+*	Equiv T3 T4
+*	Equiv T7 T8
+*	Equiv T9 T10
+*	Equiv T17 T18
+T42	Glycolysis 112 130	aerobic glycolysis
+E1	Glycolysis:T42 
+T43	Positive_regulation 161 170	increased
+E2	Positive_regulation:T43 Theme:E3
+T44	Localization 171 179	trapping
+E3	Localization:T44 Theme:T3
+T45	Localization 287 293	uptake
+E4	Localization:T45 Theme:T6
+T46	Gene_expression 339 349	expression
+E5	Gene_expression:T46 Theme:T7
+T47	Regulation 364 373	regulated
+E6	Regulation:T47 Theme:E5 Cause:T9
+T48	Planned_process 455 466	established
+E7	Planned_process:T48 Theme:T11
+T49	Phosphorylation 671 685	phosphorylated
+E8	Phosphorylation:T49 Theme:T17
+T50	Glycolysis 751 769	aerobic glycolysis
+E9	Glycolysis:T50 
+T51	Planned_process 777 784	passage
+E10	Planned_process:T51 Theme:T22
+T52	Planned_process 881 892	established
+E11	Planned_process:T52 Theme:T23
+T53	Glycolysis 963 973	glycolysis
+E12	Glycolysis:T53 
+T54	Gene_expression 1010 1020	expressing
+E13	Gene_expression:T54 Theme:T27
+E14	Gene_expression:T54 Theme:T28
+T55	Glycolysis 1156 1166	glycolytic
+E15	Glycolysis:T55 
+T56	Development 1211 1217	formed
+E16	Development:T56 Theme:T32
+T57	Gene_expression 1248 1256	positive
+E17	Gene_expression:T57 Theme:T34
+E18	Gene_expression:T57 Theme:T35
+T58	Phosphorylation 1276 1290	phosphorylated
+E19	Phosphorylation:T58 Theme:T35
+T59	Gene_expression 1315 1323	positive
+E20	Gene_expression:T59 Theme:T36
+T60	Glycolysis 1334 1344	Glycolysis
+E21	Glycolysis:T60 
+T61	Regulation 1349 1357	affected
+E22	Regulation:T61 Theme:E21 Cause:E24
+E23	Regulation:T61 Theme:E21 Cause:E25
+T62	Regulation 1377 1387	regulation
+E24	Regulation:T62 Theme:T37
+E25	Regulation:T62 Theme:T38
+T63	Regulation 1485 1493	involved
+E26	Regulation:T63 Theme:E28 Cause:T40
+E27	Regulation:T63 Theme:E28 Cause:T39
+T64	Regulation 1501 1511	regulation
+E28	Regulation:T64 Theme:E29
+T65	Glycolysis 1515 1525	glycolysis
+E29	Glycolysis:T65 

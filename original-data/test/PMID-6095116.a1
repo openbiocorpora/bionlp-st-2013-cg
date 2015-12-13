@@ -1,0 +1,23 @@
+T1	Gene_or_gene_product 17 20	p53
+T2	Cell 21 29	cellular
+T3	Cancer 30 36	tumour
+T4	Cell 73 88	embryonic cells
+T5	Cell 95 103	cellular
+T6	Cancer 104 110	tumour
+T7	Gene_or_gene_product 119 122	p53
+T8	Cell 184 189	cells
+T9	Gene_or_gene_product 278 281	p53
+T10	Gene_or_gene_product 336 339	p53
+T11	Gene_or_gene_product 433 436	p53
+T12	Cell 470 478	cellular
+T13	Cell 563 567	cell
+T14	Gene_or_gene_product 609 612	p53
+T15	Gene_or_gene_product 719 722	p53
+T16	Gene_or_gene_product 756 762	Ha-ras
+T17	Cell 792 807	embryonic cells
+T18	Cell 823 827	foci
+T19	Cell 836 841	cells
+T20	Gene_or_gene_product 904 907	p53
+T21	Cell 909 919	Cell lines
+T22	Cell 942 946	foci
+T23	Cancer 954 961	tumours

@@ -1,0 +1,30 @@
+T1	Gene_or_gene_product 0 12	beta-catenin
+T2	Gene_or_gene_product 46 50	Braf
+T3	Gene_or_gene_product 61 65	Pten
+T4	Cancer 76 85	melanomas
+T5	Cancer 88 106	Malignant melanoma
+T6	Gene_or_gene_product 266 269	Wnt
+T7	Cancer 310 318	melanoma
+T8	Gene_or_gene_product 395 407	beta-catenin
+T9	Organism 420 425	mouse
+T10	Cancer 435 443	melanoma
+T11	Cell 461 471	melanocyte
+T12	Gene_or_gene_product 481 485	Pten
+T13	Gene_or_gene_product 495 499	Braf
+T14	Amino_acid 500 505	V600E
+T15	Gene_or_gene_product 537 549	beta-catenin
+T16	Cancer 575 583	melanoma
+T17	Multi-tissue_structure 602 613	lymph nodes
+T18	Organ 618 623	lungs
+T19	Gene_or_gene_product 661 673	beta-catenin
+T20	Cancer 689 694	tumor
+T21	Gene_or_gene_product 729 733	MAPK
+T22	Gene_or_gene_product 734 737	Erk
+T23	Gene_or_gene_product 742 746	PI3K
+T24	Gene_or_gene_product 747 750	Akt
+T25	Cancer 780 786	tumors
+T26	Gene_or_gene_product 792 804	beta-catenin
+T27	Organism 851 856	human
+T28	Cancer 857 866	melanomas
+T29	Gene_or_gene_product 902 905	Wnt
+T30	Cancer 945 953	melanoma

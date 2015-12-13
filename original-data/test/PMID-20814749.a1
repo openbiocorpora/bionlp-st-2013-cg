@@ -1,0 +1,42 @@
+T1	Cell 4 20	neural stem cell
+T2	Gene_or_gene_product 38 41	TLX
+T3	Cell 80 85	cells
+T4	Cell 97 114	glioma stem cells
+T5	Organism_subdivision 127 131	body
+T6	Cell 175 184	stem cell
+T7	Cancer 234 246	malignancies
+T8	Cell 252 268	neural stem cell
+T9	Gene_or_gene_product 286 289	TLX
+T10	Organ 340 345	brain
+T11	Cell 361 378	neural stem cells
+T12	Gene_or_gene_product 418 421	TLX
+T13	Cancer 425 436	brain tumor
+T14	Gene_or_gene_product 475 478	TLX
+T15	Cell 518 530	glioma cells
+T16	Cell 535 552	glioma stem cells
+T17	Organism 591 599	patients
+T18	Cancer 605 612	gliomas
+T19	Gene_or_gene_product 636 639	TLX
+T20	Cell 647 669	U87MG glioma cell line
+T21	Gene_or_gene_product 674 679	Ink4a
+T22	Cell 674 710	Ink4a/Arf-deficient mouse astrocytes
+T23	Gene_or_gene_product 680 683	Arf
+T24	Gene_or_gene_product 712 717	Ink4a
+T25	Cell 712 737	Ink4a/Arf(-/-) astrocytes
+T26	Gene_or_gene_product 718 721	Arf
+T27	Cell 747 751	cell
+T28	Gene_or_gene_product 797 805	cyclin D
+T29	Cell 834 838	foci
+T30	Cancer 866 871	tumor
+T31	Gene_or_gene_product 948 951	TLX
+T32	Gene_or_gene_product 955 960	Ink4a
+T33	Cell 955 980	Ink4a/Arf(-/-) astrocytes
+T34	Gene_or_gene_product 961 964	Arf
+T35	Cell 991 995	cell
+T36	Cell 1032 1043	neurosphere
+T37	Gene_or_gene_product 1058 1064	Nestin
+T38	Cell 1115 1132	glioma stem cells
+T39	Cell 1140 1149	stem cell
+T40	Gene_or_gene_product 1196 1199	TLX
+T41	Cell 1215 1231	glioma stem cell
+T42	Cancer 1303 1313	malignancy

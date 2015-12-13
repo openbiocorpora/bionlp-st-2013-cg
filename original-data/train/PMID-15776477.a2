@@ -1,0 +1,45 @@
+*	Equiv T27 T28
+T42	Positive_regulation 14 26	up-regulated
+E1	Positive_regulation:T42 Theme:T1
+T43	Death 140 148	survival
+E2	Death:T43 Theme:T4
+M1	Negation E2
+T44	Blood_vessel_development 219 229	angiogenic
+E3	Blood_vessel_development:T44 
+T45	Positive_regulation 247 259	increasingly
+E4	Positive_regulation:T45 Theme:E3
+T46	Regulation 429 433	role
+E5	Regulation:T46 Cause:T8 Theme:T7
+M2	Speculation E5
+T47	Gene_expression 470 480	expression
+E6	Gene_expression:T47 Theme:T9
+T48	Carcinogenesis 506 516	transition
+E7	Carcinogenesis:T48 AtLoc:T10 Theme:T11
+E8	Carcinogenesis:T48 AtLoc:T10 Theme:T12
+T49	Localization 575 583	invasive
+E9	Localization:T49 Theme:T12
+T50	Localization 674 682	invasive
+E10	Localization:T50 Theme:T14
+T51	Gene_expression 850 860	expression
+E11	Gene_expression:T51 Theme:T18
+T52	Positive_regulation 864 876	up-regulated
+E12	Positive_regulation:T52 Theme:E11
+T53	Localization 946 954	invasive
+E13	Localization:T53 Theme:T22
+T54	Gene_expression 1020 1030	expression
+E14	Gene_expression:T54 Theme:T24
+T55	Localization 1034 1042	invasive
+E15	Localization:T55 Theme:T25
+T56	Death 1459 1467	survival
+E16	Death:T56 Theme:T36
+M3	Negation E16
+T57	Gene_expression 1518 1528	expression
+E17	Gene_expression:T57 Theme:T37
+T58	Positive_regulation 1573 1582	important
+E18	Positive_regulation:T58 Cause:T38 Theme:E19
+M4	Speculation E18
+T59	Positive_regulation 1600 1611	progression
+E19	Positive_regulation:T59 Theme:T39
+T60	Regulation 1668 1674	target
+E20	Regulation:T60 Theme:T40 Cause:T41
+M5	Speculation E20

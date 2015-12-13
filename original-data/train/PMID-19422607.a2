@@ -1,0 +1,45 @@
+T31	Mutation 4 17	amplification
+E1	Mutation:T31 Theme:T1
+T32	Development 28 39	progression
+E2	Development:T32 Theme:T2
+T33	Gene_expression 50 59	deficient
+E3	Gene_expression:T33 Theme:T3
+M1	Negation E3
+T34	Mutation 85 104	genetic alterations
+E4	Mutation:T34 
+T35	Gene_expression 276 286	expression
+E5	Gene_expression:T35 Theme:T8
+M2	Negation E5
+T36	Positive_regulation 322 332	activation
+E6	Positive_regulation:T36 Theme:E7
+T37	Pathway 383 400	signaling pathway
+E7	Pathway:T37 Participant:T9
+T38	Gene_expression 434 443	deficient
+E8	Gene_expression:T38 Theme:T10
+M3	Negation E8
+T39	Development 528 539	progression
+E9	Development:T39 Theme:T13
+T40	Mutation 578 596	gene amplification
+E10	Mutation:T40 Theme:T15
+T41	Development 655 666	progression
+E11	Development:T41 Theme:T17
+T42	Gene_expression 693 702	deficient
+E12	Gene_expression:T42 Theme:T18
+M4	Negation E12
+T43	Planned_process 711 727	RNA interference
+E13	Planned_process:T43 Instrument:T20 Theme:T21
+T44	Negative_regulation 789 794	delay
+E14	Negative_regulation:T44 Theme:E15
+T45	Growth 804 810	growth
+E15	Growth:T45 Theme:T22
+T46	Gene_expression 856 866	expression
+E16	Gene_expression:T46 Theme:T24
+T47	Regulation 985 989	role
+E17	Regulation:T47 Theme:E19 Cause:E18
+T48	Positive_regulation 998 1008	activation
+E18	Positive_regulation:T48 Theme:T28
+T49	Development 1027 1038	progression
+E19	Development:T49 Theme:T29
+T50	Gene_expression 1064 1074	deficiency
+E20	Gene_expression:T50 Theme:T30
+M5	Negation E20

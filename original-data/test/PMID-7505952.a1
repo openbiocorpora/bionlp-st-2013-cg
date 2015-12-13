@@ -1,0 +1,36 @@
+T1	Gene_or_gene_product 4 7	Met
+T2	Cell 23 34	mesenchymal
+T3	Cell 38 53	epithelial cell
+T4	Organism 87 92	human
+T5	Gene_or_gene_product 93 96	Met
+T6	Gene_or_gene_product 122 146	hepatocyte growth factor
+T7	Gene_or_gene_product 147 161	scatter factor
+T8	Gene_or_gene_product 163 166	HGF
+T9	Gene_or_gene_product 167 169	SF
+T10	Cell 175 194	NIH 3T3 fibroblasts
+T11	Cell 206 211	cells
+T12	Organism 237 246	nude mice
+T13	Cancer 262 268	tumors
+T14	Immaterial_anatomical_entity 277 282	lumen
+T15	Cancer 308 317	carcinoma
+T16	Cellular_component 323 334	focal areas
+T17	Cellular_component 340 363	intercellular junctions
+T18	Cellular_component 375 385	desmosomes
+T19	Cell 401 411	epithelial
+T20	Gene_or_gene_product 413 424	cytokeratin
+T21	Cell 430 441	mesenchymal
+T22	Gene_or_gene_product 443 451	vimentin
+T23	Cellular_component 453 465	cytoskeletal
+T24	Cell 479 490	tumor cells
+T25	Cellular_component 527 537	desmosomal
+T26	Cellular_component 542 556	tight-junction
+T27	Cell 580 591	mesenchymal
+T28	Cell 595 605	epithelial
+T29	Cell 624 635	tumor cells
+T30	Organ 677 693	embryonic kidney
+T31	Gene_or_gene_product 723 726	Met
+T32	Gene_or_gene_product 727 730	HGF
+T33	Gene_or_gene_product 731 733	SF
+T34	Cancer 787 793	tumors
+T35	Cell 812 822	epithelial
+T36	Cell 827 838	mesenchymal

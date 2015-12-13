@@ -1,0 +1,29 @@
+T1	Organism_substance 10 30	platelet-rich plasma
+T2	Gene_or_gene_product 35 41	fibrin
+T3	Organ 75 89	calvarial bone
+T4	Organism_substance 156 176	platelet-rich plasma
+T5	Organism_substance 178 181	PRP
+T6	Organism_substance 315 318	PRP
+T7	Organism_substance 323 343	platelet-poor plasma
+T8	Organism_substance 345 348	PPP
+T9	Organ 378 382	bone
+T10	Organ 431 435	bone
+T11	Organ 464 478	parietal bones
+T12	Organism 485 492	rabbits
+T13	Simple_chemical 530 536	Saline
+T14	Gene_or_gene_product 538 546	thrombin
+T15	Organism_substance 557 560	PPP
+T16	Organism_substance 566 569	PRP
+T17	Organ 764 769	bones
+T18	Tissue 842 856	bone trabecula
+T19	Multi-tissue_structure 882 893	bone marrow
+T20	Tissue 898 915	connective tissue
+T21	Organ 1106 1110	bone
+T22	Organ 1173 1177	bone
+T23	Organism_substance 1317 1320	PRP
+T24	Organism_substance 1325 1328	PPP
+T25	Organ 1361 1365	bone
+T26	Organism_substance 1493 1496	PRP
+T27	Gene_or_gene_product 1551 1557	fibrin
+T28	Cell 1577 1585	platelet
+T29	Organism_substance 1634 1637	PRP

@@ -1,0 +1,55 @@
+*	Equiv T5 T6
+*	Equiv T13 T14
+*	Equiv T18 T19
+T41	Development 103 114	development
+E1	Development:T41 Theme:T4
+T42	Development 119 130	progression
+E2	Development:T42 Theme:T4
+T43	Regulation 211 233	play an essential role
+E3	Regulation:T43 Cause:T5 Theme:E5
+E4	Regulation:T43 Cause:T5 Theme:E6
+T44	Binding 273 285	interactions
+E5	Binding:T44 Theme:T8 Theme:T7
+T45	Carcinogenesis 290 303	tumorigenesis
+E6	Carcinogenesis:T45 
+T46	Cell_proliferation 841 854	proliferation
+E7	Cell_proliferation:T46 Theme:T16
+T47	Remodeling 877 887	remodeling
+E8	Remodeling:T47 Theme:T17
+T48	Positive_regulation 910 923	Up-regulation
+E9	Positive_regulation:T48 Theme:T18
+T49	Cell_proliferation 1399 1405	growth
+E10	Cell_proliferation:T49 Theme:T30
+T50	Localization 1407 1416	migration
+E11	Localization:T50 Theme:T30
+T51	Localization 1422 1430	invasion
+E12	Localization:T51 Theme:T30
+T52	Positive_regulation 1689 1696	promote
+E13	Positive_regulation:T52 Theme:E15
+E14	Positive_regulation:T52 Theme:E16
+T53	Development 1704 1715	development
+E15	Development:T53 Theme:T35
+T54	Development 1720 1731	progression
+E16	Development:T54 Theme:T35
+T55	Positive_regulation 1740 1751	stimulation
+E17	Positive_regulation:T55 Theme:E18
+T56	Cell_proliferation 1767 1780	proliferation
+E18	Cell_proliferation:T56 Theme:T36
+T57	Positive_regulation 1782 1791	induction
+E19	Positive_regulation:T57 Theme:E20
+T58	Blood_vessel_development 1795 1807	angiogenesis
+E20	Blood_vessel_development:T58 
+T59	Negative_regulation 1809 1819	inhibition
+E21	Negative_regulation:T59 Theme:E22
+T60	Binding 1828 1836	adhesion
+E22	Binding:T60 Theme:T37
+T61	Positive_regulation 1838 1849	enhancement
+E23	Positive_regulation:T61 Theme:E24
+T62	Localization 1858 1866	mobility
+E24	Localization:T62 Theme:T38
+T63	Positive_regulation 1872 1881	promotion
+E25	Positive_regulation:T63 Theme:E27
+E26	Positive_regulation:T63 Theme:E28
+T64	Development 1912 1922	transition
+E27	Development:T64 Theme:T39
+E28	Development:T64 Theme:T40

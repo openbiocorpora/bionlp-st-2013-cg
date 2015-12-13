@@ -1,0 +1,63 @@
+*	Equiv T4 T5
+*	Equiv T21 T22
+T42	Gene_expression 27 40	overexpressed
+T43	Positive_regulation 27 40	overexpressed
+E1	Gene_expression:T42 Theme:T1
+E2	Positive_regulation:T43 Theme:E1
+T44	Gene_expression 95 105	expression
+E3	Gene_expression:T44 Theme:T3
+T45	Positive_regulation 243 251	catalyze
+E4	Positive_regulation:T45 Theme:E5
+T46	Metabolism 261 275	transformation
+E5	Metabolism:T46 Theme:T7
+T47	Gene_expression 293 307	overexpression
+T48	Positive_regulation 293 307	overexpression
+E6	Gene_expression:T47 Theme:T9
+E7	Positive_regulation:T48 Theme:E6
+T49	Positive_regulation 324 331	induces
+E8	Positive_regulation:T49 Cause:E6 Theme:E9
+T50	Positive_regulation 335 346	upregulated
+E9	Positive_regulation:T50 Theme:E10
+T51	Glycolysis 347 368	glycolytic metabolism
+E10	Glycolysis:T51 
+T52	Localization 399 407	presence
+E11	Localization:T52 Theme:T11
+T53	Gene_expression 449 459	expression
+E12	Gene_expression:T53 Theme:T12
+T54	Death 600 608	survival
+E13	Death:T54 Theme:T14
+M1	Negation E13
+T55	Gene_expression 711 721	expression
+E14	Gene_expression:T55 Theme:T17
+M2	Speculation E14
+T56	Gene_expression 810 820	expression
+E15	Gene_expression:T56 Theme:T19
+T57	Death 890 898	survival
+E16	Death:T57 Theme:T20
+M3	Negation E16
+T58	Gene_expression 987 997	expression
+E17	Gene_expression:T58 Theme:T21
+T59	Gene_expression 1022 1032	expression
+E18	Gene_expression:T59 Theme:T23
+T60	Gene_expression 1082 1092	expression
+E19	Gene_expression:T60 Theme:T25
+T61	Gene_expression 1106 1116	expression
+E20	Gene_expression:T61 Theme:T26
+M4	Negation E20
+T62	Gene_expression 1193 1207	overexpression
+T63	Positive_regulation 1193 1207	overexpression
+E21	Gene_expression:T62 Theme:T28
+E22	Positive_regulation:T63 Theme:E21
+T64	Gene_expression 1468 1478	expression
+E23	Gene_expression:T64 Theme:T32
+E24	Gene_expression:T64 Theme:T33
+T65	Gene_expression 1718 1731	overexpressed
+T66	Positive_regulation 1718 1731	overexpressed
+E25	Gene_expression:T65 Theme:T37
+E26	Positive_regulation:T66 Theme:E25
+T67	Regulation 1960 1970	alteration
+E27	Regulation:T67 Theme:E28
+T68	Metabolism 1986 1996	metabolism
+E28	Metabolism:T68 Theme:T41
+T69	Cell_transformation 2015 2039	malignant transformation
+E29	Cell_transformation:T69 

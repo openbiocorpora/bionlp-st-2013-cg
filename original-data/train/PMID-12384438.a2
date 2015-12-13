@@ -1,0 +1,89 @@
+*	Equiv T7 T8
+*	Equiv T9 T10
+T43	Positive_regulation 0 8	Enforced
+E1	Positive_regulation:T43 Theme:E2
+T44	Gene_expression 9 19	expression
+E2	Gene_expression:T44 Theme:T1
+T45	Regulation 70 77	affects
+E3	Regulation:T45 Cause:E2 Theme:E4
+T46	Development 99 112	morphogenesis
+E4	Development:T46 Theme:T2
+T47	Negative_regulation 117 125	inhibits
+E5	Negative_regulation:T47 Theme:E6 Cause:E2
+T48	Growth 132 138	growth
+E6	Growth:T48 Theme:T3
+T49	Breakdown 234 245	degradation
+E7	Breakdown:T49 Theme:T6
+T50	Remodeling 250 260	remodeling
+E8	Remodeling:T50 Theme:T6
+T51	Regulation 280 290	maintained
+E9	Regulation:T51 Cause:E11 Theme:E8
+E10	Regulation:T51 Cause:E11 Theme:E7
+T52	Binding 298 309	interaction
+E11	Binding:T52 Theme:T7 Theme:T9
+T53	Positive_regulation 313 322	activated
+E12	Positive_regulation:T53 Theme:T7
+T54	Positive_regulation 425 438	Up-regulation
+E13	Positive_regulation:T54 Theme:T11
+T55	Breakdown 477 488	degradation
+E14	Breakdown:T55 Theme:T12
+E15	Breakdown:T55 Theme:T13
+T56	Growth 565 571	growth
+E16	Growth:T56 Theme:T14
+T57	Metastasis 576 586	metastasis
+E17	Metastasis:T57 Theme:T14
+T58	Blood_vessel_development 616 628	angiogenesis
+E18	Blood_vessel_development:T58 AtLoc:T15
+T59	Negative_regulation 638 648	inhibition
+E19	Negative_regulation:T59 Theme:T16
+T60	Negative_regulation 676 684	restrict
+E20	Negative_regulation:T60 Cause:E19 Theme:E18
+E21	Negative_regulation:T60 Cause:E19 Theme:E17
+E22	Negative_regulation:T60 Cause:E19 Theme:E16
+T61	Positive_regulation 752 758	effect
+E23	Positive_regulation:T61 Theme:E24
+T62	Gene_expression 779 789	expression
+E24	Gene_expression:T62 Theme:T17
+T63	Negative_regulation 901 908	inhibit
+E25	Negative_regulation:T63 Cause:T21 Theme:E26
+M1	Speculation E25
+T64	Blood_vessel_development 909 921	angiogenesis
+E26	Blood_vessel_development:T64 
+T65	Growth 931 937	Growth
+E27	Growth:T65 Theme:T22
+T66	Negative_regulation 1058 1068	restricted
+E28	Negative_regulation:T66 Theme:E27
+T67	Gene_expression 1212 1226	overexpressing
+E29	Gene_expression:T67 Theme:T27
+T68	Development 1320 1326	formed
+E30	Development:T68 Theme:T31
+M2	Negation E30
+T69	Negative_regulation 1363 1372	decreased
+E31	Negative_regulation:T69 Theme:T32
+T70	Localization 1412 1423	recruitment
+E32	Localization:T70 Theme:T33
+T71	Negative_regulation 1473 1482	decreased
+E33	Negative_regulation:T71 Theme:E34 Cause:T35
+T72	Gene_expression 1483 1493	expression
+E34	Gene_expression:T72 Theme:T34
+T73	Gene_expression 1627 1641	overexpressing
+E35	Gene_expression:T73 Theme:T37
+T74	Gene_expression 1697 1711	overexpression
+E36	Gene_expression:T74 Theme:T39
+T75	Negative_regulation 1726 1733	inhibit
+E37	Negative_regulation:T75 Cause:E36 Theme:E39
+E38	Negative_regulation:T75 Theme:E40 Cause:E36
+T76	Blood_vessel_development 1734 1746	angiogenesis
+E39	Blood_vessel_development:T76 AtLoc:T40
+T77	Growth 1768 1774	growth
+E40	Growth:T77 Theme:T40
+T78	Blood_vessel_development 1793 1803	angiogenic
+E41	Blood_vessel_development:T78 
+T79	Negative_regulation 1804 1811	effects
+E42	Negative_regulation:T79 Cause:T41 Theme:E41
+T80	Regulation 1835 1843	mediated
+E43	Regulation:T80 Cause:E44 Theme:E42
+T81	Negative_regulation 1856 1866	inhibition
+E44	Negative_regulation:T81 Theme:E45
+T82	Development 1891 1904	morphogenesis
+E45	Development:T82 Theme:T42

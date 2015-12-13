@@ -1,0 +1,32 @@
+T1	Cancer 11 24	paraganglioma
+T2	Cancer 25 41	pheochromocytoma
+T3	Gene_or_gene_product 56 79	succinate dehydrogenase
+T4	Cellular_component 93 106	Mitochondrial
+T5	Gene_or_gene_product 107 117	complex II
+T6	Gene_or_gene_product 122 145	succinate dehydrogenase
+T7	Simple_chemical 195 213	tricarboxylic acid
+T8	Simple_chemical 215 218	TCA
+T9	Cellular_component 271 284	mitochondrial
+T10	Gene_or_gene_product 313 346	succinate dehydrogenase subunit A
+T11	Gene_or_gene_product 348 352	SDHA
+T12	Organism 392 400	patients
+T13	Cellular_component 418 431	mitochondrial
+T14	Gene_or_gene_product 507 530	succinate dehydrogenase
+T15	Gene_or_gene_product 541 545	SDHB
+T16	Gene_or_gene_product 547 551	SDHC
+T17	Gene_or_gene_product 556 560	SDHD
+T18	Organism 586 594	patients
+T19	Cancer 641 654	paraganglioma
+T20	Cancer 662 678	pheochromocytoma
+T21	Cancer 703 709	cancer
+T22	Organism 817 825	patients
+T23	Cancer 844 858	paragangliomas
+T24	Cancer 866 883	pheochromocytomas
+T25	Gene_or_gene_product 958 966	fumarase
+T26	Simple_chemical 976 979	TCA
+T27	Cancer 1040 1045	renal
+T28	Cancer 1047 1054	uterine
+T29	Cancer 1059 1075	cutaneous tumors
+T30	Simple_chemical 1118 1121	TCA
+T31	Cellular_component 1156 1168	mitochondria
+T32	Cancer 1172 1178	cancer

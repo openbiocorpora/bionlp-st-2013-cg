@@ -1,0 +1,23 @@
+T32	Cell_transformation 85 99	transformation
+E1	Cell_transformation:T32 
+T33	Planned_process 211 221	incubation
+E2	Planned_process:T33 Instrument:T7
+T34	Phosphorylation 866 881	phosphorylation
+E3	Phosphorylation:T34 Theme:T20
+E4	Phosphorylation:T34 Theme:T21
+T35	Phosphorylation 1127 1141	phosphorylated
+E5	Phosphorylation:T35 Theme:T22
+T36	Negative_regulation 1288 1298	inhibition
+E6	Negative_regulation:T36 Theme:E7
+T37	Phosphorylation 1306 1321	phosphorylation
+T38	Positive_regulation 1306 1321	phosphorylation
+E7	Phosphorylation:T37 Theme:T23
+E8	Positive_regulation:T38 Theme:E7 Cause:T24
+T39	Regulation 1595 1603	affected
+E9	Regulation:T39 Cause:T26 Theme:E10
+T40	Phosphorylation 1613 1628	phosphorylation
+E10	Phosphorylation:T40 Theme:T27
+T41	Planned_process 1703 1714	transformed
+E11	Planned_process:T41 Theme:T30
+T42	Phosphorylation 1739 1753	phosphorylated
+E12	Phosphorylation:T42 Theme:T27

@@ -1,0 +1,58 @@
+T1	Gene_or_gene_product 33 63	thyroid transcription factor-1
+T2	Cancer 109 114	tumor
+T3	Organism 125 133	patients
+T4	Organ 139 144	brain
+T5	Cancer 169 178	carcinoma
+T6	Cancer 280 292	solid tumors
+T7	Cancer 365 380	lung carcinomas
+T8	Cancer 446 457	lung cancer
+T9	Gene_or_gene_product 519 549	Thyroid transcription factor-1
+T10	Gene_or_gene_product 551 556	TTF-1
+T11	Cancer 574 594	lung adenocarcinomas
+T12	Cancer 599 617	thyroid carcinomas
+T13	Cancer 629 644	adenocarcinomas
+T14	Multi-tissue_structure 664 669	sites
+T15	Organism 675 683	patients
+T16	Cancer 689 704	adenocarcinomas
+T17	Organ 712 716	lung
+T18	Gene_or_gene_product 718 723	TTF-1
+T19	Cancer 780 791	lung cancer
+T20	Organ 799 803	lung
+T21	Gene_or_gene_product 840 845	TTF-1
+T22	Cancer 892 897	tumor
+T23	Cancer 908 923	adenocarcinomas
+T24	Organ 951 955	lung
+T25	Organ 1052 1057	brain
+T26	Tissue 1101 1114	Tissue blocks
+T27	Gene_or_gene_product 1183 1188	TTF-1
+T28	Cancer 1290 1295	tumor
+T29	Organism 1317 1325	patients
+T30	Cancer 1348 1358	carcinomas
+T31	Organ 1377 1382	brain
+T32	Organ 1399 1404	brain
+T33	Multi-tissue_structure 1425 1429	site
+T34	Cancer 1433 1438	tumor
+T35	Multi-tissue_structure 1517 1521	site
+T36	Cancer 1644 1658	lung carcinoma
+T37	Cancer 1693 1715	nonpulmonary carcinoma
+T38	Gene_or_gene_product 1717 1722	TTF-1
+T39	Cancer 1777 1792	lung carcinomas
+T40	Cancer 1834 1857	nonpulmonary carcinomas
+T41	Cancer 1861 1881	small-cell carcinoma
+T42	Organism_subdivision 1889 1904	sinonasal tract
+T43	Cancer 1927 1942	lung carcinomas
+T44	Gene_or_gene_product 1958 1963	TTF-1
+T45	Cancer 2002 2017	adenocarcinomas
+T46	Cancer 2035 2056	small-cell carcinomas
+T47	Cancer 2076 2097	large-cell carcinomas
+T48	Cancer 2121 2145	squamous cell carcinomas
+T49	Gene_or_gene_product 2147 2152	TTF-1
+T50	Organ 2203 2208	brain
+T51	Multi-tissue_structure 2238 2247	pulmonary
+T52	Multi-tissue_structure 2251 2268	nonpulmonary site
+T53	Cancer 2301 2316	adenocarcinomas
+T54	Cancer 2321 2342	large-cell carcinomas
+T55	Gene_or_gene_product 2344 2349	TTF-1
+T56	Cancer 2410 2415	tumor
+T57	Organism 2420 2428	patients
+T58	Organ 2445 2450	brain

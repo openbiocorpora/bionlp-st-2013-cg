@@ -1,0 +1,36 @@
+T1	Gene_or_gene_product 0 6	Brick1
+T2	Gene_or_gene_product 36 41	actin
+T3	Cellular_component 42 54	cytoskeleton
+T4	Developing_anatomical_structure 68 77	embryonic
+T5	Cell 94 98	cell
+T6	Gene_or_gene_product 116 122	Brick1
+T7	Gene_or_gene_product 124 128	Brk1
+T8	Gene_or_gene_product 167 171	Wave
+T9	Gene_or_gene_product 172 176	Scar
+T10	Gene_or_gene_product 224 229	actin
+T11	Cellular_component 230 236	fibers
+T12	Gene_or_gene_product 264 268	Brk1
+T13	Organism 340 348	patients
+T14	Gene_or_gene_product 368 372	BRK1
+T15	Cancer 419 425	tumors
+T16	Gene_or_gene_product 483 487	Wave
+T17	Cancer 538 556	epithelial cancers
+T18	Gene_or_gene_product 599 603	Brk1
+T19	Gene_or_gene_product 624 629	actin
+T20	Cellular_component 630 642	stress fiber
+T21	Gene_or_gene_product 657 665	vinculin
+T22	Gene_or_gene_product 691 697	Arp2/3
+T23	Gene_or_gene_product 702 706	Wave
+T24	Cell 723 731	cellular
+T25	Gene_or_gene_product 745 749	Brk1
+T26	Cell 766 770	cell
+T27	Cell 789 793	cell
+T28	Gene_or_gene_product 836 840	Brk1
+T29	Cell 922 948	renal cell carcinoma cells
+T30	Cell 969 979	tumor cell
+T31	Gene_or_gene_product 1016 1020	Brk1
+T32	Developing_anatomical_structure 1052 1058	embryo
+T33	Gene_or_gene_product 1136 1141	actin
+T34	Gene_or_gene_product 1188 1192	BRK1
+T35	Cancer 1228 1233	tumor
+T36	Cell 1300 1305	cells

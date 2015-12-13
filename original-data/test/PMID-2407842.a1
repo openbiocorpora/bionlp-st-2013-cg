@@ -1,0 +1,40 @@
+T1	Simple_chemical 15 27	carbohydrate
+T2	Cancer 42 57	canine lymphoma
+T3	Organism_substance 89 102	blood samples
+T4	Organism 125 129	dogs
+T5	Cancer 156 164	lymphoma
+T6	Multi-tissue_structure 223 234	intravenous
+T7	Simple_chemical 260 268	dextrose
+T8	Organism_substance 270 277	Samples
+T9	Simple_chemical 295 302	glucose
+T10	Simple_chemical 304 311	lactate
+T11	Gene_or_gene_product 317 324	insulin
+T12	Organism 384 388	dogs
+T13	Simple_chemical 439 447	dextrose
+T14	Organism 459 463	Dogs
+T15	Cancer 469 477	lymphoma
+T16	Simple_chemical 490 497	glucose
+T17	Simple_chemical 544 551	Lactate
+T18	Simple_chemical 653 660	glucose
+T19	Organism 679 683	dogs
+T20	Cancer 689 697	lymphoma
+T21	Simple_chemical 735 742	lactate
+T22	Simple_chemical 810 817	glucose
+T23	Organism 862 866	dogs
+T24	Cancer 872 880	lymphoma
+T25	Gene_or_gene_product 894 901	Insulin
+T26	Simple_chemical 1034 1041	glucose
+T27	Organism 1060 1064	dogs
+T28	Cancer 1070 1078	lymphoma
+T29	Gene_or_gene_product 1088 1095	insulin
+T30	Simple_chemical 1155 1162	glucose
+T31	Organism 1213 1217	dogs
+T32	Cancer 1223 1231	lymphoma
+T33	Simple_chemical 1268 1280	carbohydrate
+T34	Organism 1306 1310	dogs
+T35	Cancer 1316 1324	lymphoma
+T36	Organism 1379 1393	human patients
+T37	Organism_substance 1409 1424	cancer cachexia
+T38	Organism 1432 1438	canine
+T39	Cancer 1439 1447	lymphoma
+T40	Organism_substance 1519 1534	cancer cachexia

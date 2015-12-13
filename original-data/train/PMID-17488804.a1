@@ -1,0 +1,64 @@
+T1	Simple_chemical 0 8	Caffeine
+T2	Simple_chemical 18 27	adenosine
+T3	Gene_or_gene_product 52 83	hypoxia-inducible factor-1alpha
+T4	Gene_or_gene_product 85 119	vascular endothelial growth factor
+T5	Gene_or_gene_product 125 138	interleukin-8
+T6	Organism 161 166	human
+T7	Cell 167 185	colon cancer cells
+T8	Cancer 258 275	colorectal cancer
+T9	Simple_chemical 343 358	methylxanthines
+T10	Simple_chemical 368 376	caffeine
+T11	Gene_or_gene_product 395 429	vascular endothelial growth factor
+T12	Gene_or_gene_product 431 435	VEGF
+T13	Gene_or_gene_product 441 454	interleukin-8
+T14	Gene_or_gene_product 456 460	IL-8
+T15	Cancer 489 494	tumor
+T16	Gene_or_gene_product 517 543	hypoxia-inducible factor-1
+T17	Gene_or_gene_product 545 550	HIF-1
+T18	Simple_chemical 667 675	caffeine
+T19	Gene_or_gene_product 679 684	HIF-1
+T20	Gene_or_gene_product 713 717	VEGF
+T21	Gene_or_gene_product 722 726	IL-8
+T22	Organism 745 750	human
+T23	Cell 751 778	colon cancer cell line HT29
+T24	Simple_chemical 827 835	caffeine
+T25	Simple_chemical 859 868	adenosine
+T26	Gene_or_gene_product 877 887	HIF-1alpha
+T27	Cell 912 924	cancer cells
+T28	Gene_or_gene_product 939 949	HIF-1alpha
+T29	Gene_or_gene_product 954 958	VEGF
+T30	Gene_or_gene_product 981 1002	A3 adenosine receptor
+T31	Gene_or_gene_product 1039 1043	IL-8
+T32	Gene_or_gene_product 1065 1068	A2B
+T33	Cell 1094 1099	cells
+T34	Simple_chemical 1105 1113	caffeine
+T35	Simple_chemical 1136 1145	adenosine
+T36	Gene_or_gene_product 1154 1158	VEGF
+T37	Gene_or_gene_product 1181 1185	VEGF
+T38	Gene_or_gene_product 1190 1194	IL-8
+T39	Simple_chemical 1224 1232	caffeine
+T40	Gene_or_gene_product 1272 1311	extracellular signal-regulated kinase 1
+T41	Gene_or_gene_product 1312 1313	2
+T42	Gene_or_gene_product 1315 1319	ERK1
+T43	Gene_or_gene_product 1320 1321	2
+T44	Gene_or_gene_product 1324 1327	p38
+T45	Gene_or_gene_product 1333 1336	Akt
+T46	Simple_chemical 1370 1379	adenosine
+T47	Gene_or_gene_product 1388 1398	HIF-1alpha
+T48	Gene_or_gene_product 1413 1417	VEGF
+T49	Gene_or_gene_product 1450 1454	VEGF
+T50	Gene_or_gene_product 1459 1463	IL-8
+T51	Simple_chemical 1533 1541	caffeine
+T52	Gene_or_gene_product 1574 1585	A3 receptor
+T53	Cell 1597 1601	cell
+T54	Cell 1615 1633	colon cancer cells
+T55	Cell 1667 1678	colon cells
+T56	Simple_chemical 1695 1704	adenosine
+T57	Cell 1722 1759	human umbilical vein endothelial cell
+T58	Simple_chemical 1804 1813	adenosine
+T59	Cell 1846 1864	colon cancer cells
+T60	Gene_or_gene_product 1871 1881	HIF-1alpha
+T61	Gene_or_gene_product 1882 1886	VEGF
+T62	Gene_or_gene_product 1887 1891	IL-8
+T63	Simple_chemical 1921 1929	caffeine
+T64	Cell 1959 1976	colon cancer cell

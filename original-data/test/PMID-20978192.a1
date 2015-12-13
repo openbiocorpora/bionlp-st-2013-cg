@@ -1,0 +1,37 @@
+T1	Gene_or_gene_product 46 64	fumarate-hydratase
+T2	Cancer 133 183	Hereditary leiomyomatosis and renal cell carcinoma
+T3	Cancer 185 190	HLRCC
+T4	Gene_or_gene_product 241 259	fumarate hydratase
+T5	Gene_or_gene_product 261 263	FH
+T6	Gene_or_gene_product 325 355	hypoxia-inducible factor-alpha
+T7	Gene_or_gene_product 357 366	HIF-alpha
+T8	Simple_chemical 371 379	fumarate
+T9	Cancer 425 430	HLRCC
+T10	Gene_or_gene_product 489 491	FH
+T11	Cell 594 640	primary mouse embryonic fibroblast (MEF) lines
+T12	Organism 646 664	Fh1-deficient mice
+T13	Gene_or_gene_product 646 649	Fh1
+T14	Cell 686 690	MEFs
+T15	Gene_or_gene_product 703 713	Hif-1alpha
+T16	Gene_or_gene_product 718 721	HIF
+T17	Gene_or_gene_product 759 761	FH
+T18	Cell 826 830	MEFs
+T19	Simple_chemical 897 904	lactate
+T20	Gene_or_gene_product 949 967	glycolytic enzymes
+T21	Pathological_formation 1028 1067	Fh1-deficient benign murine renal cysts
+T22	Gene_or_gene_product 1028 1031	Fh1
+T23	Organism 1084 1089	human
+T24	Cancer 1090 1124	HLRCC-related renal cell carcinoma
+T25	Gene_or_gene_product 1194 1203	HIF-alpha
+T26	Tissue 1341 1361	FH-deficient tissues
+T27	Gene_or_gene_product 1341 1343	FH
+T28	Organism 1381 1387	murine
+T29	Tissue 1397 1424	Fh1-deficient smooth muscle
+T30	Gene_or_gene_product 1397 1400	Fh1
+T31	Gene_or_gene_product 1537 1541	PKM2
+T32	Gene_or_gene_product 1546 1550	LDHA
+T33	Simple_chemical 1589 1595	herein
+T34	Gene_or_gene_product 1616 1618	FH
+T35	Cell 1638 1643	cells
+T36	Gene_or_gene_product 1825 1827	FH
+T37	Cancer 1966 1972	tumors

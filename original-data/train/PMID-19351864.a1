@@ -1,0 +1,50 @@
+T1	Gene_or_gene_product 0 4	PTTG
+T2	Multi-tissue_structure 29 39	lymph node
+T3	Organism 54 59	human
+T4	Cancer 60 94	esophageal squamous cell carcinoma
+T5	Organism 97 102	Human
+T6	Gene_or_gene_product 103 136	pituitary tumor transforming gene
+T7	Gene_or_gene_product 138 142	PTTG
+T8	Cancer 198 204	tumors
+T9	Gene_or_gene_product 277 281	PTTG
+T10	Cancer 328 362	esophageal squamous cell carcinoma
+T11	Cancer 364 368	ESCC
+T12	Tissue 370 383	tumor tissues
+T13	Gene_or_gene_product 410 414	PTTG
+T14	Multi-tissue_structure 446 456	lymph node
+T15	Gene_or_gene_product 488 492	PTTG
+T16	Cell 528 542	ESCC cell line
+T17	Cell 544 550	EC9706
+T18	Cell 571 575	cell
+T19	Multi-tissue_structure 620 630	lymph node
+T20	Gene_or_gene_product 655 659	PTTG
+T21	Cell 690 694	cell
+T22	Cell 712 726	PTTG-HA/EC9706
+T23	Gene_or_gene_product 712 716	PTTG
+T24	Cell 731 744	KYSE150 cells
+T25	Gene_or_gene_product 803 807	PTTG
+T26	Gene_or_gene_product 821 827	S100A4
+T27	Gene_or_gene_product 832 842	galectin-1
+T28	Tissue 872 878	tissue
+T29	Gene_or_gene_product 892 911	metalloproteinase-2
+T30	Gene_or_gene_product 944 948	PTTG
+T31	Gene_or_gene_product 957 963	S100A4
+T32	Gene_or_gene_product 968 978	galectin-1
+T33	Gene_or_gene_product 1078 1088	galectin-1
+T34	Cell 1121 1140	PTTG-HA/EC9706 cell
+T35	Gene_or_gene_product 1121 1125	PTTG
+T36	Gene_or_gene_product 1162 1166	PTTG
+T37	Gene_or_gene_product 1209 1214	c-Myc
+T38	Cell 1237 1249	EC9706 cells
+T39	Gene_or_gene_product 1302 1312	galectin-1
+T40	Cellular_component 1323 1332	Chromatin
+T41	Gene_or_gene_product 1387 1392	c-Myc
+T42	Gene_or_gene_product 1404 1414	galectin-1
+T43	Gene_or_gene_product 1425 1429	PTTG
+T44	Gene_or_gene_product 1438 1448	galectin-1
+T45	Gene_or_gene_product 1497 1502	c-Myc
+T46	Gene_or_gene_product 1543 1548	c-Myc
+T47	Gene_or_gene_product 1622 1626	PTTG
+T48	Cancer 1655 1660	tumor
+T49	Gene_or_gene_product 1694 1698	PTTG
+T50	Cell 1778 1782	cell

@@ -1,0 +1,42 @@
+*	Equiv T7 T8
+*	Equiv T12 T13
+T38	Metastasis 115 125	metastasis
+E1	Metastasis:T38 ToLoc:T3 Theme:T5
+T39	Localization 137 147	associated
+E2	Localization:T39 Theme:T5 AtLoc:T4
+T40	Blood_vessel_development 188 206	Neovascularization
+E3	Blood_vessel_development:T40 
+T41	Regulation 220 227	effects
+E4	Regulation:T41 Theme:E6 Cause:E3
+E5	Regulation:T41 Theme:E7 Cause:E3
+T42	Growth 237 243	growth
+E6	Growth:T42 Theme:T6
+T43	Metastasis 248 258	metastasis
+E7	Metastasis:T43 Theme:T6
+T44	Regulation 320 324	acts
+E8	Regulation:T44 Cause:T7 Theme:T9
+T45	Regulation 363 368	roles
+E9	Regulation:T45 Theme:E11 Cause:E10
+T46	Gene_expression 413 423	expression
+E10	Gene_expression:T46 Theme:T11
+T47	Development 431 442	progression
+E11	Development:T47 Theme:T12
+T48	Gene_expression 572 582	expression
+E12	Gene_expression:T48 Theme:T14
+T49	Localization 618 628	associated
+E13	Localization:T49 AtLoc:T16 Theme:T17
+T50	Metastasis 1208 1218	metastasis
+E14	Metastasis:T50 ToLoc:T29
+T51	Death 1334 1342	survival
+E15	Death:T51 Theme:T30
+M1	Negation E15
+T52	Development 1600 1611	progression
+E16	Development:T52 Theme:T36
+T53	Blood_vessel_development 1670 1682	angiogenesis
+E17	Blood_vessel_development:T53 
+T54	Planned_process 1683 1690	therapy
+E18	Planned_process:T54 Theme:E17
+T55	Negative_regulation 1712 1720	reducing
+E19	Negative_regulation:T55 Theme:E20 Cause:E18
+T56	Metastasis 1730 1740	metastasis
+E20	Metastasis:T56 

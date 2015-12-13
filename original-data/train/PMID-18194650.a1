@@ -1,0 +1,34 @@
+T1	Gene_or_gene_product 0 14	Angiopoietin-1
+T2	Gene_or_gene_product 24 28	VEGF
+T3	Tissue 37 48	endothelial
+T4	Gene_or_gene_product 78 81	Src
+T5	Gene_or_gene_product 90 94	mDia
+T6	Gene_or_gene_product 96 130	Vascular endothelial growth factor
+T7	Gene_or_gene_product 132 136	VEGF
+T8	Gene_or_gene_product 142 156	Angiopoietin 1
+T9	Gene_or_gene_product 158 162	Ang1
+T10	Gene_or_gene_product 216 220	VEGF
+T11	Multi-tissue_structure 228 236	vascular
+T12	Gene_or_gene_product 251 255	Ang1
+T13	Multi-tissue_structure 267 280	blood vessels
+T14	Gene_or_gene_product 304 308	VEGF
+T15	Organism_substance 317 323	plasma
+T16	Multi-tissue_structure 341 349	vascular
+T17	Gene_or_gene_product 386 390	Ang1
+T18	Gene_or_gene_product 438 442	Ang1
+T19	Gene_or_gene_product 464 468	VEGF
+T20	Gene_or_gene_product 549 560	VE-cadherin
+T21	Tissue 583 602	endothelial barrier
+T22	Gene_or_gene_product 613 617	Ang1
+T23	Gene_or_gene_product 645 648	Src
+T24	Gene_or_gene_product 652 656	VEGF
+T25	Gene_or_gene_product 709 713	VEGF
+T26	Gene_or_gene_product 727 738	VE-cadherin
+T27	Gene_or_gene_product 764 768	Ang1
+T28	Gene_or_gene_product 796 800	mDia
+T29	Gene_or_gene_product 809 813	RhoA
+T30	Gene_or_gene_product 847 851	mDia
+T31	Gene_or_gene_product 857 860	Src
+T32	Gene_or_gene_product 887 891	VEGF
+T33	Cell 968 979	endothelial
+T34	Immaterial_anatomical_entity 1003 1015	paracellular

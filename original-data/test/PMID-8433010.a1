@@ -1,0 +1,47 @@
+T1	Cancer 14 22	tumorous
+T2	Organism 37 45	goldfish
+T3	Cell 46 59	erythrophores
+T4	Gene_or_gene_product 77 80	ras
+T5	Gene_or_gene_product 82 85	src
+T6	Gene_or_gene_product 91 94	myc
+T7	Cell 144 157	transformants
+T8	Organism 174 182	goldfish
+T9	Cell 183 196	erythrophores
+T10	Organ 215 219	skin
+T11	Tissue 223 229	tissue
+T12	Cell 311 320	monolayer
+T13	Gene_or_gene_product 334 342	v-Ha-ras
+T14	Gene_or_gene_product 346 351	v-src
+T15	Gene_or_gene_product 398 403	v-myc
+T16	Simple_chemical 416 433	calcium phosphate
+T17	Cellular_component 434 437	DNA
+T18	Cell 491 504	transformants
+T19	Cell 519 532	chromatoblast
+T20	Cancer 550 558	tumorous
+T21	Cell 637 646	monolayer
+T22	Cell 658 664	colony
+T23	Cell 796 809	erythrophores
+T24	Cell 837 850	transformants
+T25	Cell 879 892	erythrophores
+T26	Simple_chemical 1012 1021	pteridine
+T27	Cell 1044 1057	transformants
+T28	Cell 1078 1090	melanophores
+T29	Cell 1094 1105	iridophores
+T30	Tissue 1115 1127	neural crest
+T31	Organism 1151 1159	goldfish
+T32	Cell 1160 1180	erythrophoroma cells
+T33	Cell 1255 1268	transformants
+T34	Cellular_component 1280 1283	DNA
+T35	Cell 1361 1366	cells
+T36	Gene_or_gene_product 1384 1387	ras
+T37	Gene_or_gene_product 1391 1394	src
+T38	Gene_or_gene_product 1415 1418	myc
+T39	Gene_or_gene_product 1541 1544	ras
+T40	Gene_or_gene_product 1548 1551	src
+T41	Cell 1557 1566	cell line
+T42	Cell 1568 1573	ESM-1
+T43	Cell 1592 1605	erythrophores
+T44	Gene_or_gene_product 1623 1626	src
+T45	Gene_or_gene_product 1627 1630	myc
+T46	Cell 1762 1771	cell line
+T47	Cell 1808 1828	erythrophoroma cells

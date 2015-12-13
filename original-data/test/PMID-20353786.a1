@@ -1,0 +1,24 @@
+T1	Gene_or_gene_product 0 40	p24 family type 1 transmembrane proteins
+T2	Gene_or_gene_product 58 65	insulin
+T3	Cell 96 117	pancreatic beta-cells
+T4	Gene_or_gene_product 123 141	p24 protein family
+T5	Gene_or_gene_product 257 269	p24 proteins
+T6	Gene_or_gene_product 273 280	insulin
+T7	Cell 325 346	insulinoma cell lines
+T8	Organism 351 354	rat
+T9	Multi-tissue_structure 355 361	islets
+T10	Gene_or_gene_product 411 418	insulin
+T11	Gene_or_gene_product 447 456	p24delta1
+T12	Gene_or_gene_product 461 469	p24beta1
+T13	Gene_or_gene_product 485 494	p24delta1
+T14	Cell 498 519	insulinoma cell lines
+T15	Simple_chemical 605 612	glucose
+T16	Gene_or_gene_product 624 631	insulin
+T17	Cell 659 667	cellular
+T18	Gene_or_gene_product 668 675	insulin
+T19	Gene_or_gene_product 696 706	proinsulin
+T20	Gene_or_gene_product 776 778	ER
+T21	Gene_or_gene_product 814 823	p24delta1
+T22	Gene_or_gene_product 843 862	p24 family proteins
+T23	Gene_or_gene_product 887 894	insulin
+T24	Cell 936 957	pancreatic beta-cells

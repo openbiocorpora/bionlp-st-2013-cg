@@ -1,0 +1,87 @@
+*	Equiv T1 T3
+*	Equiv T2 T4
+*	Equiv T7 T6
+*	Equiv T8 T10
+*	Equiv T11 T12
+T52	Metastasis 89 99	metastasis
+E1	Metastasis:T52 
+T53	Positive_regulation 265 271	induce
+E2	Positive_regulation:T53 Cause:T8 Theme:E3
+T54	Gene_expression 276 286	expression
+E3	Gene_expression:T54 Theme:T11
+T55	Metastasis 410 420	metastasis
+E4	Metastasis:T55 
+T56	Gene_expression 474 484	Expression
+E5	Gene_expression:T56 Theme:T16
+M1	Speculation E5
+T57	Planned_process 530 538	cultured
+E6	Planned_process:T57 Theme:T18
+T58	Cell_differentiation 560 574	differentiated
+E7	Cell_differentiation:T58 Theme:T21
+T59	Planned_process 621 632	transfected
+E8	Planned_process:T59 Theme:T23
+T60	Gene_expression 657 667	expression
+E9	Gene_expression:T60 Theme:T24
+T61	Binding 743 751	adhesion
+E10	Binding:T61 Theme:T25 Theme2:T26
+T62	Binding 780 788	adhesive
+E11	Binding:T62 Theme:T27
+T63	Regulation 819 826	effects
+E12	Regulation:T63 Cause:T28 Theme:E14
+E13	Regulation:T63 Cause:T28 Theme:E15
+M2	Speculation E12
+M3	Speculation E13
+T64	Localization 842 850	invasion
+E14	Localization:T64 Theme:T29
+T65	Localization 855 864	migration
+E15	Localization:T65 Theme:T29
+T66	Gene_expression 938 947	expressed
+E16	Gene_expression:T66 Theme:T30
+T67	Gene_expression 1038 1048	expression
+E17	Gene_expression:T67 Theme:T32
+T68	Positive_regulation 1134 1143	increased
+E18	Positive_regulation:T68 Theme:E19
+T69	Gene_expression 1144 1154	expression
+E19	Gene_expression:T69 Theme:T35
+T70	Binding 1234 1242	adhesion
+E20	Binding:T70 Theme:T37 Theme2:T38
+T71	Binding 1265 1273	adhesive
+E21	Binding:T71 Theme:T39 Theme2:T40
+E22	Binding:T71 Theme:T41 Theme2:T40
+T72	Localization 1469 1477	invasion
+E23	Localization:T72 Theme:T42
+E24	Localization:T72 Theme:T43
+T73	Localization 1482 1491	migration
+E25	Localization:T73 Theme:T42
+E26	Localization:T73 Theme:T43
+T74	Planned_process 1572 1584	transfection
+E27	Planned_process:T74 Instrument:T44 Theme:T46
+T75	Positive_regulation 1597 1605	increase
+E28	Positive_regulation:T75 Cause:E27 Theme:E29
+T76	Gene_expression 1610 1620	expression
+E29	Gene_expression:T76 Theme:T45
+T77	Binding 1658 1666	adhesion
+E30	Binding:T77 Theme:T47
+T78	Localization 1668 1677	migration
+E31	Localization:T78 Theme:T47
+T79	Localization 1683 1691	invasion
+E32	Localization:T79 Theme:T47
+T80	Positive_regulation 1710 1717	induced
+E33	Positive_regulation:T80 Cause:T48 Theme:E30
+E34	Positive_regulation:T80 Cause:T48 Theme:E31
+E35	Positive_regulation:T80 Cause:T48 Theme:E32
+T81	Regulation 1765 1769	role
+E36	Regulation:T81 Cause:T49 Theme:E40
+E37	Regulation:T81 Cause:T49 Theme:E41
+M4	Speculation E36
+M5	Speculation E37
+T82	Positive_regulation 1782 1789	induced
+E38	Positive_regulation:T82 Cause:T50 Theme:E40
+E39	Positive_regulation:T82 Cause:T50 Theme:E41
+T83	Positive_regulation 1790 1802	acceleration
+E40	Positive_regulation:T83 Theme:E42
+E41	Positive_regulation:T83 Theme:E43
+T84	Localization 1806 1814	invasion
+E42	Localization:T84 Theme:T51
+T85	Metastasis 1819 1829	metastasis
+E43	Metastasis:T85 

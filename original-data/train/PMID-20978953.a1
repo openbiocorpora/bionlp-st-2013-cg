@@ -1,0 +1,24 @@
+T1	Cell 8 30	stromal myofibroblasts
+T2	Cancer 43 56	breast cancer
+T3	Cell 58 65	stromal
+T4	Gene_or_gene_product 80 105	alpha-smooth muscle actin
+T5	Cancer 250 272	epithelial solid tumor
+T6	Cancer 344 357	breast cancer
+T7	Cell 422 436	myofibroblasts
+T8	Cancer 651 664	breast cancer
+T9	Organism 697 705	patients
+T10	Cancer 732 754	invasive breast cancer
+T11	Gene_or_gene_product 788 797	alpha-SMA
+T12	Cell 813 827	myofibroblasts
+T13	Cancer 844 857	breast cancer
+T14	Gene_or_gene_product 886 895	alpha-SMA
+T15	Gene_or_gene_product 1071 1080	alpha-SMA
+T16	Gene_or_gene_product 1205 1214	alpha-SMA
+T17	Organism 1286 1294	patients
+T18	Gene_or_gene_product 1343 1352	alpha-SMA
+T19	Gene_or_gene_product 1422 1431	alpha-SMA
+T20	Gene_or_gene_product 1540 1549	alpha-SMA
+T21	Multi-tissue_structure 1554 1564	lymph node
+T22	Cell 1653 1667	Myofibroblasts
+T23	Organism 1783 1791	patients
+T24	Cancer 1797 1819	invasive breast cancer

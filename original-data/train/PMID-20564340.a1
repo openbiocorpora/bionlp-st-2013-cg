@@ -1,0 +1,60 @@
+T1	Simple_chemical 0 7	Betulin
+T2	Cellular_component 16 29	mitochondrial
+T3	Gene_or_gene_product 30 42	cytochrome c
+T4	Organism 75 80	human
+T5	Cell 81 93	cancer cells
+T6	Simple_chemical 116 123	betulin
+T7	Cancer 164 170	cancer
+T8	Organism 184 189	human
+T9	Cell 190 202	cancer cells
+T10	Simple_chemical 228 235	betulin
+T11	Cell 260 264	cell
+T12	Cell 278 305	cervix carcinoma HeLa cells
+T13	Cell 307 327	hepatoma HepG2 cells
+T14	Cell 329 359	lung adenocarcinoma A549 cells
+T15	Cell 365 390	breast cancer MCF-7 cells
+T16	Simple_chemical 449 456	betulin
+T17	Cancer 485 491	cancer
+T18	Organism 510 515	human
+T19	Cell 516 528	cancer cells
+T20	Cell 537 560	hepatoma SK-HEP-1 cells
+T21	Cell 562 585	prostate carcinoma PC-3
+T22	Cell 591 614	lung carcinoma NCI-H460
+T23	Organism 705 710	human
+T24	Cell 711 737	erythroleukemia K562 cells
+T25	Cancer 809 815	cancer
+T26	Simple_chemical 828 835	betulin
+T27	Cell 843 853	HeLa cells
+T28	Simple_chemical 880 887	Betulin
+T29	Cell 921 925	cell
+T30	Cellular_component 987 995	membrane
+T31	Amino_acid 996 1014	phosphatidylserine
+T32	Cellular_component 1030 1037	nuclear
+T33	Cellular_component 1070 1084	apoptotic body
+T34	Cellular_component 1150 1172	mitochondrial membrane
+T35	Cellular_component 1202 1215	mitochondrial
+T36	Gene_or_gene_product 1216 1228	cytochrome c
+T37	Simple_chemical 1278 1285	betulin
+T38	Simple_chemical 1287 1294	Betulin
+T39	Simple_chemical 1327 1341	betulinic acid
+T40	Cellular_component 1368 1381	mitochondrial
+T41	Gene_or_gene_product 1382 1394	cytochrome c
+T42	Cellular_component 1415 1427	mitochondria
+T43	Gene_or_gene_product 1442 1445	Bax
+T44	Gene_or_gene_product 1450 1453	Bak
+T45	Cellular_component 1487 1499	mitochondria
+T46	Simple_chemical 1513 1520	betulin
+T47	Gene_or_gene_product 1561 1570	caspase-9
+T48	Gene_or_gene_product 1575 1584	caspase-3
+T49	Gene_or_gene_product 1585 1587	-7
+T50	Gene_or_gene_product 1608 1635	poly(ADP-ribose) polymerase
+T51	Gene_or_gene_product 1637 1641	PARP
+T52	Cellular_component 1670 1683	mitochondrial
+T53	Gene_or_gene_product 1739 1748	caspase-9
+T54	Gene_or_gene_product 1750 1753	Bax
+T55	Gene_or_gene_product 1758 1761	Bak
+T56	Gene_or_gene_product 1791 1795	PARP
+T57	Gene_or_gene_product 1809 1818	caspase-3
+T58	Simple_chemical 1886 1893	betulin
+T59	Organism 1916 1921	human
+T60	Cell 1922 1934	cancer cells

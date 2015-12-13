@@ -1,0 +1,53 @@
+T53	Regulation 81 85	role
+E1	Regulation:T53 Cause:T1 Theme:E2
+M1	Speculation E1
+T54	Binding 100 111	interaction
+E2	Binding:T54 Theme:T5
+T55	Localization 141 149	detected
+E3	Localization:T55 Theme:T6 AtLoc:T7
+T56	Gene_expression 488 497	expressed
+E4	Gene_expression:T56 Theme:T19
+T57	Gene_expression 590 598	negative
+E5	Gene_expression:T57 Theme:T19
+M2	Negation E5
+T58	Cell_differentiation 718 732	differentiated
+E6	Cell_differentiation:T58 AtLoc:T23
+E7	Cell_differentiation:T58 AtLoc:T24
+T59	Gene_expression 973 982	expressed
+E8	Gene_expression:T59 Theme:T30
+T60	Localization 1053 1062	localized
+E9	Localization:T60 Theme:T31 AtLoc:T33
+T61	Binding 1161 1168	binding
+E10	Binding:T61 Theme:T34 Theme:T31
+E11	Binding:T61 Theme:T35 Theme:T31
+E12	Binding:T61 Theme:T36 Theme:T31
+T62	Gene_expression 1247 1257	expression
+E13	Gene_expression:T62 Theme:T37
+T63	Positive_regulation 1423 1432	increased
+E14	Positive_regulation:T63 Theme:E15
+T64	Gene_expression 1455 1465	expression
+E15	Gene_expression:T64 Theme:T44
+T65	Carcinogenesis 1533 1551	neoplastic process
+E16	Carcinogenesis:T65 
+T66	Regulation 1629 1651	play a regulatory role
+E17	Regulation:T66 Theme:E19 Cause:T47
+E18	Regulation:T66 Theme:E19 Cause:T46
+M3	Speculation E17
+M4	Speculation E18
+T67	Binding 1679 1691	interactions
+E19	Binding:T67 Theme:T48
+T68	Regulation 1702 1711	involving
+E20	Regulation:T68 Cause:T47 Theme:E24
+E21	Regulation:T68 Cause:T46 Theme:E24
+E22	Regulation:T68 Cause:T47 Theme:E25
+E23	Regulation:T68 Cause:T46 Theme:E25
+M5	Speculation E20
+M6	Speculation E21
+M7	Speculation E22
+M8	Speculation E23
+T69	Development 1725 1735	generation
+E24	Development:T69 Theme:T49
+T70	Blood_vessel_development 1756 1768	angiogenesis
+E25	Blood_vessel_development:T70 
+T71	Cell_differentiation 1816 1830	differentiated
+E26	Cell_differentiation:T71 AtLoc:T52

@@ -1,0 +1,49 @@
+T33	Negative_regulation 0 8	Impaired
+E1	Negative_regulation:T33 Theme:E2
+T34	Cell_death 9 18	apoptosis
+E2	Cell_death:T34 Theme:T1
+T35	Regulation 53 63	associated
+E3	Regulation:T35 Cause:E1 Theme:E4
+T36	Growth 77 90	proliferation
+E4	Growth:T36 Theme:T2
+T37	Negative_regulation 546 553	failure
+E5	Negative_regulation:T37 Theme:E6
+T38	Cell_death 574 583	apoptosis
+E6	Cell_death:T38 Theme:T10
+T39	Positive_regulation 590 594	lead
+E7	Positive_regulation:T39 Cause:E5 Theme:E8
+M1	Speculation E7
+T40	Growth 606 619	proliferation
+E8	Growth:T40 Theme:T11
+T41	Blood_vessel_development 717 729	angiogenesis
+E9	Blood_vessel_development:T41 
+T42	Cell_death 785 794	apoptotic
+E10	Cell_death:T42 
+T43	Cell_death 802 811	apoptotic
+E11	Cell_death:T43 
+T44	Blood_vessel_development 1105 1120	neoangiogenesis
+E12	Blood_vessel_development:T44 
+T45	Cell_death 1159 1168	apoptotic
+E13	Cell_death:T45 
+T46	Gene_expression 1194 1203	expressed
+E14	Gene_expression:T46 Theme:T20
+T47	Growth 1358 1371	proliferation
+E15	Growth:T47 Theme:T23
+T48	Cell_death 1544 1553	apoptotic
+E16	Cell_death:T48 
+T49	Positive_regulation 1671 1683	upregulation
+E17	Positive_regulation:T49 Theme:T25
+E18	Positive_regulation:T49 Theme:E19
+T50	Development 1743 1752	formation
+E19	Development:T50 Theme:T26
+T51	Negative_regulation 1886 1894	impaired
+E20	Negative_regulation:T51 Theme:E22
+E21	Negative_regulation:T51 Theme:E23
+T52	Cell_death 1912 1921	apoptosis
+E22	Cell_death:T52 Theme:T28
+T53	Pathway 1926 1949	antiapoptotic signaling
+E23	Pathway:T53 
+T54	Cell_death 1930 1939	apoptotic
+E24	Cell_death:T54 
+T55	Growth 2030 2043	proliferation
+E25	Growth:T55 Theme:T30

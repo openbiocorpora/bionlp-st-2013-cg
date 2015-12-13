@@ -1,0 +1,82 @@
+*	Equiv T36 T37
+T48	Metastasis 0 10	Metastasis
+E1	Metastasis:T48 
+T49	Negative_regulation 34 42	disrupts
+E2	Negative_regulation:T49 Theme:E3 Cause:T1
+T50	Binding 53 61	contacts
+E3	Binding:T50 Theme:T2 Theme2:T3
+T51	Positive_regulation 66 73	induces
+E4	Positive_regulation:T51 Theme:E5
+T52	Localization 83 91	motility
+E5	Localization:T52 Theme:T4
+T53	Gene_expression 215 224	expressed
+E6	Gene_expression:T53 Theme:T6
+T54	Metastasis 283 293	metastasis
+E7	Metastasis:T54 Theme:T10
+T55	Gene_expression 360 370	expression
+E8	Gene_expression:T55 Theme:T11
+T56	Localization 440 446	spread
+E9	Localization:T56 Theme:T12
+T57	Planned_process 595 607	Transfection
+E10	Planned_process:T57 Instrument:T19 Theme:T20
+T58	Regulation 654 660	alters
+E11	Regulation:T58 Cause:E10 Theme:E13
+E12	Regulation:T58 Cause:E10 Theme:E14
+T59	Binding 671 679	contacts
+E13	Binding:T59 Theme:T21 Theme2:T22
+T60	Localization 693 701	motility
+E14	Localization:T60 Theme:T23
+T61	Planned_process 716 727	transfected
+E15	Planned_process:T61 Instrument:T24 Theme:T25
+T62	Gene_expression 760 770	expression
+E16	Gene_expression:T62 Theme:T26
+T63	Negative_regulation 827 837	abrogation
+E17	Negative_regulation:T63 Theme:E18 Cause:E16
+T64	Binding 867 875	contacts
+E18	Binding:T64 Theme:T27
+T65	Positive_regulation 880 889	increased
+E19	Positive_regulation:T65 Cause:E16 Theme:E20
+T66	Localization 890 898	motility
+E20	Localization:T66 Theme:T27
+T67	Planned_process 903 914	transfected
+E21	Planned_process:T67 Theme:T30
+T68	Positive_regulation 956 960	over
+E22	Positive_regulation:T68 Theme:E23
+T69	Gene_expression 961 971	expression
+E23	Gene_expression:T69 Theme:T31
+T70	Positive_regulation 977 984	results
+E24	Positive_regulation:T70 Theme:E25 Cause:E23
+T71	Positive_regulation 988 997	increased
+E25	Positive_regulation:T71 Theme:E26
+T72	Localization 998 1006	motility
+E26	Localization:T72 Theme:T30
+T73	Negative_regulation 1012 1022	disruption
+E27	Negative_regulation:T73 Theme:E28
+T74	Binding 1036 1044	contacts
+E28	Binding:T74 Theme:T32 Theme2:T33
+T75	Planned_process 1056 1065	culturing
+E29	Planned_process:T75 Theme:T34
+T76	Regulation 1135 1142	effects
+E30	Regulation:T76 Cause:E32 Theme:E33
+E31	Regulation:T76 Cause:E32 Theme:T39
+T77	Gene_expression 1150 1160	expression
+E32	Gene_expression:T77 Theme:T38
+T78	Localization 1179 1187	motility
+E33	Localization:T78 Theme:T39
+T79	Planned_process 1214 1225	transfected
+E34	Planned_process:T79 Theme:T39 Instrument:T40
+T80	Negative_regulation 1342 1350	abrogate
+E35	Negative_regulation:T80 Theme:E36 Cause:E32
+T81	Binding 1377 1385	contacts
+E36	Binding:T81 Theme:T39
+T82	Regulation 1399 1408	influence
+E37	Regulation:T82 Theme:E38 Cause:E32
+M1	Negation E37
+T83	Regulation 1413 1420	effects
+E38	Regulation:T83 Theme:E39
+T84	Localization 1424 1432	motility
+E39	Localization:T84 Theme:T39
+T85	Regulation 1580 1584	role
+E40	Regulation:T85 Cause:T47 Theme:E41
+T86	Localization 1606 1614	invasion
+E41	Localization:T86 Theme:T39

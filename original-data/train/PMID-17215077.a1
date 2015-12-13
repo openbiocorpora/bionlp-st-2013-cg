@@ -1,0 +1,32 @@
+T1	Cell 16 24	cellular
+T2	Gene_or_gene_product 49 52	CRP
+T3	Cancer 77 90	breast cancer
+T4	Organism 91 99	patients
+T5	Anatomical_system 105 114	endocrine
+T6	Organism 256 264	patients
+T7	Anatomical_system 270 279	endocrine
+T8	Cancer 290 303	breast cancer
+T9	Cancer 435 448	breast cancer
+T10	Organism 449 457	patients
+T11	Anatomical_system 463 472	endocrine
+T12	Gene_or_gene_product 570 585	beta-interferon
+T13	Gene_or_gene_product 590 603	interleukin-2
+T14	Cell 606 614	cellular
+T15	Gene_or_gene_product 639 642	CRP
+T16	Gene_or_gene_product 846 859	Interleukin-2
+T17	Cell 923 934	lymphocytes
+T18	Gene_or_gene_product 936 939	CD4
+T19	Cell 936 967	CD4+, CD8+, CD16+56+ (NK) cells
+T20	Gene_or_gene_product 942 945	CD8
+T21	Gene_or_gene_product 948 952	CD16
+T22	Gene_or_gene_product 953 955	56
+T23	Gene_or_gene_product 969 973	IL-6
+T24	Gene_or_gene_product 975 980	IL-12
+T25	Gene_or_gene_product 986 989	CRP
+T26	Gene_or_gene_product 1032 1037	IL-10
+T27	Gene_or_gene_product 1042 1050	TGFbeta1
+T28	Gene_or_gene_product 1195 1200	IL-10
+T29	Gene_or_gene_product 1241 1249	TGFbeta1
+T30	Cell 1289 1297	cellular
+T31	Gene_or_gene_product 1338 1342	IL-2
+T32	Gene_or_gene_product 1465 1468	CRP

@@ -1,0 +1,35 @@
+T18	Positive_regulation 42 53	stimulation
+E1	Positive_regulation:T18 Cause:T1 Theme:E3
+E2	Positive_regulation:T18 Cause:T1 Theme:E5
+T19	Localization 84 93	migration
+E3	Localization:T19 Theme:T2
+T20	Positive_regulation 105 114	dependent
+E4	Positive_regulation:T20 Theme:E5 Cause:T3
+T21	Cell_proliferation 115 128	proliferation
+E5	Cell_proliferation:T21 Theme:T2
+T22	Cell_proliferation 134 147	proliferative
+E6	Cell_proliferation:T22 Theme:T5
+T23	Regulation 148 156	response
+E7	Regulation:T23 Theme:E6 Cause:T6
+T24	Positive_regulation 213 222	dependent
+E8	Positive_regulation:T24 Theme:E7 Cause:E9
+T25	Binding 228 237	attaching
+E9	Binding:T25 Theme:T8 Theme:T5 Theme:T7
+T26	Positive_regulation 320 330	stimulated
+E10	Positive_regulation:T26 Theme:E11 Cause:E12
+T27	Localization 343 350	migrate
+E11	Localization:T27 Theme:T11
+T28	Planned_process 356 363	exposed
+E12	Planned_process:T28 Instrument:T12 Theme:T11
+T29	Blood_vessel_development 429 439	angiogenic
+E13	Blood_vessel_development:T29 
+T30	Localization 482 491	migration
+E14	Localization:T30 Theme:T14
+T31	Cell_proliferation 496 509	proliferation
+E15	Cell_proliferation:T31 Theme:T14
+T32	Negative_regulation 629 641	inactivation
+E16	Negative_regulation:T32 Theme:T16 Cause:E18
+T33	Catabolism 681 689	cleavage
+T34	Positive_regulation 681 689	cleavage
+E17	Catabolism:T33 Theme:T16
+E18	Positive_regulation:T34 Cause:T17 Theme:E17

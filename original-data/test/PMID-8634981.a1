@@ -1,0 +1,32 @@
+T1	Cancer 21 36	cervical cancer
+T2	Pathological_formation 45 55	precursors
+T3	Cancer 58 73	Cervical cancer
+T4	Pathological_formation 101 118	precursor lesions
+T5	Pathological_formation 141 175	cervical intraepithelial neoplasia
+T6	Pathological_formation 179 211	squamous intraepithelial lesions
+T7	Organism 252 274	human papillomaviruses
+T8	Organism 276 279	HPV
+T9	Cancer 325 340	cervical cancer
+T10	Pathological_formation 349 359	precursors
+T11	Organism 385 388	HPV
+T12	Cancer 420 435	cervical cancer
+T13	Gene_or_gene_product 473 475	E6
+T14	Gene_or_gene_product 480 482	E7
+T15	Cell 515 519	cell
+T16	Gene_or_gene_product 557 560	p53
+T17	Gene_or_gene_product 565 567	Rb
+T18	Cell 619 627	cellular
+T19	Cell 666 670	cell
+T20	Cancer 739 755	cervical cancers
+T21	Cancer 785 800	cervical cancer
+T22	Organism 892 895	HPV
+T23	Cancer 949 954	tumor
+T24	Organism 985 988	HPV
+T25	Cellular_component 989 992	DNA
+T26	Organism 1030 1033	HPV
+T27	Cellular_component 1034 1037	DNA
+T28	Gene_or_gene_product 1062 1064	E2
+T29	Gene_or_gene_product 1121 1123	E6
+T30	Gene_or_gene_product 1128 1130	E7
+T31	Cancer 1278 1294	cervical cancers
+T32	Cellular_component 1311 1322	chromosomal

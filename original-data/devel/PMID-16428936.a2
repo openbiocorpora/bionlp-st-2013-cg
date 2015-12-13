@@ -1,0 +1,61 @@
+*	Equiv T11 T12
+T38	Negative_regulation 0 8	Decrease
+E1	Negative_regulation:T38 Theme:T1
+T39	Positive_regulation 27 35	enhances
+E2	Positive_regulation:T39 Theme:E3 Cause:E1
+T40	Regulation 48 59	sensitivity
+E3	Regulation:T40 Cause:T3 Theme:T2
+T41	Regulation 133 141	involved
+E4	Regulation:T41 Cause:T4 Theme:E7
+E5	Regulation:T41 Cause:T4 Theme:E8
+E6	Regulation:T41 Cause:T4 Theme:E9
+T42	Cell_proliferation 177 190	proliferation
+E7	Cell_proliferation:T42 Theme:T5
+T43	Cell_differentiation 192 207	differentiation
+E8	Cell_differentiation:T43 Theme:T5
+T44	Cell_death 212 221	apoptosis
+E9	Cell_death:T44 Theme:T5
+T45	Regulation 367 371	role
+E10	Regulation:T45 Cause:T9 Theme:E11
+M1	Speculation E10
+T46	Regulation 396 407	sensitivity
+E11	Regulation:T46 Cause:T11 Theme:T10
+T47	Planned_process 479 490	transfected
+E12	Planned_process:T47 Theme:T18
+T48	Cell_death 594 606	cytotoxicity
+T49	Positive_regulation 594 606	cytotoxicity
+E13	Cell_death:T48 Theme:T21
+E14	Positive_regulation:T49 Theme:E13 Cause:T19
+M2	Speculation E14
+T50	Positive_regulation 629 637	increase
+E15	Positive_regulation:T50 Theme:E16
+T51	Regulation 645 656	sensitivity
+E16	Regulation:T51 Cause:T20 Theme:T21
+T52	Cell_death 723 732	apoptosis
+E17	Cell_death:T52 
+T53	Breakdown 912 922	disruption
+E18	Breakdown:T53 Theme:T26
+T54	Cell_death 1011 1038	apoptotic signaling pathway
+E19	Cell_death:T54 
+T55	Cell_death 1053 1062	apoptosis
+E20	Cell_death:T55 
+T56	Negative_regulation 1090 1098	decrease
+E21	Negative_regulation:T56 Theme:T29
+T57	Positive_regulation 1109 1117	increase
+E22	Positive_regulation:T57 Theme:T30
+T58	Negative_regulation 1138 1146	decrease
+E23	Negative_regulation:T58 Theme:E24
+T59	Gene_expression 1156 1166	expression
+E24	Gene_expression:T59 Theme:T31
+T60	Positive_regulation 1197 1207	triggering
+E25	Positive_regulation:T60 Cause:E23 Theme:E26
+T61	Cell_death 1216 1225	apoptosis
+E26	Cell_death:T61 
+T62	Positive_regulation 1282 1291	induction
+E27	Positive_regulation:T62 Theme:T33
+T63	Regulation 1403 1413	responsive
+E28	Regulation:T63 Cause:E29 Theme:T34
+T64	Planned_process 1433 1442	treatment
+E29	Planned_process:T64 Instrument:T36
+T65	Negative_regulation 1458 1472	downregulation
+E30	Negative_regulation:T65 Theme:T37

@@ -1,0 +1,89 @@
+*	Equiv T11 T12
+T55	Localization 12 24	localisation
+E1	Localization:T55 Theme:T1
+T56	Regulation 42 52	regulation
+E2	Regulation:T56 Cause:T1 Theme:E3
+T57	Gene_expression 115 125	expression
+E3	Gene_expression:T57 Theme:T3
+T58	Carcinogenesis 171 185	carcinogenesis
+E4	Carcinogenesis:T58 AtLoc:T5
+T59	Gene_expression 223 237	overexpression
+T60	Positive_regulation 223 237	overexpression
+E5	Gene_expression:T59 Theme:T8
+E6	Positive_regulation:T60 Theme:E5
+T61	Regulation 275 284	regulates
+E7	Regulation:T61 Theme:E8 Cause:E11
+T62	Cell_proliferation 294 300	growth
+E8	Cell_proliferation:T62 Theme:T10
+T63	Cell_differentiation 302 317	differentiation
+E9	Cell_differentiation:T63 Theme:T10
+T64	Death 322 330	survival
+E10	Death:T64 Theme:T10
+M1	Negation E10
+T65	Binding 339 351	interactions
+E11	Binding:T65 Theme:T11 Theme2:T9
+T66	Regulation 421 430	regulator
+E12	Regulation:T66 Cause:T11 Theme:E14
+E13	Regulation:T66 Cause:T11 Theme:E15
+T67	Cell_proliferation 447 453	growth
+E14	Cell_proliferation:T67 Theme:T13
+T68	Cell_differentiation 458 473	differentiation
+E15	Cell_differentiation:T68 Theme:T13
+T69	Gene_expression 484 493	expressed
+E16	Gene_expression:T69 Theme:T14
+T70	Positive_regulation 679 687	enhanced
+E17	Positive_regulation:T70 Theme:E20 Cause:T21
+E18	Positive_regulation:T70 Theme:E20 Cause:T22
+E19	Positive_regulation:T70 Theme:E20 Cause:T23
+M2	Negation E19
+M3	Negation E18
+T71	Positive_regulation 692 707	transactivation
+E20	Positive_regulation:T71 Theme:T24
+T72	Localization 858 870	localisation
+E21	Localization:T72 Theme:T26 AtLoc:T27
+E22	Localization:T72 Theme:T29 AtLoc:T31
+E23	Localization:T72 Theme:T30 AtLoc:T31
+E24	Localization:T72 Theme:T26 AtLoc:T28
+E25	Localization:T72 Theme:T29 AtLoc:T32
+E26	Localization:T72 Theme:T30 AtLoc:T32
+T73	Protein_domain_or_region 894 925	nucleolar localisation sequence
+T74	Mutation 952 960	mutation
+E27	Mutation:T74 Theme:T34 Site:T73
+T75	Negative_regulation 986 993	prevent
+E28	Negative_regulation:T75 Cause:E27 Theme:E29
+M4	Negation E28
+T76	Positive_regulation 1006 1018	potentiating
+E29	Positive_regulation:T76 Theme:T36 Cause:T35
+T77	Positive_regulation 1045 1056	potentiated
+E30	Positive_regulation:T77 Cause:T37 Theme:E32
+E31	Positive_regulation:T77 Cause:T37 Theme:E33
+T78	Positive_regulation 1057 1072	transactivation
+E32	Positive_regulation:T78 Theme:T39
+E33	Positive_regulation:T78 Theme:T40
+T79	Positive_regulation 1155 1163	enhanced
+E34	Positive_regulation:T79 Cause:T37 Theme:E38
+E35	Positive_regulation:T79 Cause:T37 Theme:E39
+T80	Positive_regulation 1168 1177	dependent
+E36	Positive_regulation:T80 Cause:T41 Theme:E38
+E37	Positive_regulation:T80 Cause:T41 Theme:E39
+T81	Transcription 1178 1191	transcription
+E38	Transcription:T81 Theme:T43
+T82	Translation 1196 1214	protein expression
+E39	Translation:T82 Theme:T43
+T83	Cell_differentiation 1235 1250	differentiation
+E40	Cell_differentiation:T83 Theme:T42
+T84	Positive_regulation 1337 1349	potentiating
+E41	Positive_regulation:T84 Cause:T44 Theme:T45
+T85	Regulation 1398 1402	role
+E42	Regulation:T85 Cause:T46 Theme:E44
+E43	Regulation:T85 Cause:T46 Theme:E45
+T86	Regulation 1432 1442	regulation
+E44	Regulation:T86 Cause:T47 Theme:E46
+E45	Regulation:T86 Cause:T47 Theme:T50
+T87	Metabolism 1456 1466	metabolism
+E46	Metabolism:T87 Theme:T48
+T88	Negative_regulation 1614 1622	suppress
+E47	Negative_regulation:T88 Theme:E48 Cause:T54
+M5	Speculation E47
+T89	Carcinogenesis 1623 1636	tumorigenesis
+E48	Carcinogenesis:T89 

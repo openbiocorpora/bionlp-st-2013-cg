@@ -1,0 +1,18 @@
+T1	Gene_or_gene_product 8 19	osteopontin
+T2	Cell 44 48	cell
+T3	Organ 62 66	bone
+T4	Gene_or_gene_product 80 91	Osteopontin
+T5	Gene_or_gene_product 93 96	OPN
+T6	Cell 162 166	cell
+T7	Tissue 201 205	bone
+T8	Organ 207 212	teeth
+T9	Organ 214 220	kidney
+T10	Tissue 225 250	epithelial lining tissues
+T11	Organism_substance 267 273	plasma
+T12	Organism_substance 278 289	breast milk
+T13	Pathological_formation 404 409	wound
+T14	Cancer 422 427	tumor
+T15	Gene_or_gene_product 472 475	OPN
+T16	Tissue 479 483	bone
+T17	Cell 524 528	cell
+T18	Gene_or_gene_product 556 559	OPN

@@ -1,0 +1,100 @@
+*	Equiv T4 T5
+T46	Regulation 6 12	drives
+E1	Regulation:T46 Cause:T1 Theme:E4
+E2	Regulation:T46 Cause:T1 Theme:E5
+E3	Regulation:T46 Cause:T1 Theme:E6
+T47	Development 26 36	initiation
+E4	Development:T47 Theme:T2
+T48	Positive_regulation 38 49	progression
+E5	Positive_regulation:T48 Theme:T2
+T49	Metastasis 55 65	metastasis
+E6	Metastasis:T49 Theme:T2
+T50	Planned_process 93 100	therapy
+E7	Planned_process:T50 Theme:T2
+T51	Localization 159 167	secreted
+E8	Localization:T51 Theme:T4
+T52	Gene_expression 175 184	expressed
+E9	Gene_expression:T52 Theme:T4
+T53	Regulation 237 245	involved
+E10	Regulation:T53 Theme:E11 Cause:T4
+T54	Regulation 332 342	regulation
+E11	Regulation:T54 Theme:T9
+T55	Positive_regulation 378 389	progression
+E12	Positive_regulation:T55 Cause:T10 Theme:E13
+T56	Metastasis 402 412	metastases
+E13	Metastasis:T56 ToLoc:T11
+T57	Negative_regulation 422 434	dysregulated
+E14	Negative_regulation:T57 Theme:E15
+T58	Gene_expression 435 445	expression
+E15	Gene_expression:T58 Theme:T10
+T59	Gene_expression 539 548	expressed
+E16	Gene_expression:T59 Theme:T13
+T60	Regulation 595 602	effects
+E17	Regulation:T60 Cause:T13 Theme:E18
+M1	Speculation E17
+T61	Development 612 623	progression
+E18	Development:T61 Theme:T16
+T62	Regulation 678 689	involvement
+E19	Regulation:T62 Cause:T18 Theme:T19
+M2	Speculation E19
+T63	Regulation 734 744	influences
+E20	Regulation:T63 Cause:T18 Theme:E23
+E21	Regulation:T63 Cause:T18 Theme:E24
+E22	Regulation:T63 Cause:T18 Theme:E25
+T64	Development 749 759	initiation
+E23	Development:T64 Theme:T20
+T65	Positive_regulation 764 775	progression
+E24	Positive_regulation:T65 Theme:T20
+T66	Metastasis 798 808	metastases
+E25	Metastasis:T66 Theme:T20
+T67	Negative_regulation 816 824	ablation
+E26	Negative_regulation:T67 Theme:T21
+T68	Positive_regulation 894 900	caused
+E27	Positive_regulation:T68 Theme:E28 Cause:E26
+T69	Negative_regulation 903 908	delay
+E28	Negative_regulation:T69 Theme:E29
+T70	Development 926 936	initiation
+E29	Development:T70 Theme:T27
+T71	Negative_regulation 938 947	inhibited
+E30	Negative_regulation:T71 Cause:E26 Theme:E31
+T72	Positive_regulation 954 965	progression
+E31	Positive_regulation:T72 Theme:T28
+T73	Negative_regulation 971 978	reduced
+E32	Negative_regulation:T73 Cause:E26 Theme:E33
+T74	Metastasis 979 989	metastasis
+E33	Metastasis:T74 
+T75	Negative_regulation 1027 1034	reduced
+E34	Negative_regulation:T75 Cause:T21 Theme:E39
+E35	Negative_regulation:T75 Cause:T21 Theme:E40
+E36	Negative_regulation:T75 Cause:T21 Theme:E41
+E37	Negative_regulation:T75 Cause:T21 Theme:E42
+E38	Negative_regulation:T75 Cause:T21 Theme:E43
+T76	Gene_expression 1035 1045	expression
+E39	Gene_expression:T76 Theme:T30
+E40	Gene_expression:T76 Theme:T31
+E41	Gene_expression:T76 Theme:T32
+E42	Gene_expression:T76 Theme:T34
+E43	Gene_expression:T76 Theme:T35
+T77	Cell_proliferation 1075 1088	proliferation
+E44	Cell_proliferation:T77 Theme:T29
+T78	Blood_vessel_development 1100 1112	angiogenesis
+E45	Blood_vessel_development:T78 
+T79	Regulation 1237 1247	influenced
+E46	Regulation:T79 Cause:T36 Theme:E47
+T80	Gene_expression 1248 1258	expression
+E47	Gene_expression:T80 Theme:T37
+T81	Gene_expression 1293 1305	coexpression
+E48	Gene_expression:T81 Theme:T38 Theme2:T39
+T82	Positive_regulation 1329 1336	crucial
+E49	Positive_regulation:T82 Cause:E48 Theme:E50
+T83	Metastasis 1341 1351	metastatic
+E50	Metastasis:T83 
+T84	Negative_regulation 1412 1418	slowed
+E51	Negative_regulation:T84 Theme:E53
+E52	Negative_regulation:T84 Theme:E54
+T85	Positive_regulation 1423 1434	progression
+E53	Positive_regulation:T85 Theme:T42
+T86	Metastasis 1439 1449	metastasis
+E54	Metastasis:T86 Theme:T42
+T87	Planned_process 1644 1655	therapeutic
+E55	Planned_process:T87 Theme:T44

@@ -1,0 +1,21 @@
+T1	Gene_or_gene_product 28 33	c-kit
+T2	Cancer 42 72	gastrointestinal stromal tumor
+T3	Gene_or_gene_product 147 152	c-kit
+T4	Cancer 220 250	gastrointestinal stromal tumor
+T5	Cancer 252 256	GIST
+T6	Gene_or_gene_product 332 337	c-kit
+T7	Gene_or_gene_product 361 366	c-kit
+T8	Organism 395 403	patients
+T9	Cancer 409 413	GIST
+T10	Gene_or_gene_product 437 442	c-kit
+T11	Gene_or_gene_product 466 471	c-kit
+T12	Gene_or_gene_product 612 617	c-kit
+T13	Gene_or_gene_product 633 638	c-kit
+T14	Cancer 687 698	benign GIST
+T15	Cancer 741 755	malignant GIST
+T16	Cancer 775 779	GIST
+T17	Tissue 816 822	tissue
+T18	Gene_or_gene_product 912 917	c-kit
+T19	Cancer 963 993	gastrointestinal stromal tumor
+T20	Gene_or_gene_product 995 1000	c-kit
+T21	Cancer 1066 1070	GIST

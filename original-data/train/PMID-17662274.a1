@@ -1,0 +1,54 @@
+T1	Gene_or_gene_product 28 33	BAG-1
+T2	Gene_or_gene_product 56 74	vitamin D receptor
+T3	Gene_or_gene_product 104 114	involucrin
+T4	Cell 129 147	oral keratinocytes
+T5	Organism_subdivision 166 170	oral
+T6	Cancer 191 203	oral cancers
+T7	Organism_substance 205 216	cytoplasmic
+T8	Gene_or_gene_product 217 222	BAG-1
+T9	Gene_or_gene_product 269 274	BAG-1
+T10	Cell 285 293	cellular
+T11	Gene_or_gene_product 389 407	vitamin D receptor
+T12	Gene_or_gene_product 409 412	VDR
+T13	Cell 434 446	keratinocyte
+T14	Gene_or_gene_product 475 480	BAG-1
+T15	Organism 510 515	human
+T16	Cell 516 521	cells
+T17	Gene_or_gene_product 557 563	BAG-1L
+T18	Gene_or_gene_product 574 580	BAG-1M
+T19	Gene_or_gene_product 594 600	BAG-1S
+T20	Cell 625 643	oral keratinocytes
+T21	Gene_or_gene_product 644 650	BAG-1L
+T22	Gene_or_gene_product 660 666	BAG-1M
+T23	Gene_or_gene_product 671 677	BAG-1S
+T24	Gene_or_gene_product 688 691	VDR
+T25	Simple_chemical 723 752	1alpha,25-dihydroxyvitamin D3
+T26	Gene_or_gene_product 754 760	BAG-1L
+T27	Organism_substance 765 778	nucleoplasmic
+T28	Cellular_component 783 792	nucleolar
+T29	Gene_or_gene_product 802 808	BAG-1S
+T30	Gene_or_gene_product 813 819	BAG-1M
+T31	Organism_substance 825 836	cytoplasmic
+T32	Organism_substance 841 854	nucleoplasmic
+T33	Cellular_component 894 903	nucleolar
+T34	Gene_or_gene_product 929 935	BAG-1L
+T35	Gene_or_gene_product 994 1000	BAG-1L
+T36	Gene_or_gene_product 1019 1022	VDR
+T37	Gene_or_gene_product 1033 1039	BAG-1L
+T38	Simple_chemical 1082 1091	vitamin-D
+T39	Gene_or_gene_product 1119 1130	osteocalcin
+T40	Gene_or_gene_product 1135 1149	24-hydroxylase
+T41	Gene_or_gene_product 1164 1167	VDR
+T42	Cell 1222 1234	keratinocyte
+T43	Gene_or_gene_product 1259 1269	involucrin
+T44	Gene_or_gene_product 1327 1333	BAG-1L
+T45	Gene_or_gene_product 1350 1374	nuclear hormone receptor
+T46	Gene_or_gene_product 1407 1413	BAG-1L
+T47	Gene_or_gene_product 1417 1431	24-hydroxylase
+T48	Simple_chemical 1446 1455	vitamin D
+T49	Cell 1475 1483	cellular
+T50	Cell 1496 1514	oral keratinocytes
+T51	Simple_chemical 1518 1547	1alpha,25-dihydroxyvitamin D3
+T52	Organism_substance 1568 1579	cytoplasmic
+T53	Gene_or_gene_product 1580 1585	BAG-1
+T54	Gene_or_gene_product 1596 1602	BAG-1L

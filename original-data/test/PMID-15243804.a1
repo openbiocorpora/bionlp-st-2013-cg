@@ -1,0 +1,25 @@
+T1	Organism 35 40	human
+T2	Cell 41 75	hepatocellular carcinoma cell line
+T3	Cell 192 227	hepatocellular carcinoma cell lines
+T4	Cancer 301 325	hepatocellular carcinoma
+T5	Organism 542 547	human
+T6	Cell 548 589	hepatocellular carcinoma cell lines Hep3B
+T7	Cell 591 598	MHCC97L
+T8	Cell 600 607	MHCC97H
+T9	Simple_chemical 703 709	silver
+T10	Cell 757 762	Hep3B
+T11	Cell 777 784	MHCC97L
+T12	Cell 802 809	MHCC97H
+T13	Gene_or_gene_product 946 954	annexin1
+T14	Gene_or_gene_product 956 962	S100A4
+T15	Cell 1008 1024	Hep3B cell lines
+T16	Cell 1066 1073	MHCC97H
+T17	Cell 1078 1085	MHCC97L
+T18	Cell 1117 1124	MHCC97H
+T19	Cell 1129 1136	MHCC97L
+T20	Cell 1147 1151	cell
+T21	Gene_or_gene_product 1246 1254	annexin1
+T22	Gene_or_gene_product 1259 1265	S100A4
+T23	Cell 1313 1348	hepatocellular carcinoma cell lines
+T24	Cell 1408 1431	liver cancer cell lines
+T25	Cancer 1495 1498	HCC

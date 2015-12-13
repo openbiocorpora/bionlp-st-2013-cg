@@ -1,0 +1,52 @@
+*	Equiv T3 T4
+*	Equiv T6 T7
+*	Equiv T34 T35
+T50	Cell_differentiation 27 41	differentiated
+E1	Cell_differentiation:T50 AtLoc:T2
+T51	Cell_differentiation 63 79	dedifferentiated
+E2	Cell_differentiation:T51 Theme:T3
+M1	Negation E2
+T52	Planned_process 89 97	cultured
+E3	Planned_process:T52 Theme:T3
+T53	Planned_process 118 127	implanted
+E4	Planned_process:T53 Instrument:T5
+T54	Cell_differentiation 152 166	differentiated
+E5	Cell_differentiation:T54 Theme:T6
+T55	Cell_differentiation 197 213	dedifferentiated
+E6	Cell_differentiation:T55 Theme:T11
+M2	Negation E6
+T56	Cell_proliferation 245 258	proliferating
+E7	Cell_proliferation:T56 Theme:T12
+T57	Planned_process 276 285	implanted
+E8	Planned_process:T57 Instrument:T13 Theme:T14
+T58	Binding 333 339	formed
+E9	Binding:T58 Theme:T15
+T59	Binding 380 386	formed
+E10	Binding:T59 Theme:T17
+T60	Synthesis 536 546	production
+E11	Synthesis:T60 Theme:T24
+T61	Localization 585 591	uptake
+E12	Localization:T61 Theme:T26
+T62	Glycolysis 676 686	glycolysis
+E13	Glycolysis:T62 
+T63	Metabolism 704 715	utilization
+E14	Metabolism:T63 Theme:T28
+T64	Localization 750 756	uptake
+E15	Localization:T64 Theme:T30
+T65	Positive_regulation 772 784	accumulation
+E16	Positive_regulation:T65 Theme:T31
+E17	Positive_regulation:T65 Theme:T32
+E18	Positive_regulation:T65 Theme:T33
+T66	Pathway 857 887	tricarboxylic acid (TCA) cycle
+E19	Pathway:T66 Participant:T34
+T67	Localization 918 926	perfused
+E20	Localization:T67 Theme:T36
+T68	Death 972 980	necrotic
+E21	Death:T68 Theme:T38
+T69	Planned_process 992 1005	i.v. infusion
+E22	Planned_process:T69 Instrument:T40 Instrument2:T41 Instrument3:T42 Theme:T44
+T70	Pathway 1083 1092	TCA cycle
+E23	Pathway:T70 Participant:T43
+T71	Cell_differentiation 1187 1202	differentiation
+E24	Cell_differentiation:T71 Theme:T47
+E25	Cell_differentiation:T71 Theme:T48

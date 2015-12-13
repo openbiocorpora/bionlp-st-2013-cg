@@ -1,0 +1,64 @@
+*	Equiv T6 T7
+T32	Pathway 10 19	signaling
+E1	Pathway:T32 Participant:T1 Participant2:T2
+T33	Regulation 20 29	modulates
+E2	Regulation:T33 Cause:E1 Theme:E3
+T34	Localization 47 56	migration
+E3	Localization:T34 Theme:T3
+T35	Development 89 98	formation
+E4	Development:T35 Theme:T5
+T36	Positive_regulation 143 151	requires
+E5	Positive_regulation:T36 Theme:E4 Cause:E8
+E6	Positive_regulation:T36 Theme:E4 Cause:E7
+T37	Remodeling 171 184	restructuring
+E7	Remodeling:T37 Theme:T6
+E8	Remodeling:T37 Theme:T8
+T38	Localization 265 274	migration
+E9	Localization:T38 Theme:T9
+T39	Gene_expression 452 462	deficiency
+E10	Gene_expression:T39 Theme:T11
+M1	Negation E10
+T40	Positive_regulation 475 482	results
+E11	Positive_regulation:T40 Cause:E10 Theme:E12
+T41	Negative_regulation 494 501	defects
+E12	Negative_regulation:T41 Theme:T14
+T42	Regulation 544 550	impact
+E13	Regulation:T42 Cause:E14 Theme:E15
+T43	Pathway 568 585	signaling pathway
+E14	Pathway:T43 Participant:T15 Participant2:T16
+T44	Localization 592 601	migration
+E15	Localization:T44 Theme:T17
+T45	Positive_regulation 673 683	activation
+E16	Positive_regulation:T45 Theme:E17
+T46	Pathway 697 706	signaling
+E17	Pathway:T46 Participant:T18 Participant2:T19
+T47	Negative_regulation 716 724	inhibits
+E18	Negative_regulation:T47 Theme:E19 Cause:E16
+T48	Localization 728 737	migration
+E19	Localization:T48 Theme:T20
+T49	Localization 804 810	spread
+E20	Localization:T49 Theme:T21
+T50	Remodeling 898 910	organization
+E21	Remodeling:T50 Theme:T24
+T51	Negative_regulation 976 983	reduced
+E22	Negative_regulation:T51 Theme:E23
+T52	Localization 984 992	motility
+E23	Localization:T52 Theme:T25
+T53	Negative_regulation 1077 1084	reduced
+E24	Negative_regulation:T53 Theme:E25
+T54	Gene_expression 1085 1095	expression
+E25	Gene_expression:T54 Theme:T27
+T55	Localization 1138 1147	migration
+E26	Localization:T55 Theme:T28
+T56	Pathway 1193 1202	signaling
+E27	Pathway:T56 Participant:T29
+T57	Regulation 1215 1223	involved
+E28	Regulation:T57 Cause:E27 Theme:E29
+T58	Death 1230 1238	survival
+E29	Death:T58 Theme:T30
+M2	Negation E29
+T59	Regulation 1268 1276	controls
+E30	Regulation:T59 Cause:E27 Theme:E32
+E31	Regulation:T59 Cause:E27 Theme:T31
+T60	Localization 1277 1286	migration
+E32	Localization:T60 Theme:T31

@@ -1,0 +1,36 @@
+T1	Gene_or_gene_product 14 46	epidermal growth factor receptor
+T2	Gene_or_gene_product 48 80	transforming growth factor-alpha
+T3	Gene_or_gene_product 85 90	Ki-67
+T4	Pathological_formation 138 157	pleomorphic adenoma
+T5	Cell 230 238	cellular
+T6	Gene_or_gene_product 358 390	epidermal growth factor receptor
+T7	Gene_or_gene_product 392 396	EGFR
+T8	Gene_or_gene_product 402 440	transforming growth factor (TGF)-alpha
+T9	Pathological_formation 515 534	pleomorphic adenoma
+T10	Pathological_formation 536 538	PA
+T11	Gene_or_gene_product 599 603	EGFR
+T12	Gene_or_gene_product 608 617	TGF-alpha
+T13	Gene_or_gene_product 633 638	Ki-67
+T14	Cancer 648 680	carcinoma ex-pleomorphic adenoma
+T15	Cancer 682 690	Ca ex-PA
+T16	Pathological_formation 696 698	PA
+T17	Gene_or_gene_product 733 737	EGFR
+T18	Gene_or_gene_product 742 751	TGF-alpha
+T19	Gene_or_gene_product 756 761	Ki-67
+T20	Tissue 815 822	tissues
+T21	Gene_or_gene_product 866 870	EGFR
+T22	Gene_or_gene_product 872 881	TGF-alpha
+T23	Gene_or_gene_product 886 891	Ki-67
+T24	Organism 1004 1012	patients
+T25	Cancer 1092 1115	carcinomatous component
+T26	Organism 1156 1164	patients
+T27	Gene_or_gene_product 1181 1185	EGFR
+T28	Gene_or_gene_product 1199 1204	Ki-67
+T29	Organism 1251 1259	patients
+T30	Organism 1307 1315	patients
+T31	Gene_or_gene_product 1387 1391	EGFR
+T32	Gene_or_gene_product 1396 1405	TGF-alpha
+T33	Gene_or_gene_product 1410 1414	Ki67
+T34	Cancer 1461 1469	Ca ex-PA
+T35	Cancer 1487 1501	adenocarcinoma
+T36	Pathological_formation 1517 1519	PA

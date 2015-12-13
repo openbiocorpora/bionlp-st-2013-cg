@@ -1,0 +1,57 @@
+T1	Cancer 15 25	lung tumor
+T2	Organism 51 55	mice
+T3	Organism 59 81	adeno-associated virus
+T4	Gene_or_gene_product 105 115	vasostatin
+T5	Cancer 191 196	tumor
+T6	Cancer 219 224	tumor
+T7	Gene_or_gene_product 260 270	Vasostatin
+T8	Gene_or_gene_product 297 309	calreticulin
+T9	Gene_or_gene_product 397 407	vasostatin
+T10	Organism 421 468	recombinant pseudotype adeno-associated virus 2
+T11	Organism 469 470	5
+T12	Organism 472 477	rAAV2
+T13	Organism 478 483	5-VAS
+T14	Cancer 516 527	lung cancer
+T15	Organism 568 573	rAAV2
+T16	Organism 574 575	5
+T17	Gene_or_gene_product 587 597	vasostatin
+T18	Cancer 598 612	intratumorally
+T19	Organism 642 647	mouse
+T20	Cancer 648 658	lung tumor
+T21	Cancer 692 701	xenograft
+T22	Cancer 730 740	lung tumor
+T23	Organism 777 782	rAAV2
+T24	Organism 783 788	5-VAS
+T25	Cancer 818 823	tumor
+T26	Organism 922 926	Mice
+T27	Cancer 935 953	subcutaneous tumor
+T28	Organism 957 962	rAAV2
+T29	Organism 963 968	5-VAS
+T30	Cell 980 1006	Lewis lung carcinoma cells
+T31	Cancer 1040 1045	tumor
+T32	Organ 1077 1086	pulmonary
+T33	Cancer 1103 1108	tumor
+T34	Organism 1131 1136	rAAV2
+T35	Organism 1137 1142	5-VAS
+T36	Organism 1159 1164	human
+T37	Cancer 1165 1190	lung tumor A549 xenograft
+T38	Tissue 1227 1244	capillary vessels
+T39	Cancer 1248 1254	tumors
+T40	Cancer 1274 1283	xenograft
+T41	Organism 1291 1296	rAAV2
+T42	Organism 1297 1302	5-VAS
+T43	Cancer 1328 1339	A549 tumors
+T44	Multi-tissue_structure 1355 1366	lymph nodes
+T45	Organ 1385 1389	lung
+T46	Organism 1433 1437	mice
+T47	Organ 1457 1461	lung
+T48	Organism 1484 1489	rAAV2
+T49	Organism 1490 1495	5-VAS
+T50	Cancer 1510 1515	tumor
+T51	Organism 1629 1634	rAAV2
+T52	Organism 1635 1640	5-VAS
+T53	Cancer 1685 1690	tumor
+T54	Cancer 1725 1730	tumor
+T55	Organism 1774 1779	rAAV2
+T56	Organism 1780 1785	5-VAS
+T57	Cancer 1820 1831	lung cancer

@@ -1,0 +1,30 @@
+T1	Simple_chemical 0 6	Malate
+T2	Simple_chemical 7 14	citrate
+T3	Cell 61 88	Ehrlich ascites tumor cells
+T4	Simple_chemical 94 100	malate
+T5	Simple_chemical 101 108	citrate
+T6	Cell 187 214	Ehrlich ascites tumor cells
+T7	Simple_chemical 239 245	malate
+T8	Simple_chemical 246 255	aspartate
+T9	Cellular_component 331 344	mitochondrial
+T10	Simple_chemical 345 351	NAD[P]
+T11	Cell 438 443	cells
+T12	Cellular_component 461 473	mitochondria
+T13	Cell 601 607	strain
+T14	Simple_chemical 613 619	malate
+T15	Simple_chemical 620 627	citrate
+T16	Organism_substance 718 725	cytosol
+T17	Cellular_component 729 741	mitochondria
+T18	Simple_chemical 764 771	glucose
+T19	Simple_chemical 799 826	1,2,3-benzenetricarboxylate
+T20	Simple_chemical 845 851	malate
+T21	Simple_chemical 852 859	citrate
+T22	Simple_chemical 898 905	glucose
+T23	Simple_chemical 911 917	malate
+T24	Simple_chemical 918 925	citrate
+T25	Simple_chemical 1109 1116	glucose
+T26	Cancer 1165 1186	Ehrlich ascites tumor
+T27	Cellular_component 1187 1199	mitochondria
+T28	Amino_acid 1245 1254	glutamine
+T29	Amino_acid 1280 1289	glutamine
+T30	Simple_chemical 1331 1338	glucose

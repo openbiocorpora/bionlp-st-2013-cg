@@ -1,0 +1,25 @@
+T1	Gene_or_gene_product 12 15	Hes
+T2	Multi-tissue_structure 25 35	intestinal
+T3	Cancer 65 70	tumor
+T4	Gene_or_gene_product 83 88	Notch
+T5	Multi-tissue_structure 109 119	intestinal
+T6	Gene_or_gene_product 265 270	Notch
+T7	Gene_or_gene_product 281 285	Hes1
+T8	Gene_or_gene_product 287 291	Hes3
+T9	Gene_or_gene_product 296 300	Hes5
+T10	Gene_or_gene_product 310 314	Hes1
+T11	Cell 337 341	cell
+T12	Cell 367 381	secretory cell
+T13	Tissue 404 425	intestinal structures
+T14	Organism 429 439	adult mice
+T15	Gene_or_gene_product 453 456	Apc
+T16	Cancer 474 491	intestinal tumors
+T17	Gene_or_gene_product 509 513	Hes1
+T18	Cell 548 558	tumor cell
+T19	Cell 605 616	tumor cells
+T20	Cell 635 662	intestinal epithelial cells
+T21	Multi-tissue_structure 712 718	crypts
+T22	Gene_or_gene_product 777 780	Hes
+T23	Multi-tissue_structure 810 820	intestinal
+T24	Gene_or_gene_product 881 885	Hes1
+T25	Cell 941 952	tumor cells

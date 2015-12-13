@@ -1,0 +1,57 @@
+*	Equiv T7 T8
+*	Equiv T10 T11
+*	Equiv T13 T14
+*	Equiv T17 T18
+T43	Cell_transformation 29 43	transformation
+E1	Cell_transformation:T43 Theme:T2
+T44	Gene_expression 83 96	co-expression
+E2	Gene_expression:T44 Theme:T3 Theme2:T4 Theme3:T5
+T45	Cell_transformation 217 231	transformation
+E3	Cell_transformation:T45 Theme:T7
+T46	Gene_expression 268 282	overexpressing
+T47	Positive_regulation 268 282	overexpressing
+E4	Gene_expression:T46 Theme:T10 Theme2:T13 Theme3:T15
+E5	Positive_regulation:T47 Theme:E4
+T48	Planned_process 392 404	Transfection
+E6	Planned_process:T48 Instrument:T16 Theme:T17
+T49	Positive_regulation 423 426	led
+E7	Positive_regulation:T49 Cause:E6 Theme:E8
+T50	Cell_transformation 434 449	immortalization
+E8	Cell_transformation:T50 Theme:T17
+T51	Planned_process 525 535	transduced
+E9	Planned_process:T51 Instrument:T19 Theme:T20
+T52	Positive_regulation 549 558	underwent
+E10	Positive_regulation:T52 Theme:E11 Cause:E9
+T53	Cell_proliferation 566 583	proliferative lag
+E11	Cell_proliferation:T53 Theme:T20
+M1	Negation E11
+T54	Cell_proliferation 600 613	proliferation
+E12	Cell_proliferation:T54 Theme:T20
+T55	Planned_process 621 632	transfected
+E13	Planned_process:T55 Theme:T21 Instrument:T22
+T56	Planned_process 701 712	transfected
+E14	Planned_process:T56 Theme:T23 Instrument:T24
+T57	Cell_transformation 824 835	transformed
+E15	Cell_transformation:T57 Theme:T26
+T58	Planned_process 964 976	Transduction
+E16	Planned_process:T58 Theme:T27 Instrument:T28
+T59	Positive_regulation 998 1006	resulted
+E17	Positive_regulation:T59 Cause:E16 Theme:E18
+T60	Cell_transformation 1010 1025	immortalization
+E18	Cell_transformation:T60 Theme:T29
+T61	Planned_process 1057 1069	immortalized
+E19	Planned_process:T61 Theme:T30 Instrument:T31
+T62	Development 1081 1087	formed
+E20	Development:T62 Theme:T32
+T63	Gene_expression 1155 1168	co-expressing
+E21	Gene_expression:T63 Theme:T34 Theme2:T35 Theme3:T36
+T64	Cell_transformation 1213 1224	transformed
+E22	Cell_transformation:T64 Theme:T33
+T65	Growth 1314 1321	growing
+E23	Growth:T65 Theme:T37
+T66	Cell_transformation 1372 1386	transformation
+E24	Cell_transformation:T66 Theme:T39
+T67	Regulation 1586 1594	aberrant
+E25	Regulation:T67 Theme:E26
+T68	Cell_proliferation 1598 1604	growth
+E26	Cell_proliferation:T68 Theme:T42

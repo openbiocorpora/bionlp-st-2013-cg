@@ -1,0 +1,58 @@
+T1	Gene_or_gene_product 0 8	Hedgehog
+T2	Organism 26 32	murine
+T3	Cancer 33 41	melanoma
+T4	Gene_or_gene_product 64 72	Hedgehog
+T5	Cell 115 119	cell
+T6	Cancer 226 232	cancer
+T7	Multi-tissue_structure 240 262	embryonic blood vessel
+T8	Gene_or_gene_product 298 306	Hedgehog
+T9	Cancer 320 325	tumor
+T10	Multi-tissue_structure 334 345	vasculature
+T11	Cell 386 424	human umbilical vein endothelial cells
+T12	Cell 429 434	B16F0
+T13	Organism 436 442	murine
+T14	Cancer 443 451	melanoma
+T15	Cancer 453 459	tumors
+T16	Gene_or_gene_product 485 499	Sonic hedgehog
+T17	Gene_or_gene_product 501 504	Shh
+T18	Simple_chemical 538 542	BrdU
+T19	Cell 560 577	endothelial cells
+T20	Gene_or_gene_product 631 639	Hedgehog
+T21	Simple_chemical 659 670	cyclopamine
+T22	Gene_or_gene_product 691 694	Shh
+T23	Gene_or_gene_product 745 753	Hedgehog
+T24	Cancer 774 789	hind limb tumor
+T25	Cell 805 820	B16F0 cell line
+T26	Simple_chemical 855 866	cyclopamine
+T27	Simple_chemical 892 896	BrdU
+T28	Cell 914 925	tumor cells
+T29	Cancer 962 967	tumor
+T30	Cell 976 993	endothelial cells
+T31	Cancer 1029 1034	tumor
+T32	Gene_or_gene_product 1092 1100	Hedgehog
+T33	Gene_or_gene_product 1110 1117	Patched
+T34	Tissue 1139 1151	tumor stroma
+T35	Cell 1161 1172	B16F0 cells
+T36	Gene_or_gene_product 1183 1186	Shh
+T37	Organism 1209 1214	mouse
+T38	Cell 1215 1236	embryonic fibroblasts
+T39	Cell 1262 1273	B16F0 cells
+T40	Gene_or_gene_product 1285 1292	Patched
+T41	Gene_or_gene_product 1351 1354	Shh
+T42	Cell 1375 1389	melanoma cells
+T43	Gene_or_gene_product 1398 1405	Patched
+T44	Cell 1420 1431	fibroblasts
+T45	Cancer 1442 1447	tumor
+T46	Multi-tissue_structure 1471 1479	vascular
+T47	Cancer 1513 1518	tumor
+T48	Simple_chemical 1547 1558	cyclopamine
+T49	Multi-tissue_structure 1584 1592	vascular
+T50	Multi-tissue_structure 1656 1664	vascular
+T51	Simple_chemical 1690 1701	cyclopamine
+T52	Multi-tissue_structure 1710 1728	tumor blood vessel
+T53	Simple_chemical 1745 1749	FITC
+T54	Simple_chemical 1758 1765	dextran
+T55	Multi-tissue_structure 1799 1812	blood vessels
+T56	Gene_or_gene_product 1841 1849	Hedgehog
+T57	Cancer 1870 1878	melanoma
+T58	Multi-tissue_structure 1887 1895	vascular

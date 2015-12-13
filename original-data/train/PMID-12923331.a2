@@ -1,0 +1,71 @@
+*	Equiv T11 T12
+*	Equiv T16 T17
+*	Equiv T20 T23
+*	Equiv T29 T30
+T53	Gene_expression 0 10	Expression
+E1	Gene_expression:T53 Theme:T1
+E2	Gene_expression:T53 Theme:T2
+T54	Metastasis 68 78	metastasis
+E3	Metastasis:T54 Theme:T3 ToLoc:T4
+T55	Breakdown 86 97	destruction
+E4	Breakdown:T55 Theme:T5
+T56	Positive_regulation 170 179	stimulate
+E5	Positive_regulation:T56 Cause:T8 Theme:E7
+E6	Positive_regulation:T56 Cause:T8 Theme:E8
+T57	Development 184 193	formation
+E7	Development:T57 Theme:T9
+T58	Positive_regulation 198 208	activation
+E8	Positive_regulation:T58 Theme:T9
+T59	Metastasis 232 242	metastatic
+E9	Metastasis:T59 Theme:T10
+T60	Positive_regulation 373 383	stimulates
+E10	Positive_regulation:T60 Cause:T11 Theme:E11
+T61	Cell_differentiation 395 410	differentiation
+E11	Cell_differentiation:T61 Theme:T14
+T62	Negative_regulation 471 479	inhibits
+E12	Negative_regulation:T62 Cause:T16 Theme:E13
+T63	Development 491 502	development
+E13	Development:T63 Theme:T18
+T64	Positive_regulation 549 556	induced
+E14	Positive_regulation:T64 Cause:T19 Theme:E15
+T65	Cell_differentiation 557 575	osteoclastogenesis
+E15	Cell_differentiation:T65 Theme:T20
+T66	Planned_process 642 653	co-cultured
+E16	Planned_process:T66 Theme:T24 Theme2:T23
+E17	Planned_process:T66 Theme:T25 Theme2:T23
+E18	Planned_process:T66 Theme:T27 Theme2:T23
+T67	Transcription 895 906	expressions
+E19	Transcription:T67 Theme:T34
+E20	Transcription:T67 Theme:T35
+M1	Speculation E19
+M2	Speculation E20
+T68	Planned_process 952 962	co-culture
+E21	Planned_process:T68 Theme:T37 Theme2:T36
+E22	Planned_process:T68 Theme:T38 Theme2:T36
+T69	Positive_regulation 1018 1025	induced
+E23	Positive_regulation:T69 Theme:T40 Cause:E21
+E24	Positive_regulation:T69 Theme:T40 Cause:E22
+T70	Transcription 1140 1147	express
+E25	Transcription:T70 Theme:T43
+M3	Negation E25
+T71	Planned_process 1169 1179	co-culture
+E26	Planned_process:T71 Theme:T45 Theme2:T44
+E27	Planned_process:T71 Theme:T46 Theme2:T44
+T72	Positive_regulation 1237 1244	induced
+E28	Positive_regulation:T72 Theme:E30 Cause:E26
+E29	Positive_regulation:T72 Theme:E30 Cause:E27
+T73	Transcription 1251 1266	mRNA expression
+E30	Transcription:T73 Theme:T47
+T74	Negative_regulation 1271 1280	decreased
+E31	Negative_regulation:T74 Theme:E33 Cause:E26
+E32	Negative_regulation:T74 Theme:E33 Cause:E27
+T75	Transcription 1285 1300	mRNA expression
+E33	Transcription:T75 Theme:T48
+T76	Binding 1344 1356	interactions
+E34	Binding:T76 Theme:T50 Theme2:T49
+E35	Binding:T76 Theme:T51 Theme2:T49
+T77	Regulation 1456 1466	modulating
+E36	Regulation:T77 Theme:E38 Cause:E34
+E37	Regulation:T77 Theme:E38 Cause:E35
+T78	Gene_expression 1473 1483	expression
+E38	Gene_expression:T78 Theme:T52

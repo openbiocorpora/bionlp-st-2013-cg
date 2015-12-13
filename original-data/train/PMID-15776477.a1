@@ -1,0 +1,41 @@
+T1	Gene_or_gene_product 0 10	Angiogenin
+T2	Cellular_component 34 41	nucleus
+T3	Organism_substance 46 55	cytoplasm
+T4	Organism 59 64	human
+T5	Cancer 73 89	breast carcinoma
+T6	Gene_or_gene_product 151 161	Angiogenin
+T7	Cancer 368 381	breast cancer
+T8	Gene_or_gene_product 437 447	angiogenin
+T9	Gene_or_gene_product 484 494	angiogenin
+T10	Tissue 529 542	breast tissue
+T11	Cancer 546 562	ductal carcinoma
+T12	Cancer 584 593	carcinoma
+T13	Gene_or_gene_product 656 666	angiogenin
+T14	Cancer 683 693	carcinomas
+T15	Gene_or_gene_product 739 777	hypoxia-inducible factor (HIF)-1 alpha
+T16	Gene_or_gene_product 786 797	HIF-1 alpha
+T17	Gene_or_gene_product 810 815	DEC-1
+T18	Gene_or_gene_product 839 849	angiogenin
+T19	Organism_substance 884 895	cytoplasmic
+T20	Cellular_component 900 907	nuclear
+T21	Cancer 932 941	carcinoma
+T22	Cancer 955 964	carcinoma
+T23	Tissue 986 999	breast tissue
+T24	Gene_or_gene_product 1009 1019	angiogenin
+T25	Cancer 1043 1053	carcinomas
+T26	Cancer 1103 1109	tumour
+T27	Gene_or_gene_product 1137 1155	oestrogen receptor
+T28	Gene_or_gene_product 1157 1159	ER
+T29	Gene_or_gene_product 1180 1191	HIF-1 alpha
+T30	Gene_or_gene_product 1208 1213	DEC 1
+T31	Organism 1240 1247	patient
+T32	Cancer 1263 1269	tumour
+T33	Multi-tissue_structure 1287 1297	lymph node
+T34	Gene_or_gene_product 1317 1349	epidermal growth factor receptor
+T35	Tissue 1364 1375	microvessel
+T36	Organism 1484 1492	patients
+T37	Gene_or_gene_product 1507 1517	angiogenin
+T38	Gene_or_gene_product 1555 1565	angiogenin
+T39	Cancer 1586 1599	breast cancer
+T40	Gene_or_gene_product 1652 1654	ER
+T41	Simple_chemical 1679 1688	tamoxifen

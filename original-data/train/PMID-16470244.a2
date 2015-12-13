@@ -1,0 +1,66 @@
+*	Equiv T3 T4
+*	Equiv T19 T20
+T43	Negative_regulation 10 15	limit
+E1	Negative_regulation:T43 Theme:E2 Cause:T1
+T44	Metastasis 27 37	metastasis
+E2	Metastasis:T44 Theme:T2
+T45	Gene_expression 104 114	deficiency
+E3	Gene_expression:T45 Theme:T3
+M1	Negation E3
+T46	Positive_regulation 135 146	facilitates
+E4	Positive_regulation:T46 Cause:E3 Theme:E6
+E5	Positive_regulation:T46 Cause:E3 Theme:E7
+T47	Metastasis 147 157	metastasis
+E6	Metastasis:T47 ToLoc:T7 Theme:T5
+E7	Metastasis:T47 ToLoc:T6 Theme:T5
+T48	Development 252 256	grew
+E8	Development:T48 Theme:T10
+T49	Regulation 282 291	perturbed
+E9	Regulation:T49 Theme:E10
+T50	Binding 313 335	cell-cell interactions
+E10	Binding:T50 Theme:T12 Theme:T11
+T51	Localization 363 373	deposition
+E11	Localization:T51 Theme:T16 AtLoc:T15
+T52	Gene_expression 416 426	expression
+E12	Gene_expression:T52 Theme:T18
+T53	Positive_regulation 466 474	improved
+E13	Positive_regulation:T53 Theme:E14 Cause:E12
+T54	Localization 484 495	recruitment
+E14	Localization:T54 Theme:T21
+T55	Positive_regulation 500 509	increased
+E15	Positive_regulation:T55 Cause:E12 Theme:E16
+T56	Localization 523 533	deposition
+E16	Localization:T56 Theme:T23 AtLoc:T22
+T57	Negative_regulation 599 604	limit
+E17	Negative_regulation:T57 Cause:E19 Theme:E18
+M2	Speculation E17
+T58	Metastasis 616 626	metastasis
+E18	Metastasis:T58 Theme:T25
+T59	Positive_regulation 630 641	stabilizing
+E19	Positive_regulation:T59 Theme:T26 Cause:T24
+T60	Death 701 712	dysfunction
+E20	Death:T60 Theme:T27
+T61	Positive_regulation 713 722	increases
+E21	Positive_regulation:T61 Theme:E22 Cause:E20
+M3	Speculation E21
+T62	Metastasis 727 737	metastatic
+E22	Metastasis:T62 Theme:T28
+T63	Carcinogenesis 786 799	tumorigenesis
+E23	Carcinogenesis:T63 
+T64	Metastasis 884 894	metastases
+E24	Metastasis:T64 ToLoc:T35 Theme:T33
+E25	Metastasis:T64 ToLoc:T34 Theme:T33
+T65	Regulation 952 956	role
+E26	Regulation:T65 Cause:T36 Theme:E27
+T66	Negative_regulation 974 982	limiting
+E27	Negative_regulation:T66 Theme:E28
+T67	Metastasis 994 1004	metastasis
+E28	Metastasis:T67 Theme:T37
+T68	Positive_regulation 1057 1064	trigger
+E29	Positive_regulation:T68 Theme:E30 Cause:E31
+T69	Metastasis 1065 1075	metastasis
+E30	Metastasis:T69 Theme:T38
+T70	Regulation 1079 1089	perturbing
+E31	Regulation:T70 Cause:T38 Theme:E32
+T71	Binding 1111 1133	cell-cell interactions
+E32	Binding:T71 Theme:T40 Theme:T39

@@ -1,0 +1,58 @@
+T1	Gene_or_gene_product 38 54	cyclooxygenase-2
+T2	Gene_or_gene_product 59 107	peroxisome proliferator activated-receptor gamma
+T3	Cancer 111 137	epithelial ovarian tumours
+T4	Gene_or_gene_product 154 176	cyclooxygenase (COX)-2
+T5	Gene_or_gene_product 231 279	peroxisome proliferator-activated receptor gamma
+T6	Gene_or_gene_product 281 290	PPARgamma
+T7	Gene_or_gene_product 330 335	COX-2
+T8	Tissue 355 362	tissues
+T9	Gene_or_gene_product 430 435	COX-2
+T10	Gene_or_gene_product 440 449	PPARgamma
+T11	Organ 469 476	ovarian
+T12	Cancer 511 526	ovarian tumours
+T13	Gene_or_gene_product 543 548	COX-2
+T14	Gene_or_gene_product 612 621	PPARgamma
+T15	Cell 625 648	ovarian carcinoma cells
+T16	Gene_or_gene_product 684 689	COX-2
+T17	Gene_or_gene_product 694 703	PPARgamma
+T18	Cancer 745 774	epithelial ovarian carcinomas
+T19	Cancer 790 797	tumours
+T20	Cancer 812 819	tumours
+T21	Gene_or_gene_product 838 843	COX-2
+T22	Gene_or_gene_product 848 857	PPARgamma
+T23	Cancer 920 927	tumours
+T24	Cancer 946 953	tumours
+T25	Cancer 961 971	carcinomas
+T26	Gene_or_gene_product 990 995	COX-2
+T27	Gene_or_gene_product 1000 1009	PPARgamma
+T28	Pathological_formation 1065 1072	lesions
+T29	Cancer 1087 1096	carcinoma
+T30	Gene_or_gene_product 1116 1121	COX-2
+T31	Cancer 1171 1178	tumours
+T32	Gene_or_gene_product 1188 1197	PPARgamma
+T33	Gene_or_gene_product 1235 1240	COX-2
+T34	Cancer 1281 1291	carcinomas
+T35	Gene_or_gene_product 1301 1310	PPARgamma
+T36	Gene_or_gene_product 1364 1373	PPARgamma
+T37	Cancer 1419 1429	carcinomas
+T38	Gene_or_gene_product 1439 1444	COX-2
+T39	Gene_or_gene_product 1497 1506	PPARgamma
+T40	Gene_or_gene_product 1511 1516	COX-2
+T41	Cell 1576 1599	ovarian carcinoma cells
+T42	Gene_or_gene_product 1628 1637	PPARgamma
+T43	Gene_or_gene_product 1642 1647	COX-2
+T44	Simple_chemical 1714 1743	15-deoxy-Delta(12, 14) PGJ(2)
+T45	Simple_chemical 1745 1754	15-PGJ(2)
+T46	Gene_or_gene_product 1759 1768	PPARgamma
+T47	Simple_chemical 1793 1803	15d-PGJ(2)
+T48	Gene_or_gene_product 1815 1843	tumour necrosis factor-alpha
+T49	Gene_or_gene_product 1852 1857	COX-2
+T50	Gene_or_gene_product 1916 1921	COX-2
+T51	Gene_or_gene_product 1926 1935	PPARgamma
+T52	Gene_or_gene_product 1979 1988	PPARgamma
+T53	Gene_or_gene_product 2015 2020	COX-2
+T54	Gene_or_gene_product 2040 2061	nuclear factor-kappaB
+T55	Cell 2077 2100	ovarian carcinoma cells
+T56	Gene_or_gene_product 2128 2137	PPARgamma
+T57	Gene_or_gene_product 2161 2166	COX-2
+T58	Cancer 2222 2237	ovarian tumours

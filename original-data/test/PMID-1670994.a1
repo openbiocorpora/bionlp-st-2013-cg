@@ -1,0 +1,53 @@
+T1	Organism 0 17	Hepatitis B virus
+T2	Organism 39 44	human
+T3	Cellular_component 45 59	chromosome 17p
+T4	Gene_or_gene_product 69 72	p53
+T5	Cellular_component 107 117	chromosome
+T6	Cancer 138 178	virus-positive hepatocellular carcinomas
+T7	Cancer 200 224	hepatocellular carcinoma
+T8	Cancer 226 229	HCC
+T9	Organism 306 323	Hepatitis B virus
+T10	Organism 325 328	HBV
+T11	Cancer 377 380	HCC
+T12	Organism 384 390	people
+T13	Organism 421 426	virus
+T14	Organism 449 454	viral
+T15	Cellular_component 518 529	chromosomal
+T16	Cancer 565 568	HCC
+T17	Cellular_component 569 572	DNA
+T18	Organism 588 591	HBV
+T19	Cell 649 657	cellular
+T20	Organism 726 729	HBV
+T21	Organism 744 751	Chinese
+T22	Cancer 752 755	HCC
+T23	Organism 761 766	viral
+T24	Cellular_component 784 805	chromosome 17p11.2-12
+T25	Cell 811 819	cellular
+T26	Organism 861 866	viral
+T27	Cellular_component 903 906	DNA
+T28	Cell 926 934	cellular
+T29	Cellular_component 935 938	DNA
+T30	Organism 990 993	HBV
+T31	Organ 1048 1053	liver
+T32	Organism 1058 1061	HBV
+T33	Tissue 1071 1087	hepatoma samples
+T34	Cancer 1143 1148	Tumor
+T35	Cellular_component 1158 1161	DNA
+T36	Cancer 1202 1206	HCCs
+T37	Cellular_component 1244 1258	chromosome 17p
+T38	Cell 1283 1287	cell
+T39	Cellular_component 1288 1291	DNA
+T40	Cancer 1321 1330	hepatomas
+T41	Cellular_component 1435 1448	chromosome 17
+T42	Organism 1480 1488	patients
+T43	Gene_or_gene_product 1520 1523	p53
+T44	Cellular_component 1541 1557	chromosome 17p13
+T45	Organism 1598 1606	patients
+T46	Gene_or_gene_product 1636 1639	p53
+T47	Gene_or_gene_product 1654 1657	p53
+T48	Cancer 1683 1688	tumor
+T49	Cancer 1803 1807	HCCs
+T50	Cellular_component 1859 1873	chromosomes 8q
+T51	Cellular_component 1892 1895	16p
+T52	Cell 1954 1962	cellular
+T53	Cancer 2026 2030	HCCs

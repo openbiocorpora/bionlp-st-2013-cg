@@ -1,0 +1,46 @@
+T1	Organism 31 36	human
+T2	Gene_or_gene_product 37 69	telomerase reverse transcriptase
+T3	Gene_or_gene_product 74 108	vascular endothelial growth factor
+T4	Cancer 170 200	p63-positive breast carcinomas
+T5	Gene_or_gene_product 170 173	p63
+T6	Gene_or_gene_product 202 205	p63
+T7	Gene_or_gene_product 209 212	p53
+T8	Cell 229 247	myoepithelial cell
+T9	Organ 269 282	mammary gland
+T10	Cell 287 316	p63-positive neoplastic cells
+T11	Gene_or_gene_product 287 290	p63
+T12	Cancer 346 372	invasive breast carcinomas
+T13	Gene_or_gene_product 425 428	p63
+T14	Cancer 485 490	tumor
+T15	Cancer 527 543	breast pathology
+T16	Cell 576 580	cell
+T17	Gene_or_gene_product 627 645	metalloproteinases
+T18	Cancer 781 807	invasive ductal carcinomas
+T19	Cell 809 827	p63-positive cells
+T20	Gene_or_gene_product 809 812	p63
+T21	Cancer 849 859	carcinomas
+T22	Cancer 861 884	p63-positive carcinomas
+T23	Gene_or_gene_product 861 864	p63
+T24	Cancer 939 948	neoplasms
+T25	Gene_or_gene_product 981 984	p63
+T26	Cancer 1035 1040	tumor
+T27	Organism 1069 1074	human
+T28	Gene_or_gene_product 1075 1107	telomerase reverse transcriptase
+T29	Gene_or_gene_product 1109 1114	hTERT
+T30	Gene_or_gene_product 1117 1163	tissue inhibitor of matrix metalloproteinase 1
+T31	Gene_or_gene_product 1165 1170	TIMP1
+T32	Gene_or_gene_product 1176 1210	vascular endothelial growth factor
+T33	Gene_or_gene_product 1212 1216	VEGF
+T34	Gene_or_gene_product 1237 1242	TIMP1
+T35	Cancer 1309 1332	p63-positive carcinomas
+T36	Gene_or_gene_product 1309 1312	p63
+T37	Gene_or_gene_product 1334 1339	hTERT
+T38	Multi-tissue_structure 1368 1373	nodal
+T39	Cell 1389 1397	cellular
+T40	Gene_or_gene_product 1413 1417	VEGF
+T41	Cancer 1494 1499	tumor
+T42	Gene_or_gene_product 1574 1579	hTERT
+T43	Gene_or_gene_product 1584 1588	VEGF
+T44	Cancer 1592 1622	p63-positive breast carcinomas
+T45	Gene_or_gene_product 1592 1595	p63
+T46	Cancer 1690 1699	neoplasms

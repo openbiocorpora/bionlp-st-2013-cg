@@ -1,0 +1,38 @@
+*	Equiv T3 T4
+*	Equiv T25 T26
+T47	Localization 28 36	invasion
+E1	Localization:T47 ToLoc:T1 Theme:T2
+T48	Metastasis 137 147	metastases
+E2	Metastasis:T48 ToLoc:T5
+T49	Localization 253 261	invasion
+E3	Localization:T49 ToLoc:T7 Theme:T8
+T50	Metastasis 362 372	metastases
+E4	Metastasis:T50 ToLoc:T9
+T51	Planned_process 602 619	paraffin-embedded
+E5	Planned_process:T51 Theme:T14
+T52	Localization 643 651	invasive
+E6	Localization:T52 Theme:T15
+T53	Planned_process 904 911	stained
+E7	Planned_process:T53 Instrument:T19 Instrument2:T18 Theme:T21
+T54	Planned_process 1020 1034	immunostaining
+E8	Planned_process:T54 Instrument:T22
+T55	Planned_process 1140 1148	staining
+E9	Planned_process:T55 Instrument:T23 Theme:T24
+T56	Planned_process 1295 1303	staining
+E10	Planned_process:T56 Instrument:T29 Theme:T27
+E11	Planned_process:T56 Instrument:T29 Theme:T28
+T57	Gene_expression 1653 1661	negative
+E12	Gene_expression:T57 Theme:T36
+E13	Gene_expression:T57 Theme:T37
+E14	Gene_expression:T57 Theme:T38
+M1	Negation E12
+M2	Negation E13
+M3	Negation E14
+T58	Planned_process 1917 1931	Immunostaining
+E15	Planned_process:T58 Instrument:T40
+T59	Positive_regulation 1957 1966	increased
+E16	Positive_regulation:T59 Theme:E15
+T60	Localization 2007 2015	invasion
+E17	Localization:T60 Theme:T43 ToLoc:T41
+T61	Planned_process 2046 2054	staining
+E18	Planned_process:T61 Instrument:T42

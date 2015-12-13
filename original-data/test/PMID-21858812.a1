@@ -1,0 +1,51 @@
+T1	Cancer 44 49	tumor
+T2	Simple_chemical 86 95	sorafenib
+T3	Cancer 99 123	hepatocellular carcinoma
+T4	Simple_chemical 148 157	sorafenib
+T5	Cancer 201 207	tumors
+T6	Gene_or_gene_product 227 230	Raf
+T7	Gene_or_gene_product 231 234	MEK
+T8	Gene_or_gene_product 235 238	ERK
+T9	Gene_or_gene_product 261 274	VEGF receptor
+T10	Amino_acid 275 283	tyrosine
+T11	Organism 337 345	patients
+T12	Cancer 360 384	hepatocellular carcinoma
+T13	Cancer 386 389	HCC
+T14	Cancer 465 470	tumor
+T15	Cancer 547 550	HCC
+T16	Cell 646 660	hepatoma cells
+T17	Simple_chemical 683 692	Sorafenib
+T18	Cellular_component 726 740	autophagosomes
+T19	Gene_or_gene_product 773 778	LC3-I
+T20	Gene_or_gene_product 782 788	LC3-II
+T21	Cell 815 819	Huh7
+T22	Cell 821 824	HLF
+T23	Cell 829 844	PLC/PRF/5 cells
+T24	Gene_or_gene_product 936 942	LC3-II
+T25	Gene_or_gene_product 1037 1040	p62
+T26	Gene_or_gene_product 1049 1053	mRFP
+T27	Gene_or_gene_product 1054 1057	GFP
+T28	Gene_or_gene_product 1058 1061	LC3
+T29	Simple_chemical 1085 1094	sorafenib
+T30	Cell 1103 1117	hepatoma cells
+T31	Simple_chemical 1119 1128	Sorafenib
+T32	Gene_or_gene_product 1143 1182	mammalian target of rapamycin complex 1
+T33	Gene_or_gene_product 1225 1231	LC3-II
+T34	Simple_chemical 1282 1293	chloroquine
+T35	Cell 1328 1332	cell
+T36	Cell 1346 1360	hepatoma cells
+T37	Gene_or_gene_product 1394 1398	ATG7
+T38	Cell 1420 1434	hepatoma cells
+T39	Simple_chemical 1438 1447	sorafenib
+T40	Simple_chemical 1458 1467	sorafenib
+T41	Cancer 1489 1510	Huh7 xenograft tumors
+T42	Organism 1514 1523	nude mice
+T43	Simple_chemical 1550 1561	chloroquine
+T44	Cancer 1587 1592	tumor
+T45	Simple_chemical 1614 1623	sorafenib
+T46	Simple_chemical 1646 1655	sorafenib
+T47	Cellular_component 1679 1692	autophagosome
+T48	Cell 1777 1791	hepatoma cells
+T49	Cancer 1881 1886	tumor
+T50	Simple_chemical 1900 1909	sorafenib
+T51	Cancer 1913 1916	HCC

@@ -1,0 +1,42 @@
+T1	Gene_or_gene_product 0 25	Neurotrophin p75 receptor
+T2	Gene_or_gene_product 27 33	p75NTR
+T3	Cell 44 60	endothelial cell
+T4	Organ 172 184	limb muscles
+T5	Cell 203 214	endothelial
+T6	Gene_or_gene_product 263 292	p75 receptor of neurotrophins
+T7	Gene_or_gene_product 294 302	p75(NTR)
+T8	Cell 342 359	endothelial cells
+T9	Cell 361 364	ECs
+T10	Cell 397 410	capillary ECs
+T11	Tissue 430 440	peripheral
+T12	Organism 469 473	mice
+T13	Gene_or_gene_product 516 524	p75(NTR)
+T14	Cell 620 623	ECs
+T15	Cell 628 656	endothelial progenitor cells
+T16	Cell 658 662	EPCs
+T17	Immaterial_anatomical_entity 710 723	intramuscular
+T18	Gene_or_gene_product 724 732	p75(NTR)
+T19	Organism_substance 778 783	blood
+T20	Organism 803 808	mouse
+T21	Organism_subdivision 818 822	limb
+T22	Cell 929 931	EC
+T23	Gene_or_gene_product 968 976	p75(NTR)
+T24	Gene_or_gene_product 991 997	VEGF-A
+T25	Gene_or_gene_product 998 1001	Akt
+T26	Gene_or_gene_product 1002 1006	eNOS
+T27	Simple_chemical 1007 1009	NO
+T28	Gene_or_gene_product 1062 1067	ITGB1
+T29	Gene_or_gene_product 1069 1086	beta (1) integrin
+T30	Gene_or_gene_product 1089 1094	BIRC5
+T31	Gene_or_gene_product 1096 1104	survivin
+T32	Gene_or_gene_product 1107 1112	PTTG1
+T33	Gene_or_gene_product 1114 1121	securin
+T34	Gene_or_gene_product 1127 1132	VEZF1
+T35	Organism 1143 1147	mice
+T36	Organ 1192 1200	muscular
+T37	Organism_substance 1224 1229	blood
+T38	Immaterial_anatomical_entity 1282 1295	intramuscular
+T39	Gene_or_gene_product 1348 1356	p75(NTR)
+T40	Gene_or_gene_product 1428 1436	p75(NTR)
+T41	Gene_or_gene_product 1485 1493	p75(NTR)
+T42	Tissue 1532 1545	microvascular

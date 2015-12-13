@@ -1,0 +1,29 @@
+T18	Regulation 94 98	role
+E1	Regulation:T18 Theme:T3
+T19	Regulation 269 279	regulation
+E2	Regulation:T19 Cause:T5 Theme:E6
+E3	Regulation:T19 Cause:T5 Theme:E7
+E4	Regulation:T19 Cause:T5 Theme:E8
+E5	Regulation:T19 Cause:T5 Theme:E9
+T20	Glycolysis 283 293	glycolysis
+E6	Glycolysis:T20 
+T21	Amino_acid_catabolism 322 336	glutaminolysis
+E7	Amino_acid_catabolism:T21 
+T22	Synthesis 370 382	biosynthesis
+E8	Synthesis:T22 Theme:T7
+T23	Pathway 472 482	signalling
+E9	Pathway:T23 Participant:T11
+T24	Positive_regulation 499 509	positively
+E10	Positive_regulation:T24 Theme:E6
+E11	Positive_regulation:T24 Theme:E7
+E12	Positive_regulation:T24 Theme:E8
+E13	Positive_regulation:T24 Theme:E9
+T25	Negative_regulation 514 533	negatively regulate
+E14	Negative_regulation:T25 Theme:E6
+E15	Negative_regulation:T25 Theme:E7
+E16	Negative_regulation:T25 Theme:E8
+E17	Negative_regulation:T25 Theme:E9
+T26	Pathway 572 591	feedback signalling
+E18	Pathway:T26 Theme:T12
+T27	Cell_death 829 838	apoptotic
+E19	Cell_death:T27 

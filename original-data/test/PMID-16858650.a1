@@ -1,0 +1,38 @@
+T1	Simple_chemical 0 7	Heparin
+T2	Simple_chemical 27 31	PLGA
+T3	Simple_chemical 93 100	Heparin
+T4	Simple_chemical 120 153	poly(D,L-lactic-co-glycolic acid)
+T5	Simple_chemical 155 159	PLGA
+T6	Gene_or_gene_product 213 243	basic fibroblast growth factor
+T7	Gene_or_gene_product 245 249	bFGF
+T8	Simple_chemical 305 309	PLGA
+T9	Simple_chemical 479 486	Heparin
+T10	Gene_or_gene_product 537 541	bFGF
+T11	Simple_chemical 562 569	heparin
+T12	Simple_chemical 586 590	PLGA
+T13	Simple_chemical 591 598	heparin
+T14	Gene_or_gene_product 645 649	bFGF
+T15	Simple_chemical 657 661	PLGA
+T16	Simple_chemical 662 669	heparin
+T17	Simple_chemical 758 762	PLGA
+T18	Simple_chemical 936 943	heparin
+T19	Simple_chemical 975 979	PLGA
+T20	Simple_chemical 980 987	heparin
+T21	Gene_or_gene_product 1014 1018	bFGF
+T22	Simple_chemical 1090 1094	PLGA
+T23	Simple_chemical 1145 1152	heparin
+T24	Gene_or_gene_product 1184 1188	bFGF
+T25	Gene_or_gene_product 1219 1223	bFGF
+T26	Simple_chemical 1231 1235	PLGA
+T27	Simple_chemical 1236 1243	heparin
+T28	Organism 1260 1264	mice
+T29	Tissue 1308 1329	vascular microvessels
+T30	Simple_chemical 1344 1348	PLGA
+T31	Simple_chemical 1422 1429	heparin
+T32	Gene_or_gene_product 1449 1453	bFGF
+T33	Gene_or_gene_product 1463 1467	bFGF
+T34	Simple_chemical 1475 1479	PLGA
+T35	Simple_chemical 1480 1482	HP
+T36	Gene_or_gene_product 1533 1537	bFGF
+T37	Gene_or_gene_product 1597 1601	bFGF
+T38	Simple_chemical 1617 1624	heparin

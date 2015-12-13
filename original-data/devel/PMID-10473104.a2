@@ -1,0 +1,56 @@
+*	Equiv T8 T9
+*	Equiv T18 T19
+T37	Negative_regulation 24 31	inhibit
+E1	Negative_regulation:T37 Theme:E2 Cause:T1
+T38	Blood_vessel_development 36 48	angiogenesis
+E2	Blood_vessel_development:T38 
+T39	Positive_regulation 49 56	induced
+E3	Positive_regulation:T39 Cause:T3 Theme:E2
+T40	Planned_process 280 285	treat
+E4	Planned_process:T40 Instrument:T6 Theme:T12
+T41	Planned_process 324 336	chemotherapy
+E5	Planned_process:T41 Theme:T12
+T42	Negative_regulation 427 444	inhibitory effect
+E6	Negative_regulation:T42 Theme:E8 Cause:T13
+T43	Positive_regulation 471 478	induced
+E7	Positive_regulation:T43 Cause:T14 Theme:E8
+T44	Blood_vessel_development 479 491	angiogenesis
+E8	Blood_vessel_development:T44 
+T45	Blood_vessel_development 526 538	angiogenesis
+E9	Blood_vessel_development:T45 
+T46	Positive_regulation 542 549	induced
+E10	Positive_regulation:T46 Theme:E9 Cause:E11
+T47	Planned_process 553 565	implantation
+E11	Planned_process:T47 Instrument:T15 Theme:T16
+T48	Blood_vessel_development 648 660	angiogenesis
+E12	Blood_vessel_development:T48 
+T49	Negative_regulation 661 678	inhibitory effect
+E13	Negative_regulation:T49 Cause:T17 Theme:E12
+T50	Negative_regulation 738 747	effective
+E14	Negative_regulation:T50 Theme:E12 Cause:T20
+E15	Negative_regulation:T50 Theme:E12 Cause:T18
+T51	Regulation 834 845	ineffective
+E16	Regulation:T51 Cause:T23 Theme:E17
+M1	Negation E16
+T52	Negative_regulation 853 863	inhibition
+E17	Negative_regulation:T52 Theme:E18
+T53	Blood_vessel_development 867 879	angiogenesis
+E18	Blood_vessel_development:T53 
+T54	Blood_vessel_development 1001 1013	angiogenesis
+E19	Blood_vessel_development:T54 
+T55	Negative_regulation 1014 1031	inhibitory effect
+E20	Negative_regulation:T55 Theme:E19 Cause:T25
+E21	Negative_regulation:T55 Theme:E19 Cause:T24
+T56	Positive_regulation 1040 1049	amplified
+E22	Positive_regulation:T56 Theme:T25
+E23	Positive_regulation:T56 Theme:T24
+T57	Planned_process 1073 1085	administered
+E24	Planned_process:T57 Instrument:T25
+E25	Planned_process:T57 Instrument:T24
+T58	Planned_process 1203 1217	administration
+E26	Planned_process:T58 Instrument:T28
+T59	Blood_vessel_development 1324 1336	angiogenesis
+E27	Blood_vessel_development:T59 
+T60	Negative_regulation 1337 1354	inhibitory effect
+E28	Negative_regulation:T60 Theme:E27 Cause:T30
+E29	Negative_regulation:T60 Theme:E27 Cause:T31

@@ -1,0 +1,36 @@
+T1	Cell 18 26	platelet
+T2	Cell 31 47	endothelial cell
+T3	Multi-tissue_structure 60 74	vascular graft
+T4	Gene_or_gene_product 88 96	perlecan
+T5	Multi-tissue_structure 177 192	vascular grafts
+T6	Cell 217 225	platelet
+T7	Cell 247 263	endothelial cell
+T8	Gene_or_gene_product 272 280	perlecan
+T9	Gene_or_gene_product 292 325	heparan sulfate (HS) proteoglycan
+T10	Cellular_component 329 347	basement membranes
+T11	Simple_chemical 411 434	polytetrafluoroethylene
+T12	Simple_chemical 437 441	PTFE
+T13	Multi-tissue_structure 443 458	vascular grafts
+T14	Gene_or_gene_product 476 484	perlecan
+T15	Organism 502 507	ovine
+T16	Multi-tissue_structure 508 515	carotid
+T17	Cell 619 635	endothelial cell
+T18	Cell 655 663	platelet
+T19	Gene_or_gene_product 694 702	perlecan
+T20	Multi-tissue_structure 710 716	grafts
+T21	Organism 774 779	sheep
+T22	Gene_or_gene_product 787 795	Perlecan
+T23	Cell 824 840	endothelial cell
+T24	Organism_substance 907 913	plasma
+T25	Gene_or_gene_product 927 955	fibroblastic growth factor 2
+T26	Gene_or_gene_product 957 962	FGF-2
+T27	Gene_or_gene_product 991 996	FGF-2
+T28	Cell 997 1013	endothelial cell
+T29	Gene_or_gene_product 1065 1073	Perlecan
+T30	Cell 1108 1117	platelets
+T31	Gene_or_gene_product 1170 1178	perlecan
+T32	Cell 1180 1188	platelet
+T33	Gene_or_gene_product 1276 1284	perlecan
+T34	Multi-tissue_structure 1298 1303	graft
+T35	Cell 1337 1353	endothelial cell
+T36	Cell 1385 1393	platelet

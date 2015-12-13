@@ -1,0 +1,14 @@
+T1	Gene_or_gene_product 0 8	Collagen
+T2	Simple_chemical 9 27	poly glycolic acid
+T3	Gene_or_gene_product 47 77	basic fibroblast growth factor
+T4	Tissue 107 125	granulation tissue
+T5	Organism 148 152	mice
+T6	Pathological_formation 167 177	skin wound
+T7	Gene_or_gene_product 411 419	collagen
+T8	Simple_chemical 420 438	poly glycolic acid
+T9	Gene_or_gene_product 485 515	basic fibroblast growth factor
+T10	Pathological_formation 527 532	wound
+T11	Organ 559 563	skin
+T12	Organism 603 616	Lepr(db) mice
+T13	Gene_or_gene_product 603 607	Lepr
+T14	Tissue 703 721	granulation tissue

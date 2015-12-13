@@ -1,0 +1,39 @@
+T1	Gene_or_gene_product 0 3	Rab
+T2	Gene_or_gene_product 25 31	VEGFR2
+T3	Cell 61 78	endothelial cells
+T4	Gene_or_gene_product 91 136	Vascular endothelial growth factor receptor 2
+T5	Gene_or_gene_product 138 144	VEGFR2
+T6	Multi-tissue_structure 191 199	vascular
+T7	Gene_or_gene_product 243 249	VEGFR2
+T8	Gene_or_gene_product 337 340	Rab
+T9	Gene_or_gene_product 367 373	VEGFR2
+T10	Cell 410 426	endothelial cell
+T11	Gene_or_gene_product 469 475	VEGFR2
+T12	Cellular_component 485 494	endosomal
+T13	Gene_or_gene_product 536 541	Rab5a
+T14	Cellular_component 559 567	endosome
+T15	Simple_chemical 600 603	GTP
+T16	Simple_chemical 607 610	GDP
+T17	Gene_or_gene_product 617 622	Rab5a
+T18	Gene_or_gene_product 647 653	VEGFR2
+T19	Gene_or_gene_product 699 704	Rab7a
+T20	Cellular_component 737 751	late endosomes
+T21	Gene_or_gene_product 822 828	VEGFR2
+T22	Gene_or_gene_product 871 876	Rab7a
+T23	Gene_or_gene_product 887 893	VEGFR2
+T24	Gene_or_gene_product 930 936	p42/44
+T25	Gene_or_gene_product 938 945	pERK1/2
+T26	Gene_or_gene_product 947 951	MAPK
+T27	Cell 969 985	Endothelial cell
+T28	Gene_or_gene_product 1013 1018	Rab5a
+T29	Gene_or_gene_product 1046 1051	Rab7a
+T30	Gene_or_gene_product 1076 1081	Rab5a
+T31	Gene_or_gene_product 1086 1091	Rab7a
+T32	Gene_or_gene_product 1101 1107	VEGFR2
+T33	Cellular_component 1127 1132	early
+T34	Cellular_component 1137 1151	late endosomes
+T35	Gene_or_gene_product 1175 1181	VEGFR2
+T36	Cell 1205 1216	endothelial
+T37	Gene_or_gene_product 1265 1268	Rab
+T38	Simple_chemical 1278 1281	GTP
+T39	Cellular_component 1315 1324	endosomal

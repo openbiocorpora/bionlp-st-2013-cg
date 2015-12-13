@@ -1,0 +1,37 @@
+T1	Gene_or_gene_product 0 5	Bmi-1
+T2	Cell 25 53	neural stem/progenitor cells
+T3	Gene_or_gene_product 175 180	Bmi-1
+T4	Cell 217 227	stem cells
+T5	Tissue 241 248	tissues
+T6	Anatomical_system 264 286	central nervous system
+T7	Anatomical_system 288 291	CNS
+T8	Gene_or_gene_product 294 299	Bmi-1
+T9	Organism 331 336	human
+T10	Cancer 337 344	gliomas
+T11	Gene_or_gene_product 401 406	Bmi-1
+T12	Cell 481 506	CNS stem/progenitor cells
+T13	Gene_or_gene_product 534 540	Nestin
+T14	Gene_or_gene_product 541 546	Bmi-1
+T15	Gene_or_gene_product 547 550	GFP
+T16	Organism 562 566	mice
+T17	Anatomical_system 625 630	fetal
+T18	Anatomical_system 635 644	adult CNS
+T19	Cell 674 691	neural stem cells
+T20	Cell 755 762	neurons
+T21	Gene_or_gene_product 793 798	Bmi-1
+T22	Cell 836 849	CNS stem cell
+T23	Immaterial_anatomical_entity 861 880	subventricular zone
+T24	Multi-tissue_structure 896 910	olfactory bulb
+T25	Gene_or_gene_product 973 978	Bmi-1
+T26	Organism 990 994	mice
+T27	Multi-tissue_structure 1019 1037	lateral ventricles
+T28	Organism 1126 1130	mice
+T29	Cancer 1149 1159	CNS tumors
+T30	Gene_or_gene_product 1208 1213	Bmi-1
+T31	Gene_or_gene_product 1298 1301	p16
+T32	Gene_or_gene_product 1302 1307	Ink4a
+T33	Gene_or_gene_product 1313 1316	p19
+T34	Gene_or_gene_product 1317 1320	Arf
+T35	Cell 1379 1407	neural stem/progenitor cells
+T36	Organism 1417 1421	mice
+T37	Gene_or_gene_product 1431 1436	Bmi-1

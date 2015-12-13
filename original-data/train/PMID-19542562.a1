@@ -1,0 +1,44 @@
+T1	Gene_or_gene_product 50 54	CCN1
+T2	Gene_or_gene_product 55 60	CYR61
+T3	Gene_or_gene_product 102 108	MRTF-A
+T4	Gene_or_gene_product 113 159	CREB-binding protein histone acetyltransferase
+T5	Tissue 161 187	Smooth muscle-rich tissues
+T6	Gene_or_gene_product 468 472	CCN1
+T7	Multi-tissue_structure 542 550	vascular
+T8	Gene_or_gene_product 651 655	CCN1
+T9	Gene_or_gene_product 697 701	RhoA
+T10	Cellular_component 711 716	actin
+T11	Gene_or_gene_product 736 771	p38 stress-activated protein kinase
+T12	Gene_or_gene_product 773 777	SAPK
+T13	Gene_or_gene_product 780 785	Actin
+T14	Gene_or_gene_product 805 826	serum response factor
+T15	Gene_or_gene_product 828 831	SRF
+T16	Gene_or_gene_product 846 849	SRF
+T17	Gene_or_gene_product 871 923	myocardin-related transcriptional activator (MRTF)-A
+T18	Gene_or_gene_product 979 983	CCN1
+T19	Organism 1049 1054	mouse
+T20	Cell 1055 1072	MRTF-A(-/-) cells
+T21	Gene_or_gene_product 1055 1061	MRTF-A
+T22	Gene_or_gene_product 1095 1153	CREB-binding protein (CBP) histone acetyltransferase (HAT)
+T23	Gene_or_gene_product 1219 1222	CBP
+T24	Gene_or_gene_product 1247 1257	histones 3
+T25	Gene_or_gene_product 1262 1263	4
+T26	Gene_or_gene_product 1271 1274	SRF
+T27	Gene_or_gene_product 1303 1307	CCN1
+T28	Gene_or_gene_product 1342 1350	p38 SAPK
+T29	Gene_or_gene_product 1359 1366	CBP HAT
+T30	Gene_or_gene_product 1403 1406	SRF
+T31	Gene_or_gene_product 1407 1413	MRTF-A
+T32	Gene_or_gene_product 1453 1456	p38
+T33	Gene_or_gene_product 1486 1490	MKK3
+T34	Gene_or_gene_product 1495 1499	MKK6
+T35	Gene_or_gene_product 1515 1522	CBP HAT
+T36	Gene_or_gene_product 1527 1531	CCN1
+T37	Gene_or_gene_product 1592 1596	CCN1
+T38	Gene_or_gene_product 1665 1671	MRTF-A
+T39	Gene_or_gene_product 1694 1698	CCN1
+T40	Gene_or_gene_product 1718 1724	MRTF-A
+T41	Gene_or_gene_product 1740 1750	histone H3
+T42	Gene_or_gene_product 1824 1827	SRF
+T43	Gene_or_gene_product 1829 1835	MRTF-A
+T44	Gene_or_gene_product 1841 1844	CBP

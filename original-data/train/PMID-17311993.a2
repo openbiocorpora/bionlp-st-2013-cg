@@ -1,0 +1,81 @@
+T36	Negative_regulation 0 10	Inhibition
+E1	Negative_regulation:T36 Theme:E3
+T37	Positive_regulation 19 27	mediated
+E2	Positive_regulation:T37 Cause:T1 Theme:E3
+T38	Pathway 28 37	signaling
+E3	Pathway:T38 
+T39	Positive_regulation 38 45	induces
+E4	Positive_regulation:T39 Theme:E5 Cause:E1
+T40	Growth 46 59	proliferation
+E5	Growth:T40 Theme:T2
+T41	Development 127 138	development
+E6	Development:T41 Theme:T4
+T42	Positive_regulation 142 151	dependent
+E7	Positive_regulation:T42 Theme:E6
+T43	Positive_regulation 200 208	critical
+E8	Positive_regulation:T43 Theme:E10
+E9	Positive_regulation:T43 Theme:E11
+T44	Development 213 222	providing
+E10	Development:T44 Theme:T5
+E11	Development:T44 Theme:T6
+T45	Binding 252 263	interaction
+E12	Binding:T45 Theme:T7 Theme:T8
+T46	Development 324 333	formation
+E13	Development:T46 Theme:T9
+T47	Localization 339 350	recruitment
+E14	Localization:T47 Theme:T10
+T48	Regulation 417 437	play a critical role
+E15	Regulation:T48 Theme:E6 Cause:T12
+E16	Regulation:T48 Theme:E6 Cause:T13
+T49	Regulation 513 522	regulates
+E17	Regulation:T49 Cause:T15 Theme:E20
+E18	Regulation:T49 Cause:T15 Theme:E19
+T50	Development 532 545	specification
+E19	Development:T50 Theme:T17
+T51	Development 550 560	maturation
+E20	Development:T51 Theme:T17
+T52	Positive_regulation 716 721	leads
+E21	Positive_regulation:T52 Theme:E22 Cause:T18
+T53	Negative_regulation 725 735	inhibition
+E22	Negative_regulation:T53 Theme:E23
+T54	Pathway 745 754	signaling
+E23	Pathway:T54 Participant:T20
+T55	Positive_regulation 756 765	resulting
+E24	Positive_regulation:T55 Cause:E22 Theme:E26
+E25	Positive_regulation:T55 Cause:E22 Theme:E28
+T56	Positive_regulation 769 778	increased
+E26	Positive_regulation:T56 Theme:E27
+T57	Growth 788 801	proliferation
+E27	Growth:T57 Theme:T21
+T58	Negative_regulation 806 815	defective
+E28	Negative_regulation:T58 Theme:E29
+T59	Development 816 826	maturation
+E29	Development:T59 Theme:T21
+T60	Development 834 841	forming
+E30	Development:T60 Theme:T22
+T61	Negative_regulation 880 887	reduced
+E31	Negative_regulation:T61 Theme:T24
+T62	Negative_regulation 911 918	reduced
+E32	Negative_regulation:T62 Theme:E33
+T63	Localization 928 939	recruitment
+E33	Localization:T63 Theme:T25
+T64	Positive_regulation 991 998	induced
+E34	Positive_regulation:T64 Theme:E35 Cause:T27
+T65	Negative_regulation 999 1008	defective
+E35	Negative_regulation:T65 Theme:E36
+T66	Development 1018 1026	response
+E36	Development:T66 Theme:T28
+T67	Positive_regulation 1045 1052	leading
+E37	Positive_regulation:T67 Theme:E39 Cause:E35
+T68	Negative_regulation 1056 1063	reduced
+E38	Negative_regulation:T68 Theme:E39
+T69	Growth 1070 1076	growth
+E39	Growth:T69 Theme:T30
+T70	Negative_regulation 1078 1090	Interference
+E40	Negative_regulation:T70 Theme:E41
+T71	Pathway 1107 1116	signaling
+E41	Pathway:T71 Participant:T31 Participant2:T32
+T72	Positive_regulation 1174 1181	induced
+E42	Positive_regulation:T72 Theme:E43
+T73	Pathway 1193 1200	pathway
+E43	Pathway:T73 Participant:T34 Participant2:T35

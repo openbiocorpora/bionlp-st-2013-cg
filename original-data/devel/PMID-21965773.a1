@@ -1,0 +1,56 @@
+T1	Gene_or_gene_product 14 34	thymidylate synthase
+T2	Gene_or_gene_product 39 70	dihydropyrimidine dehydrogenase
+T3	Cancer 74 110	primary oral squamous cell carcinoma
+T4	Multi-tissue_structure 143 163	cervical lymph nodes
+T5	Gene_or_gene_product 208 212	CD82
+T6	Gene_or_gene_product 215 235	Thymidylate synthase
+T7	Gene_or_gene_product 237 239	TS
+T8	Gene_or_gene_product 245 276	dihydropyrimidine dehydrogenase
+T9	Gene_or_gene_product 278 281	DPD
+T10	Simple_chemical 287 301	5-fluorouracil
+T11	Simple_chemical 303 307	5-FU
+T12	Cancer 369 378	carcinoma
+T13	Organism 379 387	patients
+T14	Simple_chemical 391 395	5-FU
+T15	Simple_chemical 406 410	5-FU
+T16	Cancer 446 460	oral carcinoma
+T17	Multi-tissue_structure 539 561	metastatic lymph nodes
+T18	Simple_chemical 604 608	5-FU
+T19	Cancer 621 649	lymph node-metastatic cancer
+T20	Cancer 651 679	Oral squamous cell carcinoma
+T21	Cancer 681 685	OSCC
+T22	Multi-tissue_structure 713 724	lymph nodes
+T23	Organism 782 790	patients
+T24	Gene_or_gene_product 852 854	TS
+T25	Gene_or_gene_product 859 862	DPD
+T26	Multi-tissue_structure 866 885	cervical lymph node
+T27	Cancer 923 935	primary OSCC
+T28	Gene_or_gene_product 990 998	Kangai 1
+T29	Gene_or_gene_product 999 1003	KAI1
+T30	Gene_or_gene_product 1004 1008	CD82
+T31	Multi-tissue_structure 1061 1070	specimens
+T32	Cancer 1088 1092	OSCC
+T33	Multi-tissue_structure 1098 1108	lymph node
+T34	Cancer 1133 1137	OSCC
+T35	Multi-tissue_structure 1146 1156	lymph node
+T36	Multi-tissue_structure 1192 1198	mucosa
+T37	Gene_or_gene_product 1263 1265	TS
+T38	Gene_or_gene_product 1270 1273	DPD
+T39	Gene_or_gene_product 1328 1330	TS
+T40	Gene_or_gene_product 1335 1338	DPD
+T41	Cancer 1370 1382	primary OSCC
+T42	Multi-tissue_structure 1410 1416	mucosa
+T43	Gene_or_gene_product 1418 1420	TS
+T44	Cell 1447 1464	oral cancer cells
+T45	Multi-tissue_structure 1483 1493	lymph node
+T46	Gene_or_gene_product 1544 1547	DPD
+T47	Multi-tissue_structure 1614 1624	lymph node
+T48	Cell 1674 1691	oral cancer cells
+T49	Multi-tissue_structure 1696 1704	cervical
+T50	Gene_or_gene_product 1717 1721	CD82
+T51	Multi-tissue_structure 1762 1772	lymph node
+T52	Gene_or_gene_product 1814 1816	TS
+T53	Gene_or_gene_product 1821 1825	CD82
+T54	Multi-tissue_structure 1861 1871	lymph node
+T55	Cancer 1886 1890	OSCC
+T56	Cancer 1952 1956	OSCC

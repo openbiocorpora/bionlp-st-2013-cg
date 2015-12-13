@@ -1,0 +1,49 @@
+T1	Simple_chemical 6 13	ethanol
+T2	Gene_or_gene_product 32 45	VEGF receptor
+T3	Cell 46 50	cell
+T4	Cell 64 81	endothelial cells
+T5	Gene_or_gene_product 171 222	vascular endothelial growth factor (VEGF) receptors
+T6	Simple_chemical 269 276	ethanol
+T7	Organism_substance 300 305	blood
+T8	Simple_chemical 306 313	alcohol
+T9	Organism 380 386	murine
+T10	Pathological_formation 387 393	wounds
+T11	Gene_or_gene_product 422 426	VEGF
+T12	Simple_chemical 457 464	ethanol
+T13	Cell 468 484	endothelial cell
+T14	Simple_chemical 535 542	ethanol
+T15	Pathological_formation 570 576	wounds
+T16	Simple_chemical 660 667	ethanol
+T17	Gene_or_gene_product 724 728	VEGF
+T18	Multi-tissue_structure 737 754	capillary network
+T19	Simple_chemical 766 773	Ethanol
+T20	Gene_or_gene_product 803 807	VEGF
+T21	Tissue 816 820	cord
+T22	Gene_or_gene_product 834 842	collagen
+T23	Multi-tissue_structure 855 872	capillary network
+T24	Simple_chemical 918 925	ethanol
+T25	Cell 959 970	endothelial
+T26	Gene_or_gene_product 971 986	VEGF receptor-2
+T27	Gene_or_gene_product 999 1014	VEGF receptor-2
+T28	Simple_chemical 1055 1062	ethanol
+T29	Simple_chemical 1077 1093	4-methylpyrazole
+T30	Simple_chemical 1128 1135	ethanol
+T31	Tissue 1139 1160	endothelial cell cord
+T32	Organism 1181 1185	mice
+T33	Simple_chemical 1199 1208	t-butanol
+T34	Simple_chemical 1213 1220	alcohol
+T35	Gene_or_gene_product 1240 1261	alcohol dehydrogenase
+T36	Pathological_formation 1286 1291	wound
+T37	Simple_chemical 1344 1351	ethanol
+T38	Simple_chemical 1407 1414	ethanol
+T39	Cell 1434 1450	endothelial cell
+T40	Gene_or_gene_product 1469 1473	VEGF
+T41	Simple_chemical 1484 1491	ethanol
+T42	Pathological_formation 1561 1567	wounds
+T43	Simple_chemical 1632 1639	ethanol
+T44	Cell 1670 1687	endothelial cells
+T45	Simple_chemical 1692 1699	ethanol
+T46	Gene_or_gene_product 1719 1750	hypoxia-inducible factor-1alpha
+T47	Simple_chemical 1807 1814	ethanol
+T48	Cell 1914 1930	endothelial cell
+T49	Gene_or_gene_product 1954 1958	VEGF

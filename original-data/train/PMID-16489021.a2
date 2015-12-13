@@ -1,0 +1,58 @@
+T38	Regulation 14 25	collaborate
+E1	Regulation:T38 Theme:E3 Cause:E5
+E2	Regulation:T38 Theme:E3 Cause:E4
+T39	Development 38 49	development
+E3	Development:T39 Theme:T3
+T40	Negative_regulation 53 64	suppressing
+E4	Negative_regulation:T40 Theme:E6 Cause:T2
+E5	Negative_regulation:T40 Theme:E7 Cause:T1
+T41	Cell_death 65 74	apoptotic
+E6	Cell_death:T41 
+T42	Pathway 79 101	growth arrest pathways
+E7	Pathway:T42 
+T43	Gene_expression 317 327	expression
+E8	Gene_expression:T43 Theme:T9
+T44	Cell_proliferation 455 468	proliferative
+E9	Cell_proliferation:T44 Theme:T11
+T45	Gene_expression 498 512	overexpression
+T46	Positive_regulation 498 512	overexpression
+E10	Gene_expression:T45 Theme:T12
+E11	Positive_regulation:T46 Theme:E10
+T47	Positive_regulation 516 526	sufficient
+E12	Positive_regulation:T47 Theme:E14 Cause:E10
+E13	Positive_regulation:T47 Theme:E15 Cause:E10
+T48	Cell_proliferation 537 550	proliferation
+E14	Cell_proliferation:T48 Theme:T11
+T49	Negative_regulation 558 565	release
+E15	Negative_regulation:T49 Theme:E17
+T50	Cell_differentiation 570 585	differentiation
+E16	Cell_differentiation:T50 Theme:T11
+T51	Negative_regulation 586 591	block
+E17	Negative_regulation:T51 Cause:T13 Theme:E16
+T52	Gene_expression 628 638	expressing
+E18	Gene_expression:T52 Theme:T14
+T53	Cell_death 684 693	apoptosis
+E19	Cell_death:T53 
+T54	Cell_death 755 764	apoptotic
+E20	Cell_death:T54 
+T55	Cell_death 774 783	apoptosis
+E21	Cell_death:T55 
+T56	Death 866 874	survival
+E22	Death:T56 Theme:T24
+M1	Negation E22
+T57	Gene_expression 892 902	expressing
+E23	Gene_expression:T57 Theme:T23
+T58	Regulation 920 924	role
+E24	Regulation:T58 Cause:E25 Theme:T27
+T59	Pathway 936 943	pathway
+E25	Pathway:T59 Participant:T25
+T60	Planned_process 1098 1107	explanted
+E26	Planned_process:T60 Theme:T32
+T61	Mutation 1136 1147	allele loss
+E27	Mutation:T61 Theme:T31
+T62	Positive_regulation 1410 1421	requirement
+E28	Positive_regulation:T62 Theme:E29
+T63	Negative_regulation 1434 1446	inactivation
+E29	Negative_regulation:T63 Theme:E30
+T64	Pathway 1458 1465	pathway
+E30	Pathway:T64 Participant:T37

@@ -1,0 +1,43 @@
+*	Equiv T4 T5
+T22	Gene_expression 1 11	Expression
+E1	Gene_expression:T22 Theme:T1
+T23	Mutation 16 24	mutation
+E2	Mutation:T23 Theme:T1 AtLoc:T2
+T24	Regulation 106 112	effect
+E3	Regulation:T24 Theme:T4 Cause:E5
+E4	Regulation:T24 Theme:T4 Cause:E6
+M1	Speculation E3
+M2	Speculation E4
+T25	Gene_expression 120 130	expression
+E5	Gene_expression:T25 Theme:T3
+T26	Mutation 135 143	mutation
+E6	Mutation:T26 Theme:T3
+T27	Gene_expression 346 356	expression
+E7	Gene_expression:T27 Theme:T6
+T28	DNA_domain_or_region 372 379	exon 11
+T29	Mutation 380 388	mutation
+E8	Mutation:T29 Theme:T7 Site:T28 AtLoc:T9
+T30	Gene_expression 451 461	expression
+E9	Gene_expression:T30 Theme:T10
+T31	Mutation 477 485	mutation
+E10	Mutation:T31 Theme:T11
+T32	Gene_expression 618 628	expression
+E11	Gene_expression:T32 Theme:T12
+T33	Mutation 644 652	mutation
+E12	Mutation:T33 Theme:T13 AtLoc:T14
+E13	Mutation:T33 Theme:T13 AtLoc:T15
+M3	Negation E12
+T34	Mutation 757 765	Mutation
+E14	Mutation:T34 AtLoc:T16 Theme:T13
+T35	Localization 823 831	invasion
+E15	Localization:T35 Theme:T16 ToLoc:T17
+T36	Metastasis 833 843	metastasis
+E16	Metastasis:T36 Theme:T16
+T37	Mutation 876 884	mutation
+E17	Mutation:T37 Theme:T13
+M4	Negation E17
+T38	Mutation 1006 1014	mutation
+E18	Mutation:T38 Theme:T20
+T39	Regulation 1019 1042	play a significant role
+E19	Regulation:T39 Cause:E18 Theme:T21
+M5	Speculation E19

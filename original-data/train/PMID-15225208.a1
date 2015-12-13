@@ -1,0 +1,31 @@
+T1	Gene_or_gene_product 0 24	Matrix metalloproteinase
+T2	Gene_or_gene_product 69 95	matrix metalloproteinase-2
+T3	Gene_or_gene_product 100 102	-9
+T4	Gene_or_gene_product 107 146	tissue inhibitor of metalloproteinase-1
+T5	Organism 154 159	human
+T6	Pathological_formation 160 172	dermal wound
+T7	Cellular_component 239 259	extracellular matrix
+T8	Pathological_formation 267 272	wound
+T9	Gene_or_gene_product 282 307	Matrix metalloproteinases
+T10	Cellular_component 354 374	extracellular matrix
+T11	Gene_or_gene_product 396 435	tissue inhibitor of metalloproteinase-1
+T12	Tissue 463 476	Breast tissue
+T13	Gene_or_gene_product 620 646	matrix metalloproteinase-2
+T14	Gene_or_gene_product 651 653	-9
+T15	Gene_or_gene_product 658 697	tissue inhibitor of metalloproteinase-1
+T16	Organism 705 710	human
+T17	Pathological_formation 711 716	wound
+T18	Gene_or_gene_product 726 750	Matrix metalloproteinase
+T19	Gene_or_gene_product 1031 1057	matrix metalloproteinase-9
+T20	Cell 1121 1143	scar endothelial cells
+T21	Cell 1148 1159	fibroblasts
+T22	Gene_or_gene_product 1204 1230	Matrix metalloproteinase-2
+T23	Cell 1268 1279	fibroblasts
+T24	Gene_or_gene_product 1394 1433	Tissue inhibitor of metalloproteinase-1
+T25	Gene_or_gene_product 1550 1575	matrix metalloproteinases
+T26	Pathological_formation 1620 1625	wound
+T27	Gene_or_gene_product 1678 1704	matrix metalloproteinase-9
+T28	Gene_or_gene_product 1758 1784	matrix metalloproteinase-2
+T29	Gene_or_gene_product 1789 1791	-9
+T30	Cell 1795 1806	fibroblasts
+T31	Cellular_component 1826 1846	extracellular matrix

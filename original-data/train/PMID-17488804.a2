@@ -1,0 +1,122 @@
+*	Equiv T11 T12
+*	Equiv T13 T14
+*	Equiv T16 T17
+*	Equiv T40 T42
+*	Equiv T41 T43
+T65	Negative_regulation 9 17	inhibits
+E1	Negative_regulation:T65 Cause:T1 Theme:E4
+E2	Negative_regulation:T65 Cause:T1 Theme:E5
+E3	Negative_regulation:T65 Cause:T1 Theme:E6
+T66	Positive_regulation 36 48	accumulation
+E4	Positive_regulation:T66 Cause:T2 Theme:E7
+E5	Positive_regulation:T66 Cause:T2 Theme:E8
+E6	Positive_regulation:T66 Cause:T2 Theme:E9
+T67	Gene_expression 139 149	expression
+E7	Gene_expression:T67 Theme:T5
+E8	Gene_expression:T67 Theme:T4
+E9	Gene_expression:T67 Theme:T3
+T68	Positive_regulation 382 391	induction
+E10	Positive_regulation:T68 Theme:T11
+E11	Positive_regulation:T68 Theme:T13
+T69	Positive_regulation 468 477	essential
+E12	Positive_regulation:T69 Theme:E14 Cause:E10
+E13	Positive_regulation:T69 Theme:E14 Cause:E11
+T70	Blood_vessel_development 495 507	angiogenesis
+E14	Blood_vessel_development:T70 AtLoc:T15
+T71	Regulation 656 663	effects
+E15	Regulation:T71 Cause:T18 Theme:E18
+E16	Regulation:T71 Cause:T18 Theme:E19
+E17	Regulation:T71 Cause:T18 Theme:E20
+M1	Speculation E15
+M2	Speculation E16
+M3	Speculation E17
+T72	Positive_regulation 693 705	accumulation
+E18	Positive_regulation:T72 Theme:T19
+T73	Gene_expression 727 737	expression
+E19	Gene_expression:T73 Theme:T21
+E20	Gene_expression:T73 Theme:T20
+T74	Negative_regulation 850 858	inhibits
+E21	Negative_regulation:T74 Cause:T24 Theme:E23
+T75	Positive_regulation 869 876	induced
+E22	Positive_regulation:T75 Cause:T25 Theme:E23
+T76	Positive_regulation 896 908	accumulation
+E23	Positive_regulation:T76 Theme:T26
+T77	Positive_regulation 963 972	increased
+E24	Positive_regulation:T77 Cause:E26 Theme:T29
+E25	Positive_regulation:T77 Cause:E26 Theme:T28
+T78	Positive_regulation 1003 1014	stimulation
+E26	Positive_regulation:T78 Theme:T30
+T79	Regulation 1028 1035	effects
+E27	Regulation:T79 Theme:T31
+T80	Regulation 1048 1056	mediated
+E28	Regulation:T80 Theme:E27 Cause:T32
+T81	Planned_process 1078 1090	Pretreatment
+E29	Planned_process:T81 Instrument:T34 Theme:T33
+T82	Negative_regulation 1128 1135	reduces
+E30	Negative_regulation:T82 Cause:E29 Theme:E33
+E31	Negative_regulation:T82 Cause:E29 Theme:E34
+E32	Negative_regulation:T82 Cause:E29 Theme:E35
+T83	Positive_regulation 1146 1153	induced
+E33	Positive_regulation:T83 Site:T84 Theme:T36 Cause:T35
+T84	DNA_domain_or_region 1159 1167	promoter
+T85	Gene_expression 1195 1205	expression
+E34	Gene_expression:T85 Theme:T38
+E35	Gene_expression:T85 Theme:T37
+T86	Regulation 1242 1249	involve
+E36	Regulation:T86 Cause:T39 Theme:E40
+E37	Regulation:T86 Cause:T39 Theme:E41
+E38	Regulation:T86 Cause:T39 Theme:E42
+E39	Regulation:T86 Cause:T39 Theme:E43
+T87	Negative_regulation 1254 1264	inhibition
+E40	Negative_regulation:T87 Theme:T40
+E41	Negative_regulation:T87 Theme:T44
+E42	Negative_regulation:T87 Theme:T41
+E43	Negative_regulation:T87 Theme:T45
+T88	Positive_regulation 1338 1345	leading
+E44	Positive_regulation:T88 Cause:T39 Theme:E48
+E45	Positive_regulation:T88 Cause:T39 Theme:E49
+E46	Positive_regulation:T88 Cause:T39 Theme:E50
+E47	Positive_regulation:T88 Cause:T39 Theme:E51
+T89	Negative_regulation 1358 1366	decrease
+E48	Negative_regulation:T89 Theme:E53
+E49	Negative_regulation:T89 Theme:E55
+E50	Negative_regulation:T89 Theme:E56
+E51	Negative_regulation:T89 Theme:E57
+T90	Positive_regulation 1380 1387	induced
+E52	Positive_regulation:T90 Cause:T46 Theme:E53
+T91	Positive_regulation 1399 1411	accumulation
+E53	Positive_regulation:T91 Theme:T47
+T92	Transcription 1418 1433	transcriptional
+E54	Transcription:T92 Theme:T48
+T93	Positive_regulation 1434 1444	activation
+E55	Positive_regulation:T93 Theme:E54
+T94	Positive_regulation 1472 1484	accumulation
+E56	Positive_regulation:T94 Theme:T50
+E57	Positive_regulation:T94 Theme:T49
+T95	Negative_regulation 1561 1569	inhibits
+E58	Negative_regulation:T95 Theme:E60 Cause:T51
+T96	Positive_regulation 1586 1596	stimulated
+E59	Positive_regulation:T96 Cause:T52 Theme:E60
+T97	Localization 1602 1611	migration
+E60	Localization:T97 Theme:T54
+T98	Planned_process 1679 1686	treated
+E61	Planned_process:T98 Theme:T55 Instrument:T56
+T99	Positive_regulation 1712 1721	increased
+E62	Positive_regulation:T99 Theme:E63
+T100	Localization 1760 1769	migration
+E63	Localization:T100 Theme:T57
+T101	Regulation 1820 1828	modulate
+E64	Regulation:T101 Cause:T58 Theme:E65
+T102	Localization 1833 1842	migration
+E65	Localization:T102 Theme:T59
+T103	Positive_regulation 1892 1901	dependent
+E66	Positive_regulation:T103 Theme:E69 Cause:T62
+E67	Positive_regulation:T103 Theme:E69 Cause:T61
+E68	Positive_regulation:T103 Theme:E69 Cause:T60
+T104	Pathway 1902 1911	mechanism
+E69	Pathway:T104 
+T105	Negative_regulation 1951 1958	inhibit
+E70	Negative_regulation:T105 Cause:T63 Theme:E71
+M4	Speculation E70
+T106	Cell_proliferation 1977 1983	growth
+E71	Cell_proliferation:T106 Theme:T64

@@ -1,0 +1,44 @@
+T1	Cancer 53 58	tumor
+T2	Tissue 76 82	stroma
+T3	Cell 176 187	tumor cells
+T4	Gene_or_gene_product 197 225	vascular permeability factor
+T5	Gene_or_gene_product 227 230	VPF
+T6	Gene_or_gene_product 264 267	VPF
+T7	Pathological_formation 286 291	edema
+T8	Organism_substance 296 301	fluid
+T9	Organism 341 346	human
+T10	Cancer 347 354	cancers
+T11	Gene_or_gene_product 400 403	VPF
+T12	Organism 433 438	human
+T13	Cell 439 455	tumor cell lines
+T14	Gene_or_gene_product 474 477	VPF
+T15	Multi-tissue_structure 519 530	vasculature
+T16	Organism 539 544	human
+T17	Cancer 545 551	tumors
+T18	Gene_or_gene_product 611 614	VPF
+T19	Cell 642 658	endothelial cell
+T20	Gene_or_gene_product 818 821	VPF
+T21	Gene_or_gene_product 847 881	vascular endothelial growth factor
+T22	Gene_or_gene_product 883 887	VEGF
+T23	Gene_or_gene_product 933 936	VPF
+T24	Cancer 938 944	tumors
+T25	Pathological_formation 983 988	wound
+T26	Pathological_formation 1021 1027	wounds
+T27	Cancer 1034 1040	tumors
+T28	Gene_or_gene_product 1050 1053	VPF
+T29	Multi-tissue_structure 1063 1076	blood vessels
+T30	Organism_substance 1085 1091	plasma
+T31	Gene_or_gene_product 1092 1102	fibrinogen
+T32	Multi-tissue_structure 1121 1133	blood vessel
+T33	Pathological_formation 1196 1202	wounds
+T34	Gene_or_gene_product 1227 1230	VPF
+T35	Cancer 1257 1263	tumors
+T36	Gene_or_gene_product 1287 1290	VPF
+T37	Gene_or_gene_product 1349 1352	VPF
+T38	Cell 1363 1378	malignant cells
+T39	Multi-tissue_structure 1405 1418	blood vessels
+T40	Cancer 1452 1458	tumors
+T41	Pathological_formation 1471 1477	wounds
+T42	Organism 1542 1550	patients
+T43	Cancer 1665 1670	tumor
+T44	Organism_substance 1683 1688	blood

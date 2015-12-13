@@ -1,0 +1,30 @@
+*	Equiv T8 T9
+T15	Planned_process 14 21	therapy
+E1	Planned_process:T15 Instrument:T1
+T16	Blood_vessel_development 112 124	angiogenesis
+E2	Blood_vessel_development:T16 
+T17	Planned_process 150 157	therapy
+E3	Planned_process:T17 Theme:T2
+T18	Cell_division 297 305	dividing
+E4	Cell_division:T18 Theme:T4
+T19	Growth 353 359	growth
+E5	Growth:T19 Theme:T5
+T20	Positive_regulation 370 378	requires
+E6	Positive_regulation:T20 Theme:E5 Cause:E8
+E7	Positive_regulation:T20 Theme:E5 Cause:E9
+T21	Growth 397 403	growth
+E8	Growth:T21 Theme:T6
+T22	Remodeling 408 418	remodeling
+E9	Remodeling:T22 Theme:T6
+T23	Growth 448 452	grow
+E10	Growth:T23 Theme:T7
+T24	Blood_vessel_development 576 588	angiogenesis
+E11	Blood_vessel_development:T24 
+T25	Planned_process 727 736	treatment
+E12	Planned_process:T25 Theme:T11
+T26	Blood_vessel_development 813 825	angiogenesis
+E13	Blood_vessel_development:T26 
+T27	Planned_process 845 854	treatment
+E14	Planned_process:T27 Theme:T12
+E15	Planned_process:T27 Theme:T13
+E16	Planned_process:T27 Theme:T14

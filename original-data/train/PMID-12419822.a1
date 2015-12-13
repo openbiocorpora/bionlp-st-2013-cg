@@ -1,0 +1,36 @@
+T1	Gene_or_gene_product 18 22	Dss1
+T2	Simple_chemical 28 64	12-O-tetradecanoylphorbol-13-acetate
+T3	Cell 94 123	keratinocyte progenitor cells
+T4	Organ 160 164	skin
+T5	Simple_chemical 228 264	12-O-tetradecanoylphorbol-13-acetate
+T6	Simple_chemical 266 269	TPA
+T7	Organ 279 283	skin
+T8	Organism 324 354	Tg.AC v-Ha-ras transgenic mice
+T9	Gene_or_gene_product 330 338	v-Ha-ras
+T10	Cell 356 385	Keratinocyte progenitor cells
+T11	Simple_chemical 391 394	TPA
+T12	Organism 403 413	Tg.AC mice
+T13	Cell 456 460	cell
+T14	Gene_or_gene_product 636 670	Deleted in split hand/split foot 1
+T15	Gene_or_gene_product 672 676	Dss1
+T16	Organism_subdivision 720 724	limb
+T17	Organism_subdivision 761 765	hand
+T18	Organism_subdivision 772 776	foot
+T19	Organism 843 848	mouse
+T20	Gene_or_gene_product 862 866	Dss1
+T21	Simple_chemical 881 884	TPA
+T22	Gene_or_gene_product 886 890	Dss1
+T23	Simple_chemical 954 957	TPA
+T24	Organ 979 984	skins
+T25	Cell 992 1020	JB6 Cl 41-5a epidermal cells
+T26	Gene_or_gene_product 1037 1041	Dss1
+T27	Organ 1086 1101	skin papillomas
+T28	Organ 1121 1126	skins
+T29	Cell 1153 1179	squamous cell malignancies
+T30	Gene_or_gene_product 1242 1246	Dss1
+T31	Cell 1250 1282	JB6 Cl 41-5a preneoplastic cells
+T32	Cell 1345 1350	cells
+T33	Cell 1411 1416	cells
+T34	Gene_or_gene_product 1467 1471	Dss1
+T35	Simple_chemical 1477 1480	TPA
+T36	Organ 1551 1555	skin

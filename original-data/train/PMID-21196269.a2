@@ -1,0 +1,26 @@
+T19	Planned_process 37 44	therapy
+E1	Planned_process:T19 Theme:T1
+T20	Regulation 235 241	depend
+E2	Regulation:T20 Theme:T6 Cause:E4
+E3	Regulation:T20 Theme:T6 Cause:E5
+T21	Glycolysis 252 262	glycolysis
+E4	Glycolysis:T21 
+T22	Catabolism 276 285	breakdown
+E5	Catabolism:T22 Theme:T7
+T23	Growth 498 505	growing
+E6	Growth:T23 Theme:T11
+T24	Positive_regulation 735 744	increased
+E7	Positive_regulation:T24 Theme:E8
+T25	Glycolysis 745 755	glycolysis
+E8	Glycolysis:T25 
+T26	Regulation 756 779	plays an important role
+E9	Regulation:T26 Cause:E8 Theme:T13
+T27	Planned_process 1021 1026	treat
+E10	Planned_process:T27 Theme:T16
+T28	Cell_proliferation 1139 1145	growth
+E11	Cell_proliferation:T28 Theme:T17
+T29	Death 1150 1158	survival
+E12	Death:T29 Theme:T17
+M1	Negation E12
+T30	Planned_process 1221 1228	therapy
+E13	Planned_process:T30 Theme:T18

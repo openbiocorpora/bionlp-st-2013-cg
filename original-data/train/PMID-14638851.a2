@@ -1,0 +1,54 @@
+T28	Positive_regulation 0 9	Promotion
+E1	Positive_regulation:T28 Cause:E3 Theme:E2
+T29	Carcinogenesis 13 26	tumorigenesis
+E2	Carcinogenesis:T29 
+T30	Mutation 30 53	heterozygous disruption
+E3	Mutation:T30 Theme:T1
+T31	Negative_regulation 322 333	suppression
+E4	Negative_regulation:T31 Theme:T4
+T32	Mutation 366 389	monoallelically deleted
+E5	Mutation:T32 
+T33	Mutation 542 562	monoallelic deletion
+E6	Mutation:T33 Theme:T11
+T34	Positive_regulation 575 583	promotes
+E7	Positive_regulation:T34 Cause:E6 Theme:E8
+M1	Speculation E7
+T35	Carcinogenesis 584 597	tumorigenesis
+E8	Carcinogenesis:T35 
+T36	Mutation 617 640	heterozygous disruption
+E9	Mutation:T36 Theme:T12
+T37	Positive_regulation 653 662	increases
+E10	Positive_regulation:T37 Cause:E9 Theme:T13
+T38	Positive_regulation 709 720	accelerates
+E11	Positive_regulation:T38 Theme:E12 Cause:E9
+T39	Development 725 736	development
+E12	Development:T39 Theme:T15
+T40	Positive_regulation 758 765	induced
+E13	Positive_regulation:T40 Cause:T14 Theme:T15
+T41	Mutation 899 906	mutated
+E14	Mutation:T41 Theme:T17 AtLoc:T16
+M2	Negation E14
+T42	Negative_regulation 911 919	silenced
+E15	Negative_regulation:T42 Theme:T17
+M3	Negation E15
+T43	Mutation 943 966	heterozygous disruption
+E16	Mutation:T43 Theme:T19
+T44	Positive_regulation 978 987	increased
+E17	Positive_regulation:T44 Theme:E18 Cause:E16
+T45	Cell_proliferation 997 1010	proliferation
+E18	Cell_proliferation:T45 Theme:T20
+T46	Negative_regulation 1113 1123	suppressor
+E19	Negative_regulation:T46 Cause:T21 Theme:T22
+T47	Cell_proliferation 1202 1208	growth
+E20	Cell_proliferation:T47 Theme:T23
+T48	Regulation 1209 1216	control
+E21	Regulation:T48 Theme:E20
+T49	Negative_regulation 1227 1238	suppression
+E22	Negative_regulation:T49 Theme:T24
+T50	Mutation 1246 1254	mutation
+E23	Mutation:T50 Theme:T25
+T51	Regulation 1296 1306	contribute
+E24	Regulation:T51 Cause:E23 Theme:E25
+M4	Speculation E24
+T52	Development 1314 1326	pathogenesis
+E25	Development:T52 Theme:T27

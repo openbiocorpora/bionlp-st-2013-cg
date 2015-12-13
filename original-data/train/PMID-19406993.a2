@@ -1,0 +1,112 @@
+*	Equiv T41 T42
+T55	Negative_regulation 6 16	suppresses
+E1	Negative_regulation:T55 Cause:T1 Theme:E2
+T56	Breakdown 21 27	damage
+E2	Breakdown:T56 Theme:T2
+T57	Positive_regulation 65 72	induced
+E3	Positive_regulation:T57 Theme:E4
+T58	Carcinogenesis 84 97	tumorigenesis
+E4	Carcinogenesis:T58 AtLoc:T4
+T59	Positive_regulation 122 131	activated
+E5	Positive_regulation:T59 Theme:T5
+T60	Positive_regulation 163 168	cause
+E6	Positive_regulation:T60 Theme:T6 Cause:E5
+T61	Positive_regulation 225 235	activation
+E7	Positive_regulation:T61 Theme:T7
+T62	Regulation 236 247	contributes
+E8	Regulation:T62 Cause:E10 Theme:E9
+T63	Carcinogenesis 267 280	tumorigenesis
+E9	Carcinogenesis:T63 AtLoc:T8
+T64	Negative_regulation 284 295	suppressing
+E10	Negative_regulation:T64 Theme:E12 Cause:E7
+T65	Pathway 301 306	cycle
+E11	Pathway:T65 Theme:T9
+T66	Negative_regulation 307 313	arrest
+E12	Negative_regulation:T66 Theme:E11
+T67	Negative_regulation 348 358	inhibition
+E13	Negative_regulation:T67 Theme:T10
+T68	Negative_regulation 489 499	Inhibition
+E14	Negative_regulation:T68 Theme:E16
+T69	Positive_regulation 510 517	induced
+E15	Positive_regulation:T69 Theme:E16
+T70	Positive_regulation 518 528	activation
+E16	Positive_regulation:T70 Theme:T16
+T71	Positive_regulation 543 551	resulted
+E17	Positive_regulation:T71 Cause:E14 Theme:T17
+T72	Negative_regulation 611 620	decreased
+E18	Negative_regulation:T72 Theme:T19 Cause:E14
+T73	Pathway 640 645	cycle
+E19	Pathway:T73 Theme:T18
+T74	Regulation 675 682	altered
+E20	Regulation:T74 Theme:E22 Cause:E23
+M1	Speculation E20
+T75	Pathway 688 693	cycle
+E21	Pathway:T75 Theme:T20
+T76	Regulation 694 704	regulation
+E22	Regulation:T76 Theme:E21
+T77	Negative_regulation 708 718	inhibition
+E23	Negative_regulation:T77 Theme:T21
+T78	Negative_regulation 757 767	inhibition
+E24	Negative_regulation:T78 Theme:T22
+T79	Mutation 771 787	genetic deletion
+E25	Mutation:T79 Theme:T22
+T80	Negative_regulation 815 822	reduced
+E26	Negative_regulation:T80 Theme:T23 Cause:E24
+E27	Negative_regulation:T80 Theme:T23 Cause:E25
+T81	Gene_expression 921 931	expression
+E28	Gene_expression:T81 Theme:T26
+T82	Regulation 1038 1049	maintenance
+E29	Regulation:T82 Cause:T30 Theme:T29
+T83	Negative_regulation 1069 1079	suppresses
+E30	Negative_regulation:T83 Theme:E32 Cause:E29
+T84	Pathway 1085 1090	cycle
+E31	Pathway:T84 Theme:T31
+T85	Negative_regulation 1091 1097	arrest
+E32	Negative_regulation:T85 Theme:E31
+T86	Positive_regulation 1178 1188	activation
+E33	Positive_regulation:T86 Theme:T33
+T87	Positive_regulation 1285 1294	increased
+E34	Positive_regulation:T87 Theme:E36 Cause:E33
+T88	Negative_regulation 1295 1305	inhibitory
+E35	Negative_regulation:T88 Theme:T35 Cause:E36
+T89	Phosphorylation 1306 1321	phosphorylation
+E36	Phosphorylation:T89 Theme:T35 Site:T36
+T90	Phosphorylation 1350 1364	phosphorylates
+T91	Positive_regulation 1350 1364	phosphorylates
+E37	Phosphorylation:T90 Theme:T38 Site:T39
+E38	Positive_regulation:T91 Cause:T37 Theme:E37
+T92	Regulation 1384 1390	effect
+E39	Regulation:T92 Cause:T40 Theme:E40
+T93	Pathway 1445 1454	signaling
+E40	Pathway:T93 Participant:T41 Participant2:T43
+T94	Pathway 1478 1483	cycle
+E41	Pathway:T94 Theme:T44
+T95	Negative_regulation 1484 1490	arrest
+E42	Negative_regulation:T95 Theme:E41
+T96	Mutation 1513 1521	ablation
+E43	Mutation:T96 Theme:T45
+T97	Negative_regulation 1522 1529	reduced
+E44	Negative_regulation:T97 Cause:E43 Theme:E46
+T98	Positive_regulation 1537 1544	induced
+E45	Positive_regulation:T98 Theme:E46
+T99	Positive_regulation 1545 1555	activation
+E46	Positive_regulation:T99 Theme:T46
+T100	Negative_regulation 1570 1580	inhibition
+E47	Negative_regulation:T100 Theme:T47
+E48	Negative_regulation:T100 Theme:T48
+T101	Positive_regulation 1639 1646	induced
+E49	Positive_regulation:T101 Theme:E50
+T102	Positive_regulation 1653 1663	activation
+E50	Positive_regulation:T102 Theme:T49
+T103	Positive_regulation 1664 1673	increases
+E51	Positive_regulation:T103 Theme:E54 Cause:E50
+E52	Positive_regulation:T103 Theme:E54 Cause:E56
+E53	Positive_regulation:T103 Theme:E54 Cause:E57
+T104	Carcinogenesis 1679 1692	tumorigenesis
+E54	Carcinogenesis:T104 AtLoc:T50
+T105	Negative_regulation 1701 1711	inhibitory
+E55	Negative_regulation:T105 Cause:E56 Theme:T51
+T106	Phosphorylation 1712 1727	phosphorylation
+E56	Phosphorylation:T106 Theme:T51
+T107	Regulation 1744 1755	maintenance
+E57	Regulation:T107 Theme:T52

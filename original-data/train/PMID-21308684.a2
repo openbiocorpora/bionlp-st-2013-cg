@@ -1,0 +1,50 @@
+*	Equiv T4 T5
+*	Equiv T8 T9
+T44	Regulation 142 151	regulates
+E1	Regulation:T44 Cause:T4 Theme:E2
+T45	Localization 169 181	infiltration
+E2	Localization:T45 Theme:T6
+T46	Positive_regulation 183 191	Elevated
+E3	Positive_regulation:T46 Theme:T8
+T47	Gene_expression 342 352	expression
+E4	Gene_expression:T47 Theme:T11
+T48	Negative_regulation 408 417	decreased
+E5	Negative_regulation:T48 Theme:E6
+T49	Gene_expression 418 428	expression
+E6	Gene_expression:T49 Theme:T11
+T50	Metastasis 488 498	metastasis
+E7	Metastasis:T50 ToLoc:T12
+E8	Metastasis:T50 ToLoc:T13
+T51	Gene_expression 516 526	expression
+E9	Gene_expression:T51 Theme:T14
+T52	Gene_expression 643 649	levels
+E10	Gene_expression:T52 Theme:T17
+M1	Speculation E10
+T53	Gene_expression 822 828	levels
+E11	Gene_expression:T53 Theme:T22
+M2	Speculation E11
+T54	Gene_expression 905 910	level
+E12	Gene_expression:T54 Theme:T23
+T55	Negative_regulation 982 991	decreased
+E13	Negative_regulation:T55 Theme:E12
+T56	Development 1005 1016	progression
+E14	Development:T56 Theme:T26
+T57	Localization 1038 1046	invasion
+E15	Localization:T57 ToLoc:T28 Theme:T27
+T58	Metastasis 1059 1069	metastasis
+E16	Metastasis:T58 ToLoc:T29
+T59	Gene_expression 1161 1166	level
+E17	Gene_expression:T59 Theme:T31
+T60	Metastasis 1231 1241	metastasis
+E18	Metastasis:T60 ToLoc:T33
+T61	Gene_expression 1270 1276	levels
+E19	Gene_expression:T61 Theme:T35
+T62	Positive_regulation 1340 1348	elevated
+E20	Positive_regulation:T62 Theme:T37
+T63	Gene_expression 1442 1448	levels
+E21	Gene_expression:T63 Theme:T40
+T64	Gene_expression 1522 1528	levels
+E22	Gene_expression:T64 Theme:T42
+M3	Speculation E22
+T65	Metastasis 1585 1595	metastasis
+E23	Metastasis:T65 ToLoc:T43

@@ -1,0 +1,49 @@
+*	Equiv T2 T1
+T34	Negative_regulation 26 34	inhibits
+E1	Negative_regulation:T34 Cause:T1 Theme:T4
+T35	Positive_regulation 137 144	induced
+E2	Positive_regulation:T35 Cause:T7 Theme:E4
+E3	Positive_regulation:T35 Cause:T7 Theme:E5
+T36	Cell_death 145 154	apoptosis
+E4	Cell_death:T36 Theme:T9
+E5	Cell_death:T36 Theme:T10
+T37	Positive_regulation 262 269	induced
+E6	Positive_regulation:T37 Cause:T11 Theme:E7
+M1	Negation E6
+T38	Cell_death 270 279	apoptosis
+E7	Cell_death:T38 
+T39	Negative_regulation 293 302	inhibited
+E8	Negative_regulation:T39 Cause:T11 Theme:T12
+M2	Negation E8
+T40	Positive_regulation 415 422	induced
+E9	Positive_regulation:T40 Cause:T14 Theme:E11
+E10	Positive_regulation:T40 Cause:T14 Theme:E12
+T41	Regulation 437 444	changes
+E11	Regulation:T41 Theme:T15
+T42	Positive_regulation 449 458	induction
+E12	Positive_regulation:T42 Theme:E13
+T43	Cell_death 462 471	apoptosis
+E13	Cell_death:T43 Theme:T15
+T44	Planned_process 527 536	implanted
+E14	Planned_process:T44 Instrument:T16 Theme:T17
+T45	Planned_process 578 585	treated
+E15	Planned_process:T45 Theme:T18 Instrument:T19
+T46	Planned_process 649 657	injected
+E16	Planned_process:T46 Instrument:T21 Theme:T22
+T47	Planned_process 750 761	inoculation
+E17	Planned_process:T47 Instrument:T23
+T48	Planned_process 763 772	Treatment
+E18	Planned_process:T48 Instrument:T24
+T49	Positive_regulation 818 826	resulted
+E19	Positive_regulation:T49 Theme:E20 Cause:E18
+T50	Negative_regulation 832 841	reduction
+E20	Negative_regulation:T50 Theme:T25
+T51	Planned_process 922 929	treated
+E21	Planned_process:T51 Theme:T28 Instrument:T29
+T52	Negative_regulation 1043 1051	inhibits
+E22	Negative_regulation:T52 Cause:T30 Theme:E23
+T53	Growth 1058 1064	growth
+E23	Growth:T53 Theme:T31
+T54	Negative_regulation 1135 1145	preventive
+E24	Negative_regulation:T54 Cause:T32 Theme:T33
+M3	Speculation E24

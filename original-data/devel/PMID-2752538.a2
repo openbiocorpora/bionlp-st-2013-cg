@@ -1,0 +1,22 @@
+T21	Glycolysis 0 10	Glycolysis
+E1	Glycolysis:T21 
+T22	Amino_acid_catabolism 15 29	glutaminolysis
+E2	Amino_acid_catabolism:T22 
+T23	Planned_process 33 42	perifused
+E3	Planned_process:T23 Theme:T1
+T24	Metabolism 146 156	metabolism
+E4	Metabolism:T24 Theme:T2
+E5	Metabolism:T24 Theme:T3
+T25	Planned_process 168 177	harvested
+E6	Planned_process:T25 
+T26	Planned_process 246 255	perifused
+E7	Planned_process:T26 Theme:T5 Instrument:T6 Instrument2:T7
+E8	Planned_process:T26 Theme:T5 Instrument:T8 Instrument2:T9
+T27	Localization 463 472	excreting
+E9	Localization:T27 Theme:T13
+E10	Localization:T27 Theme:T15
+E11	Localization:T27 Theme:T16
+T28	Metabolism 607 618	consumption
+E12	Metabolism:T28 Theme:T18
+T29	Localization 626 634	presence
+E13	Localization:T29 Theme:T19

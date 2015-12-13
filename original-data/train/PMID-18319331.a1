@@ -1,0 +1,44 @@
+T1	Gene_or_gene_product 0 39	Mitogen-activated protein kinase kinase
+T2	Cancer 89 101	fibrosarcoma
+T3	Gene_or_gene_product 151 197	mitogen-activated protein kinase (MAPK) kinase
+T4	Gene_or_gene_product 199 202	MKK
+T5	Cancer 264 284	soft-tissue sarcomas
+T6	Cancer 296 312	malignant tumors
+T7	Tissue 326 345	mesenchymal tissues
+T8	Cell 368 375	HT-1080
+T9	Cell 377 380	NCI
+T10	Cell 386 422	Shac fibrosarcoma-derived cell lines
+T11	Organism 427 434	anthrax
+T12	Simple_chemical 435 447	lethal toxin
+T13	Simple_chemical 449 453	LeTx
+T14	Gene_or_gene_product 491 495	MKKs
+T15	Simple_chemical 526 530	LeTx
+T16	Gene_or_gene_product 578 615	extracellular signal-regulated kinase
+T17	Gene_or_gene_product 620 628	p38 MAPK
+T18	Simple_chemical 670 674	LeTx
+T19	Cell 698 702	cell
+T20	Cell 755 759	cell
+T21	Simple_chemical 769 773	LeTx
+T22	Immaterial_anatomical_entity 807 820	extracellular
+T23	Gene_or_gene_product 869 903	vascular endothelial growth factor
+T24	Gene_or_gene_product 905 918	interleukin-8
+T25	Gene_or_gene_product 924 954	basic fibroblast growth factor
+T26	Cell 991 1001	cell lines
+T27	Cancer 1015 1046	malignant fibrous histiocytomas
+T28	Cancer 1048 1063	leiomyosarcomas
+T29	Cancer 1069 1081	liposarcomas
+T30	Simple_chemical 1092 1096	LeTx
+T31	Gene_or_gene_product 1107 1111	MAPK
+T32	Cancer 1133 1145	fibrosarcoma
+T33	Cell 1198 1206	cellular
+T34	Cancer 1285 1290	tumor
+T35	Multi-tissue_structure 1296 1302	vessel
+T36	Organism_substance 1337 1342	serum
+T37	Simple_chemical 1499 1503	LeTx
+T38	Cancer 1507 1512	tumor
+T39	Cancer 1622 1627	tumor
+T40	Tissue 1639 1655	nontumor tissues
+T41	Gene_or_gene_product 1742 1745	MKK
+T42	Simple_chemical 1760 1764	LeTx
+T43	Cancer 1833 1846	fibrosarcomas
+T44	Cancer 1865 1886	proliferative lesions

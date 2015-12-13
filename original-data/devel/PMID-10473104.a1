@@ -1,0 +1,36 @@
+T1	Simple_chemical 0 3	UFT
+T2	Organism 60 66	murine
+T3	Cancer 67 87	renal cell carcinoma
+T4	Multi-tissue_structure 108 122	dorsal air sac
+T5	Organism 132 136	mice
+T6	Simple_chemical 138 141	UFT
+T7	Cancer 150 156	cancer
+T8	Simple_chemical 183 190	tegafur
+T9	Simple_chemical 192 194	FT
+T10	Simple_chemical 200 206	uracil
+T11	Cancer 286 292	cancer
+T12	Organism 293 301	patients
+T13	Simple_chemical 448 451	UFT
+T14	Cell 460 470	RENCA cell
+T15	Cell 590 601	RENCA cells
+T16	Organism 607 611	mice
+T17	Simple_chemical 628 631	UFT
+T18	Simple_chemical 688 702	5-fluorouracil
+T19	Simple_chemical 704 708	5-FU
+T20	Simple_chemical 714 727	doxifluridine
+T21	Simple_chemical 781 783	FT
+T22	Simple_chemical 813 816	UFT
+T23	Simple_chemical 818 824	uracil
+T24	Simple_chemical 910 935	gamma-hydroxybutyric acid
+T25	Simple_chemical 940 959	gamma-butyrolactone
+T26	Simple_chemical 980 982	FT
+T27	Organism_substance 1145 1150	blood
+T28	Simple_chemical 1221 1224	UFT
+T29	Simple_chemical 1277 1281	5-FU
+T30	Simple_chemical 1305 1308	UFT
+T31	Simple_chemical 1370 1393	fluorinated pyrimidines
+T32	Organism_substance 1496 1501	blood
+T33	Simple_chemical 1512 1516	5-FU
+T34	Simple_chemical 1568 1593	gamma-hydroxybutyric acid
+T35	Simple_chemical 1598 1617	gamma-butyrolactone
+T36	Simple_chemical 1619 1622	UFT

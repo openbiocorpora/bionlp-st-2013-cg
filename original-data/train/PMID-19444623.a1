@@ -1,0 +1,51 @@
+T1	Cell 10 19	platelets
+T2	Cell 28 47	ovarian cancer cell
+T3	Cell 62 70	cellular
+T4	Cell 103 111	platelet
+T5	Cancer 175 189	ovarian cancer
+T6	Cell 203 211	Platelet
+T7	Cancer 237 242	tumor
+T8	Cell 319 327	cellular
+T9	Cancer 337 342	tumor
+T10	Cell 391 400	platelets
+T11	Organism 408 413	human
+T12	Cell 414 438	ovarian cancer cell line
+T13	Cell 440 445	SKOV3
+T14	Cell 447 458	SKOV3 cells
+T15	Gene_or_gene_product 483 519	thrombin receptor activating peptide
+T16	Gene_or_gene_product 521 525	TRAP
+T17	Gene_or_gene_product 540 544	TRAP
+T18	Cell 551 560	platelets
+T19	Cell 604 614	tumor cell
+T20	Cell 672 681	platelets
+T21	Gene_or_gene_product 700 731	urokinase plasminogen activator
+T22	Gene_or_gene_product 733 736	uPA
+T23	Gene_or_gene_product 742 746	VEGF
+T24	Cell 750 760	SKOV3 cell
+T25	Gene_or_gene_product 815 819	TRAP
+T26	Cell 830 839	platelets
+T27	Cell 880 890	SKOV3 cell
+T28	Cell 923 931	platelet
+T29	Cellular_component 932 941	membranes
+T30	Cell 989 997	platelet
+T31	Cell 1081 1089	platelet
+T32	Simple_chemical 1106 1122	prostaglandin E1
+T33	Simple_chemical 1124 1130	PGE(1)
+T34	Cell 1168 1179	SKOV3 cells
+T35	Cell 1193 1202	platelets
+T36	Gene_or_gene_product 1239 1242	uPA
+T37	Gene_or_gene_product 1247 1251	VEGF
+T38	Cell 1263 1273	SKOV3 cell
+T39	Cell 1304 1313	platelets
+T40	Cell 1322 1327	SKOV3
+T41	Organism 1328 1333	human
+T42	Cell 1334 1353	ovarian cancer cell
+T43	Gene_or_gene_product 1407 1410	uPA
+T44	Gene_or_gene_product 1415 1419	VEGF
+T45	Cell 1434 1444	SKOV3 cell
+T46	Cell 1496 1506	cell lines
+T47	Organism 1511 1516	human
+T48	Cancer 1621 1635	ovarian cancer
+T49	Cell 1637 1646	Platelets
+T50	Organism 1724 1729	human
+T51	Cancer 1730 1744	ovarian cancer

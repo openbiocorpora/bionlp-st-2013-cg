@@ -1,0 +1,45 @@
+T1	Gene_or_gene_product 15 19	PTEN
+T2	Pathological_formation 44 76	cerebral cavernous malformations
+T3	Pathological_formation 102 134	Cerebral cavernous malformations
+T4	Pathological_formation 136 140	CCMs
+T5	Pathological_formation 156 181	cerebral vascular lesions
+T6	Gene_or_gene_product 271 327	Phosphatase and tension homolog deleted on chromosome 10
+T7	Gene_or_gene_product 329 333	PTEN
+T8	Cancer 338 343	tumor
+T9	Gene_or_gene_product 446 450	PTEN
+T10	Cancer 560 566	tumors
+T11	Gene_or_gene_product 615 619	PTEN
+T12	Pathological_formation 657 661	CCMs
+T13	Gene_or_gene_product 672 676	PTEN
+T14	Pathological_formation 736 740	CCMs
+T15	Gene_or_gene_product 875 879	PTEN
+T16	Cell 977 988	endothelial
+T17	Gene_or_gene_product 1052 1056	PTEN
+T18	Gene_or_gene_product 1070 1104	proliferating cell nuclear antigen
+T19	Gene_or_gene_product 1116 1128	phosphor-Akt
+T20	Gene_or_gene_product 1133 1148	phosphor-Erk1,2
+T21	Pathological_formation 1220 1223	CCM
+T22	Gene_or_gene_product 1300 1304	PTEN
+T23	Pathological_formation 1335 1339	CCMs
+T24	Pathological_formation 1369 1373	CCMs
+T25	Gene_or_gene_product 1381 1385	PTEN
+T26	Gene_or_gene_product 1500 1504	PTEN
+T27	Pathological_formation 1563 1567	CCMs
+T28	Pathological_formation 1632 1636	CCMs
+T29	Gene_or_gene_product 1714 1718	PTEN
+T30	Gene_or_gene_product 1737 1741	PTEN
+T31	Pathological_formation 1753 1757	CCMs
+T32	Gene_or_gene_product 1775 1779	PTEN
+T33	Pathological_formation 1793 1797	CCMs
+T34	Gene_or_gene_product 1807 1811	PTEN
+T35	Gene_or_gene_product 1869 1903	proliferating cell nuclear antigen
+T36	Gene_or_gene_product 1929 1933	Erk1
+T37	Gene_or_gene_product 1934 1935	2
+T38	Gene_or_gene_product 1948 1951	Akt
+T39	Gene_or_gene_product 2021 2025	PTEN
+T40	Pathological_formation 2050 2054	CCMs
+T41	Pathological_formation 2081 2085	CCMs
+T42	Pathological_formation 2158 2162	CCMs
+T43	Gene_or_gene_product 2186 2190	Erk1
+T44	Gene_or_gene_product 2191 2192	2
+T45	Pathological_formation 2223 2230	lesions

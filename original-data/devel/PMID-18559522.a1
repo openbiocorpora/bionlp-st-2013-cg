@@ -1,0 +1,50 @@
+T1	Simple_chemical 30 39	cediranib
+T2	Gene_or_gene_product 62 107	vascular endothelial growth factor receptor-3
+T3	Cancer 140 152	Solid tumors
+T4	Gene_or_gene_product 262 298	vascular endothelial growth factor-A
+T5	Gene_or_gene_product 300 306	VEGF-A
+T6	Gene_or_gene_product 343 349	VEGF-C
+T7	Simple_chemical 407 433	tyrosine kinase inhibitors
+T8	Cancer 497 502	tumor
+T9	Simple_chemical 593 602	Cediranib
+T10	Simple_chemical 604 612	RECENTIN
+T11	Simple_chemical 614 621	AZD2171
+T12	Gene_or_gene_product 642 646	VEGF
+T13	Gene_or_gene_product 711 717	VEGF-A
+T14	Cancer 751 756	tumor
+T15	Simple_chemical 784 793	cediranib
+T16	Gene_or_gene_product 797 820	VEGF receptor (VEGFR)-3
+T17	Cell 830 846	endothelial cell
+T18	Simple_chemical 928 937	cediranib
+T19	Gene_or_gene_product 946 953	VEGFR-3
+T20	Gene_or_gene_product 1025 1032	VEGFR-2
+T21	Gene_or_gene_product 1072 1078	VEGF-E
+T22	Gene_or_gene_product 1083 1093	VEGF-C156S
+T23	Organism 1098 1103	human
+T24	Cell 1104 1121	endothelial cells
+T25	Simple_chemical 1123 1132	cediranib
+T26	Gene_or_gene_product 1143 1149	VEGF-E
+T27	Gene_or_gene_product 1177 1184	VEGFR-2
+T28	Gene_or_gene_product 1189 1199	VEGF-C156S
+T29	Gene_or_gene_product 1227 1234	VEGFR-3
+T30	Simple_chemical 1351 1360	cediranib
+T31	Gene_or_gene_product 1369 1379	VEGF-C156S
+T32	Gene_or_gene_product 1392 1398	VEGF-E
+T33	Cell 1449 1458	lymphatic
+T34	Cell 1463 1495	blood vascular endothelial cells
+T35	Simple_chemical 1506 1515	cediranib
+T36	Gene_or_gene_product 1584 1590	VEGF-E
+T37	Gene_or_gene_product 1606 1616	VEGF-C156S
+T38	Organism 1628 1640	adenoviruses
+T39	Simple_chemical 1656 1665	Cediranib
+T40	Organism 1739 1751	adenoviruses
+T41	Gene_or_gene_product 1763 1769	VEGF-A
+T42	Gene_or_gene_product 1773 1779	VEGF-C
+T43	Organism_substance 1800 1805	blood
+T44	Multi-tissue_structure 1810 1832	lymphatic vasculatures
+T45	Gene_or_gene_product 1836 1842	VEGF-C
+T46	Cancer 1854 1860	tumors
+T47	Simple_chemical 1862 1871	Cediranib
+T48	Cancer 1924 1929	tumor
+T49	Gene_or_gene_product 1966 1973	VEGFR-2
+T50	Gene_or_gene_product 2038 2045	VEGFR-3

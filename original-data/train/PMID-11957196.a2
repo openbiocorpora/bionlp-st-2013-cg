@@ -1,0 +1,73 @@
+*	Equiv T2 T3
+*	Equiv T7 T8
+T43	Positive_regulation 313 320	respond
+E1	Positive_regulation:T43 Cause:T5 Theme:E4
+E2	Positive_regulation:T43 Cause:T5 Theme:E5
+E3	Positive_regulation:T43 Cause:T5 Theme:E7
+T44	Positive_regulation 335 344	increased
+E4	Positive_regulation:T44 Theme:T6
+T45	Negative_regulation 358 365	reduced
+E5	Negative_regulation:T45 Theme:E6
+T46	Infection 366 376	infections
+E6	Infection:T46 
+T47	Positive_regulation 382 390	improved
+E7	Positive_regulation:T47 Theme:E8
+T48	Death 391 399	survival
+E8	Death:T48 Theme:T4
+M1	Negation E8
+T49	Development 487 496	developed
+E9	Development:T49 Theme:T7
+T50	Regulation 593 597	role
+E10	Regulation:T50 Cause:T9 Theme:E11
+M2	Speculation E10
+T51	Development 610 622	pathogenesis
+E11	Development:T51 Theme:T7
+T52	Planned_process 874 881	treated
+E12	Planned_process:T52 Instrument:T12 Theme:T11
+T53	Cell_transformation 941 955	transformation
+E13	Cell_transformation:T53 Theme:T13
+M3	Speculation E13
+T54	Planned_process 1192 1199	therapy
+E14	Planned_process:T54 Instrument:T18
+T55	Mutation 1280 1295	genetic changes
+E15	Mutation:T55 AtLoc:T20
+T56	Positive_regulation 1353 1363	activating
+E16	Positive_regulation:T56 Theme:T22
+T57	Mutation 1377 1386	mutations
+E17	Mutation:T57 Theme:T22
+T58	Mutation 1388 1420	clonal cytogenetic abnormalities
+E18	Mutation:T58 
+T59	Mutation 1441 1450	mutations
+E19	Mutation:T59 Theme:T23
+T60	Cell_proliferation 1492 1510	hyperproliferative
+E20	Cell_proliferation:T60 Theme:T20
+T61	Positive_regulation 1511 1519	response
+E21	Positive_regulation:T61 Cause:T25 Theme:E20
+T62	Negative_regulation 1538 1548	resistance
+E22	Negative_regulation:T62 Theme:E23
+T63	Cell_death 1552 1561	apoptosis
+E23	Cell_death:T63 
+T64	Positive_regulation 1567 1575	enhances
+E24	Positive_regulation:T64 Theme:E25
+T65	Death 1581 1589	survival
+E25	Death:T65 Theme:T26
+M4	Negation E25
+T66	Positive_regulation 1682 1692	accelerate
+E26	Positive_regulation:T66 Cause:T28 Theme:T29
+M5	Speculation E26
+T67	Mutation 1727 1746	genetically altered
+E27	Mutation:T67 
+T68	Mutation 1822 1831	mutations
+E28	Mutation:T68 Theme:T33
+E29	Mutation:T68 Theme:T32
+T69	Positive_regulation 1996 2004	prolongs
+E30	Positive_regulation:T69 Theme:E31 Cause:T35
+T70	Death 2013 2021	survival
+E31	Death:T70 Theme:T36
+M6	Negation E31
+T71	Planned_process 2162 2177	transplantation
+E32	Planned_process:T71 Instrument:T39 Theme:T37
+T72	Mutation 2358 2366	mutation
+E33	Mutation:T72 Theme:T40
+T73	Development 2498 2509	progression
+E34	Development:T73 Theme:T42

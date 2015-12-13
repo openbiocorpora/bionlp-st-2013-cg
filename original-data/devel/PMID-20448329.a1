@@ -1,0 +1,53 @@
+T1	Gene_or_gene_product 8 12	CDC4
+T2	Gene_or_gene_product 13 18	FBXW7
+T3	Cancer 22 39	gastric carcinoma
+T4	Gene_or_gene_product 54 58	CDC4
+T5	Gene_or_gene_product 59 64	FBXW7
+T6	Gene_or_gene_product 77 86	ubiquitin
+T7	Cancer 137 142	tumor
+T8	Cancer 190 195	tumor
+T9	Cancer 216 232	colonic adenomas
+T10	Cellular_component 261 263	4q
+T11	Cancer 277 291	gastric cancer
+T12	Gene_or_gene_product 329 333	CDC4
+T13	Gene_or_gene_product 334 339	FBXW7
+T14	Organ 343 350	gastric
+T15	Gene_or_gene_product 400 404	CDC4
+T16	Gene_or_gene_product 405 410	FBXW7
+T17	Cancer 414 428	gastric cancer
+T18	Cancer 545 563	gastric carcinomas
+T19	Cancer 574 601	early-onset gastric cancers
+T20	Cancer 603 607	EOGC
+T21	Cancer 638 656	gastric carcinomas
+T22	Cancer 696 701	EOGCs
+T23	Gene_or_gene_product 730 734	CDC4
+T24	Gene_or_gene_product 735 740	FBXW7
+T25	Gene_or_gene_product 760 765	c-myc
+T26	Gene_or_gene_product 767 772	c-jun
+T27	Gene_or_gene_product 774 779	Notch
+T28	Gene_or_gene_product 784 792	cyclin E
+T29	Cancer 814 832	gastric carcinomas
+T30	Tissue 839 845	tissue
+T31	Gene_or_gene_product 887 891	CDC4
+T32	Gene_or_gene_product 892 897	FBXW7
+T33	Cell 917 945	gastric carcinoma cell lines
+T34	Cancer 950 960	xenografts
+T35	Gene_or_gene_product 997 1001	CDC4
+T36	Gene_or_gene_product 1002 1007	FBXW7
+T37	Cancer 1027 1032	EOGCs
+T38	Cancer 1121 1125	EOGC
+T39	Cancer 1143 1158	gastric cancers
+T40	Gene_or_gene_product 1163 1167	CDC4
+T41	Gene_or_gene_product 1168 1173	FBXW7
+T42	Gene_or_gene_product 1207 1211	CDC4
+T43	Gene_or_gene_product 1212 1217	FBXW7
+T44	Gene_or_gene_product 1308 1312	CDC4
+T45	Gene_or_gene_product 1313 1318	FBXW7
+T46	Gene_or_gene_product 1350 1355	c-myc
+T47	Gene_or_gene_product 1377 1381	CDC4
+T48	Gene_or_gene_product 1382 1387	FBXW7
+T49	Cancer 1419 1423	EOGC
+T50	Organ 1441 1448	gastric
+T51	Gene_or_gene_product 1469 1474	c-myc
+T52	Gene_or_gene_product 1544 1548	CDC4
+T53	Gene_or_gene_product 1549 1554	FBXW7

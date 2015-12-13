@@ -1,0 +1,145 @@
+*	Equiv T12 T13
+T52	Positive_regulation 10 17	induces
+E1	Positive_regulation:T52 Theme:E3 Cause:E4
+E2	Positive_regulation:T52 Theme:E3 Cause:E5
+T53	Cell_death 18 27	apoptosis
+E3	Cell_death:T53 Theme:T2
+T54	Negative_regulation 63 73	inhibiting
+E4	Negative_regulation:T54 Theme:E6 Cause:E7
+E5	Negative_regulation:T54 Theme:E6 Cause:E8
+T55	Pathway 95 103	pathways
+E6	Pathway:T55 Participant:T3 Participant2:T4 Participant3:T5 Participant4:T6
+T56	Regulation 112 122	modulation
+E7	Regulation:T56 Cause:T1 Theme:T7
+E8	Regulation:T56 Cause:T1 Theme:T8
+T57	Blood_vessel_development 221 231	angiogenic
+E9	Blood_vessel_development:T57 
+T58	Negative_regulation 246 254	activity
+E10	Negative_regulation:T58 Cause:T9 Theme:E9
+E11	Negative_regulation:T58 Cause:T9 Theme:T11
+T59	Regulation 267 274	targets
+E12	Regulation:T59 Theme:T12 Cause:T9
+T60	Planned_process 400 409	treatment
+E13	Planned_process:T60 Theme:T15
+T61	Blood_vessel_development 508 518	angiogenic
+E14	Blood_vessel_development:T61 
+T62	Negative_regulation 519 528	mechanism
+E15	Negative_regulation:T62 Theme:E14 Cause:T16
+M1	Speculation E15
+T63	Regulation 561 567	target
+E16	Regulation:T63 Theme:T17 Cause:T16
+M2	Speculation E16
+T64	Positive_regulation 600 607	induced
+E17	Positive_regulation:T64 Cause:T18 Theme:E18
+T65	Cell_death 608 617	apoptosis
+E18	Cell_death:T65 Theme:T19
+T66	Positive_regulation 642 651	dependent
+E19	Positive_regulation:T66 Theme:E17
+T67	Positive_regulation 661 670	dependent
+E20	Positive_regulation:T67 Theme:E17
+T68	Positive_regulation 746 753	induced
+E21	Positive_regulation:T68 Cause:T20 Theme:E23
+E22	Positive_regulation:T68 Cause:T20 Theme:E26
+T69	Negative_regulation 756 765	reduction
+E23	Negative_regulation:T69 Theme:E24
+T70	Gene_expression 773 783	expression
+E24	Gene_expression:T70 Theme:T21
+T71	Cell_death 795 804	apoptotic
+E25	Cell_death:T71 
+T72	Dephosphorylation 831 848	dephosphorylation
+E26	Dephosphorylation:T72 Theme:T22
+T73	Cell_death 859 868	apoptotic
+E27	Cell_death:T73 
+T74	Positive_regulation 889 899	results in
+E28	Positive_regulation:T74 Theme:E30 Cause:E21
+E29	Positive_regulation:T74 Theme:E30 Cause:E22
+T75	Positive_regulation 904 914	activation
+E30	Positive_regulation:T75 Theme:T23
+T76	Cell_death 960 969	apoptotic
+E31	Cell_death:T76 
+T77	Negative_regulation 1013 1022	inhibited
+E32	Negative_regulation:T77 Cause:T25 Theme:E34
+E33	Negative_regulation:T77 Cause:T25 Theme:E35
+T78	Phosphorylation 1023 1038	phosphorylation
+E34	Phosphorylation:T78 Theme:T26
+E35	Phosphorylation:T78 Theme:T27
+T79	Negative_regulation 1077 1086	reduction
+E36	Negative_regulation:T79 Theme:T28
+T80	Regulation 1118 1124	target
+E37	Regulation:T80 Cause:T29 Theme:T28
+T81	Planned_process 1134 1143	Knockdown
+E38	Planned_process:T81 Theme:T30
+T82	Negative_regulation 1155 1165	attenuated
+E39	Negative_regulation:T82 Cause:E38 Theme:T31
+E40	Negative_regulation:T82 Cause:E38 Theme:E44
+E41	Negative_regulation:T82 Cause:E38 Theme:E46
+E42	Negative_regulation:T82 Cause:E38 Theme:E47
+E43	Negative_regulation:T82 Cause:E38 Theme:E48
+T83	Positive_regulation 1197 1206	including
+E44	Positive_regulation:T83 Theme:E45
+T84	Cell_death 1207 1216	apoptosis
+E45	Cell_death:T84 
+T85	Negative_regulation 1221 1231	inhibition
+E46	Negative_regulation:T85 Theme:E49
+E47	Negative_regulation:T85 Theme:E50
+E48	Negative_regulation:T85 Theme:E51
+T86	Phosphorylation 1266 1281	phosphorylation
+E49	Phosphorylation:T86 Theme:T32
+E50	Phosphorylation:T86 Theme:T33
+E51	Phosphorylation:T86 Theme:T34
+T87	Regulation 1361 1369	mediated
+E52	Regulation:T87 Cause:T35 Theme:E39
+E53	Regulation:T87 Cause:T35 Theme:E40
+E54	Regulation:T87 Cause:T35 Theme:E41
+E55	Regulation:T87 Cause:T35 Theme:E42
+E56	Regulation:T87 Cause:T35 Theme:E43
+T88	Negative_regulation 1395 1404	silencing
+E57	Negative_regulation:T88 Theme:T36
+T89	Positive_regulation 1413 1420	induced
+E58	Positive_regulation:T89 Theme:E62 Cause:E63
+E59	Positive_regulation:T89 Theme:E62 Cause:E64
+E60	Positive_regulation:T89 Theme:E62 Cause:E65
+E61	Positive_regulation:T89 Theme:E62 Cause:E66
+T90	Cell_death 1421 1430	apoptosis
+E62	Cell_death:T90 
+T91	Negative_regulation 1448 1456	decrease
+E63	Negative_regulation:T91 Theme:E67 Cause:E57
+E64	Negative_regulation:T91 Theme:E68 Cause:E57
+E65	Negative_regulation:T91 Theme:E68 Cause:E69
+E66	Negative_regulation:T91 Theme:E67 Cause:E69
+T92	Phosphorylation 1464 1479	phosphorylation
+E67	Phosphorylation:T92 Theme:T37
+E68	Phosphorylation:T92 Theme:T38
+T93	Planned_process 1538 1547	treatment
+E69	Planned_process:T93 Theme:T39
+T94	Cell_death 1622 1631	apoptotic
+E70	Cell_death:T94 
+T95	Positive_regulation 1632 1638	effect
+E71	Positive_regulation:T95 Theme:E70 Cause:E72
+T96	Negative_regulation 1651 1661	inhibition
+E72	Negative_regulation:T96 Cause:T40 Theme:T41
+T97	Negative_regulation 1698 1707	reduction
+E73	Negative_regulation:T97 Theme:T42
+E74	Negative_regulation:T97 Theme:T43
+E75	Negative_regulation:T97 Theme:T44
+T98	Positive_regulation 1766 1773	lead to
+E76	Positive_regulation:T98 Theme:E82 Cause:E73
+E77	Positive_regulation:T98 Theme:E84 Cause:E73
+E78	Positive_regulation:T98 Theme:E82 Cause:E74
+E79	Positive_regulation:T98 Theme:E84 Cause:E74
+E80	Positive_regulation:T98 Theme:E82 Cause:E75
+E81	Positive_regulation:T98 Theme:E84 Cause:E75
+M3	Speculation E76
+M4	Speculation E77
+M5	Speculation E78
+M6	Speculation E79
+M7	Speculation E80
+M8	Speculation E81
+T99	Negative_regulation 1774 1784	inhibition
+E82	Negative_regulation:T99 Theme:T45
+T100	Cell_death 1796 1805	apoptotic
+E83	Cell_death:T100 
+T101	Positive_regulation 1825 1835	activation
+E84	Positive_regulation:T101 Theme:T46
+T102	Cell_death 1846 1855	apoptotic
+E85	Cell_death:T102 

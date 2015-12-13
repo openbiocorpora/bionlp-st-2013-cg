@@ -1,0 +1,24 @@
+T1	Simple_chemical 43 55	nitric oxide
+T2	Simple_chemical 99 111	Nitric oxide
+T3	Simple_chemical 113 115	NO
+T4	Multi-tissue_structure 156 164	vascular
+T5	Simple_chemical 196 198	NO
+T6	Anatomical_system 206 217	vasculature
+T7	Gene_or_gene_product 278 312	vascular endothelial growth factor
+T8	Gene_or_gene_product 314 318	VEGF
+T9	Simple_chemical 352 354	NO
+T10	Cell 376 393	endothelial cells
+T11	Simple_chemical 601 603	NO
+T12	Simple_chemical 714 716	NO
+T13	Organism 745 750	mouse
+T14	Organism_subdivision 787 796	abdominal
+T15	Organism 829 833	mice
+T16	Gene_or_gene_product 843 847	eNOS
+T17	Organism 843 861	eNOS knockout mice
+T18	Gene_or_gene_product 885 889	VEGF
+T19	Simple_chemical 933 935	NO
+T20	Organism 951 955	mice
+T21	Gene_or_gene_product 1015 1018	NOS
+T22	Simple_chemical 1029 1056	N(G)-iminoethyl-L-ornithine
+T23	Gene_or_gene_product 1060 1064	VEGF
+T24	Simple_chemical 1182 1184	NO

@@ -1,0 +1,48 @@
+T1	Gene_or_gene_product 0 5	Actin
+T2	Gene_or_gene_product 28 43	thymosin beta-4
+T3	Gene_or_gene_product 138 172	vascular endothelial growth factor
+T4	Gene_or_gene_product 174 178	VEGF
+T5	Cell 194 205	tumor cells
+T6	Cancer 230 241	solid tumor
+T7	Multi-tissue_structure 300 316	peripheral sites
+T8	Cell 320 330	tumor cell
+T9	Gene_or_gene_product 342 357	Thymosin beta-4
+T10	Gene_or_gene_product 359 362	TB4
+T11	Gene_or_gene_product 370 375	actin
+T12	Cellular_component 408 420	cytoskeletal
+T13	Cancer 484 489	tumor
+T14	Gene_or_gene_product 547 550	TB4
+T15	Cell 565 586	B16F10 melanoma cells
+T16	Gene_or_gene_product 588 591	TB4
+T17	Cell 606 618	B16F10 cells
+T18	Gene_or_gene_product 739 749	HIF-1alpha
+T19	Organism 764 788	TB4-transgenic (Tg) mice
+T20	Gene_or_gene_product 764 767	TB4
+T21	Organism 813 817	mice
+T22	Pathological_formation 824 829	wound
+T23	Cell 872 882	tumor cell
+T24	Cell 932 943	B16F10 cell
+T25	Gene_or_gene_product 960 963	TB4
+T26	Cell 978 990	B16F10 cells
+T27	Gene_or_gene_product 1053 1056	TB4
+T28	Organism 1067 1077	lentiviral
+T29	Cell 1086 1096	tumor cell
+T30	Cell 1163 1173	tumor cell
+T31	Organism 1216 1226	lentiviral
+T32	Gene_or_gene_product 1236 1239	TB4
+T33	Gene_or_gene_product 1241 1251	HIF-1alpha
+T34	Gene_or_gene_product 1288 1292	VEGF
+T35	Organism 1362 1372	lentiviral
+T36	Gene_or_gene_product 1382 1385	TB4
+T37	Cell 1389 1401	B16F10 cells
+T38	Cancer 1432 1437	tumor
+T39	Organ 1449 1453	lung
+T40	Organism 1474 1485	TB4-Tg mice
+T41	Gene_or_gene_product 1474 1477	TB4
+T42	Organism 1510 1514	mice
+T43	Cell 1559 1569	tumor cell
+T44	Gene_or_gene_product 1583 1586	TB4
+T45	Gene_or_gene_product 1608 1618	HIF-1alpha
+T46	Gene_or_gene_product 1651 1654	TB4
+T47	Cell 1706 1716	tumor cell
+T48	Cancer 1747 1752	tumor

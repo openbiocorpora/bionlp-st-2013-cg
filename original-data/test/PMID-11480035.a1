@@ -1,0 +1,31 @@
+T1	Gene_or_gene_product 47 51	nm23
+T2	Cancer 55 64	carcinoma
+T3	Multi-tissue_structure 68 81	buccal mucosa
+T4	Gene_or_gene_product 147 151	nm23
+T5	Gene_or_gene_product 228 235	nm23-H1
+T6	Gene_or_gene_product 240 247	nm23-H2
+T7	Tissue 266 281	tissues samples
+T8	Organism 285 293	patients
+T9	Cancer 299 325	carcinoma of buccal mucosa
+T10	Cancer 327 330	CBM
+T11	Gene_or_gene_product 439 446	nm23-H1
+T12	Gene_or_gene_product 451 458	nm23-H2
+T13	Multi-tissue_structure 481 494	buccal mucosa
+T14	Pathological_formation 496 507	leukoplakia
+T15	Multi-tissue_structure 518 536	nontumorous mucosa
+T16	Organ 538 557	submandibular gland
+T17	Cancer 559 562	CBM
+T18	Multi-tissue_structure 567 578	lymph nodes
+T19	Gene_or_gene_product 611 618	nm23-H1
+T20	Cancer 645 648	CBM
+T21	Multi-tissue_structure 654 665	lymph nodes
+T22	Cancer 702 705	CBM
+T23	Gene_or_gene_product 762 769	nm23-H2
+T24	Cancer 811 814	CBM
+T25	Cancer 824 827	CBM
+T26	Gene_or_gene_product 1026 1033	nm23-H1
+T27	Multi-tissue_structure 1079 1089	lymph node
+T28	Cancer 1104 1107	CBM
+T29	Gene_or_gene_product 1133 1140	nm23-H2
+T30	Gene_or_gene_product 1209 1213	nm23
+T31	Cancer 1222 1238	buccal carcinoma

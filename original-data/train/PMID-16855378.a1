@@ -1,0 +1,58 @@
+T1	Simple_chemical 49 66	2-deoxy-D-glucose
+T2	Cell 74 84	monolayers
+T3	Cell 89 112	multicellular spheroids
+T4	Organism 118 123	human
+T5	Cell 124 140	glioma cell line
+T6	Cell 165 183	monolayer cultures
+T7	Organism 187 192	human
+T8	Cell 193 209	tumor cell lines
+T9	Simple_chemical 226 230	2-DG
+T10	Cellular_component 269 272	DNA
+T11	Cell 284 292	cellular
+T12	Cell 315 327	cancer cells
+T13	Cell 338 356	monolayer cultures
+T14	Cancer 427 439	solid tumors
+T15	Pathological_formation 453 474	inhomogeneous hypoxic
+T16	Pathological_formation 479 495	necrotic regions
+T17	Cell 510 533	multicellular spheroids
+T18	Cell 554 562	cellular
+T19	Cancer 629 641	solid tumors
+T20	Cancer 696 701	tumor
+T21	Simple_chemical 809 813	2-DG
+T22	Cell 817 835	monolayer cultures
+T23	Cell 840 849	spheroids
+T24	Organism 855 860	human
+T25	Cell 861 877	glioma cell line
+T26	Cell 879 884	BMG-1
+T27	Cancer 922 934	solid tumors
+T28	Cell 939 948	spheroids
+T29	Simple_chemical 954 961	glucose
+T30	Simple_chemical 998 1005	lactate
+T31	Cell 1073 1088	monolayer cells
+T32	Simple_chemical 1145 1149	2-DG
+T33	Simple_chemical 1181 1188	glucose
+T34	Simple_chemical 1199 1206	lactate
+T35	Cell 1228 1237	spheroids
+T36	Cell 1277 1292	monolayer cells
+T37	Simple_chemical 1318 1322	2-DG
+T38	Cell 1366 1370	cell
+T39	Cell 1380 1389	spheroids
+T40	Cell 1443 1458	monolayer cells
+T41	Simple_chemical 1482 1486	2-DG
+T42	Cell 1490 1505	monolayer cells
+T43	Cellular_component 1592 1603	micronuclei
+T44	Cell 1689 1698	spheroids
+T45	Gene_or_gene_product 1713 1718	Bcl-2
+T46	Gene_or_gene_product 1723 1726	Bax
+T47	Cell 1763 1772	spheroids
+T48	Gene_or_gene_product 1774 1779	Bcl-2
+T49	Gene_or_gene_product 1780 1783	Bax
+T50	Cell 1805 1815	monolayers
+T51	Cell 1820 1829	spheroids
+T52	Cellular_component 1868 1871	DNA
+T53	Simple_chemical 1898 1903	2- DG
+T54	Cell 1934 1943	spheroids
+T55	Simple_chemical 2010 2014	2-DG
+T56	Cell 2044 2048	cell
+T57	Cell 2064 2074	monolayers
+T58	Cell 2121 2130	spheroids

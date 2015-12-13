@@ -1,0 +1,18 @@
+T1	Simple_chemical 26 37	verteporfin
+T2	Multi-tissue_structure 42 61	subfoveal choroidal
+T3	Simple_chemical 213 224	verteporfin
+T4	Multi-tissue_structure 229 248	subfoveal choroidal
+T5	Organism 330 338	patients
+T6	Organ 343 347	eyes
+T7	Simple_chemical 406 417	Verteporfin
+T8	Multi-tissue_structure 591 597	fundus
+T9	Simple_chemical 598 609	fluorescein
+T10	Organism 623 631	Patients
+T11	Organism 772 780	patients
+T12	Organism 871 879	patients
+T13	Organ 1220 1224	eyes
+T14	Organ 1342 1346	eyes
+T15	Organism 1474 1482	patients
+T16	Organism 1520 1528	patients
+T17	Organ 1533 1537	eyes
+T18	Simple_chemical 1611 1622	verteporfin

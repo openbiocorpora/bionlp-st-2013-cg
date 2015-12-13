@@ -1,0 +1,53 @@
+T1	Gene_or_gene_product 23 57	vascular endothelial growth factor
+T2	Organism_subdivision 61 72	periodontal
+T3	Cell 86 106	gingival fibroblasts
+T4	Gene_or_gene_product 108 142	Vascular endothelial growth factor
+T5	Gene_or_gene_product 144 148	VEGF
+T6	Multi-tissue_structure 206 214	vascular
+T7	Pathological_formation 293 299	lesion
+T8	Gene_or_gene_product 402 406	VEGF
+T9	Organism 421 426	human
+T10	Cell 427 447	gingival fibroblasts
+T11	Cell 449 452	HGF
+T12	Cell 463 466	HGF
+T13	Simple_chemical 488 506	lipopolysaccharide
+T14	Simple_chemical 508 511	LPS
+T15	Gene_or_gene_product 514 521	vesicle
+T16	Gene_or_gene_product 523 525	Ve
+T17	Gene_or_gene_product 531 553	outer membrane protein
+T18	Gene_or_gene_product 555 558	OMP
+T19	Organism 565 601	Actinobacillus actinomycetemcomitans
+T20	Organism 606 630	Porphyromonas gingivalis
+T21	Cell 632 635	HGF
+T22	Gene_or_gene_product 660 664	VEGF
+T23	Gene_or_gene_product 745 747	Ve
+T24	Gene_or_gene_product 752 755	OMP
+T25	Organism 761 785	A. actinomycetemcomitans
+T26	Organism 790 803	P. gingivalis
+T27	Gene_or_gene_product 868 872	VEGF
+T28	Simple_chemical 902 905	LPS
+T29	Gene_or_gene_product 919 923	VEGF
+T30	Gene_or_gene_product 961 963	Ve
+T31	Gene_or_gene_product 969 972	OMP
+T32	Cell 984 987	HGF
+T33	Multi-tissue_structure 991 999	vascular
+T34	Organism 1057 1068	guinea pigs
+T35	Organism_substance 1090 1101	supernatant
+T36	Gene_or_gene_product 1119 1121	Ve
+T37	Gene_or_gene_product 1127 1130	OMP
+T38	Cell 1142 1145	HGF
+T39	Multi-tissue_structure 1154 1162	vascular
+T40	Gene_or_gene_product 1214 1216	Ve
+T41	Gene_or_gene_product 1222 1225	OMP
+T42	Cell 1237 1240	HGF
+T43	Gene_or_gene_product 1328 1332	VEGF
+T44	Gene_or_gene_product 1438 1442	VEGF
+T45	Gene_or_gene_product 1463 1465	Ve
+T46	Gene_or_gene_product 1470 1473	OMP
+T47	Gene_or_gene_product 1511 1513	Ve
+T48	Gene_or_gene_product 1518 1521	OMP
+T49	Organism_subdivision 1586 1597	periodontal
+T50	Gene_or_gene_product 1621 1625	VEGF
+T51	Gene_or_gene_product 1651 1655	VEGF
+T52	Organism_subdivision 1777 1788	periodontal
+T53	Pathological_formation 1820 1825	edema

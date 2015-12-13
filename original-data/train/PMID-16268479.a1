@@ -1,0 +1,57 @@
+T1	Gene_or_gene_product 20 51	high molecular weight kininogen
+T2	Cell 61 77	endothelial cell
+T3	Gene_or_gene_product 96 99	Akt
+T4	Gene_or_gene_product 126 157	high molecular weight kininogen
+T5	Gene_or_gene_product 159 162	HKa
+T6	Cell 198 214	endothelial cell
+T7	Cell 243 247	cell
+T8	Gene_or_gene_product 279 282	HKa
+T9	Cell 304 320	endothelial cell
+T10	Gene_or_gene_product 397 400	HKa
+T11	Cell 448 464	endothelial cell
+T12	Gene_or_gene_product 476 499	sphingosine 1-phosphate
+T13	Gene_or_gene_product 501 504	S1P
+T14	Gene_or_gene_product 510 544	vascular endothelial growth factor
+T15	Gene_or_gene_product 546 550	VEGF
+T16	Gene_or_gene_product 574 584	P13-kinase
+T17	Gene_or_gene_product 585 588	Akt
+T18	Gene_or_gene_product 608 611	HKa
+T19	Organism 627 633	bovine
+T20	Cell 634 667	pulmonary artery endothelial cell
+T21	Cell 669 673	BPAE
+T22	Cell 678 715	human umbilical vein endothelial cell
+T23	Gene_or_gene_product 772 776	VEGF
+T24	Gene_or_gene_product 780 783	S1P
+T25	Gene_or_gene_product 816 819	HKa
+T26	Gene_or_gene_product 849 894	urokinase-type plasminogen activator receptor
+T27	Gene_or_gene_product 901 904	HKa
+T28	Cell 934 943	BPAE cell
+T29	Gene_or_gene_product 1033 1036	S1P
+T30	Gene_or_gene_product 1040 1044	VEGF
+T31	Gene_or_gene_product 1046 1049	HKa
+T32	Gene_or_gene_product 1084 1092	paxillin
+T33	Cellular_component 1100 1115	focal adhesions
+T34	Gene_or_gene_product 1122 1125	S1P
+T35	Gene_or_gene_product 1130 1134	VEGF
+T36	Immaterial_anatomical_entity 1173 1186	intracellular
+T37	Gene_or_gene_product 1233 1236	HKa
+T38	Gene_or_gene_product 1263 1266	Akt
+T39	Gene_or_gene_product 1296 1306	GSK-3alpha
+T40	Gene_or_gene_product 1307 1310	HKa
+T41	Gene_or_gene_product 1345 1348	Akt
+T42	Gene_or_gene_product 1353 1363	GSK-3alpha
+T43	Gene_or_gene_product 1382 1390	withVEGF
+T44	Gene_or_gene_product 1395 1398	S1P
+T45	Gene_or_gene_product 1414 1417	Akt
+T46	Gene_or_gene_product 1422 1432	P13-kinase
+T47	Gene_or_gene_product 1460 1463	Akt
+T48	Cell 1471 1487	endothelial cell
+T49	Gene_or_gene_product 1510 1518	paxillin
+T50	Cellular_component 1539 1554	focal adhesions
+T51	Gene_or_gene_product 1578 1582	VEGF
+T52	Gene_or_gene_product 1587 1590	S1P
+T53	Gene_or_gene_product 1618 1621	HKa
+T54	Gene_or_gene_product 1651 1661	P13-kinase
+T55	Gene_or_gene_product 1662 1665	Akt
+T56	Cell 1687 1703	endothelial cell
+T57	Cellular_component 1741 1756	focal adhesions

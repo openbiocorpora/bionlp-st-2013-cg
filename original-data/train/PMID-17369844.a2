@@ -1,0 +1,73 @@
+*	Equiv T6 T7
+T37	Positive_regulation 10 21	upregulated
+E1	Positive_regulation:T37 Theme:T1
+T38	Planned_process 84 98	overexpression
+E2	Planned_process:T38 Instrument:T1 Theme:T4
+T39	Carcinogenesis 131 140	oncogenic
+E3	Carcinogenesis:T39 
+T40	Development 171 181	initiation
+E4	Development:T40 Theme:T5
+T41	Positive_regulation 261 272	upregulated
+E5	Positive_regulation:T41 Theme:T7
+T42	Gene_expression 313 323	expression
+E6	Gene_expression:T42 Theme:T10
+T43	Cell_transformation 361 370	transform
+T44	Positive_regulation 361 370	transform
+E7	Cell_transformation:T43 AtLoc:T11
+E8	Positive_regulation:T44 Cause:E6 Theme:E7
+T45	Cell_transformation 371 383	immortalized
+E9	Cell_transformation:T45 Theme:T11
+T46	Carcinogenesis 431 440	oncogenic
+E10	Carcinogenesis:T46 
+T47	Gene_expression 586 595	expressed
+E11	Gene_expression:T47 Theme:T13
+T48	Planned_process 692 702	transgenic
+E12	Planned_process:T48 Theme:T16
+T49	Planned_process 731 745	overexpression
+E13	Planned_process:T49 Instrument:T17
+T50	Development 763 773	developing
+E14	Development:T50 Theme:T18
+T51	Positive_regulation 824 831	capable
+E15	Positive_regulation:T51 Cause:T19 Theme:E16
+M1	Speculation E15
+T52	Positive_regulation 835 845	initiating
+E16	Positive_regulation:T52 Theme:E17
+T53	Carcinogenesis 846 859	tumorigenesis
+E17	Carcinogenesis:T53 
+T54	Death 929 937	survival
+E18	Death:T54 Theme:T22
+M2	Negation E18
+T55	Planned_process 998 1006	knockout
+E19	Planned_process:T55 Theme:T23
+T56	Planned_process 1017 1031	overexpression
+E20	Planned_process:T56 Instrument:T24
+T57	Positive_regulation 1054 1063	increased
+E21	Positive_regulation:T57 Theme:E22 Cause:E20
+T58	Phosphorylation 1064 1079	phosphorylation
+E22	Phosphorylation:T58 Theme:T25
+T59	Positive_regulation 1135 1145	activation
+E23	Positive_regulation:T59 Theme:T26 Cause:E20
+T60	Gene_expression 1258 1268	expressing
+E24	Gene_expression:T60 Theme:T28
+T61	Pathway 1320 1338	reproductive cycle
+E25	Pathway:T61 
+T62	Planned_process 1362 1376	overexpression
+E26	Planned_process:T62 Instrument:T29
+T63	Positive_regulation 1397 1405	increase
+E27	Positive_regulation:T63 Theme:E28 Cause:E26
+T64	Cell_transformation 1453 1477	malignant transformation
+E28	Cell_transformation:T64 AtLoc:T30
+T65	Development 1523 1532	formation
+E29	Development:T65 Theme:T31
+T66	Development 1550 1560	occurrence
+E30	Development:T66 Theme:T32
+T67	Carcinogenesis 1641 1650	oncogenic
+E31	Carcinogenesis:T67 
+T68	Development 1681 1691	initiation
+E32	Development:T68 Theme:T34
+T69	Regulation 1728 1757	plays a more predominant role
+E33	Regulation:T69 Cause:T35 Theme:E34
+T70	Development 1765 1776	progression
+E34	Development:T70 Theme:T36
+T71	Development 1806 1813	arising
+E35	Development:T71 Theme:T36

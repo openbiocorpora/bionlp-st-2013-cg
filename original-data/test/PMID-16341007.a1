@@ -1,0 +1,47 @@
+T1	Gene_or_gene_product 0 6	VEGFR1
+T2	Cell 0 54	VEGFR1-positive haematopoietic bone marrow progenitors
+T3	Cell 95 103	cellular
+T4	Cell 140 151	tumour cell
+T5	Cell 247 298	bone marrow-derived haematopoietic progenitor cells
+T6	Gene_or_gene_product 312 357	vascular endothelial growth factor receptor 1
+T7	Gene_or_gene_product 359 365	VEGFR1
+T8	Gene_or_gene_product 381 385	Flt1
+T9	Cancer 395 401	tumour
+T10	Multi-tissue_structure 426 431	sites
+T11	Cell 441 458	cellular clusters
+T12	Cell 481 493	tumour cells
+T13	Gene_or_gene_product 506 512	VEGFR1
+T14	Gene_or_gene_product 560 566	VEGFR1
+T15	Cell 560 575	VEGFR1(+) cells
+T16	Multi-tissue_structure 585 596	bone marrow
+T17	Organism 610 614	mice
+T18	Cell 663 671	clusters
+T19	Cancer 685 691	tumour
+T20	Gene_or_gene_product 741 744	Id3
+T21	Gene_or_gene_product 746 776	inhibitor of differentiation 3
+T22	Cell 788 801	VEGFR1+ cells
+T23	Gene_or_gene_product 788 794	VEGFR1
+T24	Cell 814 821	cluster
+T25	Cancer 836 842	tumour
+T26	Organism 857 874	Id3 knockout mice
+T27	Gene_or_gene_product 857 860	Id3
+T28	Gene_or_gene_product 894 900	VEGFR1
+T29	Cell 894 907	VEGFR1+ cells
+T30	Gene_or_gene_product 916 921	VLA-4
+T31	Gene_or_gene_product 937 957	integrin alpha4beta1
+T32	Cancer 969 975	tumour
+T33	Gene_or_gene_product 1011 1022	fibronectin
+T34	Gene_or_gene_product 1026 1031	VLA-4
+T35	Cell 1052 1063	fibroblasts
+T36	Cell 1107 1119	tumour cells
+T37	Cancer 1162 1168	tumour
+T38	Gene_or_gene_product 1228 1239	fibronectin
+T39	Cell 1255 1262	cluster
+T40	Gene_or_gene_product 1364 1370	VEGFR1
+T41	Cell 1364 1398	VEGFR1+ haematopoietic progenitors
+T42	Gene_or_gene_product 1472 1483	fibronectin
+T43	Gene_or_gene_product 1488 1494	VEGFR1
+T44	Cell 1488 1510	VEGFR1+VLA-4+ clusters
+T45	Gene_or_gene_product 1495 1500	VLA-4
+T46	Organ 1519 1524	organ
+T47	Cancer 1534 1540	tumour

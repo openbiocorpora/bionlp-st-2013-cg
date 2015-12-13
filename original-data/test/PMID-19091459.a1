@@ -1,0 +1,29 @@
+T1	Gene_or_gene_product 0 3	p53
+T2	Cancer 30 35	tumor
+T3	Simple_chemical 56 59	ROS
+T4	Gene_or_gene_product 87 91	HIF1
+T5	Gene_or_gene_product 92 98	VEGF-A
+T6	Gene_or_gene_product 124 127	p53
+T7	Cancer 128 133	tumor
+T8	Organism 173 178	human
+T9	Cancer 179 185	tumors
+T10	Gene_or_gene_product 304 307	p53
+T11	Organism 451 456	human
+T12	Cancer 457 463	tumors
+T13	Multi-tissue_structure 489 496	vessels
+T14	Cancer 500 539	HCT116 human colon carcinoma xenografts
+T15	Cancer 599 604	tumor
+T16	Immaterial_anatomical_entity 662 675	intracellular
+T17	Simple_chemical 685 708	reactive oxygen species
+T18	Simple_chemical 710 713	ROS
+T19	Simple_chemical 728 748	N-acetyl-l-aspartate
+T20	Simple_chemical 750 753	NAC
+T21	Multi-tissue_structure 765 772	vessels
+T22	Cancer 783 789	tumors
+T23	Cell 800 805	cells
+T24	Gene_or_gene_product 823 826	p53
+T25	Simple_chemical 865 868	ROS
+T26	Cancer 888 894	tumors
+T27	Gene_or_gene_product 915 918	p53
+T28	Gene_or_gene_product 986 990	HIF1
+T29	Gene_or_gene_product 1047 1053	VEGF-A

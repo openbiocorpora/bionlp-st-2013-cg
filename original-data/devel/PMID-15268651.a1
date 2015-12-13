@@ -1,0 +1,22 @@
+T1	Simple_chemical 10 21	verteporfin
+T2	Multi-tissue_structure 39 80	subfoveal choroidal neovascular membranes
+T3	Tissue 109 116	macular
+T4	Tissue 353 359	tissue
+T5	Multi-tissue_structure 445 486	subfoveal choroidal neovascular membranes
+T6	Tissue 529 536	macular
+T7	Simple_chemical 659 670	verteporfin
+T8	Simple_chemical 692 706	benzoporphyrin
+T9	Simple_chemical 815 826	Verteporfin
+T10	Multi-tissue_structure 851 882	choroidal neovascular membranes
+T11	Tissue 965 978	microvascular
+T12	Pathological_formation 990 998	thrombus
+T13	Multi-tissue_structure 1024 1030	vessel
+T14	Simple_chemical 1080 1091	verteporfin
+T15	Pathological_formation 1154 1160	lesion
+T16	Pathological_formation 1226 1233	lesions
+T17	Simple_chemical 1346 1357	verteporfin
+T18	Pathological_formation 1374 1380	Lesion
+T19	Simple_chemical 1439 1450	verteporfin
+T20	Simple_chemical 1470 1481	verteporfin
+T21	Organism 1674 1681	patient
+T22	Simple_chemical 1740 1751	verteporfin

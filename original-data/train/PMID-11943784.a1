@@ -1,0 +1,27 @@
+T1	Gene_or_gene_product 0 26	Hypoxia-inducible factor 1
+T2	Cell 110 122	Cancer cells
+T3	Simple_chemical 220 227	Lactate
+T4	Simple_chemical 232 240	pyruvate
+T5	Cell 297 309	cancer cells
+T6	Simple_chemical 334 340	oxygen
+T7	Cell 377 389	cancer cells
+T8	Simple_chemical 465 472	lactate
+T9	Simple_chemical 477 485	pyruvate
+T10	Gene_or_gene_product 589 620	hypoxia-inducible Factor 1alpha
+T11	Gene_or_gene_product 622 632	HIF-1alpha
+T12	Organism 638 643	human
+T13	Cancer 644 651	gliomas
+T14	Cell 662 679	cancer cell lines
+T15	Gene_or_gene_product 701 711	HIF-1alpha
+T16	Simple_chemical 772 779	glucose
+T17	Simple_chemical 783 791	pyruvate
+T18	Gene_or_gene_product 833 843	HIF-1alpha
+T19	Gene_or_gene_product 863 868	HIF-1
+T20	Cellular_component 869 872	DNA
+T21	Gene_or_gene_product 930 935	HIF-1
+T22	Gene_or_gene_product 962 976	erythropoietin
+T23	Gene_or_gene_product 978 1012	vascular endothelial growth factor
+T24	Gene_or_gene_product 1014 1035	glucose transporter 3
+T25	Gene_or_gene_product 1041 1051	aldolase A
+T26	Simple_chemical 1091 1099	pyruvate
+T27	Cell 1246 1258	cancer cells

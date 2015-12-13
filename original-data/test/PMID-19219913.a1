@@ -1,0 +1,52 @@
+T1	Cellular_component 0 9	Liposomal
+T2	Simple_chemical 10 18	honokiol
+T3	Gene_or_gene_product 28 34	VEGF-D
+T4	Cancer 79 94	xenograft tumor
+T5	Multi-tissue_structure 103 114	Lymph nodes
+T6	Cancer 129 134	tumor
+T7	Cancer 205 210	tumor
+T8	Gene_or_gene_product 232 268	vascular endothelial growth factor-D
+T9	Cancer 309 314	tumor
+T10	Multi-tissue_structure 338 349	lymph nodes
+T11	Gene_or_gene_product 410 417	VEGFR-3
+T12	Simple_chemical 437 445	Honokiol
+T13	Cancer 506 512	itumor
+T14	Cell 535 545	cell lines
+T15	Cancer 550 565	xenograft tumor
+T16	Cancer 595 600	tumor
+T17	Organ 634 643	lymphatic
+T18	Multi-tissue_structure 693 703	lymph node
+T19	Gene_or_gene_product 750 756	VEGF-D
+T20	Cell 757 783	Lewis lung carcinoma cells
+T21	Organism 789 801	C57BL/6 mice
+T22	Simple_chemical 827 835	honokiol
+T23	Cancer 839 844	tumor
+T24	Multi-tissue_structure 886 896	lymph node
+T25	Cellular_component 1008 1017	liposomal
+T26	Simple_chemical 1018 1026	honokiol
+T27	Cancer 1055 1060	tumor
+T28	Cancer 1108 1128	Lewis lung carcinoma
+T29	Cancer 1158 1163	tumor
+T30	Simple_chemical 1234 1242	honokiol
+T31	Gene_or_gene_product 1253 1259	VEGF-D
+T32	Tissue 1296 1301	tube-
+T33	Cell 1319 1357	human umbilical vein endothelial cells
+T34	Cell 1359 1365	HUVECs
+T35	Cell 1371 1407	lymphatic vascular endothelial cells
+T36	Cell 1409 1414	HLECs
+T37	Cellular_component 1455 1464	liposomal
+T38	Simple_chemical 1465 1473	honokiol
+T39	Gene_or_gene_product 1484 1487	Akt
+T40	Gene_or_gene_product 1492 1496	MAPK
+T41	Cell 1518 1535	endothelial cells
+T42	Gene_or_gene_product 1570 1577	VEGFR-2
+T43	Organism 1581 1586	human
+T44	Cell 1587 1613	vascular endothelial cells
+T45	Gene_or_gene_product 1618 1625	VEGFR-3
+T46	Cell 1629 1656	lymphatic endothelial cells
+T47	Simple_chemical 1702 1710	honokiol
+T48	Cell 1770 1781	tumor cells
+T49	Gene_or_gene_product 1867 1874	VEGFR-3
+T50	Cancer 1991 1997	cancer
+T51	Multi-tissue_structure 2006 2016	lymphatics
+T52	Simple_chemical 2059 2067	honokiol

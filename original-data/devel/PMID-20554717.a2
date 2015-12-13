@@ -1,0 +1,33 @@
+*	Equiv T7 T8
+*	Equiv T9 T10
+T14	Blood_vessel_development 0 12	Angiogenesis
+E1	Blood_vessel_development:T14 
+T15	Blood_vessel_development 67 79	Angiogenesis
+E2	Blood_vessel_development:T15 
+T16	Regulation 144 152	key role
+E3	Regulation:T16 Cause:E2 Theme:E4
+T17	Growth 162 168	growth
+E4	Growth:T17 Theme:T1
+T18	Regulation 388 397	governing
+E5	Regulation:T18 Theme:E10 Cause:T2
+E6	Regulation:T18 Theme:E10 Cause:T3
+E7	Regulation:T18 Theme:E10 Cause:T4
+E8	Regulation:T18 Theme:E10 Cause:T5
+E9	Regulation:T18 Theme:E10 Cause:T6
+T19	Blood_vessel_development 398 410	angiogenesis
+E10	Blood_vessel_development:T19 
+T20	Pathway 779 788	signaling
+E11	Pathway:T20 Participant:T7
+E12	Pathway:T20 Participant:T9
+T21	Regulation 837 843	target
+E13	Regulation:T21 Theme:E16
+E14	Regulation:T21 Theme:E15
+T22	Pathway 850 858	pathways
+E15	Pathway:T22 Participant:T7
+E16	Pathway:T22 Participant:T9
+T23	Negative_regulation 960 966	action
+E17	Negative_regulation:T23 Theme:T12 Cause:T11
+T24	Blood_vessel_development 1095 1105	angiogenic
+E18	Blood_vessel_development:T24 
+T25	Planned_process 1112 1119	therapy
+E19	Planned_process:T25 Theme:T13

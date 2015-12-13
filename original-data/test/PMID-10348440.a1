@@ -1,0 +1,13 @@
+T1	Cancer 42 73	intracranial hemangiopericytoma
+T2	Cancer 104 123	hemangiopericytomas
+T3	Cancer 125 129	HPCs
+T4	Cancer 185 190	tumor
+T5	Simple_chemical 279 294	[11C]methionine
+T6	Cancer 321 324	HPC
+T7	Simple_chemical 334 341	glucose
+T8	Simple_chemical 391 398	glucose
+T9	Simple_chemical 438 453	[11C]methionine
+T10	Cancer 489 495	tumors
+T11	Cancer 520 524	HPCs
+T12	Cancer 652 658	tumors
+T13	Cancer 664 675	meningiomas

@@ -1,0 +1,61 @@
+*	Equiv T3 T4
+*	Equiv T7 T8
+T37	Regulation 54 63	cooperate
+E1	Regulation:T37 Theme:E2
+T38	Cell_transformation 67 76	transform
+E2	Cell_transformation:T38 Theme:T2
+T39	Cell_transformation 118 128	transforms
+T40	Positive_regulation 118 128	transforms
+E3	Cell_transformation:T39 Theme:T5
+E4	Positive_regulation:T40 Theme:E3 Cause:T3
+E5	Positive_regulation:T40 Theme:E3 Cause:E7
+E6	Positive_regulation:T40 Theme:E3 Cause:E8
+T41	Gene_expression 155 165	expression
+E7	Gene_expression:T41 Theme:T6
+E8	Gene_expression:T41 Theme:T7
+T42	Negative_regulation 400 407	reduced
+E9	Negative_regulation:T42 Theme:E10 Cause:T10
+T43	Cell_transformation 419 428	transform
+E10	Cell_transformation:T43 Theme:T12
+T44	Infection 466 474	infected
+E11	Infection:T44 Theme:T13
+T45	Positive_regulation 497 509	upregulation
+E12	Positive_regulation:T45 Theme:T14
+T46	Regulation 637 647	contribute
+E13	Regulation:T46 Cause:T15 Theme:E14
+T47	Cell_transformation 658 672	transformation
+E14	Cell_transformation:T47 Theme:T16
+T48	Positive_regulation 736 744	enhanced
+E15	Positive_regulation:T48 Theme:E16
+T49	Gene_expression 750 760	expression
+E16	Gene_expression:T49 Theme:T19
+T50	Negative_regulation 855 862	reduced
+E17	Negative_regulation:T50 Cause:T20 Theme:E19
+E18	Negative_regulation:T50 Cause:T20 Theme:E20
+M1	Speculation E18
+T51	Gene_expression 867 877	expression
+E19	Gene_expression:T51 Theme:T21
+E20	Gene_expression:T51 Theme:T22
+T52	Negative_regulation 1144 1151	reduced
+E21	Negative_regulation:T52 Theme:E23
+E22	Negative_regulation:T52 Theme:E24
+T53	Gene_expression 1180 1190	expression
+E23	Gene_expression:T53 Theme:T26
+E24	Gene_expression:T53 Theme:T25
+T54	Regulation 1306 1318	contribution
+E25	Regulation:T54 Cause:T30 Theme:E26
+T55	Cell_transformation 1344 1358	transformation
+E26	Cell_transformation:T55 Theme:T31
+T56	Positive_regulation 1391 1410	potentiating effect
+E27	Positive_regulation:T56 Theme:E28 Cause:T32
+T57	Gene_expression 1441 1450	synthesis
+E28	Gene_expression:T57 Theme:T33
+T58	Positive_regulation 1584 1600	enhancing effect
+E29	Positive_regulation:T58 Theme:E28 Cause:T32
+T59	Regulation 1610 1616	result
+E30	Regulation:T59 Theme:E29 Cause:T34
+M2	Negation E30
+T60	Regulation 1870 1879	cooperate
+E31	Regulation:T60 Theme:E32
+T61	Cell_transformation 1883 1892	transform
+E32	Cell_transformation:T61 Theme:T36

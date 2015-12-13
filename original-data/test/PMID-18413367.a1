@@ -1,0 +1,52 @@
+T1	Gene_or_gene_product 16 32	thrombospondin-1
+T2	Multi-tissue_structure 36 44	cervical
+T3	Tissue 69 75	stroma
+T4	Cell 109 120	fibroblasts
+T5	Cancer 135 141	cancer
+T6	Gene_or_gene_product 143 165	Thrombospondin (TSP)-1
+T7	Cell 266 270	cell
+T8	Gene_or_gene_product 311 316	TSP-1
+T9	Cancer 320 325	tumor
+T10	Tissue 326 332	stroma
+T11	Cell 376 386	fibroblast
+T12	Cancer 442 447	tumor
+T13	Organism 502 507	human
+T14	Cancer 508 526	surgical specimens
+T15	Gene_or_gene_product 563 568	TSP-1
+T16	Multi-tissue_structure 595 603	cervical
+T17	Gene_or_gene_product 674 688	stroma markers
+T18	Gene_or_gene_product 690 715	alpha-smooth muscle actin
+T19	Gene_or_gene_product 717 726	alpha-SMA
+T20	Gene_or_gene_product 732 738	desmin
+T21	Cell 756 782	SiHa cervical cancer cells
+T22	Gene_or_gene_product 813 818	TSP-1
+T23	Cancer 894 899	tumor
+T24	Organism 950 954	mice
+T25	Cancer 995 1000	tumor
+T26	Gene_or_gene_product 1042 1051	alpha-SMA
+T27	Gene_or_gene_product 1056 1062	desmin
+T28	Gene_or_gene_product 1116 1121	TSP-1
+T29	Gene_or_gene_product 1135 1140	TSP-1
+T30	Cell 1150 1162	NIH3T3 cells
+T31	Gene_or_gene_product 1199 1208	alpha-SMA
+T32	Gene_or_gene_product 1213 1219	desmin
+T33	Gene_or_gene_product 1248 1272	matrix metalloprotease-2
+T34	Gene_or_gene_product 1283 1314	Transforming growth factor-beta
+T35	Gene_or_gene_product 1316 1324	TGF-beta
+T36	Cell 1363 1374	fibroblasts
+T37	Gene_or_gene_product 1386 1395	alpha-SMA
+T38	Gene_or_gene_product 1400 1406	desmin
+T39	Cell 1437 1441	cell
+T40	Cell 1468 1480	NIH3T3 cells
+T41	Cancer 1544 1549	tumor
+T42	Gene_or_gene_product 1561 1569	TGF-beta
+T43	Cell 1578 1590	NIH3T3 cells
+T44	Gene_or_gene_product 1626 1631	TSP-1
+T45	Gene_or_gene_product 1654 1659	TSP-1
+T46	Cell 1674 1684	SiHa cells
+T47	Cell 1734 1746	NIH3T3 cells
+T48	Gene_or_gene_product 1799 1804	TSP-1
+T49	Cancer 1816 1821	tumor
+T50	Tissue 1822 1828	stroma
+T51	Cell 1892 1903	fibroblasts
+T52	Cell 1918 1930	cancer cells

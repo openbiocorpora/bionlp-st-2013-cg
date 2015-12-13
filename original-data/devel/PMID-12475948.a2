@@ -1,0 +1,101 @@
+T55	Positive_regulation 23 31	required
+E1	Positive_regulation:T55 Cause:T1 Theme:E5
+E2	Positive_regulation:T55 Cause:T1 Theme:E6
+T56	Positive_regulation 46 53	induced
+E3	Positive_regulation:T56 Cause:T2 Theme:E5
+E4	Positive_regulation:T56 Cause:T2 Theme:E6
+T57	Localization 63 71	ruffling
+E5	Localization:T57 Theme:T3
+T58	Binding 90 98	assembly
+E6	Binding:T58 Theme:T4
+T59	Localization 151 160	migration
+E7	Localization:T59 Theme:T7
+T60	Positive_regulation 167 176	essential
+E8	Positive_regulation:T60 Cause:E7 Theme:E10
+E9	Positive_regulation:T60 Cause:E7 Theme:E11
+T61	Blood_vessel_development 185 199	vasculogenesis
+E10	Blood_vessel_development:T61 
+T62	Blood_vessel_development 204 216	angiogenesis
+E11	Blood_vessel_development:T62 
+T63	Regulation 253 272	play a pivotal role
+E12	Regulation:T63 Cause:T8 Theme:E11
+E13	Regulation:T63 Cause:T8 Theme:E10
+T64	Positive_regulation 323 331	promotes
+E14	Positive_regulation:T64 Cause:T9 Theme:E15
+T65	Localization 341 349	ruffling
+E15	Localization:T65 Theme:T10
+T66	Localization 402 410	ruffling
+E16	Localization:T66 Theme:T13
+T67	Localization 429 438	migration
+E17	Localization:T67 Theme:T14
+T68	Regulation 469 473	role
+E18	Regulation:T68 Cause:T15 Theme:E20
+T69	Positive_regulation 505 513	mediated
+E19	Positive_regulation:T69 Theme:E20 Cause:T16
+T70	Pathway 514 523	signaling
+E20	Pathway:T70 
+T71	Planned_process 537 543	tagged
+E21	Planned_process:T71 Instrument:T17 Theme:T18
+T72	Localization 612 621	recruited
+E22	Localization:T72 Theme:T19 ToLoc:T20
+T73	Positive_regulation 667 678	stimulation
+E23	Positive_regulation:T73 Theme:E22 Cause:T21
+T74	Localization 736 745	recruited
+T75	Positive_regulation 736 745	recruited
+E24	Localization:T74 Theme:T24 ToLoc:T25
+E25	Positive_regulation:T75 Cause:T23 Theme:E24
+E26	Positive_regulation:T75 Cause:T22 Theme:E24
+M1	Negation E25
+T76	Positive_regulation 784 793	necessity
+E27	Positive_regulation:T76 Cause:T26 Theme:E29
+T77	Positive_regulation 814 821	induced
+E28	Positive_regulation:T77 Cause:T27 Theme:E29
+T78	Localization 831 839	ruffling
+E29	Localization:T78 Theme:T28
+T79	Mutation 902 909	mutants
+E30	Mutation:T79 Theme:T29
+T80	Negative_regulation 921 930	depletion
+E31	Negative_regulation:T80 Theme:T30
+T81	Mutation 1071 1077	mutant
+E32	Mutation:T81 Theme:T34
+T82	Negative_regulation 1097 1106	inhibited
+E33	Negative_regulation:T82 Theme:E35 Cause:T34
+E34	Negative_regulation:T82 Theme:E36 Cause:T34
+T83	Positive_regulation 1117 1124	induced
+E35	Positive_regulation:T83 Cause:T35 Theme:E37
+E36	Positive_regulation:T83 Cause:T35 Theme:E38
+T84	Localization 1134 1142	ruffling
+E37	Localization:T84 Theme:T36
+T85	Binding 1161 1169	assembly
+E38	Binding:T85 Theme:T37
+T86	Negative_regulation 1233 1240	inhibit
+E39	Negative_regulation:T86 Cause:T38 Theme:E41
+M2	Negation E39
+T87	Positive_regulation 1251 1258	induced
+E40	Positive_regulation:T87 Cause:T40 Theme:E41
+T88	Localization 1268 1276	ruffling
+E41	Localization:T88 Theme:T41
+T89	Gene_expression 1300 1310	expressing
+E42	Gene_expression:T89 Theme:T43
+T90	Positive_regulation 1336 1342	induce
+E43	Positive_regulation:T90 Cause:T44 Theme:E44
+M3	Negation E43
+T91	Localization 1352 1361	spreading
+E44	Localization:T91 Theme:T45
+T92	Regulation 1446 1467	plays a critical role
+E45	Regulation:T92 Cause:T47 Theme:E48
+E46	Regulation:T92 Cause:T47 Theme:E50
+T93	Positive_regulation 1476 1483	induced
+E47	Positive_regulation:T93 Cause:T48 Theme:E48
+T94	Localization 1493 1501	ruffling
+E48	Localization:T94 Theme:T49
+T95	Regulation 1511 1519	mediated
+E49	Regulation:T95 Cause:T50 Theme:E50
+T96	Planned_process 1542 1555	stabilization
+E50	Planned_process:T96 Theme:T51
+T97	Regulation 1556 1568	contributing
+E51	Regulation:T97 Theme:E53 Cause:T47
+T98	Positive_regulation 1582 1589	induced
+E52	Positive_regulation:T98 Cause:T52 Theme:E53
+T99	Localization 1621 1630	migration
+E53	Localization:T99 Theme:T54

@@ -1,0 +1,109 @@
+*	Equiv T16 T15
+T44	Negative_regulation 0 10	Inhibition
+E1	Negative_regulation:T44 Theme:E2
+T45	Metabolism 22 32	metabolism
+E2	Metabolism:T45 Theme:T1
+T46	Positive_regulation 33 43	sensitizes
+E3	Positive_regulation:T46 Theme:E5 Cause:E6
+T47	Positive_regulation 74 83	triggered
+E4	Positive_regulation:T47 Theme:E5
+T48	Cell_death 84 93	apoptosis
+E5	Cell_death:T48 Theme:T2
+T49	Positive_regulation 102 113	enhancement
+E6	Positive_regulation:T49 Theme:T4 Cause:E1
+T50	Localization 235 241	uptake
+E7	Localization:T50 Theme:T6 ToLoc:T5
+T51	Glycolysis 246 256	glycolysis
+E8	Glycolysis:T51 
+T52	Negative_regulation 278 288	inhibition
+E9	Negative_regulation:T52 Theme:E10
+T53	Metabolism 300 310	metabolism
+E10	Metabolism:T53 Theme:T7
+T54	Regulation 317 323	affect
+E11	Regulation:T54 Theme:E13 Cause:E9
+M1	Speculation E11
+T55	Positive_regulation 339 347	mediated
+E12	Positive_regulation:T55 Theme:E13
+T56	Cell_death 348 357	apoptosis
+E13	Cell_death:T56 Theme:T9
+T57	Planned_process 457 466	treatment
+E14	Planned_process:T57 Instrument:T12
+T58	Positive_regulation 487 495	enhanced
+E15	Positive_regulation:T58 Theme:E16 Cause:E14
+T59	Cell_death 496 505	apoptosis
+E16	Cell_death:T59 
+T60	Positive_regulation 506 513	induced
+E17	Positive_regulation:T60 Theme:E16 Cause:T13
+E18	Positive_regulation:T60 Theme:E16 Cause:T15
+T61	Negative_regulation 628 638	Inhibition
+E19	Negative_regulation:T61 Theme:E20
+T62	Metabolism 650 660	metabolism
+E20	Metabolism:T62 Theme:T17
+T63	Positive_regulation 661 669	enhanced
+E21	Positive_regulation:T63 Cause:E19 Theme:E25
+E22	Positive_regulation:T63 Cause:E19 Theme:E28
+E23	Positive_regulation:T63 Cause:E19 Theme:E29
+T64	Death 670 677	killing
+T65	Positive_regulation 670 677	killing
+E24	Death:T64 Theme:T18
+E25	Positive_regulation:T65 Theme:E24
+E26	Death:T64 Theme:T19
+E27	Death:T64 Theme:T20
+E28	Positive_regulation:T65 Theme:E26
+E29	Positive_regulation:T65 Theme:E27
+T66	Positive_regulation 800 810	activation
+E30	Positive_regulation:T66 Theme:T21
+T67	Remodeling 826 840	depolarization
+E31	Remodeling:T67 Theme:T22
+T68	Localization 859 866	release
+E32	Localization:T68 Theme:T23
+T69	Positive_regulation 872 881	increased
+E33	Positive_regulation:T69 Theme:E30
+E34	Positive_regulation:T69 Theme:E31
+E35	Positive_regulation:T69 Theme:E32
+T70	Localization 914 925	deprivation
+E36	Localization:T70 Theme:T24
+M2	Negation E36
+T71	Positive_regulation 926 934	mediated
+E37	Positive_regulation:T71 Cause:E36 Theme:E38
+T72	Positive_regulation 935 948	sensitization
+E38	Positive_regulation:T72 Theme:E39
+T73	Cell_death 952 961	apoptosis
+E39	Cell_death:T73 Theme:T25
+T74	Negative_regulation 966 975	prevented
+E40	Negative_regulation:T74 Theme:E38
+T75	Gene_expression 991 1005	overexpressing
+T76	Positive_regulation 991 1005	overexpressing
+E41	Gene_expression:T75 Theme:T26
+E42	Positive_regulation:T76 Theme:E41
+T77	Regulation 1102 1113	independent
+E43	Regulation:T77 Cause:T29 Theme:E45
+M3	Negation E43
+T78	Positive_regulation 1129 1136	induced
+E44	Positive_regulation:T78 Theme:E45
+T79	Cell_death 1137 1146	apoptosis
+E45	Cell_death:T79 
+T80	Positive_regulation 1191 1198	induced
+E46	Positive_regulation:T80 Cause:T31 Theme:E47
+T81	Cell_death 1199 1208	apoptosis
+E47	Cell_death:T81 
+T82	Localization 1223 1227	free
+E48	Localization:T82 Theme:T32
+M4	Negation E48
+T83	Regulation 1240 1247	Changes
+E49	Regulation:T83 Theme:T33
+E50	Regulation:T83 Theme:T34
+T84	Localization 1354 1365	deprivation
+E51	Localization:T84 Theme:T36
+M5	Negation E51
+T85	Localization 1375 1386	deprivation
+E52	Localization:T85 Theme:T37
+M6	Negation E52
+T86	Positive_regulation 1387 1395	enhanced
+E53	Positive_regulation:T86 Cause:E52 Theme:E54
+T87	Protein_processing 1477 1487	processing
+E54	Protein_processing:T87 Theme:T39
+T88	Glycolysis 1548 1566	glycolytic pathway
+E55	Glycolysis:T88 
+T89	Positive_regulation 1765 1775	activation
+E56	Positive_regulation:T89 Theme:T43

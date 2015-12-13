@@ -1,0 +1,47 @@
+T1	Simple_chemical 0 8	Androgen
+T2	Simple_chemical 43 48	lipid
+T3	Gene_or_gene_product 91 103	hexokinase 2
+T4	Gene_or_gene_product 108 162	6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase 2
+T5	Cell 166 187	prostate cancer cells
+T6	Simple_chemical 222 230	androgen
+T7	Cell 287 314	LNCaP prostate cancer cells
+T8	Simple_chemical 348 356	androgen
+T9	Simple_chemical 367 374	glucose
+T10	Cell 414 425	LNCaP cells
+T11	Gene_or_gene_product 452 455	HK2
+T12	Gene_or_gene_product 457 470	hexokinase 2)
+T13	Organ 493 500	cardiac
+T14	Gene_or_gene_product 512 518	PFKFB2
+T15	Gene_or_gene_product 520 572	6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase
+T16	Gene_or_gene_product 589 592	PKA
+T17	Gene_or_gene_product 594 623	cAMP-dependent protein kinase
+T18	Simple_chemical 628 636	androgen
+T19	Gene_or_gene_product 666 670	CREB
+T20	Gene_or_gene_product 672 715	CRE (cAMP-response element)-binding protein
+T21	Gene_or_gene_product 768 771	HK2
+T22	Gene_or_gene_product 824 827	HK2
+T23	Gene_or_gene_product 851 857	PFKFB2
+T24	Simple_chemical 924 932	androgen
+T25	Gene_or_gene_product 949 955	PFKFB2
+T26	Gene_or_gene_product 980 984	PI3K
+T27	Gene_or_gene_product 986 1011	phosphoinositide 3-kinase
+T28	Gene_or_gene_product 1013 1016	Akt
+T29	Cell 1039 1050	LNCaP cells
+T30	Gene_or_gene_product 1089 1095	PFKFB2
+T31	Amino_acid 1099 1105	Ser466
+T32	Amino_acid 1110 1116	Ser483
+T33	Gene_or_gene_product 1162 1167	PFK-2
+T34	Gene_or_gene_product 1169 1193	6-phosphofructo-2-kinase
+T35	Simple_chemical 1205 1212	Glucose
+T36	Gene_or_gene_product 1278 1284	PFKFB2
+T37	Gene_or_gene_product 1341 1346	PFK-2
+T38	Simple_chemical 1361 1369	LY294002
+T39	Simple_chemical 1447 1452	lipid
+T40	Simple_chemical 1466 1474	androgen
+T41	Gene_or_gene_product 1521 1524	HK2
+T42	Gene_or_gene_product 1529 1535	PFKFB2
+T43	Gene_or_gene_product 1560 1566	PFKFB2
+T44	Gene_or_gene_product 1584 1588	PI3K
+T45	Gene_or_gene_product 1589 1592	Akt
+T46	Simple_chemical 1654 1661	glucose
+T47	Cell 1665 1686	prostate cancer cells

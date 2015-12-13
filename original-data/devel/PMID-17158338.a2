@@ -1,0 +1,72 @@
+*	Equiv T5 T6
+*	Equiv T9 T10
+T43	Positive_regulation 15 22	induces
+T44	Regulation 15 22	induces
+E1	Positive_regulation:T43 Cause:E2 Theme:E3
+E2	Regulation:T44 Cause:T1 Theme:E4
+T45	Localization 58 65	release
+E3	Localization:T45 Theme:T2
+T46	Pathway 82 99	signaling pathway
+E4	Pathway:T46 Participant:T3
+T47	Breakdown 135 146	dysfunction
+E5	Breakdown:T47 Theme:T4
+T48	Positive_regulation 182 191	increased
+E6	Positive_regulation:T48 Theme:T5
+T49	Localization 239 250	circulating
+E7	Localization:T49 Theme:T7
+E8	Localization:T49 Theme:T8
+T50	Positive_regulation 386 395	increases
+E9	Positive_regulation:T50 Theme:T9
+T51	Positive_regulation 479 486	promote
+E10	Positive_regulation:T51 Cause:T12 Theme:E11
+M1	Speculation E10
+T52	Gene_expression 491 501	expression
+E11	Gene_expression:T52 Theme:T13
+T53	Planned_process 546 554	infusion
+E12	Planned_process:T53 Theme:T14
+T54	Positive_regulation 579 588	increases
+E13	Positive_regulation:T54 Theme:E14 Cause:E12
+T55	Localization 589 600	circulating
+E14	Localization:T55 Theme:T15
+T56	Localization 695 704	secretion
+E15	Localization:T56 Theme:T18
+T57	Positive_regulation 734 744	stimulated
+E16	Positive_regulation:T57 Cause:T19 Theme:E17
+T58	Gene_expression 752 762	production
+E17	Gene_expression:T58 Theme:T20
+T59	Positive_regulation 986 993	induced
+E18	Positive_regulation:T59 Theme:E19 Cause:T26
+T60	Localization 1001 1010	secretion
+E19	Localization:T60 Theme:T27
+T61	Negative_regulation 1027 1037	inhibition
+E20	Negative_regulation:T61 Cause:E18 Theme:E22
+E21	Negative_regulation:T61 Cause:E18 Theme:E23
+T62	Localization 1058 1067	migration
+E22	Localization:T62 Theme:T28
+T63	Development 1086 1095	formation
+E23	Development:T63 Theme:T29
+T64	Positive_regulation 1223 1231	mediated
+T65	Regulation 1223 1231	mediated
+E24	Positive_regulation:T64 Theme:E26 Cause:E27
+E25	Regulation:T65 Theme:E27 Cause:T33
+T66	Localization 1239 1246	release
+E26	Localization:T66 Theme:T34
+T67	Positive_regulation 1278 1288	activation
+E27	Positive_regulation:T67 Theme:T35
+T68	Pathway 1293 1314	calcineurin signaling
+E28	Pathway:T68 
+T69	Regulation 1378 1393	regulatory role
+E29	Regulation:T69 Theme:E31
+E30	Regulation:T69 Theme:E32
+T70	Gene_expression 1415 1425	expression
+E31	Gene_expression:T70 Theme:T37
+E32	Gene_expression:T70 Theme:T36
+T71	Positive_regulation 1473 1481	elevated
+E33	Positive_regulation:T71 Theme:T40
+T72	Positive_regulation 1519 1525	caused
+E34	Positive_regulation:T72 Cause:E35 Theme:E33
+M2	Speculation E34
+T73	Negative_regulation 1531 1544	dysregulation
+E35	Negative_regulation:T73 Theme:E36
+T74	Pathway 1576 1582	system
+E36	Pathway:T74 Participant:T41 Participant2:T42

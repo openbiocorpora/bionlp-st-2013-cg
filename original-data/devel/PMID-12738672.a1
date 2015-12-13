@@ -1,0 +1,46 @@
+T1	Gene_or_gene_product 24 47	coagulation factor VIIa
+T2	Gene_or_gene_product 60 71	factor VIIa
+T3	Gene_or_gene_product 73 78	FVIIa
+T4	Cell 87 95	cellular
+T5	Gene_or_gene_product 105 118	tissue factor
+T6	Gene_or_gene_product 120 122	TF
+T7	Immaterial_anatomical_entity 163 176	intracellular
+T8	Gene_or_gene_product 236 238	TF
+T9	Cancer 290 295	tumor
+T10	Gene_or_gene_product 408 413	FVIIa
+T11	Organism_substance 428 433	Serum
+T12	Cell 467 481	BHK(+TF) cells
+T13	Cellular_component 513 518	blebs
+T14	Cellular_component 520 526	nuclei
+T15	Cellular_component 532 541	chromatin
+T16	Cellular_component 560 563	DNA
+T17	Gene_or_gene_product 595 604	caspase 3
+T18	Gene_or_gene_product 606 611	FVIIa
+T19	Cell 645 650	cells
+T20	Cellular_component 695 698	DNA
+T21	Gene_or_gene_product 735 738	TdT
+T22	Simple_chemical 748 752	dUTP
+T23	Gene_or_gene_product 808 813	FVIIa
+T24	Gene_or_gene_product 852 857	FVIIa
+T25	Gene_or_gene_product 869 878	caspase 3
+T26	Gene_or_gene_product 891 896	FVIIa
+T27	Gene_or_gene_product 972 974	TF
+T28	Gene_or_gene_product 994 1003	factor Xa
+T29	Gene_or_gene_product 1008 1016	thrombin
+T30	Gene_or_gene_product 1018 1023	FVIIa
+T31	Cell 1032 1036	cell
+T32	Gene_or_gene_product 1080 1083	Akt
+T33	Gene_or_gene_product 1127 1137	PI3-kinase
+T34	Simple_chemical 1149 1157	LY294002
+T35	Gene_or_gene_product 1186 1225	p44/42 mitogen-activated protein kinase
+T36	Gene_or_gene_product 1227 1231	MAPK
+T37	Gene_or_gene_product 1249 1285	mitogen-induced extracellular kinase
+T38	Gene_or_gene_product 1287 1290	MEK
+T39	Simple_chemical 1303 1308	U0126
+T40	Gene_or_gene_product 1343 1348	FVIIa
+T41	Cell 1360 1364	cell
+T42	Gene_or_gene_product 1390 1395	FVIIa
+T43	Gene_or_gene_product 1407 1409	TF
+T44	Gene_or_gene_product 1518 1528	PI3-kinase
+T45	Gene_or_gene_product 1529 1532	Akt
+T46	Gene_or_gene_product 1566 1577	p44/42 MAPK

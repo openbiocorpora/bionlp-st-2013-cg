@@ -1,0 +1,34 @@
+T1	Gene_or_gene_product 0 9	C/EBPbeta
+T2	Organ 31 38	gastric
+T3	Gene_or_gene_product 77 82	COX-2
+T4	Gene_or_gene_product 100 135	CCAAT/enhancer-binding protein beta
+T5	Gene_or_gene_product 137 146	C/EBPbeta
+T6	Cancer 202 208	cancer
+T7	Gene_or_gene_product 250 259	C/EBPbeta
+T8	Cancer 291 309	gastric carcinomas
+T9	Cancer 311 314	GCs
+T10	Gene_or_gene_product 348 357	C/EBPbeta
+T11	Gene_or_gene_product 361 366	COX-2
+T12	Multi-tissue_structure 389 403	gastric mucosa
+T13	Gene_or_gene_product 405 414	C/EBPbeta
+T14	Cell 444 449	cells
+T15	Immaterial_anatomical_entity 471 475	zone
+T16	Pathological_formation 480 501	intestinal metaplasia
+T17	Pathological_formation 503 512	dysplasia
+T18	Cancer 518 520	GC
+T19	Multi-tissue_structure 528 538	intestinal
+T20	Gene_or_gene_product 562 571	C/EBPbeta
+T21	Gene_or_gene_product 649 658	C/EBPbeta
+T22	Gene_or_gene_product 663 667	Ki67
+T23	Cell 681 685	cell
+T24	Cancer 735 737	GC
+T25	Gene_or_gene_product 775 784	C/EBPbeta
+T26	Gene_or_gene_product 789 794	COX-2
+T27	Cancer 809 811	GC
+T28	Cell 819 832	GC cell lines
+T29	Gene_or_gene_product 846 855	C/EBPbeta
+T30	Gene_or_gene_product 898 903	COX-2
+T31	Gene_or_gene_product 942 947	COX-2
+T32	Gene_or_gene_product 1018 1027	C/EBPbeta
+T33	Organ 1105 1112	gastric
+T34	Gene_or_gene_product 1142 1147	COX-2

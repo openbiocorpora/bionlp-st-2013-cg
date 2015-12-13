@@ -1,0 +1,9 @@
+T39	Planned_process 113 124	Hepatectomy
+E1	Planned_process:T39 Theme:T5
+T40	Blood_vessel_development 341 352	angiomatoid
+E2	Blood_vessel_development:T40 
+T41	Growth 542 554	proliferated
+E3	Growth:T41 Theme:T12
+E4	Growth:T41 Theme:T13
+T42	Cell_proliferation 1054 1067	proliferation
+E5	Cell_proliferation:T42 Theme:T35

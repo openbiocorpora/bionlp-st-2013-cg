@@ -1,0 +1,43 @@
+T1	Gene_or_gene_product 13 41	monocarboxylate transporters
+T2	Cell 113 117	cell
+T3	Cancer 127 143	malignant glioma
+T4	Cancer 218 234	malignant tumors
+T5	Cancer 260 266	tumors
+T6	Simple_chemical 281 288	lactate
+T7	Cell 313 318	cells
+T8	Gene_or_gene_product 322 350	monocarboxylate transporters
+T9	Gene_or_gene_product 352 356	MCTs
+T10	Gene_or_gene_product 383 386	MCT
+T11	Cancer 401 417	malignant tumors
+T12	Tissue 434 447	normal tissue
+T13	Gene_or_gene_product 496 499	MCT
+T14	Immaterial_anatomical_entity 524 537	intracellular
+T15	Cell 607 611	cell
+T16	Gene_or_gene_product 656 659	MCT
+T17	Organism 672 677	human
+T18	Cell 678 701	glioblastoma multiforme
+T19	Cell 706 732	glioma-derived cells lines
+T20	Gene_or_gene_product 759 763	MCTs
+T21	Cancer 798 804	glioma
+T22	Cell 837 861	U-87 MG glioma cell line
+T23	Simple_chemical 954 961	lactate
+T24	Immaterial_anatomical_entity 970 983	intracellular
+T25	Cell 1039 1043	cell
+T26	Gene_or_gene_product 1060 1065	MCT 1
+T27	Gene_or_gene_product 1070 1071	2
+T28	Organism 1111 1116	human
+T29	Cell 1117 1140	glioblastoma multiforme
+T30	Cell 1145 1170	glioma-derived cell lines
+T31	Gene_or_gene_product 1185 1190	MCT 3
+T32	Organ 1241 1246	brain
+T33	Gene_or_gene_product 1296 1301	MCT 1
+T34	Gene_or_gene_product 1306 1307	2
+T35	Cell 1348 1361	U-87 MG cells
+T36	Simple_chemical 1402 1409	lactate
+T37	Immaterial_anatomical_entity 1492 1505	intracellular
+T38	Immaterial_anatomical_entity 1546 1559	intracellular
+T39	Gene_or_gene_product 1595 1599	MCTs
+T40	Gene_or_gene_product 1735 1738	MCT
+T41	Cell 1788 1801	U-87 MG cells
+T42	Organism 1928 1936	patients
+T43	Cancer 1942 1958	malignant glioma

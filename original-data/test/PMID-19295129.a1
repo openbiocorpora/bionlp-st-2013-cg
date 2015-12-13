@@ -1,0 +1,28 @@
+T1	Gene_or_gene_product 17 25	PLCbeta3
+T2	Gene_or_gene_product 29 33	VEGF
+T3	Multi-tissue_structure 69 77	vascular
+T4	Cell 89 105	Endothelial cell
+T5	Cell 207 224	endothelial cells
+T6	Gene_or_gene_product 261 295	vascular endothelial growth factor
+T7	Gene_or_gene_product 297 301	VEGF
+T8	Gene_or_gene_product 307 337	basic fibroblast growth factor
+T9	Gene_or_gene_product 339 343	bFGF
+T10	Gene_or_gene_product 346 350	VEGF
+T11	Gene_or_gene_product 361 375	phospholipases
+T12	Gene_or_gene_product 377 381	PLCs
+T13	Gene_or_gene_product 398 407	PLCgamma1
+T14	Cellular_component 468 471	DNA
+T15	Gene_or_gene_product 510 514	VEGF
+T16	Gene_or_gene_product 537 543	VEGFR2
+T17	Gene_or_gene_product 595 603	PLCbeta3
+T18	Developing_anatomical_structure 642 655	embryoid body
+T19	Gene_or_gene_product 676 684	PLCbeta3
+T20	Cell 688 699	HUVEC cells
+T21	Gene_or_gene_product 708 711	IP3
+T22	Gene_or_gene_product 724 729	actin
+T23	Cell 913 917	cell
+T24	Gene_or_gene_product 977 982	CDC42
+T25	Gene_or_gene_product 995 1003	PLCbeta3
+T26	Gene_or_gene_product 1041 1066	heterotrimeric G-proteins
+T27	Gene_or_gene_product 1120 1129	G-protein
+T28	Gene_or_gene_product 1212 1216	VEGF

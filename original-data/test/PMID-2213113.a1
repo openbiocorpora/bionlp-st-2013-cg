@@ -1,0 +1,33 @@
+T1	Organism_substance 24 29	blood
+T2	Simple_chemical 36 43	glucose
+T3	Simple_chemical 75 82	glucose
+T4	Simple_chemical 87 90	ATP
+T5	Cancer 125 131	glioma
+T6	Cancer 133 140	RG1 2.2
+T7	Organism 145 148	rat
+T8	Organ 149 154	brain
+T9	Cancer 172 186	RG1 2.2 glioma
+T10	Organism 190 193	rat
+T11	Organ 194 199	brain
+T12	Organism_substance 207 212	blood
+T13	Simple_chemical 219 226	glucose
+T14	Simple_chemical 259 266	glucose
+T15	Simple_chemical 271 274	ATP
+T16	Cancer 444 449	tumor
+T17	Cancer 505 510	tumor
+T18	Organism_substance 511 516	blood
+T19	Simple_chemical 664 667	ATP
+T20	Simple_chemical 672 679	glucose
+T21	Cancer 740 745	tumor
+T22	Simple_chemical 746 753	glucose
+T23	Simple_chemical 888 895	glucose
+T24	Simple_chemical 953 956	ATP
+T25	Organism_substance 991 996	blood
+T26	Simple_chemical 1009 1016	glucose
+T27	Tissue 1027 1039	tumor tissue
+T28	Organ 1081 1086	brain
+T29	Cancer 1136 1141	tumor
+T30	Simple_chemical 1142 1149	glucose
+T31	Cancer 1198 1203	tumor
+T32	Simple_chemical 1204 1211	glucose
+T33	Cancer 1301 1307	tumors

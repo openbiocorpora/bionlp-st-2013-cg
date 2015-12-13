@@ -1,0 +1,37 @@
+T1	Gene_or_gene_product 0 5	Runx2
+T2	Gene_or_gene_product 10 13	MYC
+T3	Cancer 29 37	lymphoma
+T4	Gene_or_gene_product 127 131	Runx
+T5	Gene_or_gene_product 136 139	MYC
+T6	Gene_or_gene_product 272 277	Runx2
+T7	Organism 272 286	Runx2/MYC mice
+T8	Gene_or_gene_product 278 281	MYC
+T9	Gene_or_gene_product 331 336	Runx2
+T10	Organ 344 350	thymus
+T11	Cell 412 417	cells
+T12	Gene_or_gene_product 492 497	c-MYC
+T13	Gene_or_gene_product 603 608	Runx2
+T14	Gene_or_gene_product 622 627	Runx2
+T15	Cancer 639 648	lymphomas
+T16	Cancer 710 719	lymphomas
+T17	Organism 723 731	MYC mice
+T18	Gene_or_gene_product 723 726	MYC
+T19	Gene_or_gene_product 809 814	Runx2
+T20	Cancer 809 825	Runx2/MYC tumors
+T21	Gene_or_gene_product 815 818	MYC
+T22	Gene_or_gene_product 843 848	Runx2
+T23	Gene_or_gene_product 888 891	MYC
+T24	Cell 903 914	tumor cells
+T25	Gene_or_gene_product 932 935	p53
+T26	Gene_or_gene_product 947 952	Runx2
+T27	Cancer 947 963	Runx2/MYC tumors
+T28	Gene_or_gene_product 953 956	MYC
+T29	Gene_or_gene_product 982 985	p53
+T30	Cell 982 998	p53 heterozygote
+T31	Gene_or_gene_product 1036 1039	p53
+T32	Cell 1108 1119	tumor cells
+T33	Gene_or_gene_product 1180 1185	Runx2
+T34	Gene_or_gene_product 1190 1193	MYC
+T35	Gene_or_gene_product 1374 1379	Runx2
+T36	Gene_or_gene_product 1380 1383	MYC
+T37	Gene_or_gene_product 1454 1457	p53

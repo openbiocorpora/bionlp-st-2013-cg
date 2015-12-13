@@ -1,0 +1,77 @@
+T43	Negative_regulation 28 35	inhibit
+E1	Negative_regulation:T43 Cause:T2 Theme:E3
+E2	Negative_regulation:T43 Cause:T1 Theme:E3
+T44	Growth 42 48	growth
+E3	Growth:T44 Theme:T3
+T45	Regulation 131 137	impact
+E4	Regulation:T45 Cause:T8 Theme:E10
+E5	Regulation:T45 Cause:T9 Theme:E10
+E6	Regulation:T45 Cause:T8 Theme:E11
+E7	Regulation:T45 Cause:T9 Theme:E11
+E8	Regulation:T45 Cause:T8 Theme:E12
+E9	Regulation:T45 Cause:T9 Theme:E12
+M1	Speculation E4
+M2	Speculation E5
+M3	Speculation E6
+M4	Speculation E7
+M5	Speculation E8
+M6	Speculation E9
+T46	Growth 178 184	growth
+E10	Growth:T46 Theme:T10
+T47	Blood_vessel_development 186 198	angiogenesis
+E11	Blood_vessel_development:T47 AtLoc:T12
+T48	Cell_death 204 213	apoptosis
+E12	Cell_death:T48 
+T49	Planned_process 303 310	treated
+E13	Planned_process:T49 Instrument:T15 Theme:T14
+E14	Planned_process:T49 Instrument:T16 Theme:T14
+T50	Planned_process 457 465	injected
+E15	Planned_process:T50 Theme:T22 Instrument:T21
+E16	Planned_process:T50 Theme:T22 Instrument:T20
+T51	Development 509 518	developed
+E17	Development:T51 Theme:T24
+T52	Planned_process 530 537	treated
+E18	Planned_process:T52 Theme:T25 Instrument:T26
+E19	Planned_process:T52 Theme:T25 Instrument:T27
+T53	Growth 627 633	growth
+E20	Growth:T53 Theme:T28
+T54	Blood_vessel_development 724 736	angiogenesis
+E21	Blood_vessel_development:T54 
+T55	Cell_death 769 778	apoptosis
+E22	Cell_death:T55 
+T56	Negative_regulation 801 810	inhibited
+E23	Negative_regulation:T56 Cause:T30 Theme:E24
+T57	Cell_proliferation 828 841	proliferation
+E24	Cell_proliferation:T57 Theme:T31
+T58	Regulation 869 885	no direct effect
+E25	Regulation:T58 Cause:T32 Theme:T33
+M7	Negation E25
+T59	Negative_regulation 941 950	inhibited
+E26	Negative_regulation:T59 Theme:T36 Cause:T35
+E27	Negative_regulation:T59 Theme:T36 Cause:T34
+T60	Growth 957 963	growth
+E28	Growth:T60 Theme:T36
+T61	Negative_regulation 1068 1077	inhibited
+E29	Negative_regulation:T61 Theme:E31 Cause:T35
+E30	Negative_regulation:T61 Theme:E31 Cause:T34
+T62	Blood_vessel_development 1078 1090	angiogenesis
+E31	Blood_vessel_development:T62 
+T63	Positive_regulation 1095 1102	induced
+E32	Positive_regulation:T63 Theme:E34 Cause:T34
+E33	Positive_regulation:T63 Theme:E34 Cause:T35
+T64	Cell_death 1103 1112	apoptosis
+E34	Cell_death:T64 
+T65	Negative_regulation 1200 1207	inhibit
+E35	Negative_regulation:T65 Cause:T39 Theme:E39
+E36	Negative_regulation:T65 Cause:T38 Theme:E39
+E37	Negative_regulation:T65 Cause:T38 Theme:E40
+E38	Negative_regulation:T65 Cause:T39 Theme:E40
+T66	Growth 1214 1220	growth
+E39	Growth:T66 Theme:T40
+T67	Blood_vessel_development 1222 1234	angiogenesis
+E40	Blood_vessel_development:T67 AtLoc:T42
+T68	Positive_regulation 1240 1246	induce
+E41	Positive_regulation:T68 Theme:E43 Cause:T39
+E42	Positive_regulation:T68 Theme:E43 Cause:T38
+T69	Cell_death 1247 1256	apoptosis
+E43	Cell_death:T69 

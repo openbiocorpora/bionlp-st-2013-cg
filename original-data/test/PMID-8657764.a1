@@ -1,0 +1,11 @@
+T1	Organism 52 55	rat
+T2	Tissue 150 163	graft tissues
+T3	Pathological_formation 215 220	wound
+T4	Simple_chemical 391 414	polytetrafluoroethylene
+T5	Simple_chemical 416 420	PTFE
+T6	Multi-tissue_structure 473 501	epigastric vascular pedicles
+T7	Organism 508 512	rats
+T8	Organism_subdivision 715 726	right groin
+T9	Organism_subdivision 753 763	left groin
+T10	Organism 879 883	Rats
+T11	Tissue 1859 1865	tissue

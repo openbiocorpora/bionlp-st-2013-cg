@@ -1,0 +1,38 @@
+T1	Gene_or_gene_product 4 7	Akt
+T2	Gene_or_gene_product 8 12	mTOR
+T3	Gene_or_gene_product 46 56	HIF-1alpha
+T4	Simple_chemical 70 77	glucose
+T5	Cancer 128 134	tumors
+T6	Gene_or_gene_product 165 170	HIF-1
+T7	Gene_or_gene_product 172 198	hypoxia-inducible factor-1
+T8	Cancer 240 252	solid tumors
+T9	Gene_or_gene_product 447 452	HIF-1
+T10	Gene_or_gene_product 478 491	5HREp-ODD-luc
+T11	Gene_or_gene_product 528 531	Akt
+T12	Gene_or_gene_product 532 536	mTOR
+T13	Cell 554 565	tumor cells
+T14	Multi-tissue_structure 579 592	blood vessels
+T15	Gene_or_gene_product 653 658	HIF-1
+T16	Gene_or_gene_product 681 691	HIF-1alpha
+T17	Simple_chemical 788 795	glucose
+T18	Simple_chemical 804 821	2-deoxy-d-glucose
+T19	Gene_or_gene_product 887 890	Akt
+T20	Gene_or_gene_product 920 923	Akt
+T21	Gene_or_gene_product 941 945	mTOR
+T22	Gene_or_gene_product 987 990	Akt
+T23	Gene_or_gene_product 991 995	mTOR
+T24	Gene_or_gene_product 1043 1053	HIF-1alpha
+T25	Simple_chemical 1106 1113	glucose
+T26	Gene_or_gene_product 1135 1138	Akt
+T27	Gene_or_gene_product 1215 1225	HIF-1alpha
+T28	Simple_chemical 1310 1333	reactive oxygen species
+T29	Gene_or_gene_product 1360 1370	HIF-1alpha
+T30	Gene_or_gene_product 1415 1420	HIF-1
+T31	Gene_or_gene_product 1457 1460	Akt
+T32	Gene_or_gene_product 1461 1465	mTOR
+T33	Gene_or_gene_product 1491 1501	HIF-1alpha
+T34	Cancer 1564 1576	intratumoral
+T35	Gene_or_gene_product 1577 1582	HIF-1
+T36	Simple_chemical 1640 1647	glucose
+T37	Simple_chemical 1652 1658	oxygen
+T38	Cancer 1677 1688	solid tumor

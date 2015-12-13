@@ -1,0 +1,34 @@
+T1	Cancer 53 68	prostate cancer
+T2	Cancer 71 86	Prostate cancer
+T3	Organism 175 183	patients
+T4	Cancer 252 257	tumor
+T5	Organism 454 459	human
+T6	Cancer 460 485	prostate cancer xenograft
+T7	Cell 494 500	LAPC-4
+T8	Cell 502 508	LAPC-9
+T9	Cell 510 513	PC3
+T10	Cell 518 527	CWR22Rv-1
+T11	Cell 547 552	cells
+T12	Gene_or_gene_product 571 581	luciferase
+T13	Cancer 657 662	tumor
+T14	Organism 680 687	animals
+T15	Cancer 765 783	Metastatic lesions
+T16	Cancer 889 895	tumors
+T17	Cell 1001 1019	LAPC-9 tumor cells
+T18	Gene_or_gene_product 1051 1057	VEGF-C
+T19	Cancer 1082 1092	metastases
+T20	Cell 1125 1134	CWR22Rv-1
+T21	Cell 1139 1159	PC3 tumor cell lines
+T22	Cell 1187 1193	LAPC-4
+T23	Cell 1240 1246	LAPC-9
+T24	Gene_or_gene_product 1369 1375	VEGF-C
+T25	Multi-tissue_structure 1396 1412	tumor lymphatics
+T26	Gene_or_gene_product 1454 1460	VEGF-C
+T27	Cell 1464 1470	LAPC-9
+T28	Cancer 1480 1485	tumor
+T29	Cancer 1534 1552	metastatic lesions
+T30	Multi-tissue_structure 1702 1718	tumor lymphatics
+T31	Organism 1748 1753	human
+T32	Cancer 1754 1769	prostate cancer
+T33	Gene_or_gene_product 1786 1792	VEGF-C
+T34	Cancer 1821 1836	prostate cancer

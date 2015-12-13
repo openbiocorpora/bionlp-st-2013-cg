@@ -1,0 +1,50 @@
+T1	Simple_chemical 16 24	androgen
+T2	Gene_or_gene_product 43 47	ARD1
+T3	Gene_or_gene_product 57 74	androgen receptor
+T4	Organ 91 99	prostate
+T5	Simple_chemical 116 124	Androgen
+T6	Gene_or_gene_product 143 160	androgen receptor
+T7	Gene_or_gene_product 162 164	AR
+T8	Organ 182 190	prostate
+T9	Gene_or_gene_product 217 219	AR
+T10	Gene_or_gene_product 260 262	AR
+T11	Cancer 351 366	prostate cancer
+T12	Cancer 368 371	PCa
+T13	Gene_or_gene_product 397 432	N-acetyltransferase arrest-defect 1
+T14	Gene_or_gene_product 442 446	ARD1
+T15	Gene_or_gene_product 470 472	AR
+T16	Cell 486 495	PCa cells
+T17	Gene_or_gene_product 497 501	ARD1
+T18	Organism 521 526	human
+T19	Cell 527 541	PCa cell lines
+T20	Cancer 554 568	tumor biopsies
+T21	Gene_or_gene_product 588 592	ARD1
+T22	Simple_chemical 635 643	androgen
+T23	Simple_chemical 645 650	R1881
+T24	Gene_or_gene_product 659 661	AR
+T25	Gene_or_gene_product 694 696	AR
+T26	Simple_chemical 715 723	androgen
+T27	Simple_chemical 734 746	bicalutamide
+T28	Simple_chemical 748 755	Casodex
+T29	Gene_or_gene_product 771 775	ARD1
+T30	Cell 796 804	PCa cell
+T31	Cancer 854 869	xenograft tumor
+T32	Organism 883 892	SCID mice
+T33	Gene_or_gene_product 910 912	AR
+T34	Gene_or_gene_product 923 927	ARD1
+T35	Gene_or_gene_product 973 977	ARD1
+T36	Gene_or_gene_product 1036 1038	AR
+T37	Organ 1073 1081	prostate
+T38	Gene_or_gene_product 1110 1114	ARD1
+T39	Gene_or_gene_product 1161 1163	AR
+T40	Gene_or_gene_product 1202 1204	AR
+T41	Gene_or_gene_product 1205 1209	ARD1
+T42	Gene_or_gene_product 1238 1240	AR
+T43	Gene_or_gene_product 1315 1319	ARD1
+T44	Gene_or_gene_product 1342 1344	AR
+T45	Gene_or_gene_product 1394 1396	AR
+T46	Organ 1407 1415	prostate
+T47	Gene_or_gene_product 1445 1447	AR
+T48	Gene_or_gene_product 1448 1452	ARD1
+T49	Gene_or_gene_product 1499 1507	androgen
+T50	Cancer 1518 1521	PCa

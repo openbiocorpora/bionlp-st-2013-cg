@@ -1,0 +1,50 @@
+T1	Gene_or_gene_product 0 15	Thrombospondins
+T2	Gene_or_gene_product 17 34	metallo proteases
+T3	Gene_or_gene_product 39 63	thrombospondin receptors
+T4	Cancer 114 129	tumour sublines
+T5	Cancer 137 160	Dunning prostate cancer
+T6	Gene_or_gene_product 168 182	Thrombospondin
+T7	Cancer 269 275	tumour
+T8	Gene_or_gene_product 284 287	TSP
+T9	Gene_or_gene_product 422 436	thrombospondin
+T10	Pathological_formation 453 481	benign prostatic hyperplasia
+T11	Pathological_formation 483 486	BPH
+T12	Pathological_formation 503 538	prostatic intraepithelial neoplasia
+T13	Pathological_formation 540 543	PIN
+T14	Cancer 562 577	prostate cancer
+T15	Gene_or_gene_product 650 666	thrombospondin 1
+T16	Gene_or_gene_product 671 672	2
+T17	Gene_or_gene_product 674 679	TSP-1
+T18	Gene_or_gene_product 681 686	TSP-2
+T19	Gene_or_gene_product 689 692	TSP
+T20	Gene_or_gene_product 703 707	CD36
+T21	Gene_or_gene_product 712 716	CD47
+T22	Gene_or_gene_product 722 747	matrix-metalloproteases 2
+T23	Gene_or_gene_product 752 753	9
+T24	Gene_or_gene_product 755 758	MMP
+T25	Gene_or_gene_product 761 766	MMP-9
+T26	Organism 773 776	rat
+T27	Cancer 777 792	prostate cancer
+T28	Gene_or_gene_product 890 895	TSP-1
+T29	Gene_or_gene_product 897 902	TSP-2
+T30	Gene_or_gene_product 904 908	CD36
+T31	Gene_or_gene_product 910 914	CD47
+T32	Gene_or_gene_product 916 921	MMP-2
+T33	Gene_or_gene_product 927 932	MMP-9
+T34	Organism 961 964	rat
+T35	Tissue 965 980	prostate tissue
+T36	Tissue 990 1023	malignant Dunning sublines tissue
+T37	Gene_or_gene_product 1025 1030	TSP-1
+T38	Cancer 1065 1072	tumours
+T39	Organ 1094 1102	prostate
+T40	Gene_or_gene_product 1154 1159	TSP-2
+T41	Gene_or_gene_product 1164 1168	CD36
+T42	Gene_or_gene_product 1192 1197	MMP-2
+T43	Gene_or_gene_product 1250 1255	MMP-9
+T44	Gene_or_gene_product 1270 1283	CD47 receptor
+T45	Cancer 1333 1338	H3327
+T46	Gene_or_gene_product 1364 1378	thrombospondin
+T47	Organ 1402 1410	prostate
+T48	Cancer 1422 1438	prostate tumours
+T49	Organism 1444 1447	rat
+T50	Gene_or_gene_product 1471 1476	MMP-2

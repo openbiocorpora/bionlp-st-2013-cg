@@ -1,0 +1,51 @@
+T1	Cell 43 54	HepG2 cells
+T2	Simple_chemical 58 73	3-bromopyruvate
+T3	Simple_chemical 75 81	3-BrPA
+T4	Simple_chemical 83 98	3-bromopyruvate
+T5	Cancer 133 140	tumoral
+T6	Cancer 153 177	hepatocellular carcinoma
+T7	Cell 202 210	cellular
+T8	Simple_chemical 211 214	ATP
+T9	Simple_chemical 347 353	3-BrPA
+T10	Organism 364 369	human
+T11	Cancer 370 395	hepatocellular carcinomas
+T12	Cellular_component 425 438	mitochondrial
+T13	Cell 527 538	HepG2 cells
+T14	Simple_chemical 567 573	3-BrPA
+T15	Cellular_component 660 673	mitochondrial
+T16	Cellular_component 713 726	mitochondrial
+T17	Gene_or_gene_product 727 737	hexokinase
+T18	Simple_chemical 770 776	3-BrPA
+T19	Gene_or_gene_product 836 841	GAPDH
+T20	Gene_or_gene_product 843 883	glyceraldehyde-3-phosphate dehydrogenase
+T21	Gene_or_gene_product 889 914	3-phosphoglycerate kinase
+T22	Simple_chemical 941 947	3-BrPA
+T23	Simple_chemical 981 988	lactate
+T24	Cell 1003 1014	HepG2 cells
+T25	Simple_chemical 1026 1033	glucose
+T26	Simple_chemical 1076 1082	Oxygen
+T27	Cell 1098 1109	HepG2 cells
+T28	Simple_chemical 1130 1138	pyruvate
+T29	Simple_chemical 1139 1145	malate
+T30	Simple_chemical 1149 1158	succinate
+T31	Cell 1178 1183	cells
+T32	Simple_chemical 1208 1214	3-BrPA
+T33	Simple_chemical 1218 1225	glucose
+T34	Cell 1263 1268	cells
+T35	Simple_chemical 1291 1298	glucose
+T36	Simple_chemical 1320 1326	oxygen
+T37	Simple_chemical 1362 1371	succinate
+T38	Simple_chemical 1425 1435	oligomycin
+T39	Cell 1476 1487	HepG2 cells
+T40	Simple_chemical 1501 1507	3-BrPA
+T41	Simple_chemical 1531 1538	glucose
+T42	Simple_chemical 1576 1582	3-BrPA
+T43	Cellular_component 1591 1604	mitochondrial
+T44	Simple_chemical 1605 1611	proton
+T45	Simple_chemical 1644 1652	electron
+T46	Gene_or_gene_product 1687 1710	succinate dehydrogenase
+T47	Simple_chemical 1735 1741	3-BrPA
+T48	Simple_chemical 1803 1809	3-BrPA
+T49	Gene_or_gene_product 1813 1836	succinate dehydrogenase
+T50	Simple_chemical 1910 1917	glucose
+T51	Cell 1945 1955	HepG2 cell

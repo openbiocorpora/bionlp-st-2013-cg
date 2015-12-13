@@ -1,0 +1,26 @@
+T1	Gene_or_gene_product 2 7	STAT3
+T2	Cancer 49 55	tumour
+T3	Gene_or_gene_product 75 80	STAT3
+T4	Gene_or_gene_product 132 137	STAT3
+T5	Cancer 187 194	tumours
+T6	Gene_or_gene_product 307 312	STAT3
+T7	Gene_or_gene_product 381 386	STAT3
+T8	Cell 417 421	cell
+T9	Cellular_component 482 495	mitochondrial
+T10	Cell 521 532	fibroblasts
+T11	Gene_or_gene_product 540 545	STAT3
+T12	Cell 556 573	tumour cell lines
+T13	Cell 588 593	cells
+T14	Simple_chemical 673 680	glucose
+T15	Gene_or_gene_product 743 753	HIF-1alpha
+T16	Cellular_component 783 796	mitochondrial
+T17	Gene_or_gene_product 809 819	HIF-1alpha
+T18	Gene_or_gene_product 853 858	STAT3
+T19	Cellular_component 887 900	mitochondrial
+T20	Gene_or_gene_product 976 981	STAT3
+T21	Gene_or_gene_product 1028 1033	STAT3
+T22	Amino_acid 1034 1042	tyrosine
+T23	Cell 1066 1083	tumour cell lines
+T24	Cell 1148 1152	cell
+T25	Gene_or_gene_product 1274 1279	STAT3
+T26	Cancer 1320 1327	tumours

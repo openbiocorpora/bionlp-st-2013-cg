@@ -1,0 +1,58 @@
+*	Equiv T4 T5
+*	Equiv T9 T10
+*	Equiv T11 T12
+*	Equiv T17 T18
+*	Equiv T24 T25
+T37	Positive_regulation 11 22	progression
+E1	Positive_regulation:T37 Theme:T2
+T38	Gene_expression 69 83	overexpression
+T39	Positive_regulation 69 83	overexpression
+E2	Gene_expression:T38 Theme:T3
+E3	Gene_expression:T38 Theme:T4
+E4	Positive_regulation:T39 Theme:E2
+E5	Positive_regulation:T39 Theme:E3
+T40	Binding 133 144	interaction
+E6	Binding:T40 Theme:T6 Theme2:T7
+T41	Positive_regulation 223 233	initiation
+E7	Positive_regulation:T41 Theme:E9
+E8	Positive_regulation:T41 Theme:E10
+T42	Localization 244 252	invasion
+E9	Localization:T42 Theme:T8
+T43	Metastasis 257 267	metastasis
+E10	Metastasis:T43 Theme:T8
+T44	Binding 466 476	associated
+E11	Binding:T44 Theme:T11 Theme2:T13
+T45	Development 519 530	progression
+E12	Development:T45 Theme:T15
+T46	Localization 585 594	abundance
+E13	Localization:T46 Theme:T16 AtLoc:T19
+E14	Localization:T46 Theme:T17 AtLoc:T19
+E15	Localization:T46 Theme:T16 AtLoc:T20
+E16	Localization:T46 Theme:T17 AtLoc:T20
+E17	Localization:T46 Theme:T16 AtLoc:T21
+E18	Localization:T46 Theme:T17 AtLoc:T21
+E19	Localization:T46 Theme:T16 AtLoc:T22
+E20	Localization:T46 Theme:T17 AtLoc:T22
+T47	Metastasis 787 797	metastases
+E21	Metastasis:T47 Theme:T21 ToLoc:T22
+T48	Transcription 840 853	overexpressed
+T49	Positive_regulation 840 853	overexpressed
+E22	Transcription:T48 Theme:T23
+E23	Transcription:T48 Theme:T24
+E24	Positive_regulation:T49 Theme:E22
+E25	Positive_regulation:T49 Theme:E23
+T50	Metastasis 900 910	metastases
+E26	Metastasis:T50 Theme:T26 ToLoc:T27
+T51	Localization 969 978	localized
+E27	Localization:T51 AtLoc:T29 Theme:T23
+E28	Localization:T51 AtLoc:T29 Theme:T24
+T52	Gene_expression 1035 1049	Overexpression
+T53	Positive_regulation 1035 1049	Overexpression
+E29	Gene_expression:T52 Theme:T30
+E30	Positive_regulation:T53 Theme:E29
+T54	Positive_regulation 1077 1088	progression
+E31	Positive_regulation:T54 Theme:T32 Cause:E29
+T55	Localization 1129 1137	invasion
+E32	Localization:T55 Theme:T32
+T56	Metastasis 1148 1158	metastasis
+E33	Metastasis:T56 Theme:T32 ToLoc:T33

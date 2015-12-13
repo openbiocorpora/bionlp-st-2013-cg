@@ -1,0 +1,35 @@
+T1	Gene_or_gene_product 11 27	cyclooxygenase-2
+T2	Cell 122 157	esophageal squamous carcinoma cells
+T3	Simple_chemical 221 228	aspirin
+T4	Simple_chemical 233 243	nimesulide
+T5	Cell 247 251	cell
+T6	Cell 309 315	EC9706
+T7	Cell 320 361	EC109 esophageal squamous carcinoma cells
+T8	Cell 363 369	EC9706
+T9	Cell 374 385	EC109 cells
+T10	Simple_chemical 432 439	aspirin
+T11	Simple_chemical 444 454	nimesulide
+T12	Cell 475 479	cell
+T13	Simple_chemical 526 586	3-(4,5-dimethyl-thiazol-2yl)-2,5-diphenyltetrazolium bromide
+T14	Gene_or_gene_product 718 723	Bcl-2
+T15	Gene_or_gene_product 728 731	Bax
+T16	Gene_or_gene_product 733 749	Prostaglandin E2
+T17	Simple_chemical 830 837	aspirin
+T18	Simple_chemical 842 852	nimesulide
+T19	Cell 863 869	EC9706
+T20	Cell 874 884	EC109 cell
+T21	Gene_or_gene_product 960 976	prostaglandin E2
+T22	Cell 992 1004	EC9706 cells
+T23	Simple_chemical 1023 1030	aspirin
+T24	Simple_chemical 1035 1045	nimesulide
+T25	Cell 1093 1097	cell
+T26	Cell 1144 1155	EC109 cells
+T27	Gene_or_gene_product 1236 1241	Bcl-2
+T28	Gene_or_gene_product 1251 1254	Bax
+T29	Simple_chemical 1271 1278	aspirin
+T30	Simple_chemical 1283 1293	nimesulide
+T31	Cell 1308 1312	cell
+T32	Cell 1351 1386	esophageal squamous carcinoma cells
+T33	Gene_or_gene_product 1388 1404	Cyclooxygenase-2
+T34	Organism 1456 1461	human
+T35	Cancer 1462 1496	esophageal squamous cell carcinoma

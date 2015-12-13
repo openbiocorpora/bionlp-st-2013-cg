@@ -1,0 +1,23 @@
+T1	Simple_chemical 0 11	Aflibercept
+T2	Simple_chemical 13 20	AVE0005
+T3	Cancer 62 68	tumour
+T4	Gene_or_gene_product 85 120	vascular endothelial growth factors
+T5	Cancer 181 187	cancer
+T6	Gene_or_gene_product 305 309	VEGF
+T7	Cancer 445 451	cancer
+T8	Organism 452 460	patients
+T9	Gene_or_gene_product 500 504	VEGF
+T10	Gene_or_gene_product 524 542	antibodies to VEGF
+T11	Gene_or_gene_product 544 593	antibodies to the extracellular domain of VEGFR-1
+T12	Gene_or_gene_product 597 604	VEGFR-2
+T13	Gene_or_gene_product 626 630	VEGF
+T14	Simple_chemical 635 661	tyrosine kinase inhibitors
+T15	Gene_or_gene_product 665 671	VEGFRs
+T16	Simple_chemical 793 804	aflibercept
+T17	Gene_or_gene_product 850 857	VEGFR-1
+T18	Gene_or_gene_product 874 881	VEGFR-2
+T19	Gene_or_gene_product 906 910	IgG1
+T20	Simple_chemical 921 932	Aflibercept
+T21	Simple_chemical 1043 1054	aflibercept
+T22	Cancer 1058 1064	cancer
+T23	Organism 1065 1073	patients

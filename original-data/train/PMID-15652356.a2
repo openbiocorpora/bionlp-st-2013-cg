@@ -1,0 +1,40 @@
+*	Equiv T14 T15
+T40	Gene_expression 11 21	expression
+E1	Gene_expression:T40 Theme:T1
+T41	Cell_differentiation 92 107	differentiation
+E2	Cell_differentiation:T41 Theme:T3
+T42	Localization 117 127	deficiency
+E3	Localization:T42 Theme:T5
+M1	Negation E3
+T43	Death 170 178	necrotic
+E4	Death:T43 Theme:T6
+T44	Blood_vessel_development 203 218	vascularization
+E5	Blood_vessel_development:T44 
+T45	Gene_expression 380 389	expressed
+E6	Gene_expression:T45 Theme:T11
+T46	Gene_expression 457 466	expressed
+E7	Gene_expression:T46 Theme:T12
+T47	Regulation 485 493	involved
+E8	Regulation:T47 Cause:T12 Theme:E9
+T48	Development 501 512	development
+E9	Development:T48 Theme:T14
+T49	Localization 621 628	present
+E10	Localization:T49 Theme:T16 AtLoc:T19
+T50	Development 687 694	derived
+E11	Development:T50 Theme:T20
+T51	Cell_differentiation 788 803	differentiation
+E12	Cell_differentiation:T51 Theme:T23
+T52	Regulation 982 989	effects
+E13	Regulation:T52 Theme:T29 Cause:E15
+E14	Regulation:T52 Theme:T29 Cause:T28
+T53	Catabolism 1010 1019	depletion
+E15	Catabolism:T53 Theme:T27
+T54	Cell_differentiation 1221 1236	differentiation
+E16	Cell_differentiation:T54 Theme:T34
+T55	Blood_vessel_development 1470 1482	vascularized
+E17	Blood_vessel_development:T55 
+T56	Development 1505 1513	immature
+E18	Development:T56 Theme:T38
+M2	Negation E18
+T57	Positive_regulation 1615 1625	activation
+E19	Positive_regulation:T57 Theme:T39

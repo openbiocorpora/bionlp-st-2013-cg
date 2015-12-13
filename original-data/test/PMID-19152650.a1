@@ -1,0 +1,34 @@
+T1	Simple_chemical 10 18	estrogen
+T2	Simple_chemical 23 35	progesterone
+T3	Cell 39 49	macrophage
+T4	Pathological_formation 68 73	wound
+T5	Pathological_formation 104 109	wound
+T6	Tissue 259 265	tissue
+T7	Pathological_formation 297 303	wounds
+T8	Pathological_formation 420 425	wound
+T9	Simple_chemical 463 483	sex steroid hormones
+T10	Simple_chemical 585 593	estrogen
+T11	Simple_chemical 758 770	progesterone
+T12	Cell 815 826	Macrophages
+T13	Pathological_formation 871 876	wound
+T14	Cell 886 897	Macrophages
+T15	Cell 973 978	T(H)1
+T16	Cell 979 984	T(H)2
+T17	Organism 1018 1024	murine
+T18	Pathological_formation 1036 1041	wound
+T19	Simple_chemical 1111 1119	estrogen
+T20	Simple_chemical 1124 1136	progesterone
+T21	Cell 1140 1150	macrophage
+T22	Pathological_formation 1173 1178	wound
+T23	Simple_chemical 1238 1254	steroid hormones
+T24	Cell 1302 1312	macrophage
+T25	Gene_or_gene_product 1322 1327	Fizz1
+T26	Gene_or_gene_product 1332 1335	Ym1
+T27	Simple_chemical 1410 1418	estrogen
+T28	Simple_chemical 1422 1434	progesterone
+T29	Simple_chemical 1474 1490	steroid hormones
+T30	Cell 1491 1502	macrophages
+T31	Simple_chemical 1572 1580	estrogen
+T32	Simple_chemical 1584 1596	progesterone
+T33	Cell 1621 1631	macrophage
+T34	Pathological_formation 1677 1682	wound

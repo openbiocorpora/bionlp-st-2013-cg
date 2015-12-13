@@ -1,0 +1,52 @@
+T1	Gene_or_gene_product 57 62	HER-2
+T2	Gene_or_gene_product 63 66	neu
+T3	Cell 82 101	breast cancer cells
+T4	Simple_chemical 105 111	emodin
+T5	Gene_or_gene_product 158 163	HER-2
+T6	Gene_or_gene_product 164 167	neu
+T7	Amino_acid 202 210	tyrosine
+T8	Gene_or_gene_product 227 234	p185neu
+T9	Cancer 269 275	tumors
+T10	Organism 281 286	human
+T11	Cancer 287 300	breast cancer
+T12	Organism 301 309	patients
+T13	Amino_acid 407 415	tyrosine
+T14	Gene_or_gene_product 426 433	p185neu
+T15	Simple_chemical 454 460	emodin
+T16	Simple_chemical 462 500	3-methyl-1,6,8-trihydroxyanthraquinone
+T17	Gene_or_gene_product 505 520	tyrosine kinase
+T18	Gene_or_gene_product 602 607	HER-2
+T19	Gene_or_gene_product 608 611	neu
+T20	Amino_acid 612 620	tyrosine
+T21	Amino_acid 642 650	tyrosine
+T22	Gene_or_gene_product 674 681	p185neu
+T23	Gene_or_gene_product 685 690	HER-2
+T24	Gene_or_gene_product 691 694	neu
+T25	Cell 710 729	breast cancer cells
+T26	Simple_chemical 731 737	Emodin
+T27	Amino_acid 785 793	tyrosine
+T28	Gene_or_gene_product 804 811	p185neu
+T29	Gene_or_gene_product 896 901	HER-2
+T30	Gene_or_gene_product 902 905	neu
+T31	Cell 921 940	breast cancer cells
+T32	Cell 1000 1005	cells
+T33	Gene_or_gene_product 1033 1040	p185neu
+T34	Simple_chemical 1068 1074	Emodin
+T35	Gene_or_gene_product 1107 1112	HER-2
+T36	Gene_or_gene_product 1113 1116	neu
+T37	Cell 1132 1151	breast cancer cells
+T38	Cellular_component 1216 1222	nuclei
+T39	Organism_substance 1245 1259	flat cytoplasm
+T40	Simple_chemical 1308 1313	lipid
+T41	Cell 1345 1364	mature breast cells
+T42	Simple_chemical 1403 1409	emodin
+T43	Gene_or_gene_product 1419 1424	HER-2
+T44	Gene_or_gene_product 1425 1428	neu
+T45	Amino_acid 1429 1437	tyrosine
+T46	Gene_or_gene_product 1522 1527	HER-2
+T47	Gene_or_gene_product 1528 1531	neu
+T48	Cell 1547 1559	cancer cells
+T49	Simple_chemical 1624 1630	emodin
+T50	Gene_or_gene_product 1641 1646	HER-2
+T51	Gene_or_gene_product 1647 1650	neu
+T52	Cell 1666 1678	cancer cells

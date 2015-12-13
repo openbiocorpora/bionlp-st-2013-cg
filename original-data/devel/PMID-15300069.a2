@@ -1,0 +1,25 @@
+*	Equiv T11 T12
+T25	Blood_vessel_development 51 69	neovascularization
+E1	Blood_vessel_development:T25 AtLoc:T1
+T26	Planned_process 70 77	treated
+E2	Planned_process:T26 Instrument:T2 Theme:E1
+T27	Blood_vessel_development 208 226	neovascularization
+E3	Blood_vessel_development:T27 AtLoc:T3
+T28	Blood_vessel_development 228 231	CNV
+E4	Blood_vessel_development:T28 
+T29	Planned_process 233 240	treated
+E5	Planned_process:T29 Instrument:T4 Theme:E4
+T30	Planned_process 357 364	treated
+E6	Planned_process:T30 Theme:T5
+T31	Blood_vessel_development 529 532	CNV
+E7	Blood_vessel_development:T31 AtLoc:T8
+T32	Blood_vessel_development 556 559	CNV
+E8	Blood_vessel_development:T32 
+T33	Planned_process 749 756	treated
+E9	Planned_process:T33 Theme:T14
+T34	Blood_vessel_development 841 844	CNV
+E10	Blood_vessel_development:T34 
+T35	Blood_vessel_development 1063 1066	CNV
+E11	Blood_vessel_development:T35 AtLoc:T19
+T36	Development 1260 1270	progressed
+E12	Development:T36 Theme:T20

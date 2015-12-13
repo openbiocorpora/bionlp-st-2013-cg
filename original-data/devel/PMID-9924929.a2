@@ -1,0 +1,42 @@
+*	Equiv T2 T3 T4
+T27	Binding 259 265	engage
+E1	Binding:T27 Theme:T9 Theme2:T7
+T28	Planned_process 301 309	cultured
+E2	Planned_process:T28 Theme:T10
+T29	Binding 345 355	associated
+E3	Binding:T29 Theme:T11 Theme2:T8
+T30	Binding 440 448	adhesion
+E4	Binding:T30 Theme:T12
+T31	Binding 471 480	interacts
+E5	Binding:T31 Theme:T8
+T32	Binding 588 596	adhesion
+E6	Binding:T32 Theme:T15
+T33	Gene_expression 611 621	expression
+E7	Gene_expression:T33 Theme:T16
+T34	Phosphorylation 646 661	phosphorylation
+E8	Phosphorylation:T34 Theme:T16
+T35	Regulation 675 682	related
+E9	Regulation:T35 Cause:E8 Theme:E15
+E10	Regulation:T35 Cause:E7 Theme:E15
+E11	Regulation:T35 Cause:E8 Theme:E16
+E12	Regulation:T35 Cause:E7 Theme:E16
+E13	Regulation:T35 Cause:E8 Theme:E17
+E14	Regulation:T35 Cause:E7 Theme:E17
+T36	Cell_differentiation 750 765	differentiation
+E15	Cell_differentiation:T36 Theme:T18
+T37	Localization 772 782	locomotion
+E16	Localization:T37 Theme:T19
+T38	Death 792 797	death
+E17	Death:T38 Theme:T20
+T39	Gene_expression 895 904	expressed
+E18	Gene_expression:T39 Theme:T21
+T40	Localization 1147 1156	migration
+E19	Localization:T40 Theme:T24
+T41	Localization 1161 1173	invasiveness
+E20	Localization:T41 Theme:T24
+T42	Localization 1301 1309	location
+E21	Localization:T42 AtLoc:T26 Theme:T25
+M1	Speculation E21
+T43	Binding 1328 1340	interactions
+E22	Binding:T43 Theme:T25
+M2	Speculation E22

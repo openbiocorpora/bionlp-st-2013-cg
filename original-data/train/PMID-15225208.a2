@@ -1,0 +1,39 @@
+T32	Remodeling 223 231	turnover
+E1	Remodeling:T32 Theme:T7
+T33	Breakdown 325 331	cleave
+T34	Positive_regulation 325 331	cleave
+E2	Breakdown:T33 Theme:T10
+E3	Positive_regulation:T34 Cause:T9 Theme:E2
+T35	Regulation 436 446	regulating
+E4	Regulation:T35 Cause:T11 Theme:T9
+T36	Positive_regulation 819 828	increased
+E5	Positive_regulation:T36 Theme:T18
+T37	Negative_regulation 893 902	decreased
+E6	Negative_regulation:T37 Theme:T18
+T38	Gene_expression 1058 1068	expression
+E7	Gene_expression:T38 Theme:T19
+T39	Positive_regulation 1088 1096	elevated
+E8	Positive_regulation:T39 Theme:E7
+T40	Negative_regulation 1331 1341	decreasing
+E9	Negative_regulation:T40 Theme:T22
+T41	Positive_regulation 1383 1392	increased
+E10	Positive_regulation:T41 Theme:T22
+T42	Positive_regulation 1487 1496	increased
+E11	Positive_regulation:T42 Theme:T24
+T43	Gene_expression 1580 1587	present
+E12	Gene_expression:T43 Theme:T25
+T44	Positive_regulation 1591 1599	elevated
+E13	Positive_regulation:T44 Theme:E12
+T45	Blood_vessel_development 1640 1652	angiogenesis
+E14	Blood_vessel_development:T45 
+T46	Regulation 1709 1732	play a significant role
+E15	Regulation:T46 Cause:T27 Theme:E14
+M1	Speculation E15
+T47	Gene_expression 1744 1754	expression
+E16	Gene_expression:T47 Theme:T28
+E17	Gene_expression:T47 Theme:T29
+T48	Regulation 1818 1822	role
+E18	Regulation:T48 Theme:E20 Cause:T29
+E19	Regulation:T48 Theme:E20 Cause:T28
+T49	Remodeling 1847 1857	remodeling
+E20	Remodeling:T49 Theme:T31

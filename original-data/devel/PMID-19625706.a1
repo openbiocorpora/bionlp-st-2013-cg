@@ -1,0 +1,36 @@
+T1	Gene_or_gene_product 0 29	Nicked {beta}2-glycoprotein I
+T2	Gene_or_gene_product 36 51	angiostatin 4.5
+T3	Gene_or_gene_product 122 133	Angiostatin
+T4	Gene_or_gene_product 160 180	plasminogen fragment
+T5	Cancer 190 195	tumor
+T6	Gene_or_gene_product 232 243	angiostatin
+T7	Gene_or_gene_product 263 278	angiostatin 4.5
+T8	Gene_or_gene_product 280 285	AS4.5
+T9	Organism 405 410	human
+T10	Organism_substance 411 417	plasma
+T11	Gene_or_gene_product 419 439	beta2-glycoprotein I
+T12	Gene_or_gene_product 441 449	beta2GPI
+T13	Gene_or_gene_product 481 488	plasmin
+T14	Gene_or_gene_product 506 521	nicked beta2GPI
+T15	Gene_or_gene_product 548 559	plasminogen
+T16	Gene_or_gene_product 618 633	nicked beta2GPI
+T17	Gene_or_gene_product 655 663	beta2GPI
+T18	Gene_or_gene_product 744 759	nicked beta2GPI
+T19	Gene_or_gene_product 763 768	AS4.5
+T20	Gene_or_gene_product 816 831	nicked beta2GPI
+T21	Gene_or_gene_product 875 880	AS4.5
+T22	Cell 905 913	arterial
+T23	Cell 914 938	venous endothelial cells
+T24	Cellular_component 947 967	extracellular matrix
+T25	Tissue 985 989	tube
+T26	Cell 1003 1027	venous endothelial cells
+T27	Gene_or_gene_product 1075 1083	beta2GPI
+T28	Gene_or_gene_product 1101 1106	AS4.5
+T29	Gene_or_gene_product 1153 1168	nicked beta2GPI
+T30	Gene_or_gene_product 1215 1230	nicked beta2GPI
+T31	Gene_or_gene_product 1272 1277	AS4.5
+T32	Gene_or_gene_product 1287 1302	nicked beta2GPI
+T33	Gene_or_gene_product 1369 1374	AS4.5
+T34	Gene_or_gene_product 1398 1421	plasmin-nicked beta2GPI
+T35	Gene_or_gene_product 1464 1487	plasmin-generated AS4.5
+T36	Pathological_formation 1531 1539	thrombus

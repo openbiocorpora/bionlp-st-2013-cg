@@ -1,0 +1,22 @@
+T1	Simple_chemical 10 17	glucose
+T2	Cancer 47 54	myeloma
+T3	Simple_chemical 70 106	nucleoside analogue 8-aminoadenosine
+T4	Cancer 117 124	myeloma
+T5	Cancer 139 161	plasma cell malignancy
+T6	Cell 191 199	cellular
+T7	Simple_chemical 267 274	glucose
+T8	Cancer 380 386	cancer
+T9	Simple_chemical 439 471	purine analogue 8-aminoadenosine
+T10	Simple_chemical 490 497	glucose
+T11	Gene_or_gene_product 559 579	glucose transporters
+T12	Cell 581 594	Myeloma cells
+T13	Cell 729 733	cell
+T14	Simple_chemical 741 748	Glucose
+T15	Cell 779 792	myeloma cells
+T16	Simple_chemical 811 827	8-aminoadenosine
+T17	Cell 902 907	cells
+T18	Simple_chemical 929 945	8-aminoadenosine
+T19	Simple_chemical 952 959	glucose
+T20	Cancer 1020 1027	myeloma
+T21	Simple_chemical 1058 1077	nucleoside analogue
+T22	Cancer 1224 1231	myeloma

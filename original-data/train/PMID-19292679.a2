@@ -1,0 +1,21 @@
+*	Equiv T7 T8
+T37	Regulation 4 10	effect
+E1	Regulation:T37 Theme:T3
+T38	Regulation 108 114	effect
+E2	Regulation:T38 Theme:T7 Cause:T6
+M1	Speculation E2
+T39	Synthesis 1441 1450	formation
+E3	Synthesis:T39 Theme:T30
+T40	Planned_process 1568 1576	cultured
+E4	Planned_process:T40 Theme:T31
+T41	Positive_regulation 1686 1695	increases
+E5	Positive_regulation:T41 Cause:T33 Theme:T34
+T42	Negative_regulation 1760 1766	impair
+E6	Negative_regulation:T42 Theme:E7 Cause:T33
+M2	Negation E6
+T43	Blood_vessel_development 1767 1779	angiogenesis
+E7	Blood_vessel_development:T43 
+T44	Negative_regulation 1794 1798	slow
+E8	Negative_regulation:T44 Cause:T33 Theme:E9
+T45	Development 1816 1825	formation
+E9	Development:T45 Theme:T36

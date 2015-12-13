@@ -1,0 +1,41 @@
+T1	Gene_or_gene_product 5 9	erbB
+T2	Cancer 40 45	tumor
+T3	Organism 103 106	RNA
+T4	Organism 111 122	DNA viruses
+T5	Organism 222 229	viruses
+T6	Cell 252 261	host cell
+T7	Cellular_component 264 267	DNA
+T8	Organism 375 380	viral
+T9	Cellular_component 427 430	DNA
+T10	Organism 443 448	viral
+T11	Organism 470 475	human
+T12	Cell 502 507	cells
+T13	Cell 588 596	cellular
+T14	Cell 687 692	cells
+T15	Gene_or_gene_product 767 771	erbB
+T16	Cell 819 834	malignant cells
+T17	Gene_or_gene_product 881 913	epidermal growth factor receptor
+T18	Gene_or_gene_product 915 920	EGF-R
+T19	Gene_or_gene_product 922 929	c-erbB1
+T20	Gene_or_gene_product 932 937	Her-2
+T21	Gene_or_gene_product 938 941	neu
+T22	Gene_or_gene_product 943 950	c-erbB2
+T23	Gene_or_gene_product 957 964	c-erbB3
+T24	Gene_or_gene_product 984 988	erbB
+T25	Gene_or_gene_product 1037 1042	EGF-R
+T26	Gene_or_gene_product 1046 1051	Her-2
+T27	Gene_or_gene_product 1052 1055	neu
+T28	Organism 1068 1073	human
+T29	Cancer 1074 1081	tumours
+T30	Organism 1171 1179	patients
+T31	Cancer 1185 1191	breast
+T32	Cancer 1193 1200	ovarian
+T33	Cancer 1202 1213	endometrial
+T34	Cancer 1217 1232	cervical cancer
+T35	Cell 1248 1252	cell
+T36	Cancer 1311 1317	tumour
+T37	Gene_or_gene_product 1440 1445	EGF-R
+T38	Gene_or_gene_product 1449 1454	Her-2
+T39	Gene_or_gene_product 1455 1458	neu
+T40	Gene_or_gene_product 1549 1564	tyrosine kinase
+T41	Gene_or_gene_product 1569 1585	protein C-kinase

@@ -1,0 +1,46 @@
+T1	Gene_or_gene_product 0 37	Insulin-like growth factor-I receptor
+T2	Organism 78 83	human
+T3	Organ 84 88	lung
+T4	Anatomical_system 151 167	pulmonary system
+T5	Organ 227 241	embryonic lung
+T6	Organism 278 281	rat
+T7	Gene_or_gene_product 303 331	insulin-like growth factor-I
+T8	Gene_or_gene_product 333 338	IGF-I
+T9	Cell 373 401	fetal lung endothelial cells
+T10	Organism 425 430	human
+T11	Multi-tissue_structure 431 439	vascular
+T12	Organ 440 444	lung
+T13	Gene_or_gene_product 494 499	IGF-I
+T14	Gene_or_gene_product 500 502	II
+T15	Gene_or_gene_product 507 526	IGF receptor type I
+T16	Gene_or_gene_product 528 534	IGF-IR
+T17	Organism 539 544	human
+T18	Tissue 545 554	embryonic
+T19	Tissue 559 577	fetal lung tissues
+T20	Gene_or_gene_product 682 687	IGF-I
+T21	Gene_or_gene_product 688 690	II
+T22	Gene_or_gene_product 691 697	IGF-IR
+T23	Organ 730 745	embryonic lungs
+T24	Gene_or_gene_product 804 810	IGF-IR
+T25	Organism 836 841	human
+T26	Organ 842 861	fetal lung explants
+T27	Gene_or_gene_product 901 907	IGF-IR
+T28	Gene_or_gene_product 935 941	IGF-IR
+T29	Cell 964 981	endothelial cells
+T30	Organ 1018 1028	fetal lung
+T31	Gene_or_gene_product 1118 1124	IGF-IR
+T32	Organ 1133 1138	lungs
+T33	Cell 1171 1188	mesenchymal cells
+T34	Organism 1190 1193	Rat
+T35	Organ 1194 1208	embryonic lung
+T36	Gene_or_gene_product 1265 1268	IGF
+T37	Gene_or_gene_product 1269 1275	IGF-IR
+T38	Multi-tissue_structure 1287 1300	lung vascular
+T39	Gene_or_gene_product 1360 1365	IGF-I
+T40	Gene_or_gene_product 1366 1368	II
+T41	Organism 1387 1392	human
+T42	Organ 1393 1397	lung
+T43	Gene_or_gene_product 1439 1442	IGF
+T44	Gene_or_gene_product 1488 1494	IGF-IR
+T45	Organism 1543 1548	human
+T46	Organ 1549 1553	lung

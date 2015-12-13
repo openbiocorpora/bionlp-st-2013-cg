@@ -1,0 +1,39 @@
+T1	Organism 0 12	Adenovirus 5
+T2	Gene_or_gene_product 13 16	E1A
+T3	Gene_or_gene_product 26 45	histone deacetylase
+T4	Gene_or_gene_product 83 88	Egr-1
+T5	Gene_or_gene_product 98 101	Bim
+T6	Gene_or_gene_product 117 136	Histone deacetylase
+T7	Cancer 172 178	cancer
+T8	Cancer 201 207	cancer
+T9	Simple_chemical 215 246	Suberoylanilide hydroxamic acid
+T10	Simple_chemical 248 252	SAHA
+T11	Cancer 301 316	T cell lymphoma
+T12	Organism 415 427	Adenovirus 5
+T13	Gene_or_gene_product 428 443	early region 1A
+T14	Gene_or_gene_product 445 448	E1A
+T15	Cancer 481 486	tumor
+T16	Gene_or_gene_product 531 534	E1A
+T17	Gene_or_gene_product 648 651	E1A
+T18	Cell 655 676	multiple cancer cells
+T19	Cell 696 701	cells
+T20	Gene_or_gene_product 743 746	E1A
+T21	Simple_chemical 764 768	SAHA
+T22	Cancer 828 835	ovarian
+T23	Cancer 840 856	breast xenograft
+T24	Simple_chemical 865 869	SAHA
+T25	Gene_or_gene_product 884 890	Bcl-XL
+T26	Gene_or_gene_product 937 940	Bim
+T27	Gene_or_gene_product 983 986	E1A
+T28	Cell 990 1002	cancer cells
+T29	Gene_or_gene_product 1025 1030	Bcl-2
+T30	Cell 1105 1117	cancer cells
+T31	Simple_chemical 1119 1123	SAHA
+T32	Gene_or_gene_product 1148 1158	histone H3
+T33	Gene_or_gene_product 1162 1165	Bim
+T34	Gene_or_gene_product 1189 1192	E1A
+T35	Gene_or_gene_product 1205 1210	Egr-1
+T36	Gene_or_gene_product 1243 1246	Bim
+T37	Cancer 1355 1360	tumor
+T38	Gene_or_gene_product 1373 1376	E1A
+T39	Gene_or_gene_product 1426 1429	E1A

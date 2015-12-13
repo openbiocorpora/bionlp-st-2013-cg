@@ -1,0 +1,54 @@
+*	Equiv T13 T14
+*	Equiv T15 T16
+*	Equiv T17 T18
+T53	Binding 10 17	binding
+E1	Binding:T53 Theme:T2 Theme2:T1
+T54	Mutation 18 27	mutations
+E2	Mutation:T54 Theme:T1
+T55	Mutation 45 60	cryptic fusions
+E3	Mutation:T55 Theme:T3
+E4	Mutation:T55 Theme:T4
+T56	Mutation 124 131	trisomy
+E5	Mutation:T56 Theme:T8
+T57	Development 164 173	evolution
+E6	Development:T57 Theme:T9
+T58	Mutation 234 243	mutations
+E7	Mutation:T58 Theme:T12 AtLoc:T13
+E8	Mutation:T58 Theme:T12 AtLoc:T15
+E9	Mutation:T58 Theme:T12 AtLoc:T17
+T59	Mutation 259 273	translocations
+E10	Mutation:T59 AtLoc:T13 Theme2:T11
+E11	Mutation:T59 AtLoc:T15 Theme2:T11
+E12	Mutation:T59 AtLoc:T17 Theme2:T11
+T60	Mutation 557 564	trisomy
+E13	Mutation:T60 AtLoc:T19 Theme:T22
+T61	Mutation 629 644	point mutations
+E14	Mutation:T61 AtLoc:T23 Theme:T26
+E15	Mutation:T61 AtLoc:T24 Theme:T26
+T62	Mutation 772 780	mutation
+E16	Mutation:T62 AtLoc:T27
+E17	Mutation:T62 AtLoc:T30
+M1	Negation E16
+M2	Negation E17
+T63	Mutation 849 858	mutations
+E18	Mutation:T63 Theme:T31
+T64	Mutation 914 921	trisomy
+E19	Mutation:T64 Theme:T32
+T65	Mutation 1027 1040	translocation
+E20	Mutation:T65 Theme:T34 AtLoc:T38
+E21	Mutation:T65 Theme:T34 AtLoc:T39
+T66	Planned_process 1200 1207	therapy
+E22	Planned_process:T66 Theme:T39
+T67	Mutation 1264 1273	mutations
+E23	Mutation:T67 Theme:T43
+T68	Mutation 1291 1297	fusion
+E24	Mutation:T68 Theme:T44
+E25	Mutation:T68 Theme:T45
+T69	Death 1340 1348	survival
+E26	Death:T69 Theme:T42
+M3	Negation E26
+T70	Mutation 1429 1442	abnormalities
+E27	Mutation:T70 Theme:T48
+T71	Development 1499 1510	progression
+E28	Development:T71 Theme:T49
+E29	Development:T71 Theme:T50

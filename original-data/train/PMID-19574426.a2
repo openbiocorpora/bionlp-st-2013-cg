@@ -1,0 +1,88 @@
+T47	Blood_vessel_development 0 12	Angiogenesis
+E1	Blood_vessel_development:T47 AtLoc:T2
+T48	Gene_expression 62 66	null
+E2	Gene_expression:T48 Theme:T1
+M1	Negation E2
+T49	Localization 178 187	migration
+E3	Localization:T49 Theme:T4
+T50	Negative_regulation 246 253	inhibit
+E4	Negative_regulation:T50 Theme:E5 Cause:T5
+T51	Blood_vessel_development 262 274	angiogenesis
+E5	Blood_vessel_development:T51 
+T52	Gene_expression 322 326	null
+E6	Gene_expression:T52 Theme:T6
+M2	Negation E6
+T53	Regulation 354 365	involvement
+E7	Regulation:T53 Cause:T8 Theme:E8
+M3	Speculation E7
+T54	Development 393 402	formation
+E8	Development:T54 Theme:T9
+T55	Blood_vessel_development 404 419	Vascularization
+E9	Blood_vessel_development:T55 
+T56	Blood_vessel_development 471 483	angiogenesis
+E10	Blood_vessel_development:T56 AtLoc:T10
+T57	Negative_regulation 494 503	inhibited
+E11	Negative_regulation:T57 Theme:E10
+E12	Negative_regulation:T57 Theme:E9
+T58	Gene_expression 515 519	null
+E13	Gene_expression:T58 Theme:T11
+M4	Negation E13
+T59	Planned_process 549 560	transplants
+E14	Planned_process:T59 Theme:T13
+T60	Mutation 580 589	wild-type
+E15	Mutation:T60 Theme:T14
+T61	Gene_expression 602 611	deficient
+E16	Gene_expression:T61 Theme:T14
+M5	Negation E16
+T62	Negative_regulation 635 643	impaired
+E17	Negative_regulation:T62 Theme:E19 Cause:E20
+E18	Negative_regulation:T62 Theme:E19 Cause:E21
+T63	Blood_vessel_development 644 654	angiogenic
+E19	Blood_vessel_development:T63 
+T64	Localization 680 684	loss
+E20	Localization:T64 Theme:T18 AtLoc:T16
+E21	Localization:T64 Theme:T18 AtLoc:T17
+M6	Negation E20
+M7	Negation E21
+T65	Localization 770 778	motility
+E22	Localization:T65 Theme:T20
+T66	Development 859 868	formation
+E23	Development:T66 Theme:T23
+T67	Negative_regulation 901 910	inhibited
+E24	Negative_regulation:T67 Theme:E23
+T68	Planned_process 983 990	treated
+E25	Planned_process:T68 Theme:T28 Instrument:T29
+T69	Gene_expression 1060 1070	expression
+E26	Gene_expression:T69 Theme:T31
+T70	Positive_regulation 1082 1090	promoted
+E27	Positive_regulation:T70 Cause:E26 Theme:E28
+T71	Development 1101 1110	formation
+E28	Development:T71 Theme:T32
+T72	Positive_regulation 1115 1124	increased
+E29	Positive_regulation:T72 Theme:E30 Cause:E26
+T73	Gene_expression 1137 1147	expression
+E30	Gene_expression:T73 Theme:T33
+T74	Positive_regulation 1195 1202	promote
+E31	Positive_regulation:T74 Cause:T33 Theme:E32
+T75	Development 1207 1216	formation
+E32	Development:T75 Theme:T35
+T76	Development 1238 1248	developing
+E33	Development:T76 Theme:T36
+T77	Blood_vessel_development 1356 1366	angiogenic
+E34	Blood_vessel_development:T77 Theme:T39
+T78	Gene_expression 1450 1454	null
+E35	Gene_expression:T78 Theme:T40
+M8	Negation E35
+T79	Regulation 1504 1515	involvement
+E36	Regulation:T79 Cause:T43 Theme:E37
+T80	Blood_vessel_development 1542 1554	angiogenesis
+E37	Blood_vessel_development:T80 
+T81	Positive_regulation 1594 1603	stimulate
+E38	Positive_regulation:T81 Cause:E40 Theme:E39
+M9	Speculation E38
+T82	Localization 1621 1629	motility
+E39	Localization:T82 Theme:T45
+T83	Positive_regulation 1633 1642	promoting
+E40	Positive_regulation:T83 Cause:T44 Theme:E41
+T84	Development 1647 1656	formation
+E41	Development:T84 Theme:T46

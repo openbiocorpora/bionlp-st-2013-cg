@@ -1,0 +1,72 @@
+*	Equiv T50 T51
+T61	Positive_regulation 8 15	induces
+E1	Positive_regulation:T61 Cause:T1 Theme:E2
+T62	Localization 43 50	release
+E2	Localization:T62 Theme:T3 FromLoc:T2
+T63	Cell_death 62 71	apoptosis
+E3	Cell_death:T63 Theme:T5
+T64	Negative_regulation 171 180	functions
+E4	Negative_regulation:T64 Cause:T6 Theme:T7
+M1	Speculation E4
+T65	Negative_regulation 250 259	inhibited
+E5	Negative_regulation:T65 Cause:T10 Theme:T12
+E6	Negative_regulation:T65 Cause:T10 Theme:T13
+E7	Negative_regulation:T65 Cause:T10 Theme:T14
+E8	Negative_regulation:T65 Cause:T10 Theme:T15
+T66	Negative_regulation 492 500	activity
+E9	Negative_regulation:T66 Cause:T16 Theme:T17
+T67	Negative_regulation 816 824	activity
+E10	Negative_regulation:T67 Theme:T25 Cause:T26
+T68	Positive_regulation 903 910	induces
+E11	Positive_regulation:T68 Cause:T28 Theme:E12
+T69	Death 926 931	death
+E12	Death:T69 Theme:T29
+T70	Localization 1015 1028	translocation
+E13	Localization:T70 Theme:T31 ToLoc:T30
+T71	Breakdown 1038 1050	condensation
+E14	Breakdown:T71 Theme:T32
+T72	Breakdown 1051 1064	fragmentation
+E15	Breakdown:T72 Theme:T32
+T73	Development 1085 1094	formation
+E16	Development:T73 Theme:T33
+T74	Localization 1191 1198	release
+E17	Localization:T74 Theme:T36 FromLoc:T35
+T75	Planned_process 1263 1272	treatment
+E18	Planned_process:T75 Instrument:T37
+T76	Positive_regulation 1360 1367	trigger
+E19	Positive_regulation:T76 Cause:T38 Theme:E20
+M2	Negation E19
+T77	Localization 1395 1402	release
+E20	Localization:T77 Theme:T41 FromLoc:T40
+T78	Localization 1467 1479	translocated
+E21	Localization:T78 ToLoc:T45 Theme:T44
+E22	Localization:T78 ToLoc:T45 Theme:T43
+T79	Planned_process 1521 1530	treatment
+E23	Planned_process:T79 Instrument:T46
+T80	Positive_regulation 1547 1557	activation
+E24	Positive_regulation:T80 Theme:T47
+E25	Positive_regulation:T80 Theme:T48
+E26	Positive_regulation:T80 Theme:T49
+T81	Protein_processing 1596 1604	cleavage
+E27	Protein_processing:T81 Theme:T50
+T82	Negative_regulation 1714 1728	downregulation
+E28	Negative_regulation:T82 Theme:T53
+E29	Negative_regulation:T82 Theme:T54
+E30	Negative_regulation:T82 Theme:T55
+T83	Negative_regulation 1783 1790	reduced
+E31	Negative_regulation:T83 Theme:E37 Cause:E28
+E32	Negative_regulation:T83 Theme:E38 Cause:E28
+E33	Negative_regulation:T83 Theme:E37 Cause:E29
+E34	Negative_regulation:T83 Theme:E38 Cause:E29
+E35	Negative_regulation:T83 Theme:E37 Cause:E30
+E36	Negative_regulation:T83 Theme:E38 Cause:E30
+T84	Protein_processing 1796 1804	cleavage
+E37	Protein_processing:T84 Theme:T56
+T85	Positive_regulation 1819 1829	activation
+E38	Positive_regulation:T85 Theme:T57
+T86	Positive_regulation 1894 1902	triggers
+E39	Positive_regulation:T86 Cause:T58 Theme:E40
+T87	Cell_death 1903 1912	apoptosis
+E40	Cell_death:T87 Theme:T60
+T88	Pathway 1947 1974	intrinsic apoptotic pathway
+E41	Pathway:T88 

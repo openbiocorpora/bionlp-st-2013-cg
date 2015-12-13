@@ -1,0 +1,16 @@
+T1	Gene_or_gene_product 12 15	p53
+T2	Simple_chemical 19 26	glucose
+T3	Gene_or_gene_product 44 47	p53
+T4	Cancer 77 83	tumour
+T5	Cell 147 152	cells
+T6	Cell 205 209	cell
+T7	Gene_or_gene_product 265 268	p53
+T8	Simple_chemical 311 318	glucose
+T9	Gene_or_gene_product 358 361	p53
+T10	Cancer 428 435	cancers
+T11	Cell 451 456	cells
+T12	Gene_or_gene_product 534 537	p53
+T13	Cancer 569 575	cancer
+T14	Cancer 622 628	tumour
+T15	Gene_or_gene_product 647 650	p53
+T16	Gene_or_gene_product 715 718	p53

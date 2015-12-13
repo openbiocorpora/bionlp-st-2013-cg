@@ -1,0 +1,55 @@
+T1	Simple_chemical 14 27	retinoic acid
+T2	Cellular_component 89 106	basement membrane
+T3	Organism 121 124	rat
+T4	Cell 125 153	mammary adenocarcinoma cells
+T5	Gene_or_gene_product 172 191	type IV collagenase
+T6	Cell 207 218	tumor cells
+T7	Gene_or_gene_product 230 246	collagen type IV
+T8	Cellular_component 260 292	subendothelial basement membrane
+T9	Cancer 355 360	tumor
+T10	Organism 382 385	rat
+T11	Cell 386 426	13762NF mammary adenocarcinoma cell line
+T12	Cell 435 441	clones
+T13	Simple_chemical 478 501	all-trans-retinoic acid
+T14	Simple_chemical 503 515	all-trans-RA
+T15	Cancer 556 561	tumor
+T16	Organism 642 645	rat
+T17	Cell 646 682	13762NF mammary adenocarcinoma cells
+T18	Cell 684 689	Cells
+T19	Organ 715 719	lung
+T20	Cell 731 747	clone MTF7.T35.3
+T21	Cell 766 783	13762NF cell line
+T22	Simple_chemical 835 847	all-trans-RA
+T23	Simple_chemical 874 885	[3H]proline
+T24	Cellular_component 894 914	extracellular matrix
+T25	Organism 937 940	rat
+T26	Cell 941 963	lung endothelial cells
+T27	Simple_chemical 989 1000	[3H]proline
+T28	Gene_or_gene_product 1009 1025	type IV collagen
+T29	Simple_chemical 1149 1161	all-trans-RA
+T30	Cellular_component 1197 1217	extracellular matrix
+T31	Gene_or_gene_product 1222 1238	type IV collagen
+T32	Cell 1290 1295	cells
+T33	Simple_chemical 1318 1330	all-trans-RA
+T34	Organism_substance 1334 1339	serum
+T35	Developing_anatomical_structure 1416 1421	fetal
+T36	Organism 1422 1428	bovine
+T37	Organism_substance 1429 1434	serum
+T38	Cell 1454 1459	cells
+T39	Simple_chemical 1540 1552	all-trans-RA
+T40	Organism_substance 1556 1561	serum
+T41	Cell 1639 1644	cells
+T42	Cell 1698 1703	cells
+T43	Simple_chemical 1707 1719	all-trans-RA
+T44	Simple_chemical 1857 1869	all-trans-RA
+T45	Gene_or_gene_product 1918 1929	collagenase
+T46	Organism_substance 2039 2052	cell extracts
+T47	Gene_or_gene_product 2092 2108	type IV collagen
+T48	Simple_chemical 2118 2132	polyacrylamide
+T49	Gene_or_gene_product 2243 2261	metalloproteinases
+T50	Cell 2476 2481	cells
+T51	Cellular_component 2503 2516	cell membrane
+T52	Simple_chemical 2524 2533	1-butanol
+T53	Simple_chemical 2550 2562	all-trans-RA
+T54	Cell 2607 2615	cellular
+T55	Cellular_component 2617 2630	cell membrane

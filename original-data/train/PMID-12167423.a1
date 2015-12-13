@@ -1,0 +1,26 @@
+T1	Organism 55 60	human
+T2	Cell 61 95	oral squamous cell carcinoma cells
+T3	Cell 163 180	oral cancer cells
+T4	Cell 264 302	human umbilical vein endothelial cells
+T5	Cell 304 309	HUVEC
+T6	Cell 354 371	oral cancer cells
+T7	Cell 380 405	normal oral keratinocytes
+T8	Cell 407 410	NOK
+T9	Gene_or_gene_product 441 476	vascular endothelial growth factors
+T10	Gene_or_gene_product 478 482	VEGF
+T11	Cell 503 520	oral cancer cells
+T12	Cell 525 528	NOK
+T13	Gene_or_gene_product 587 602	VEGF antibodies
+T14	Gene_or_gene_product 612 616	VEGF
+T15	Cell 683 700	oral cancer cells
+T16	Gene_or_gene_product 722 725	p53
+T17	Gene_or_gene_product 730 752	murine double mutant 2
+T18	Gene_or_gene_product 754 758	Mdm2
+T19	Gene_or_gene_product 774 777	p53
+T20	Cellular_component 778 781	DNA
+T21	Gene_or_gene_product 816 819	p53
+T22	Gene_or_gene_product 867 871	Mdm2
+T23	Cell 895 912	oral cancer cells
+T24	Cell 982 999	oral cancer cells
+T25	Gene_or_gene_product 1043 1047	VEGF
+T26	Gene_or_gene_product 1077 1080	p53

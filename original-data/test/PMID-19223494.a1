@@ -1,0 +1,44 @@
+T1	Gene_or_gene_product 0 55	Short pigment epithelial-derived factor-derived peptide
+T2	Cancer 82 87	tumor
+T3	Gene_or_gene_product 105 138	Pigment epithelial-derived factor
+T4	Gene_or_gene_product 140 144	PEDF
+T5	Cancer 234 239	tumor
+T6	Gene_or_gene_product 276 280	PEDF
+T7	Gene_or_gene_product 403 407	PEDF
+T8	Cancer 448 453	tumor
+T9	Gene_or_gene_product 651 654	P14
+T10	Gene_or_gene_product 656 659	P18
+T11	Gene_or_gene_product 665 668	P23
+T12	Cell 705 721	endothelial cell
+T13	Cancer 850 855	tumor
+T14	Cancer 903 921	prostate carcinoma
+T15	Cancer 944 964	renal cell carcinoma
+T16	Gene_or_gene_product 981 984	P18
+T17	Gene_or_gene_product 1012 1016	PEDF
+T18	Gene_or_gene_product 1058 1070	PEDF targets
+T19	Gene_or_gene_product 1072 1117	vascular endothelial growth factor receptor 2
+T20	Gene_or_gene_product 1123 1134	CD95 ligand
+T21	Gene_or_gene_product 1149 1152	P18
+T22	Multi-tissue_structure 1161 1172	vasculature
+T23	Gene_or_gene_product 1183 1186	P14
+T24	Gene_or_gene_product 1191 1194	P18
+T25	Cell 1203 1219	endothelial cell
+T26	Gene_or_gene_product 1232 1235	P18
+T27	Gene_or_gene_product 1240 1243	P23
+T28	Gene_or_gene_product 1263 1266	P18
+T29	Gene_or_gene_product 1325 1328	P23
+T30	Gene_or_gene_product 1346 1349	P14
+T31	Gene_or_gene_product 1369 1372	P18
+T32	Gene_or_gene_product 1401 1412	CD95 ligand
+T33	Gene_or_gene_product 1443 1488	vascular endothelial growth factor receptor 2
+T34	Cell 1496 1513	endothelial cells
+T35	Cancer 1526 1531	tumor
+T36	Gene_or_gene_product 1541 1544	P18
+T37	Cancer 1611 1626	prostate cancer
+T38	Gene_or_gene_product 1632 1647	parental 34-mer
+T39	Cancer 1656 1676	renal cell carcinoma
+T40	Gene_or_gene_product 1678 1681	P18
+T41	Cancer 1756 1762	tumors
+T42	Gene_or_gene_product 1777 1780	P18
+T43	Cancer 1895 1903	prostate
+T44	Cancer 1908 1920	renal cancer

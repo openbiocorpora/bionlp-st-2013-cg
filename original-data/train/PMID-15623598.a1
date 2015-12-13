@@ -1,0 +1,20 @@
+T1	Cancer 107 125	colorectal cancers
+T2	Cancer 222 227	tumor
+T3	Cancer 298 303	tumor
+T4	Cancer 520 525	tumor
+T5	Gene_or_gene_product 676 681	MMP-1
+T6	Gene_or_gene_product 683 688	MMP-2
+T7	Gene_or_gene_product 690 695	MMP-3
+T8	Gene_or_gene_product 697 702	MMP-7
+T9	Gene_or_gene_product 704 709	MMP-9
+T10	Gene_or_gene_product 711 717	MMP-13
+T11	Gene_or_gene_product 719 726	MT1-MMP
+T12	Gene_or_gene_product 731 738	MT2-MMP
+T13	Gene_or_gene_product 786 792	TIMP-1
+T14	Gene_or_gene_product 794 800	TIMP-2
+T15	Gene_or_gene_product 806 812	TIMP-3
+T16	Cancer 892 931	stage III (Dukes' C) colorectal cancers
+T17	Cell 1038 1043	cells
+T18	Cancer 1218 1236	colorectal cancers
+T19	Organism 1321 1329	patients
+T20	Cancer 1673 1690	colorectal cancer

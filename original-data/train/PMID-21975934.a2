@@ -1,0 +1,70 @@
+*	Equiv T9 T10
+*	Equiv T18 T19
+T43	Positive_regulation 292 299	promote
+E1	Positive_regulation:T43 Theme:E4
+E2	Positive_regulation:T43 Theme:E5
+E3	Positive_regulation:T43 Theme:E6
+T44	Cell_proliferation 300 306	growth
+E4	Cell_proliferation:T44 Theme:T6
+T45	Localization 308 316	invasion
+E5	Localization:T45 Theme:T6
+T46	Metastasis 322 332	metastasis
+E6	Metastasis:T46 
+T47	Development 417 427	developing
+E7	Development:T47 Theme:T8
+T48	Regulation 512 523	responsible
+E8	Regulation:T48 Cause:T9 Theme:E9
+T49	Positive_regulation 534 544	activation
+E9	Positive_regulation:T49 Theme:T12
+T50	Regulation 555 565	implicated
+E10	Regulation:T50 Cause:T9 Theme:E14
+E11	Regulation:T50 Cause:T9 Theme:E15
+E12	Regulation:T50 Cause:T9 Theme:E16
+E13	Regulation:T50 Cause:T9 Theme:E17
+T51	Development 576 587	development
+E14	Development:T51 Theme:T13
+T52	Development 589 600	progression
+E15	Development:T52 Theme:T13
+T53	Localization 602 610	invasion
+E16	Localization:T53 Theme:T13
+T54	Metastasis 616 626	metastasis
+E17	Metastasis:T54 Theme:T13
+T55	Negative_regulation 656 664	suppress
+E18	Negative_regulation:T55 Cause:T14 Theme:E20
+E19	Negative_regulation:T55 Cause:T14 Theme:E21
+T56	Cell_proliferation 669 675	growth
+E20	Cell_proliferation:T56 Theme:T15
+E21	Cell_proliferation:T56 Theme:T16
+T57	Cell_transformation 817 831	transformation
+E22	Cell_transformation:T57 Theme:T18
+T58	Pathway 851 860	signaling
+E23	Pathway:T58 Participant:T20
+T59	Negative_regulation 861 871	suppressed
+E24	Negative_regulation:T59 Cause:E23 Theme:E25
+T60	Gene_expression 878 888	expression
+E25	Gene_expression:T60 Theme:T21
+T61	Negative_regulation 972 982	Inhibition
+E26	Negative_regulation:T61 Theme:E28 Cause:E29
+E27	Negative_regulation:T61 Theme:E28 Cause:E30
+T62	Positive_regulation 992 1002	activation
+E28	Positive_regulation:T62 Theme:T25
+T63	Gene_expression 1006 1016	expressing
+E29	Gene_expression:T63 Theme:T26
+E30	Gene_expression:T63 Theme:T27
+T64	Gene_expression 1116 1126	expression
+E31	Gene_expression:T64 Theme:T29
+T65	Cell_transformation 1317 1341	malignant transformation
+E32	Cell_transformation:T65 
+T66	Cell_transformation 1355 1369	transformation
+T67	Positive_regulation 1355 1369	transformation
+E33	Cell_transformation:T66 
+E34	Positive_regulation:T67 Theme:E33 Cause:T32
+E35	Positive_regulation:T67 Theme:E33 Cause:T33
+T68	Positive_regulation 1387 1395	required
+E36	Positive_regulation:T68 Cause:E37 Theme:E33
+T69	Pathway 1409 1418	signaling
+E37	Pathway:T69 Participant:T34 Participant2:T35
+T70	Negative_regulation 1687 1698	suppressive
+E38	Negative_regulation:T70 Theme:T41
+T71	Positive_regulation 1708 1717	promoting
+E39	Positive_regulation:T71 Theme:T42

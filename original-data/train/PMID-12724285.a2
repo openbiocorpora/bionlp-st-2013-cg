@@ -1,0 +1,71 @@
+*	Equiv T3 T4
+T44	Development 97 108	development
+E1	Development:T44 Theme:T3
+T45	Blood_vessel_development 151 163	angiogenesis
+E2	Blood_vessel_development:T45 
+T46	Regulation 240 245	roles
+E3	Regulation:T46 Cause:T6 Theme:E7
+E4	Regulation:T46 Cause:T7 Theme:E7
+E5	Regulation:T46 Cause:T6 Theme:E8
+E6	Regulation:T46 Cause:T7 Theme:E8
+M1	Speculation E3
+M2	Speculation E4
+M3	Speculation E5
+M4	Speculation E6
+T47	Blood_vessel_development 314 326	angiogenesis
+E7	Blood_vessel_development:T47 
+T48	Synthesis 344 354	production
+E8	Synthesis:T48 Theme:T8
+T49	Development 368 374	formed
+E9	Development:T49 Theme:T9
+T50	Positive_regulation 436 443	induced
+E10	Positive_regulation:T50 Theme:E11 Cause:T11
+T51	Planned_process 444 458	pseudopregnant
+E11	Planned_process:T51 Theme:T12
+T52	Planned_process 475 484	Injection
+E12	Planned_process:T52 Instrument:T13
+T53	Negative_regulation 578 587	decreased
+E13	Negative_regulation:T53 Theme:T16
+T54	Planned_process 625 634	injection
+E14	Planned_process:T54 Instrument:T18
+T55	Regulation 734 740	effect
+E15	Regulation:T55 Cause:T20 Theme:T22
+M5	Negation E15
+T56	Regulation 810 816	effect
+E16	Regulation:T56 Theme:T23
+M6	Negation E16
+T57	Synthesis 870 879	synthesis
+E17	Synthesis:T57 Theme:T24
+T58	Regulation 943 950	changes
+E18	Regulation:T58 Theme:E19
+T59	Blood_vessel_development 954 966	angiogenesis
+E19	Blood_vessel_development:T59 
+T60	Regulation 971 982	responsible
+E20	Regulation:T60 Cause:E18 Theme:E21
+M7	Speculation E20
+T61	Negative_regulation 991 999	decrease
+E21	Negative_regulation:T61 Theme:E22
+T62	Synthesis 1016 1025	synthesis
+E22	Synthesis:T62 Theme:T26
+T63	Development 1069 1079	luteinized
+E23	Development:T63 Theme:T29
+T64	Regulation 1351 1358	changes
+E24	Regulation:T64 Theme:T35
+T65	Regulation 1382 1393	responsible
+E25	Regulation:T65 Cause:E24 Theme:E26
+T66	Negative_regulation 1402 1410	decrease
+E26	Negative_regulation:T66 Theme:T37
+T67	Negative_regulation 1508 1517	inhibited
+E27	Negative_regulation:T67 Cause:T39 Theme:E28
+T68	Development 1522 1535	establishment
+E28	Development:T68 Theme:T40
+T69	Planned_process 1578 1587	injection
+E29	Planned_process:T69 Instrument:T41
+T70	Regulation 1674 1684	associated
+E30	Regulation:T70 Cause:E32 Theme:E31
+T71	Development 1694 1703	formation
+E31	Development:T71 Theme:T43
+T72	Positive_regulation 1729 1740	stimulation
+E32	Positive_regulation:T72 Theme:E33 Cause:T42
+T73	Blood_vessel_development 1744 1756	angiogenesis
+E33	Blood_vessel_development:T73 

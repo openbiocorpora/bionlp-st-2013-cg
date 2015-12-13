@@ -1,0 +1,54 @@
+T1	Gene_or_gene_product 0 5	Erbb2
+T2	Cellular_component 17 20	DNA
+T3	Organism 73 78	mouse
+T4	Organ 79 83	skin
+T5	Gene_or_gene_product 104 118	Erbb2 receptor
+T6	Cancer 172 196	non-melanoma skin cancer
+T7	Gene_or_gene_product 219 224	Erbb2
+T8	Organ 262 266	skin
+T9	Cell 296 300	cell
+T10	Gene_or_gene_product 362 367	Erbb2
+T11	Gene_or_gene_product 371 376	v-ras
+T12	Organism 371 396	v-ras(Ha) transgenic mice
+T13	Gene_or_gene_product 377 379	Ha
+T14	Cancer 443 454	skin tumors
+T15	Cancer 459 465	tumors
+T16	Gene_or_gene_product 532 537	Erbb2
+T17	Pathological_formation 562 583	epidermal hyperplasia
+T18	Cell 635 639	cell
+T19	Gene_or_gene_product 656 662	Cdc25a
+T20	Cell 683 687	cell
+T21	Gene_or_gene_product 722 727	Erbb2
+T22	Gene_or_gene_product 791 796	Erbb2
+T23	Gene_or_gene_product 823 829	Cdc25a
+T24	Cell 883 888	cells
+T25	Gene_or_gene_product 897 902	Erbb2
+T26	Gene_or_gene_product 935 941	Cdc25a
+T27	Cell 981 994	keratinocytes
+T28	Gene_or_gene_product 1003 1008	Erbb2
+T29	Gene_or_gene_product 1053 1059	Cdc25a
+T30	Gene_or_gene_product 1063 1068	Erbb2
+T31	Cell 1080 1084	cell
+T32	Gene_or_gene_product 1156 1162	Cdc25a
+T33	Gene_or_gene_product 1172 1177	Erbb2
+T34	Gene_or_gene_product 1229 1233	Rad3
+T35	Gene_or_gene_product 1325 1329	Chk1
+T36	Amino_acid 1330 1338	Ser(280)
+T37	Gene_or_gene_product 1346 1349	Akt
+T38	Gene_or_gene_product 1365 1369	Chk1
+T39	Amino_acid 1370 1378	Ser(280)
+T40	Gene_or_gene_product 1394 1399	Erbb2
+T41	Gene_or_gene_product 1403 1433	phosphatidyl inositol-3-kinase
+T42	Gene_or_gene_product 1435 1439	PI3K
+T43	Gene_or_gene_product 1441 1444	Akt
+T44	Cell 1473 1477	cell
+T45	Gene_or_gene_product 1507 1512	Erbb2
+T46	Gene_or_gene_product 1559 1563	PI3K
+T47	Gene_or_gene_product 1584 1588	PI3K
+T48	Gene_or_gene_product 1589 1592	Akt
+T49	Gene_or_gene_product 1647 1652	Erbb2
+T50	Organ 1674 1678	skin
+T51	Gene_or_gene_product 1731 1735	Chk1
+T52	Gene_or_gene_product 1737 1743	Cdc25a
+T53	Gene_or_gene_product 1797 1801	PI3K
+T54	Gene_or_gene_product 1802 1805	Akt

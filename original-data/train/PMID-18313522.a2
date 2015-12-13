@@ -1,0 +1,15 @@
+*	Equiv T2 T3
+T22	Planned_process 137 146	treatment
+E1	Planned_process:T22 Instrument:T4
+T23	Regulation 173 182	affecting
+E2	Regulation:T23 Cause:E1 Theme:T5
+T24	Blood_vessel_development 308 326	neovascularization
+E3	Blood_vessel_development:T24 
+T25	Planned_process 406 428	intravitreal injection
+E4	Planned_process:T25 Instrument:T9
+T26	Planned_process 724 733	treatment
+E5	Planned_process:T26 Instrument:T12
+T27	Negative_regulation 1410 1416	reduce
+E6	Negative_regulation:T27 Theme:E7
+T28	Breakdown 1424 1430	damage
+E7	Breakdown:T28 Theme:T21

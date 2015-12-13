@@ -1,0 +1,26 @@
+T1	Gene_or_gene_product 0 8	TGFbeta1
+T2	Gene_or_gene_product 83 91	TGFbeta1
+T3	Cell 139 156	transformed cells
+T4	Cell 225 244	nontransformed cell
+T5	Gene_or_gene_product 297 304	TGFbeta
+T6	Gene_or_gene_product 309 317	TGFalpha
+T7	Gene_or_gene_product 321 324	EGF
+T8	Gene_or_gene_product 366 374	TGFbeta1
+T9	Cell 408 424	epithelial cells
+T10	Gene_or_gene_product 486 494	TGFbeta1
+T11	Cancer 516 523	cancers
+T12	Gene_or_gene_product 545 553	TGFbeta1
+T13	Cancer 569 574	tumor
+T14	Cancer 614 620	cancer
+T15	Organism 635 640	human
+T16	Cancer 641 651	carcinomas
+T17	Gene_or_gene_product 664 672	TGFbeta1
+T18	Organism 706 713	patient
+T19	Cell 803 819	tumor cell lines
+T20	Gene_or_gene_product 933 941	TGFbeta1
+T21	Cancer 945 951	cancer
+T22	Gene_or_gene_product 996 1004	TGFbeta1
+T23	Cancer 1010 1015	tumor
+T24	Cancer 1150 1155	tumor
+T25	Cell 1247 1258	tumor cells
+T26	Gene_or_gene_product 1291 1299	TGFbeta1

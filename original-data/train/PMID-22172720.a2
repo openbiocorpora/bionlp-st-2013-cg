@@ -1,0 +1,43 @@
+*	Equiv T21 T22
+T31	Pathway 13 22	signaling
+E1	Pathway:T31 Participant:T1
+T32	Regulation 23 31	controls
+E2	Regulation:T32 Cause:E1 Theme:E3
+T33	Metastasis 32 42	metastasis
+E3	Metastasis:T33 Theme:T4
+T34	Positive_regulation 51 60	activated
+E4	Positive_regulation:T34 Cause:T2 Theme:T4
+T35	Mutation 66 75	deficient
+E5	Mutation:T35 Theme:T3 AtLoc:T4
+T36	Metastasis 136 146	metastasis
+E6	Metastasis:T36 
+T37	Regulation 179 187	regulate
+E7	Regulation:T37 Theme:E6
+M1	Speculation E7
+T38	Pathway 270 279	signaling
+E8	Pathway:T38 Participant:T6
+T39	Regulation 294 306	dysregulated
+E9	Regulation:T39 Theme:E8
+M2	Negation E9
+T40	Regulation 384 394	modulating
+E10	Regulation:T40 Theme:T8
+T41	Mutation 486 490	loss
+E11	Mutation:T41 Theme:T12
+T42	Mutation 507 515	mutation
+E12	Mutation:T42 Theme:T13 Site:T14
+T43	Metastasis 584 594	metastasis
+E13	Metastasis:T43 Theme:T16 ToLoc:T17
+E14	Metastasis:T43 Theme:T16 ToLoc:T18
+T44	Regulation 640 648	altering
+E15	Regulation:T44 Theme:E16
+T45	Metastasis 649 659	metastasis
+E16	Metastasis:T45 
+T46	Pathway 751 760	signaling
+E17	Pathway:T46 Participant:T21
+E18	Pathway:T46 Participant:T23 Theme:T24
+T47	Metastasis 769 779	metastatic
+E19	Metastasis:T47 Theme:T25
+T48	Pathway 906 915	signaling
+E20	Pathway:T48 Participant:T29
+T49	Metastasis 921 931	metastasis
+E21	Metastasis:T49 

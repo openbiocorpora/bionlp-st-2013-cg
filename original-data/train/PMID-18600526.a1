@@ -1,0 +1,35 @@
+T1	Gene_or_gene_product 12 59	platelet-derived endothelial cell growth factor
+T2	Gene_or_gene_product 60 83	thymidine phosphorylase
+T3	Cancer 87 92	tumor
+T4	Gene_or_gene_product 103 150	Platelet-derived endothelial cell growth-factor
+T5	Gene_or_gene_product 152 159	PD-ECGF
+T6	Gene_or_gene_product 197 220	thymidine phosphorylase
+T7	Gene_or_gene_product 222 224	TP
+T8	Gene_or_gene_product 234 236	TP
+T9	Cancer 251 256	tumor
+T10	Cancer 282 287	tumor
+T11	Gene_or_gene_product 355 357	TP
+T12	Gene_or_gene_product 407 409	TP
+T13	Cell 435 446	tumor cells
+T14	Tissue 459 484	tumor surrounding tissues
+T15	Cell 494 524	tumor infiltrating macrophages
+T16	Gene_or_gene_product 526 528	TP
+T17	Simple_chemical 557 566	thymidine
+T18	Simple_chemical 570 577	thymine
+T19	Simple_chemical 582 604	doxyribose-1-phosphate
+T20	Simple_chemical 606 612	dR-1-P
+T21	Simple_chemical 655 660	sugar
+T22	Simple_chemical 667 678	deoxyribose
+T23	Simple_chemical 680 682	dR
+T24	Cell 750 758	cellular
+T25	Simple_chemical 829 852	reactive oxygen species
+T26	Simple_chemical 854 867	L-deoxyribose
+T27	Simple_chemical 869 873	L-dR
+T28	Simple_chemical 879 912	thymidine phosphorylase inhibitor
+T29	Simple_chemical 914 917	TPI
+T30	Gene_or_gene_product 963 965	TP
+T31	Gene_or_gene_product 1009 1012	TNF
+T32	Gene_or_gene_product 1014 1018	IL10
+T33	Gene_or_gene_product 1125 1127	TP
+T34	Cell 1157 1165	cellular
+T35	Cancer 1215 1221	cancer

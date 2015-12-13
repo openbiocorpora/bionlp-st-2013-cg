@@ -1,0 +1,43 @@
+T1	Gene_or_gene_product 14 30	thrombospondin-1
+T2	Simple_chemical 56 66	progestins
+T3	Organism 70 75	human
+T4	Cell 76 95	breast cancer cells
+T5	Simple_chemical 126 136	progestins
+T6	Gene_or_gene_product 144 178	vascular endothelial growth factor
+T7	Gene_or_gene_product 180 184	VEGF
+T8	Cell 189 208	breast cancer cells
+T9	Gene_or_gene_product 229 232	p53
+T10	Simple_chemical 283 293	progestins
+T11	Gene_or_gene_product 306 322	thrombospondin-1
+T12	Gene_or_gene_product 324 329	TSP-1
+T13	Cell 351 356	T47-D
+T14	Cell 361 387	BT-474 breast cancer cells
+T15	Simple_chemical 389 409	Antiprogestin RU-486
+T16	Gene_or_gene_product 436 440	VEGF
+T17	Gene_or_gene_product 445 450	TSP-1
+T18	Simple_chemical 454 464	progestins
+T19	Simple_chemical 497 506	progestin
+T20	Gene_or_gene_product 526 547	progesterone receptor
+T21	Gene_or_gene_product 549 551	PR
+T22	Simple_chemical 554 567	Actinomycin-D
+T23	Simple_chemical 577 586	puromycin
+T24	Simple_chemical 600 609	progestin
+T25	Gene_or_gene_product 633 638	TSP-1
+T26	Simple_chemical 651 660	progestin
+T27	Organism 700 705	human
+T28	Gene_or_gene_product 706 711	TSP-1
+T29	Simple_chemical 769 778	progestin
+T30	Gene_or_gene_product 779 781	PR
+T31	Gene_or_gene_product 835 840	TSP-1
+T32	Organism 849 854	human
+T33	Cell 855 860	cells
+T34	Simple_chemical 886 895	progestin
+T35	Cell 904 923	breast cancer cells
+T36	Cell 935 951	endothelial cell
+T37	Gene_or_gene_product 1011 1028	antibody to TSP-1
+T38	Gene_or_gene_product 1046 1051	TSP-1
+T39	Cell 1064 1083	breast cancer cells
+T40	Cell 1115 1125	tumor cell
+T41	Gene_or_gene_product 1134 1139	TSP-1
+T42	Cancer 1189 1194	tumor
+T43	Cancer 1248 1261	breast cancer

@@ -1,0 +1,72 @@
+T68	Blood_vessel_development 6 18	angiogenesis
+E1	Blood_vessel_development:T68 AtLoc:T1
+T69	Regulation 19 28	modulates
+E2	Regulation:T69 Theme:E3 Cause:E4
+T70	Binding 51 63	interactions
+E3	Binding:T70 Theme:T3 Theme:T2
+T71	Negative_regulation 75 83	reducing
+E4	Negative_regulation:T71 Theme:E5 Cause:E1
+T72	Gene_expression 114 124	expression
+E5	Gene_expression:T72 Theme:T4
+T73	Gene_expression 130 140	expression
+E6	Gene_expression:T73 Theme:T5
+T74	Regulation 185 193	involved
+E7	Regulation:T74 Theme:E8 Cause:E6
+T75	Binding 219 231	interactions
+E8	Binding:T75 Theme:T7 Theme:T6
+T76	Regulation 313 323	regulation
+E9	Regulation:T76 Theme:E10 Cause:T11
+M1	Speculation E9
+T77	Binding 349 361	interactions
+E10	Binding:T77 Theme:T10 Theme:T9
+T78	Positive_regulation 453 463	stimulated
+E11	Positive_regulation:T78 Cause:T12 Theme:E12
+T79	Binding 486 498	interactions
+E12	Binding:T79 Theme:T14 Theme:T13
+T80	Binding 669 681	interactions
+E13	Binding:T80 Theme:T23 Theme:T22
+T81	Growth 732 739	growing
+E14	Growth:T81 Theme:T24
+T82	Growth 803 810	growing
+E15	Growth:T82 Theme:T28
+T83	Binding 959 967	adhesion
+E16	Binding:T83 Theme:T34
+T84	Negative_regulation 984 994	diminished
+E17	Negative_regulation:T84 Theme:E16
+T85	Negative_regulation 1068 1077	reduction
+E18	Negative_regulation:T85 Theme:E16
+T86	Binding 1168 1176	adhesion
+E19	Binding:T86 Theme:T39
+T87	Negative_regulation 1234 1241	reduced
+E20	Negative_regulation:T87 Theme:E19
+T88	Planned_process 1428 1437	Treatment
+E21	Planned_process:T88 Theme:T47 Instrument:T49
+T89	Negative_regulation 1537 1546	prevented
+E22	Negative_regulation:T89 Cause:E21 Theme:E23
+T90	Negative_regulation 1551 1566	down-regulation
+E23	Negative_regulation:T90 Theme:E24
+T91	Binding 1592 1604	interactions
+E24	Binding:T91 Theme:T51 Theme:T50
+T92	Planned_process 1648 1658	nontreated
+E25	Planned_process:T92 Theme:T47
+M2	Negation E25
+T93	Positive_regulation 1679 1688	activated
+E26	Positive_regulation:T93 Theme:T53
+T94	Negative_regulation 1746 1756	suppressed
+E27	Negative_regulation:T94 Cause:T54 Theme:T55
+T95	Positive_regulation 1906 1913	induced
+E28	Positive_regulation:T95 Cause:T60 Theme:E30
+E29	Positive_regulation:T95 Cause:T60 Theme:E31
+T96	Positive_regulation 1914 1927	up-regulation
+E30	Positive_regulation:T96 Theme:T61
+E31	Positive_regulation:T96 Theme:T62
+T97	Negative_regulation 2007 2014	reduced
+E32	Negative_regulation:T97 Theme:E30
+E33	Negative_regulation:T97 Theme:E31
+T98	Planned_process 2032 2044	preincubated
+E34	Planned_process:T98 Theme:T63 Instrument:T64
+E35	Planned_process:T98 Theme:T63 Instrument:T65
+T99	Localization 2280 2285	enter
+E36	Localization:T99 Theme:T66 ToLoc:T67
+M3	Speculation E36
+M4	Negation E36

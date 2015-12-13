@@ -1,0 +1,21 @@
+*	Equiv T3 T4
+T16	Development 0 13	Morphogenesis
+E1	Development:T16 Theme:T1
+T17	Development 95 104	formation
+E2	Development:T17 Theme:T2
+T18	Cell_proliferation 231 244	proliferation
+E3	Cell_proliferation:T18 Theme:T10
+E4	Cell_proliferation:T18 Theme:T11
+E5	Cell_proliferation:T18 Theme:T12
+E6	Cell_proliferation:T18 Theme:T13
+T19	Binding 249 261	interactions
+E7	Binding:T19 Theme:T10
+E8	Binding:T19 Theme:T11
+E9	Binding:T19 Theme:T12
+E10	Binding:T19 Theme:T13
+T20	Regulation 394 401	control
+E11	Regulation:T20 Theme:E12
+T21	Blood_vessel_development 409 421	angiogenesis
+E12	Blood_vessel_development:T21 AtLoc:T14
+T22	Development 509 517	assembly
+E13	Development:T22 Theme:T15

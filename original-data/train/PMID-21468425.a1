@@ -1,0 +1,16 @@
+T1	Organism 33 38	human
+T2	Cell 39 69	hepotacellular carcinoma cells
+T3	Cancer 185 209	hepatocellular carcinoma
+T4	Cancer 211 214	HCC
+T5	Organism 312 317	human
+T6	Cell 318 343	metastatic HCC cell lines
+T7	Cell 394 408	HCC cell lines
+T8	Cell 718 728	cell lines
+T9	Gene_or_gene_product 1028 1047	heat shock proteins
+T10	Gene_or_gene_product 1049 1053	HSPs
+T11	Gene_or_gene_product 1068 1077	NF-kappaB
+T12	Gene_or_gene_product 1215 1219	HDGF
+T13	Gene_or_gene_product 1261 1270	NF-kappaB
+T14	Cell 1280 1284	cell
+T15	Cell 1313 1322	HCC cells
+T16	Cancer 1484 1487	HCC

@@ -1,0 +1,53 @@
+T1	Simple_chemical 21 45	tobacco smoke condensate
+T2	Simple_chemical 58 86	benzo[a]pyerene diol epoxide
+T3	Cell 95 99	cell
+T4	Gene_or_gene_product 124 140	protein kinase C
+T5	Simple_chemical 255 279	tobacco smoke condensate
+T6	Simple_chemical 281 284	TSC
+T7	Simple_chemical 304 321	phenolic fraction
+T8	Simple_chemical 325 328	TSC
+T9	Cell 399 413	JB6 Cl41 cells
+T10	Simple_chemical 483 487	BPDE
+T11	Simple_chemical 552 570	PAH benzo[a]pyrene
+T12	Cell 595 599	cell
+T13	Cell 624 628	cell
+T14	Simple_chemical 752 773	TSC phenolic fraction
+T15	Simple_chemical 786 790	BPDE
+T16	Gene_or_gene_product 885 889	AP-1
+T17	Gene_or_gene_product 894 903	NF-kappaB
+T18	Cancer 952 957	tumor
+T19	Simple_chemical 967 970	TPA
+T20	Simple_chemical 972 976	BPDE
+T21	Gene_or_gene_product 1012 1016	AP-1
+T22	Gene_or_gene_product 1021 1030	NF-kappaB
+T23	Gene_or_gene_product 1057 1067	luciferase
+T24	Gene_or_gene_product 1092 1101	NF-kappaB
+T25	Simple_chemical 1127 1131	BPDE
+T26	Simple_chemical 1164 1185	TSC phenolic fraction
+T27	Gene_or_gene_product 1194 1198	AP-1
+T28	Gene_or_gene_product 1243 1252	NF-kappaB
+T29	Simple_chemical 1267 1288	TSC phenolic fraction
+T30	Immaterial_anatomical_entity 1333 1346	intracellular
+T31	Gene_or_gene_product 1347 1350	PKC
+T32	Simple_chemical 1380 1384	BPDE
+T33	Cell 1393 1398	cells
+T34	Gene_or_gene_product 1413 1416	PKC
+T35	Simple_chemical 1428 1441	staurosporine
+T36	Simple_chemical 1446 1468	bisindolylmaleimide II
+T37	Gene_or_gene_product 1516 1520	PKCs
+T38	Simple_chemical 1522 1528	Go6976
+T39	Gene_or_gene_product 1534 1543	PKC-delta
+T40	Simple_chemical 1545 1554	rottlerin
+T41	Gene_or_gene_product 1567 1576	NF-kappaB
+T42	Simple_chemical 1591 1595	BPDE
+T43	Cell 1604 1609	cells
+T44	Gene_or_gene_product 1665 1668	PKC
+T45	Gene_or_gene_product 1708 1717	NF-kappaB
+T46	Simple_chemical 1730 1751	TSC phenolic fraction
+T47	Cell 1766 1771	cells
+T48	Gene_or_gene_product 1777 1780	PKC
+T49	Simple_chemical 1841 1845	BPDE
+T50	Cell 1854 1859	cells
+T51	Gene_or_gene_product 1910 1913	PKC
+T52	Simple_chemical 1949 1953	BPDE
+T53	Simple_chemical 1980 2001	TSC phenolic fraction

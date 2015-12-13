@@ -1,0 +1,46 @@
+*	Equiv T15 T16
+T27	Positive_regulation 87 106	play a crucial role
+E1	Positive_regulation:T27 Cause:T2 Theme:E2
+T28	Development 110 120	generating
+E2	Development:T28 Theme:T3
+T29	Breakdown 159 165	damage
+E3	Breakdown:T29 Theme:T4
+T30	Growth 357 367	thickening
+E4	Growth:T30 Theme:T6
+T31	Positive_regulation 483 493	contribute
+E5	Positive_regulation:T31 Theme:E6
+T32	Growth 518 528	thickening
+E6	Growth:T32 Theme:T9
+T33	Positive_regulation 597 616	play a central role
+E7	Positive_regulation:T33 Theme:E9
+E8	Positive_regulation:T33 Theme:E10
+T34	Development 620 631	development
+E9	Development:T34 Theme:T11
+T35	Growth 673 683	thickening
+E10	Growth:T35 Theme:T12
+T36	Binding 784 795	aggregation
+E11	Binding:T36 Theme:T13
+T37	Positive_regulation 797 808	participate
+E12	Positive_regulation:T37 Theme:E13
+T38	Development 821 830	formation
+E13	Development:T38 Theme:T14
+T39	Gene_expression 906 915	expressed
+E14	Gene_expression:T39 Theme:T15
+T40	Regulation 1039 1049	downstream
+E15	Regulation:T40 Cause:E17 Theme:T21
+E16	Regulation:T40 Cause:E17 Theme:T20
+T41	Pathway 1057 1076	coagulation cascade
+E17	Pathway:T41 
+T42	Positive_regulation 1077 1086	activated
+E18	Positive_regulation:T42 Cause:T22 Theme:E17
+T43	Regulation 1136 1144	involved
+E19	Regulation:T43 Cause:T23 Theme:E22
+E20	Regulation:T43 Cause:T23 Theme:E21
+T44	Localization 1153 1162	migration
+E21	Localization:T44 Theme:T24
+T45	Blood_vessel_development 1182 1194	angiogenesis
+E22	Blood_vessel_development:T45 
+T46	Pathway 1246 1265	coagulation cascade
+E23	Pathway:T46 
+T47	Pathway 1304 1321	activation system
+E24	Pathway:T47 Participant:T26

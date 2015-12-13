@@ -1,0 +1,12 @@
+T1	Gene_or_gene_product 37 42	RUNX1
+T2	Gene_or_gene_product 117 122	RUNX1
+T3	Cell 183 191	cellular
+T4	Developing_anatomical_structure 209 218	embryonic
+T5	Organism 307 312	human
+T6	Cancer 313 321	leukemia
+T7	Gene_or_gene_product 366 371	RUNX1
+T8	Gene_or_gene_product 470 475	RUNX1
+T9	Cell 479 492	hematopoietic
+T10	Gene_or_gene_product 610 615	RUNX1
+T11	Organism 632 637	human
+T12	Cancer 638 646	leukemia

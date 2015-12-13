@@ -1,0 +1,11 @@
+T1	Organ 0 4	Skin
+T2	Cell 43 53	basal cell
+T3	Gene_or_gene_product 321 329	hedgehog
+T4	Gene_or_gene_product 334 360	insulin-like growth factor
+T5	Gene_or_gene_product 362 365	IGF
+T6	Gene_or_gene_product 418 421	IGF
+T7	Gene_or_gene_product 441 447	Igfbp2
+T8	Cell 470 480	basal cell
+T9	Gene_or_gene_product 542 550	hedgehog
+T10	Cell 686 690	cell
+T11	Cancer 705 723	basal cell cancers

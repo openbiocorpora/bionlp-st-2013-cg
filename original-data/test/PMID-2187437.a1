@@ -1,0 +1,29 @@
+T1	Simple_chemical 19 41	prostaglandin F2 alpha
+T2	Simple_chemical 53 71	inositol phosphate
+T3	Cell 86 105	NIH-3T3 fibroblasts
+T4	Gene_or_gene_product 146 156	c-Ha-ras-1
+T5	Gene_or_gene_product 158 168	c-Ki-ras-2
+T6	Gene_or_gene_product 173 180	c-N-ras
+T7	Simple_chemical 208 226	inositol phosphate
+T8	Cell 241 248	control
+T9	Gene_or_gene_product 253 256	ras
+T10	Cell 274 287	NIH-3T3 cells
+T11	Simple_chemical 291 313	prostaglandin F2 alpha
+T12	Simple_chemical 315 325	PGF2 alpha
+T13	Cell 363 376	control cells
+T14	Cell 428 433	cells
+T15	Gene_or_gene_product 471 473	N-
+T16	Gene_or_gene_product 475 478	Ha-
+T17	Gene_or_gene_product 483 489	Ki-ras
+T18	Gene_or_gene_product 636 656	PGF2 alpha receptors
+T19	Simple_chemical 672 674	PG
+T20	Cell 817 830	NIH-3T3 cells
+T21	Cell 871 876	cells
+T22	Gene_or_gene_product 946 954	C-kinase
+T23	Simple_chemical 966 979	phorbol ester
+T24	Simple_chemical 1051 1072	inositol phospholipid
+T25	Gene_or_gene_product 1086 1089	ras
+T26	Cell 1102 1107	cells
+T27	Cell 1138 1142	cell
+T28	Gene_or_gene_product 1189 1197	C-kinase
+T29	Gene_or_gene_product 1259 1262	ras

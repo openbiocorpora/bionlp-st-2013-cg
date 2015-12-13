@@ -1,0 +1,25 @@
+T1	Tissue 61 84	tumour microvasculature
+T2	Tissue 304 327	tumour microvasculature
+T3	Cancer 347 353	tumour
+T4	Immaterial_anatomical_entity 477 490	intravascular
+T5	Organism 512 516	rats
+T6	Cancer 518 525	tumours
+T7	Cell 568 589	colon carcinoma cells
+T8	Organism 595 599	rats
+T9	Cell 604 632	mammary adenocarcinoma cells
+T10	Organism 639 643	rats
+T11	Cancer 700 707	tumours
+T12	Simple_chemical 752 760	B22956/1
+T13	Simple_chemical 765 782	Gd-DTPA37-albumin
+T14	Simple_chemical 860 869	tamoxifen
+T15	Simple_chemical 874 880	SU6668
+T16	Tissue 976 999	tumour microvasculature
+T17	Organism_subdivision 1054 1069	peripheral area
+T18	Organism_subdivision 1082 1094	central area
+T19	Cancer 1137 1154	mammary carcinoma
+T20	Multi-tissue_structure 1167 1175	vascular
+T21	Simple_chemical 1210 1218	B22956/1
+T22	Simple_chemical 1457 1472	Gd-DTPA-albumin
+T23	Cancer 1591 1606	colon carcinoma
+T24	Tissue 1773 1779	tissue
+T25	Cancer 1910 1916	tumour

@@ -1,0 +1,60 @@
+*	Equiv T4 T5
+*	Equiv T6 T7
+T32	Binding 47 58	interacting
+E1	Binding:T32 Theme:T2 Theme2:T1
+T33	Positive_regulation 70 78	promotes
+E2	Positive_regulation:T33 Cause:T1 Theme:T3
+T34	Binding 215 226	interaction
+E3	Binding:T34 Theme:T9 Theme2:T8
+T35	Regulation 227 250	plays an essential role
+E4	Regulation:T35 Cause:E3 Theme:E5
+T36	Death 259 267	survival
+E5	Death:T36 Theme:T10
+M1	Negation E5
+T37	Positive_regulation 275 282	depends
+E6	Positive_regulation:T37 Theme:E5 Cause:E7
+T38	Phosphorylation 293 308	phosphorylation
+T39	Positive_regulation 293 308	phosphorylation
+E7	Phosphorylation:T38 Theme:T12 Site:T13
+E8	Positive_regulation:T39 Cause:T11 Theme:E7
+T40	Binding 332 342	associates
+E9	Binding:T40 Theme:T14 Theme2:T15 Theme3:T16
+T41	Phosphorylation 415 429	phosphorylates
+T42	Positive_regulation 415 429	phosphorylates
+E10	Phosphorylation:T41 Theme:T15
+E11	Positive_regulation:T42 Cause:T14 Theme:E10
+E12	Phosphorylation:T41 Theme:T16
+E13	Positive_regulation:T42 Cause:T14 Theme:E12
+T43	Positive_regulation 445 460	Phosphorylation
+E14	Positive_regulation:T43 Theme:T17
+E15	Positive_regulation:T43 Theme:T18
+T44	Negative_regulation 477 485	prevents
+E16	Negative_regulation:T44 Theme:E20 Cause:E14
+E17	Negative_regulation:T44 Theme:E21 Cause:E14
+E18	Negative_regulation:T44 Theme:E21 Cause:E15
+E19	Negative_regulation:T44 Theme:E20 Cause:E15
+T45	Binding 494 505	interacting
+E20	Binding:T45 Theme:T19 Theme2:T18 Theme3:T17
+T46	Negative_regulation 515 527	inactivation
+E21	Negative_regulation:T46 Theme:T19
+T47	Gene_expression 564 578	Overexpression
+T48	Positive_regulation 564 578	Overexpression
+E22	Gene_expression:T47 Theme:T20
+E23	Gene_expression:T47 Theme:T21
+E24	Positive_regulation:T48 Theme:E23
+E25	Positive_regulation:T48 Theme:E22
+T49	Positive_regulation 616 624	promotes
+E26	Positive_regulation:T49 Theme:T23 Cause:E22
+E27	Positive_regulation:T49 Theme:T23 Cause:E23
+M2	Negation E27
+T50	Positive_regulation 692 700	elevated
+E28	Positive_regulation:T50 Theme:T25
+T51	Regulation 746 756	regulation
+E29	Regulation:T51 Theme:E30 Cause:E31
+T52	Death 765 773	survival
+E30	Death:T52 Theme:T28
+M3	Negation E30
+T53	Binding 797 808	interaction
+E31	Binding:T53 Theme:T30 Theme2:T29
+T54	Regulation 872 880	regulate
+E32	Regulation:T54 Theme:T31

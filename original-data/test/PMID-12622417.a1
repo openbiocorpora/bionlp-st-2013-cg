@@ -1,0 +1,15 @@
+T1	Gene_or_gene_product 0 9	NF-kappaB
+T2	Gene_or_gene_product 10 13	Rel
+T3	Cancer 55 72	pancreatic cancer
+T4	Cell 125 133	cellular
+T5	Cancer 161 178	pancreatic cancer
+T6	Cancer 254 271	pancreatic cancer
+T7	Cancer 301 307	cancer
+T8	Developing_anatomical_structure 444 449	fatal
+T9	Cell 574 578	cell
+T10	Gene_or_gene_product 619 628	NF-kappaB
+T11	Gene_or_gene_product 629 632	Rel
+T12	Gene_or_gene_product 759 768	NF-kappaB
+T13	Gene_or_gene_product 842 851	NF-kappaB
+T14	Gene_or_gene_product 852 855	Rel
+T15	Cancer 859 876	pancreatic cancer

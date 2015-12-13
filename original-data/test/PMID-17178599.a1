@@ -1,0 +1,12 @@
+T1	Gene_or_gene_product 29 53	matrix metalloproteinase
+T2	Tissue 80 94	adipose tissue
+T3	Anatomical_system 195 209	cardiovascular
+T4	Cancer 222 228	cancer
+T5	Tissue 370 384	adipose tissue
+T6	Cellular_component 426 446	extracellular matrix
+T7	Gene_or_gene_product 478 489	plasminogen
+T8	Gene_or_gene_product 490 497	plasmin
+T9	Gene_or_gene_product 503 527	matrix metalloproteinase
+T10	Gene_or_gene_product 529 532	MMP
+T11	Organism 624 628	mice
+T12	Gene_or_gene_product 697 700	MMP

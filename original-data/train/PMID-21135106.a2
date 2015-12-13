@@ -1,0 +1,76 @@
+T49	Regulation 57 64	mediate
+E1	Regulation:T49 Cause:T3 Theme:E2
+T50	Binding 65 77	interactions
+E2	Binding:T50 Theme:T4 Theme2:T5
+T51	Localization 176 182	invade
+E3	Localization:T51 Theme:T6
+T52	Metastasis 208 219	metastasize
+E4	Metastasis:T52 ToLoc:T7
+T53	Regulation 313 319	modify
+E5	Regulation:T53 Theme:T10 Cause:T8
+E6	Regulation:T53 Theme:T10 Cause:T9
+T54	Cell_proliferation 394 400	growth
+E7	Cell_proliferation:T54 Theme:T8
+E8	Cell_proliferation:T54 Theme:T9
+T55	Localization 405 414	migration
+E9	Localization:T55 Theme:T8
+E10	Localization:T55 Theme:T9
+T56	Gene_expression 525 534	expressed
+E11	Gene_expression:T56 Theme:T12
+T57	Binding 605 617	interactions
+E12	Binding:T57 Theme:T16 Theme2:T17
+T58	Regulation 676 680	role
+E13	Regulation:T58 Cause:T18 Theme:E14
+M1	Speculation E13
+T59	Binding 699 710	interaction
+E14	Binding:T59 Theme:T19 Theme2:T20
+T60	Planned_process 762 770	produced
+E15	Planned_process:T60 Theme:T23
+T61	Binding 884 891	adhered
+E16	Binding:T61 Theme:T24
+E17	Binding:T61 Theme:T26
+T62	Positive_regulation 924 933	dependent
+E18	Positive_regulation:T62 Cause:T27 Theme:E17
+E19	Positive_regulation:T62 Cause:T27 Theme:E16
+T63	Binding 1014 1022	adhesion
+E20	Binding:T63 Theme:T29
+T64	Regulation 1042 1050	mediated
+E21	Regulation:T64 Theme:E20
+T65	Binding 1150 1161	interaction
+E22	Binding:T65 Theme:T31 Theme2:T32
+T66	Positive_regulation 1240 1248	resulted
+E23	Positive_regulation:T66 Theme:E25
+E24	Positive_regulation:T66 Theme:E26
+T67	Positive_regulation 1252 1260	enhanced
+E25	Positive_regulation:T67 Theme:E27
+E26	Positive_regulation:T67 Theme:E28
+T68	Gene_expression 1261 1271	expression
+E27	Gene_expression:T68 Theme:T33
+E28	Gene_expression:T68 Theme:T34
+T69	Negative_regulation 1292 1301	Silencing
+E29	Negative_regulation:T69 Theme:T35
+T70	Negative_regulation 1344 1351	reduced
+E30	Negative_regulation:T70 Cause:E29 Theme:E31
+T71	Binding 1357 1365	adhesion
+E31	Binding:T71 Theme2:T38 Theme:T36
+T72	Negative_regulation 1382 1390	Ablation
+E32	Negative_regulation:T72 Theme:T39
+T73	Negative_regulation 1434 1443	abolished
+E33	Negative_regulation:T73 Cause:E32 Theme:E35
+E34	Negative_regulation:T73 Cause:E32 Theme:E36
+T74	Binding 1459 1471	interactions
+E35	Binding:T74 Theme:T41 Theme2:T40
+T75	Localization 1490 1498	invasion
+E36	Localization:T75 Theme:T42
+T76	Gene_expression 1555 1565	expression
+E37	Gene_expression:T76 Theme:T43
+T77	Regulation 1593 1602	mediating
+E38	Regulation:T77 Theme:E39 Cause:E37
+T78	Binding 1613 1621	contacts
+E39	Binding:T78 Theme:T46 Theme2:T47
+T79	Binding 1676 1688	interactions
+E40	Binding:T79 Theme:T46 Theme2:T47
+T80	Positive_regulation 1689 1699	contribute
+E41	Positive_regulation:T80 Cause:E40 Theme:E42
+T81	Localization 1742 1750	invasion
+E42	Localization:T81 Theme:T48

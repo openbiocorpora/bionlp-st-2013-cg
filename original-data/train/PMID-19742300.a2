@@ -1,0 +1,57 @@
+*	Equiv T13 T14
+*	Equiv T19 T20
+T54	Positive_regulation 18 28	activation
+E1	Positive_regulation:T54 Theme:T1
+T55	Negative_regulation 69 76	reduced
+E2	Negative_regulation:T55 Cause:E3 Theme:E1
+T56	Planned_process 87 96	treatment
+E3	Planned_process:T56 Theme:T3 Instrument:T2
+T57	Breakdown 198 209	dysfunction
+E4	Breakdown:T57 Theme:T4
+T58	Positive_regulation 391 401	activation
+E5	Positive_regulation:T58 Theme:T8
+T59	Blood_vessel_development 587 602	vascularization
+E6	Blood_vessel_development:T59 AtLoc:T12
+T60	Planned_process 622 631	treatment
+E7	Planned_process:T60 Instrument:T13
+T61	Planned_process 786 794	isolated
+E8	Planned_process:T61 Theme:T15
+T62	Planned_process 875 882	treated
+E9	Planned_process:T62 Theme:T18 Instrument:T19
+E10	Planned_process:T62 Theme:T18 Instrument:T21
+T63	Positive_regulation 1165 1175	activation
+E11	Positive_regulation:T63 Theme:T24
+T64	Blood_vessel_development 1223 1235	angiogenesis
+E12	Blood_vessel_development:T64 
+T65	Negative_regulation 1340 1349	decreased
+E13	Negative_regulation:T65 Theme:T27
+E14	Negative_regulation:T65 Theme:T26
+T66	Regulation 1417 1433	showed no change
+E15	Regulation:T66 Theme:T28
+E16	Regulation:T66 Theme:T29
+M1	Negation E15
+M2	Negation E16
+T67	Positive_regulation 1455 1467	up-regulated
+E17	Positive_regulation:T67 Theme:T26
+E18	Positive_regulation:T67 Theme:T27
+E19	Positive_regulation:T67 Theme:T28
+E20	Positive_regulation:T67 Theme:T29
+T68	Planned_process 1495 1504	treatment
+E21	Planned_process:T68 Theme:T33 Instrument:T32
+T69	Positive_regulation 1640 1648	improved
+E22	Positive_regulation:T69 Cause:T36 Theme:E23
+T70	Blood_vessel_development 1655 1670	vascularization
+E23	Blood_vessel_development:T70 AtLoc:T37
+T71	Positive_regulation 1829 1839	activation
+E24	Positive_regulation:T71 Theme:T40
+T72	Positive_regulation 1928 1945	beneficial effect
+E25	Positive_regulation:T72 Cause:T41 Theme:T42
+E26	Positive_regulation:T72 Cause:T41 Theme:T43
+T73	Regulation 2066 2070	role
+E27	Regulation:T73 Cause:T45 Theme:E28
+T74	Regulation 2092 2103	alterations
+E28	Regulation:T74 Theme:T47
+T75	Regulation 2125 2132	altered
+E29	Regulation:T75 Theme:T48
+T76	Regulation 2157 2163	affect
+E30	Regulation:T76 Cause:E29 Theme:T49

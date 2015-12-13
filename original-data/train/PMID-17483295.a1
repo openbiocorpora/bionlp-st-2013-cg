@@ -1,0 +1,18 @@
+T1	Gene_or_gene_product 8 11	p53
+T2	Cancer 92 111	follicular lymphoma
+T3	Cancer 201 220	follicular lymphoma
+T4	Organism 355 363	patients
+T5	Cancer 365 373	biopsies
+T6	Organism 415 423	patients
+T7	Gene_or_gene_product 461 464	p53
+T8	Gene_or_gene_product 488 491	p53
+T9	Cell 512 516	cell
+T10	Gene_or_gene_product 641 644	p53
+T11	Gene_or_gene_product 663 666	p53
+T12	Cell 923 933	macrophage
+T13	Gene_or_gene_product 949 952	TH1
+T14	Cell 1062 1073	macrophages
+T15	Cell 1087 1092	cells
+T16	Cancer 1228 1247	follicular lymphoma
+T17	Gene_or_gene_product 1323 1326	p53
+T18	Organism 1349 1357	patients

@@ -1,0 +1,79 @@
+T2	Gene_or_gene_product 0 36	Vascular endothelial growth factor-B
+T4	Gene_or_gene_product 41 77	vascular endothelial growth factor-C
+T5	Cancer 92 113	renal cell carcinomas
+T6	Gene_or_gene_product 133 150	von Hippel-Lindau
+T9	Cancer 200 205	tumor
+T12	Gene_or_gene_product 309 343	vascular endothelial growth factor
+T13	Gene_or_gene_product 345 349	VEGF
+T20	Gene_or_gene_product 361 367	VEGF-B
+T27	Gene_or_gene_product 372 378	VEGF-C
+T28	Gene_or_gene_product 388 392	VEGF
+T29	Gene_or_gene_product 473 478	flt-1
+T30	Gene_or_gene_product 480 486	VEGFR1
+T31	Gene_or_gene_product 489 492	KDR
+T32	Gene_or_gene_product 494 500	VEGFR2
+T33	Gene_or_gene_product 507 512	flt-4
+T34	Gene_or_gene_product 514 520	VEGFR3
+T35	Gene_or_gene_product 550 556	VEGF-A
+T36	Cancer 575 591	renal carcinomas
+T37	Cancer 634 647	kidney tumors
+T38	Gene_or_gene_product 709 715	VEGF-B
+T39	Gene_or_gene_product 720 726	VEGF-C
+T40	Multi-tissue_structure 795 816	normal kidney samples
+T41	Cancer 824 842	renal cell cancers
+T43	Gene_or_gene_product 887 893	VEGF-B
+T44	Gene_or_gene_product 914 920	VEGF-C
+T45	Organ 934 951	neoplastic kidney
+T46	Gene_or_gene_product 1004 1018	VEGF receptors
+T47	Cancer 1034 1040	tumors
+T48	Organ 1053 1059	kidney
+T50	Gene_or_gene_product 1107 1112	flt-1
+T51	Gene_or_gene_product 1133 1136	KDR
+T52	Gene_or_gene_product 1151 1156	flt-4
+T53	Gene_or_gene_product 1218 1224	VEGF-C
+T54	Gene_or_gene_product 1251 1256	flt-4
+T55	Gene_or_gene_product 1273 1276	KDR
+T56	Gene_or_gene_product 1315 1321	VEGF-B
+T57	Gene_or_gene_product 1339 1344	flt-1
+T60	Gene_or_gene_product 1396 1401	flt-1
+T61	Gene_or_gene_product 1425 1428	KDR
+T62	Gene_or_gene_product 1445 1450	flt-4
+T63	Gene_or_gene_product 1470 1476	VEGF-B
+T64	Gene_or_gene_product 1491 1497	VEGF-C
+T65	Cancer 1548 1581	chromophil (papillary) carcinomas
+T66	Gene_or_gene_product 1635 1641	VEGF-B
+T67	Gene_or_gene_product 1643 1649	VEGF-C
+T68	Gene_or_gene_product 1651 1656	flt-1
+T69	Gene_or_gene_product 1658 1661	KDR
+T70	Gene_or_gene_product 1667 1672	flt-4
+T71	Cancer 1707 1712	tumor
+T72	Gene_or_gene_product 1757 1774	von Hippel-Lindau
+T73	Gene_or_gene_product 1776 1779	VHL
+T75	Gene_or_gene_product 1801 1807	VEGF-B
+T77	Gene_or_gene_product 1812 1818	VEGF-C
+T79	Cell 1837 1868	renal carcinoma cell line 786-0
+T81	Gene_or_gene_product 1907 1910	VHL
+T82	Gene_or_gene_product 1983 1986	VHL
+T84	Gene_or_gene_product 2002 2008	VEGF-A
+T86	Gene_or_gene_product 2125 2131	VEGF-C
+T88	Gene_or_gene_product 2199 2205	VEGF-C
+T90	Gene_or_gene_product 2225 2228	VHL
+T92	Gene_or_gene_product 2267 2273	VEGF-B
+T93	Gene_or_gene_product 2295 2298	VHL
+T94	Cancer 2405 2426	clear cell carcinomas
+T98	Cancer 2501 2518	clear cell tumors
+T101	Cancer 2629 2646	clear cell tumors
+T102	Gene_or_gene_product 2679 2682	VHL
+T105	Gene_or_gene_product 2822 2828	VEGFR1
+T106	Gene_or_gene_product 2830 2835	flt-l
+T107	Cancer 2876 2881	tumor
+T11	Tissue 966 980	normal tissues
+T80	Gene_or_gene_product 760 765	RNase
+T1000	Organism 1678 1685	patient
+T1001	Organism 1691 1698	patient
+T21	Cancer 2600 2610	chromophil
+T23	Cell 1523 1533	clear cell
+T24	Cell 2218 2239	mutant VHL cell lines
+T26	Cell 1937 1942	cells
+T74	Cell 1973 1992	wild-type VHL cells
+T95	Cancer 2612 2621	papillary

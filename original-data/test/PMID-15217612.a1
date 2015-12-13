@@ -1,0 +1,26 @@
+T1	Simple_chemical 50 57	PU24FCl
+T2	Cancer 83 88	tumor
+T3	Gene_or_gene_product 89 94	Hsp90
+T4	Gene_or_gene_product 117 122	Hsp90
+T5	Cancer 160 166	cancer
+T6	Simple_chemical 192 199	PU24FCl
+T7	Gene_or_gene_product 249 254	Hsp90
+T8	Cancer 307 312	tumor
+T9	Gene_or_gene_product 313 318	Hsp90
+T10	Simple_chemical 320 327	PU24FCl
+T11	Cancer 355 361	cancer
+T12	Cancer 415 420	tumor
+T13	Cell 428 440	Normal cells
+T14	Gene_or_gene_product 497 502	Hsp90
+T15	Cancer 539 544	tumor
+T16	Gene_or_gene_product 586 591	Hsp90
+T17	Cell 620 624	cell
+T18	Cell 686 697	cancer cell
+T19	Cell 715 719	cell
+T20	Cancer 849 854	tumor
+T21	Gene_or_gene_product 855 860	Hsp90
+T22	Simple_chemical 870 877	PU24FCl
+T23	Cancer 893 899	tumors
+T24	Tissue 933 946	normal tissue
+T25	Cancer 983 989	tumors
+T26	Cancer 1016 1021	tumor

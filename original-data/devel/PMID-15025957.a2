@@ -1,0 +1,40 @@
+*	Equiv T5 T6
+*	Equiv T7 T8
+*	Equiv T15 T14
+T34	Gene_expression 21 31	expression
+E1	Gene_expression:T34 Theme:T1
+T35	Metastasis 118 128	metastasis
+E2	Metastasis:T35 ToLoc:T3
+T36	Metastasis 310 320	metastasis
+E3	Metastasis:T36 ToLoc:T9
+T37	Gene_expression 378 388	expression
+E4	Gene_expression:T37 Theme:T10
+T38	Metastasis 421 431	metastasis
+E5	Metastasis:T38 ToLoc:T12
+T39	Gene_expression 647 657	expression
+E6	Gene_expression:T39 Theme:T17
+T40	Gene_expression 768 778	expression
+E7	Gene_expression:T40 Theme:T18
+T41	Gene_expression 804 814	expression
+E8	Gene_expression:T41 Theme:T20
+T42	Metastasis 839 849	metastasis
+E9	Metastasis:T42 ToLoc:T21
+T43	Metastasis 887 897	metastasis
+E10	Metastasis:T43 
+M1	Negation E10
+T44	Gene_expression 967 977	expression
+E11	Gene_expression:T44 Theme:T23
+T45	Gene_expression 1083 1093	expression
+E12	Gene_expression:T45 Theme:T26
+T46	Localization 1181 1188	secrete
+E13	Localization:T46 Theme:T29 FromLoc:T27
+E14	Localization:T46 Theme:T29 FromLoc:T28
+T47	Regulation 1222 1239	play a major role
+E15	Regulation:T47 Cause:T31 Theme:E17
+E16	Regulation:T47 Cause:T31 Theme:E18
+M2	Speculation E15
+M3	Speculation E16
+T48	Blood_vessel_development 1265 1280	neoangiogenesis
+E17	Blood_vessel_development:T48 AtLoc:T32
+T49	Metastasis 1295 1305	metastasis
+E18	Metastasis:T49 ToLoc:T33

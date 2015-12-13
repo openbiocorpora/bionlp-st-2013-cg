@@ -1,0 +1,33 @@
+T1	Simple_chemical 17 26	gimatecan
+T2	Gene_or_gene_product 48 103	tumor necrosis factor-related apoptosis inducing ligand
+T3	Cell 107 131	prostate carcinoma cells
+T4	Cancer 168 186	prostate carcinoma
+T5	Cell 308 332	prostate carcinoma cells
+T6	Gene_or_gene_product 364 369	TRAIL
+T7	Simple_chemical 375 388	camptothecins
+T8	Simple_chemical 466 475	Topotecan
+T9	Simple_chemical 481 490	gimatecan
+T10	Gene_or_gene_product 525 533	TRAIL-R1
+T11	Gene_or_gene_product 538 541	-R2
+T12	Cell 572 576	cell
+T13	Simple_chemical 608 616	androgen
+T14	Cell 629 634	cells
+T15	Cell 636 642	DU-145
+T16	Cell 647 651	PC-3
+T17	Cell 657 669	DU-145 cells
+T18	Gene_or_gene_product 703 708	TRAIL
+T19	Cell 748 758	PC-3 cells
+T20	Gene_or_gene_product 775 784	Annexin V
+T21	Cell 827 837	PC-3 cells
+T22	Gene_or_gene_product 897 900	Akt
+T23	Gene_or_gene_product 930 937	cFLIP-L
+T24	Gene_or_gene_product 942 947	Bcl-2
+T25	Gene_or_gene_product 969 972	Bax
+T26	Cell 1081 1105	prostate carcinoma cells
+T27	Gene_or_gene_product 1109 1114	TRAIL
+T28	Simple_chemical 1132 1144	camptothecin
+T29	Gene_or_gene_product 1166 1171	TRAIL
+T30	Gene_or_gene_product 1326 1335	caspase 8
+T31	Cancer 1493 1499	tumors
+T32	Gene_or_gene_product 1645 1650	TRAIL
+T33	Simple_chemical 1651 1663	camptothecin

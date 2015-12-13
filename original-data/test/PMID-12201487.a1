@@ -1,0 +1,53 @@
+T1	Cancer 23 28	tumor
+T2	Gene_or_gene_product 42 62	protein kinase Cbeta
+T3	Organism 76 81	human
+T4	Cancer 82 95	breast cancer
+T5	Cancer 100 125	ovarian cancer xenografts
+T6	Cell 130 134	cell
+T7	Simple_chemical 157 168	317615 2HCl
+T8	Gene_or_gene_product 192 196	VEGF
+T9	Cell 208 213	HUVEC
+T10	Cell 260 284	MX-1 breast cancer cells
+T11	Cell 307 337	SKOV-3 ovarian carcinoma cells
+T12	Simple_chemical 387 397	paclitaxel
+T13	Simple_chemical 401 412	carboplatin
+T14	Simple_chemical 417 430	317615 x 2HCl
+T15	Cell 436 446	MX-1 cells
+T16	Cell 470 474	cell
+T17	Cell 551 563	SKOV-3 cells
+T18	Simple_chemical 567 577	paclitaxel
+T19	Simple_chemical 581 592	carboplatin
+T20	Simple_chemical 604 615	317615 2HCl
+T21	Cell 628 632	cell
+T22	Simple_chemical 672 685	317615 x 2HCl
+T23	Simple_chemical 691 701	paclitaxel
+T24	Simple_chemical 746 757	carboplatin
+T25	Simple_chemical 777 790	317615 x 2HCI
+T26	Organism 813 822	nude mice
+T27	Cancer 844 855	MX-1 tumors
+T28	Cancer 859 872	SKOV-3 tumors
+T29	Multi-tissue_structure 907 927	intratumoral vessels
+T30	Gene_or_gene_product 945 949	CD31
+T31	Gene_or_gene_product 954 959	CD105
+T32	Cancer 1002 1013	MX-1 tumors
+T33	Cancer 1033 1046	SKOV-3 tumors
+T34	Simple_chemical 1062 1075	317615 x 2HCl
+T35	Cancer 1094 1099	tumor
+T36	Cancer 1118 1132	MX-1 xenograft
+T37	Cancer 1151 1156	tumor
+T38	Simple_chemical 1182 1192	paclitaxel
+T39	Cancer 1213 1218	tumor
+T40	Simple_chemical 1244 1255	carboplatin
+T41	Simple_chemical 1287 1300	317615 x 2HCl
+T42	Cancer 1320 1325	tumor
+T43	Cancer 1389 1399	MX-1 tumor
+T44	Simple_chemical 1416 1429	317615 x 2HCl
+T45	Cancer 1478 1511	intraperitoneal SKOV-3 xenografts
+T46	Simple_chemical 1584 1594	paclitaxel
+T47	Simple_chemical 1599 1612	317615 x 2HCl
+T48	Cancer 1650 1656	SKOV-3
+T49	Simple_chemical 1692 1705	317615 x 2HCl
+T50	Simple_chemical 1717 1728	carboplatin
+T51	Cancer 1752 1764	SKOV-3 tumor
+T52	Simple_chemical 1820 1831	carboplatin
+T53	Simple_chemical 1839 1852	317615 x 2HCl

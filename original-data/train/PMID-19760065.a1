@@ -1,0 +1,26 @@
+T1	Gene_or_gene_product 10 13	TNF
+T2	Cancer 31 37	Cancer
+T3	Gene_or_gene_product 56 83	Tumor necrosis factor-alpha
+T4	Gene_or_gene_product 85 94	TNF-alpha
+T5	Cell 189 200	tumor cells
+T6	Gene_or_gene_product 202 211	TNF-alpha
+T7	Cell 347 358	immune cell
+T8	Gene_or_gene_product 429 438	TNF-alpha
+T9	Cancer 470 475	tumor
+T10	Gene_or_gene_product 578 587	TNF-alpha
+T11	Organ 666 671	bowel
+T12	Gene_or_gene_product 833 836	TNF
+T13	Simple_chemical 845 855	etanercept
+T14	Simple_chemical 857 863	Enbrel
+T15	Gene_or_gene_product 876 879	TNF
+T16	Simple_chemical 894 904	infliximab
+T17	Simple_chemical 906 914	Remicade
+T18	Simple_chemical 920 930	adalimumab
+T19	Simple_chemical 932 938	Humira
+T20	Gene_or_gene_product 941 960	anti-TNF antibodies
+T21	Organ 1012 1017	bowel
+T22	Gene_or_gene_product 1164 1173	TNF-alpha
+T23	Organism_subdivision 1261 1267	fruits
+T24	Organism_subdivision 1269 1278	vegetable
+T25	Gene_or_gene_product 1351 1354	TNF
+T26	Gene_or_gene_product 1370 1373	TNF

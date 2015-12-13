@@ -1,0 +1,109 @@
+*	Equiv T8 T9
+T63	Positive_regulation 50 60	activation
+E1	Positive_regulation:T63 Theme:E2 Cause:T5
+T64	Pathway 75 84	signaling
+E2	Pathway:T64 Participant:T4 Participant2:T3
+T65	Metastasis 101 111	metastatic
+E3	Metastasis:T65 
+T66	Positive_regulation 204 211	effects
+E4	Positive_regulation:T66 Theme:T8
+T67	Regulation 351 361	implicated
+E5	Regulation:T67 Cause:T11 Theme:E6
+M1	Speculation E5
+T68	Metastasis 368 378	metastasis
+E6	Metastasis:T68 Theme:T12
+T69	Regulation 383 391	involved
+E7	Regulation:T69 Cause:T11 Theme:E9
+E8	Regulation:T69 Cause:T11 Theme:E10
+M2	Speculation E7
+M3	Speculation E8
+T70	Positive_regulation 426 436	activation
+E9	Positive_regulation:T70 Theme:T13
+T71	Pathway 460 469	signaling
+E10	Pathway:T71 Participant:T14 Participant2:T15
+T72	Negative_regulation 502 512	inhibition
+E11	Negative_regulation:T72 Theme:T17
+T73	Positive_regulation 517 525	achieved
+E12	Positive_regulation:T73 Cause:T18 Theme:E11
+T74	Positive_regulation 580 590	activation
+E13	Positive_regulation:T74 Theme:E11 Cause:T18
+T75	Phosphorylation 799 814	phosphorylation
+E14	Phosphorylation:T75 Theme:T21
+E15	Phosphorylation:T75 Theme:T22
+E16	Phosphorylation:T75 Theme:T23
+T76	Positive_regulation 970 980	activation
+E17	Positive_regulation:T76 Cause:T26 Theme:T27
+T77	Gene_expression 997 1011	overexpressing
+T78	Positive_regulation 997 1011	overexpressing
+E18	Gene_expression:T77 Theme:T28
+E19	Positive_regulation:T78 Theme:E18
+T79	Positive_regulation 1027 1037	stimulated
+E20	Positive_regulation:T79 Cause:T29 Theme:T30
+T80	Negative_regulation 1048 1058	Inhibition
+E21	Negative_regulation:T80 Theme:T31
+T81	Negative_regulation 1086 1093	reduced
+E22	Negative_regulation:T81 Cause:E21 Theme:E24
+E23	Negative_regulation:T81 Cause:E21 Theme:E25
+T82	Transcription 1094 1104	transcript
+E24	Transcription:T82 Theme:T32
+T83	Gene_expression 1126 1136	production
+E25	Gene_expression:T83 Theme:T32
+T84	Positive_regulation 1161 1171	stimulated
+E26	Positive_regulation:T84 Cause:T33 Theme:T34
+T85	Negative_regulation 1246 1256	inhibition
+E27	Negative_regulation:T85 Theme:T36
+E28	Negative_regulation:T85 Theme:T37
+T86	Negative_regulation 1340 1351	suppression
+E29	Negative_regulation:T86 Theme:E30
+T87	Positive_regulation 1365 1375	activation
+E30	Positive_regulation:T87 Theme:T40
+T88	Negative_regulation 1376 1385	decreased
+E31	Negative_regulation:T88 Cause:E29 Theme:E43
+E32	Negative_regulation:T88 Cause:E29 Theme:E37
+E33	Negative_regulation:T88 Cause:E29 Theme:E44
+E34	Negative_regulation:T88 Cause:E29 Theme:E45
+E35	Negative_regulation:T88 Cause:E29 Theme:E38
+E36	Negative_regulation:T88 Cause:E29 Theme:E39
+T89	Transcription 1390 1400	transcript
+E37	Transcription:T89 Theme:T42
+E38	Transcription:T89 Theme:T43
+E39	Transcription:T89 Theme:T44
+T90	Positive_regulation 1418 1425	induced
+E40	Positive_regulation:T90 Cause:T41 Theme:E43
+E41	Positive_regulation:T90 Cause:T41 Theme:E44
+E42	Positive_regulation:T90 Cause:T41 Theme:E45
+T91	Phosphorylation 1426 1441	phosphorylation
+E43	Phosphorylation:T91 Theme:T42
+E44	Phosphorylation:T91 Theme:T43
+E45	Phosphorylation:T91 Theme:T44
+T92	Regulation 1476 1483	targets
+E46	Regulation:T92 Cause:E49 Theme:T42
+E47	Regulation:T92 Cause:E49 Theme:T43
+E48	Regulation:T92 Cause:E49 Theme:T44
+T93	Pathway 1493 1502	signaling
+E49	Pathway:T93 Participant:T45
+T94	Positive_regulation 1529 1539	activation
+E50	Positive_regulation:T94 Theme:T47 Cause:T48
+T95	Positive_regulation 1562 1570	required
+E51	Positive_regulation:T95 Cause:E50 Theme:E52
+T96	Regulation 1575 1585	modulation
+E52	Regulation:T96 Theme:E53
+T97	Positive_regulation 1594 1604	activation
+E53	Positive_regulation:T97 Cause:T50 Theme:T49
+T98	Transcription 1659 1674	transcriptional
+E54	Transcription:T98 Theme:T52
+T99	Regulation 1675 1685	regulation
+E55	Regulation:T99 Cause:T53 Theme:E54
+T100	Binding 1744 1751	binding
+E56	Binding:T100 Site:T101 Theme:T55 Theme2:T54
+T101	DNA_domain_or_region 1762 1766	site
+T102	Pathway 1844 1848	axis
+E57	Pathway:T102 Participant:T56 Participant2:T57 Participant3:T58
+T103	Positive_regulation 1853 1860	promote
+E58	Positive_regulation:T103 Theme:E59 Cause:E60
+T104	Metastasis 1869 1879	metastasis
+E59	Metastasis:T104 ToLoc:T59
+T105	Regulation 1920 1930	activation
+E60	Regulation:T105 Cause:E57 Theme:E61
+T106	Pathway 1949 1966	signaling cascade
+E61	Pathway:T106 Participant:T60 Participant2:T61

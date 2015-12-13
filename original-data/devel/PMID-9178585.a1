@@ -1,0 +1,37 @@
+T1	Gene_or_gene_product 11 44	plasminogen activator inhibitor-1
+T2	Cancer 55 81	non-small cell lung cancer
+T3	Gene_or_gene_product 94 125	urokinase plasminogen activator
+T4	Gene_or_gene_product 127 130	uPA
+T5	Cancer 168 180	malignancies
+T6	Gene_or_gene_product 323 334	plasminogen
+T7	Organism 356 364	patients
+T8	Cancer 370 396	Non-Small Cell Lung Cancer
+T9	Cancer 398 403	NSCLC
+T10	Gene_or_gene_product 416 419	uPA
+T11	Gene_or_gene_product 421 461	urokinase-plasminogen activator receptor
+T12	Gene_or_gene_product 463 467	uPAR
+T13	Gene_or_gene_product 473 506	plasminogen activator inhibitor-1
+T14	Gene_or_gene_product 508 513	PAI-1
+T15	Cancer 560 568	sections
+T16	Cancer 572 579	tumours
+T17	Organism 589 597	patients
+T18	Cancer 603 608	NSCLC
+T19	Cancer 640 648	sections
+T20	Cancer 652 658	tumour
+T21	Cancer 739 745	tumour
+T22	Multi-tissue_structure 756 761	nodal
+T23	Gene_or_gene_product 845 850	PAI-1
+T24	Cancer 896 919	squamous cell carcinoma
+T25	Cancer 921 924	SCC
+T26	Gene_or_gene_product 1011 1016	PAI-1
+T27	Multi-tissue_structure 1062 1067	nodal
+T28	Cancer 1183 1186	SCC
+T29	Cancer 1205 1219	adenocarcinoma
+T30	Gene_or_gene_product 1275 1280	PAI-1
+T31	Cancer 1373 1376	SCC
+T32	Gene_or_gene_product 1393 1396	uPA
+T33	Gene_or_gene_product 1401 1405	uPAR
+T34	Cancer 1452 1458	tumour
+T35	Gene_or_gene_product 1507 1512	PAI-1
+T36	Organism 1575 1583	patients
+T37	Cancer 1589 1592	SCC

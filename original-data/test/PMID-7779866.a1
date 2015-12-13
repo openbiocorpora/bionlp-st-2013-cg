@@ -1,0 +1,62 @@
+T1	Gene_or_gene_product 0 16	Selenoperoxidase
+T2	Simple_chemical 27 38	glutathione
+T3	Simple_chemical 57 65	peroxide
+T4	Cell 77 91	leukemia cells
+T5	Organism 94 100	Murine
+T6	Cell 101 121	leukemia L1210 cells
+T7	Gene_or_gene_product 144 166	glutathione peroxidase
+T8	Gene_or_gene_product 168 171	GPX
+T9	Gene_or_gene_product 177 226	phospholipid hydroperoxide glutathione peroxidase
+T10	Gene_or_gene_product 228 233	PHGPX
+T11	Simple_chemical 238 240	Se
+T12	Cell 254 267	L.Se(-) cells
+T13	Simple_chemical 304 328	tert-butyl hydroperoxide
+T14	Simple_chemical 330 337	t-BuOOH
+T15	Simple_chemical 357 359	Se
+T16	Cell 378 391	L.Se(+) cells
+T17	Organism 394 399	Human
+T18	Cell 400 410	K562 cells
+T19	Gene_or_gene_product 426 431	PHGPX
+T20	Gene_or_gene_product 441 444	GPX
+T21	Simple_chemical 474 481	t-BuOOH
+T22	Simple_chemical 489 491	Se
+T23	Cell 503 510	K.Se(-)
+T24	Simple_chemical 517 519	Se
+T25	Cell 531 538	K.Se(+)
+T26	Gene_or_gene_product 588 604	selenoperoxidase
+T27	Simple_chemical 641 648	glucose
+T28	Cell 657 668	Se(-) cells
+T29	Simple_chemical 676 683	t-BuOOH
+T30	Simple_chemical 687 696	t-butanol
+T31	Cell 718 729	Se(+) cells
+T32	Gene_or_gene_product 801 804	GPX
+T33	Cell 817 828	L1210 cells
+T34	Gene_or_gene_product 833 838	PHGPX
+T35	Cell 851 861	K562 cells
+T36	Simple_chemical 875 883	peroxide
+T37	Simple_chemical 903 906	GSH
+T38	Simple_chemical 911 915	GSSG
+T39	Simple_chemical 947 954	glucose
+T40	Cell 966 977	Se(+) cells
+T41	Simple_chemical 1010 1013	GSH
+T42	Simple_chemical 1057 1064	glucose
+T43	Cell 1074 1087	L.Se(-) cells
+T44	Simple_chemical 1116 1124	peroxide
+T45	Simple_chemical 1147 1150	GSH
+T46	Simple_chemical 1154 1158	GSSG
+T47	Simple_chemical 1211 1220	D-glucose
+T48	Simple_chemical 1262 1266	GSSG
+T49	Simple_chemical 1353 1356	GSH
+T50	Cell 1391 1402	L1210 cells
+T51	Gene_or_gene_product 1425 1428	GPX
+T52	Simple_chemical 1490 1498	peroxide
+T53	Simple_chemical 1575 1580	14CO2
+T54	Simple_chemical 1594 1610	D-[1-14C]glucose
+T55	Cell 1655 1662	L.Se(+)
+T56	Cell 1666 1679	K.Se(+) cells
+T57	Cell 1706 1711	Se(-)
+T58	Simple_chemical 1750 1770	hexose monophosphate
+T59	Gene_or_gene_product 1843 1859	selenoperoxidase
+T60	Simple_chemical 1874 1885	glutathione
+T61	Cell 1912 1923	tumor cells
+T62	Simple_chemical 1934 1947	hydroperoxide

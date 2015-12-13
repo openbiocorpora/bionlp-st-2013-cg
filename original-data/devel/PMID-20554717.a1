@@ -1,0 +1,13 @@
+T1	Cancer 156 161	tumor
+T2	Gene_or_gene_product 458 492	vascular endothelial growth factor
+T3	Gene_or_gene_product 494 524	platelet-derived growth factor
+T4	Gene_or_gene_product 526 550	fibroblast growth factor
+T5	Gene_or_gene_product 556 579	epidermal growth factor
+T6	Gene_or_gene_product 643 667	hypoxia inducible factor
+T7	Gene_or_gene_product 702 734	mitogen-activated protein kinase
+T8	Gene_or_gene_product 736 740	MAPK
+T9	Gene_or_gene_product 746 771	phosphoinositide 3-kinase
+T10	Gene_or_gene_product 773 777	PI3K
+T11	Simple_chemical 889 900	thalidomide
+T12	Cancer 954 959	tumor
+T13	Cancer 1106 1111	tumor

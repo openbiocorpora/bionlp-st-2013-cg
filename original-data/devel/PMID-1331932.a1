@@ -1,0 +1,38 @@
+T1	Gene_or_gene_product 36 59	latent membrane protein
+T2	Gene_or_gene_product 61 64	LMP
+T3	Organism 80 98	Epstein-Barr virus
+T4	Cancer 124 148	nasopharyngeal carcinoma
+T5	Organism 205 223	Epstein-Barr virus
+T6	Organism 225 228	EBV
+T7	Cancer 296 320	nasopharyngeal carcinoma
+T8	Cancer 322 325	NPC
+T9	Gene_or_gene_product 387 410	latent membrane protein
+T10	Gene_or_gene_product 412 415	LMP
+T11	Gene_or_gene_product 486 489	LMP
+T12	Organism 506 511	B95-8
+T13	Gene_or_gene_product 642 646	XhoI
+T14	Gene_or_gene_product 669 672	LMP
+T15	Gene_or_gene_product 712 716	XhoI
+T16	Organism 754 757	EBV
+T17	Cellular_component 758 761	DNA
+T18	Gene_or_gene_product 895 899	XhoI
+T19	Cellular_component 917 920	DNA
+T20	Tissue 1044 1058	biopsy tissues
+T21	Organism_subdivision 1077 1083	throat
+T22	Organism 1116 1127	individuals
+T23	Organism 1166 1169	EBV
+T24	Tissue 1209 1223	biopsy tissues
+T25	Organism 1254 1259	B95-8
+T26	Organism 1261 1267	Jijoye
+T27	Organism 1271 1281	nude mouse
+T28	Cell 1291 1296	cells
+T29	Cell 1298 1301	C15
+T30	Organism 1355 1365	nude mouse
+T31	Cell 1375 1384	CAO cells
+T32	Cell 1427 1443	Balb/c 3T3 cells
+T33	Cancer 1458 1461	NPC
+T34	Gene_or_gene_product 1462 1465	LMP
+T35	Cell 1492 1496	cell
+T36	Organism 1532 1541	nude mice
+T37	Organism 1588 1591	EBV
+T38	Cancer 1596 1599	NPC

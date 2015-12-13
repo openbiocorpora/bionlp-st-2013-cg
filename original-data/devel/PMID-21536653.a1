@@ -1,0 +1,45 @@
+T1	Gene_or_gene_product 0 22	High-mobility group A2
+T2	Gene_or_gene_product 41 46	hTERT
+T3	Gene_or_gene_product 92 114	high-mobility group A2
+T4	Gene_or_gene_product 121 126	HMGA2
+T5	Organism 177 182	human
+T6	Cancer 183 190	cancers
+T7	Gene_or_gene_product 214 219	HMGA2
+T8	Cell 305 316	tumor cells
+T9	Gene_or_gene_product 357 362	HMGA2
+T10	Organism 385 390	human
+T11	Gene_or_gene_product 391 423	telomerase reverse transcriptase
+T12	Gene_or_gene_product 425 430	hTERT
+T13	Gene_or_gene_product 458 468	telomerase
+T14	Gene_or_gene_product 509 514	HMGA2
+T15	Gene_or_gene_product 563 568	HMGA2
+T16	Gene_or_gene_product 597 602	hTERT
+T17	Cell 617 622	cells
+T18	Gene_or_gene_product 637 647	telomerase
+T19	Cellular_component 673 681	telomere
+T20	Simple_chemical 705 732	suberoylanilide hydroxamide
+T21	Simple_chemical 734 738	SAHA
+T22	Gene_or_gene_product 743 762	histone deacetylase
+T23	Gene_or_gene_product 764 768	HDAC
+T24	Gene_or_gene_product 803 808	hTERT
+T25	Gene_or_gene_product 840 845	HMGA2
+T26	Gene_or_gene_product 882 885	Sp1
+T27	Gene_or_gene_product 887 892	HMGA2
+T28	Gene_or_gene_product 928 933	HDAC2
+T29	Gene_or_gene_product 941 946	hTERT
+T30	Gene_or_gene_product 986 996	histone H3
+T31	Gene_or_gene_product 1036 1041	hTERT
+T32	Gene_or_gene_product 1057 1067	telomerase
+T33	Gene_or_gene_product 1088 1093	HMGA2
+T34	Gene_or_gene_product 1121 1126	HMGA2
+T35	Cell 1130 1141	HepG2 cells
+T36	Cellular_component 1163 1171	telomere
+T37	Gene_or_gene_product 1225 1230	hTERT
+T38	Gene_or_gene_product 1314 1319	HMGA2
+T39	Gene_or_gene_product 1355 1360	hTERT
+T40	Organism 1409 1414	human
+T41	Cell 1415 1426	fibroblasts
+T42	Gene_or_gene_product 1488 1493	HMGA2
+T43	Organism 1550 1555	human
+T44	Cancer 1556 1563	cancers
+T45	Cellular_component 1567 1575	telomere

@@ -1,0 +1,40 @@
+T1	Gene_or_gene_product 0 31	Inducible nitric oxide synthase
+T2	Organism_subdivision 67 75	hindlimb
+T3	Organism 79 82	rat
+T4	Simple_chemical 157 163	oxygen
+T5	Simple_chemical 178 190	nitric oxide
+T6	Simple_chemical 192 194	NO
+T7	Simple_chemical 238 240	NO
+T8	Gene_or_gene_product 282 293	NO synthase
+T9	Gene_or_gene_product 295 298	NOS
+T10	Simple_chemical 329 331	NO
+T11	Gene_or_gene_product 345 358	inducible NOS
+T12	Gene_or_gene_product 360 364	iNOS
+T13	Tissue 390 405	ischemic tissue
+T14	Gene_or_gene_product 483 487	iNOS
+T15	Simple_chemical 503 508	L-NIL
+T16	Organism_subdivision 531 539	hindlimb
+T17	Organism 581 592	wistar rats
+T18	Organism_subdivision 645 653	hindlimb
+T19	Multi-tissue_structure 690 704	femoral artery
+T20	Simple_chemical 723 728	L-NIL
+T21	Simple_chemical 733 739	saline
+T22	Simple_chemical 798 803	L-NIL
+T23	Simple_chemical 808 814	saline
+T24	Organism_substance 875 880	serum
+T25	Simple_chemical 898 905	nitrite
+T26	Tissue 907 916	capillary
+T27	Gene_or_gene_product 943 952	HIF1alpha
+T28	Organism_substance 979 984	Serum
+T29	Simple_chemical 985 992	nitrite
+T30	Simple_chemical 1028 1033	L-NIL
+T31	Tissue 1055 1064	capillary
+T32	Simple_chemical 1094 1099	L-NIL
+T33	Simple_chemical 1152 1158	saline
+T34	Gene_or_gene_product 1249 1258	HIF1alpha
+T35	Gene_or_gene_product 1352 1356	iNOS
+T36	Simple_chemical 1360 1365	L-NIL
+T37	Organism_subdivision 1393 1401	hindlimb
+T38	Organism 1411 1414	rat
+T39	Gene_or_gene_product 1466 1475	HIF1alpha
+T40	Tissue 1479 1493	hypoxic tissue

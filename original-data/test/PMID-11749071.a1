@@ -1,0 +1,25 @@
+T1	Gene_or_gene_product 0 10	Troponin I
+T2	Cell 20 46	capillary endothelial cell
+T3	Cell 85 89	cell
+T4	Gene_or_gene_product 92 105	bFGF receptor
+T5	Gene_or_gene_product 107 117	Troponin I
+T6	Gene_or_gene_product 119 122	TnI
+T7	Cell 268 284	endothelial cell
+T8	Cancer 391 397	tumors
+T9	Gene_or_gene_product 501 504	TnI
+T10	Gene_or_gene_product 600 603	TnI
+T11	Gene_or_gene_product 618 622	bFGF
+T12	Cell 654 670	endothelial cell
+T13	Gene_or_gene_product 780 783	TnI
+T14	Cellular_component 793 805	cell-surface
+T15	Gene_or_gene_product 806 819	bFGF receptor
+T16	Cell 823 850	capillary endothelial cells
+T17	Gene_or_gene_product 924 927	TnI
+T18	Cell 939 953	nonendothelial
+T19	Cell 965 982	endothelial cells
+T20	Gene_or_gene_product 1052 1065	bFGF receptor
+T21	Cell 1080 1085	cells
+T22	Gene_or_gene_product 1117 1120	TnI
+T23	Gene_or_gene_product 1143 1147	bFGF
+T24	Gene_or_gene_product 1173 1186	bFGF receptor
+T25	Cell 1201 1206	cells

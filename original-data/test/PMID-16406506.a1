@@ -1,0 +1,35 @@
+T1	Cell 14 22	pericyte
+T2	Cancer 38 44	tumour
+T3	Gene_or_gene_product 74 92	metalloproteinases
+T4	Cell 94 103	Pericytes
+T5	Multi-tissue_structure 113 133	tumour blood vessels
+T6	Anatomical_system 187 203	vascular network
+T7	Cell 215 231	tumour pericytes
+T8	Cancer 335 341	tumour
+T9	Cell 443 451	pericyte
+T10	Developing_anatomical_structure 471 480	embryonic
+T11	Gene_or_gene_product 514 546	platelet-derived growth factor B
+T12	Gene_or_gene_product 551 574	sphingosine 1-phosphate
+T13	Cancer 591 597	tumour
+T14	Gene_or_gene_product 626 640	angiopoietin 1
+T15	Cancer 656 662	tumour
+T16	Gene_or_gene_product 670 702	Transforming growth factor-beta1
+T17	Cancer 712 718	tumour
+T18	Tissue 739 750	microvessel
+T19	Gene_or_gene_product 805 830	matrix metalloproteinases
+T20	Gene_or_gene_product 832 835	MMP
+T21	Cell 840 855	tumour pericyte
+T22	Gene_or_gene_product 914 918	MMPs
+T23	Tissue 941 957	microvasculature
+T24	Developing_anatomical_structure 961 970	embryonic
+T25	Multi-tissue_structure 1009 1017	vascular
+T26	Gene_or_gene_product 1068 1072	MMPs
+T27	Cell 1090 1098	pericyte
+T28	Cell 1150 1158	pericyte
+T29	Cellular_component 1171 1191	extracellular matrix
+T30	Cell 1224 1232	pericyte
+T31	Cellular_component 1303 1306	ECM
+T32	Cell 1326 1335	pericytes
+T33	Cellular_component 1386 1389	ECM
+T34	Cellular_component 1425 1437	cell surface
+T35	Cell 1525 1555	bone marrow-derived stem cells

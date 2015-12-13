@@ -1,0 +1,41 @@
+T1	Gene_or_gene_product 44 49	SPARC
+T2	Gene_or_gene_product 54 58	VEGF
+T3	Cancer 81 93	colon cancer
+T4	Gene_or_gene_product 108 113	SPARC
+T5	Gene_or_gene_product 115 160	secreted protein, acidic and rich in cysteine
+T6	Cancer 227 242	malignant tumor
+T7	Organism 276 281	human
+T8	Tissue 282 310	colon adenocarcinoma tissues
+T9	Cancer 339 351	colon cancer
+T10	Tissue 377 395	non-diseased colon
+T11	Organism 405 413	patients
+T12	Tissue 415 423	biopsies
+T13	Gene_or_gene_product 443 448	SPARC
+T14	Gene_or_gene_product 453 487	vascular endothelial growth factor
+T15	Gene_or_gene_product 489 493	VEGF
+T16	Gene_or_gene_product 585 590	SPARC
+T17	Gene_or_gene_product 595 599	VEGF
+T18	Organism 645 653	patients
+T19	Gene_or_gene_product 669 673	VEGF
+T20	Tissue 705 712	tissues
+T21	Gene_or_gene_product 777 781	CD34
+T22	Tissue 819 830	microvessel
+T23	Gene_or_gene_product 855 860	SPARC
+T24	Cell 890 903	stromal cells
+T25	Cancer 920 932	colon cancer
+T26	Tissue 974 981	tissues
+T27	Multi-tissue_structure 991 1001	lymph node
+T28	Cancer 1043 1048	tumor
+T29	Gene_or_gene_product 1064 1069	SPARC
+T30	Gene_or_gene_product 1122 1126	VEGF
+T31	Gene_or_gene_product 1131 1134	MVD
+T32	Tissue 1138 1158	colon cancer tissues
+T33	Organism 1160 1168	Patients
+T34	Gene_or_gene_product 1200 1205	SPARC
+T35	Gene_or_gene_product 1327 1332	SPARC
+T36	Cancer 1424 1436	colon cancer
+T37	Cell 1483 1490	stromal
+T38	Gene_or_gene_product 1491 1496	SPARC
+T39	Cancer 1556 1568	colon cancer
+T40	Gene_or_gene_product 1570 1575	SPARC
+T41	Cancer 1674 1686	colon cancer

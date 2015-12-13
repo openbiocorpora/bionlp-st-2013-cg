@@ -1,0 +1,30 @@
+T1	Gene_or_gene_product 0 3	Met
+T2	Cancer 22 27	tumor
+T3	Gene_or_gene_product 43 49	Cdkn2a
+T4	Cell 43 71	Cdkn2a-deficient melanocytes
+T5	Cancer 129 137	melanoma
+T6	Organism 244 249	human
+T7	Cancer 250 259	melanomas
+T8	Gene_or_gene_product 294 300	CDKN2A
+T9	Gene_or_gene_product 350 382	mitogen-activated protein kinase
+T10	Gene_or_gene_product 427 433	Cdkn2a
+T11	Organism 444 449	mouse
+T12	Cell 450 470	melanocyte cell line
+T13	Cancer 513 527	melanoma tumor
+T14	Cellular_component 561 577	intrachromosomal
+T15	Gene_or_gene_product 600 603	Met
+T16	Amino_acid 616 624	tyrosine
+T17	Cancer 646 654	melanoma
+T18	Gene_or_gene_product 686 692	Cdkn2a
+T19	Cancer 686 709	Cdkn2a-deficient tumors
+T20	Gene_or_gene_product 738 741	Met
+T21	Cell 751 762	tumor cells
+T22	Cancer 798 803	tumor
+T23	Cell 845 850	cells
+T24	Gene_or_gene_product 852 855	MET
+T25	Organism 897 902	human
+T26	Cancer 903 911	melanoma
+T27	Cancer 942 960	metastatic disease
+T28	Gene_or_gene_product 994 997	Met
+T29	Cancer 1012 1026	melanoma tumor
+T30	Gene_or_gene_product 1057 1063	Cdkn2a

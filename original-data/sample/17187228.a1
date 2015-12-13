@@ -1,0 +1,39 @@
+T1	Gene_or_gene_product 18 39	prothrombin kringle-2
+T3	Cancer 49 64	B16F10 melanoma
+T13	Cell 222 238	endothelial cell
+T14	Cellular_component 279 296	basement membrane
+T15	Cellular_component 298 300	BM
+T16	Cancer 332 337	tumor
+T17	Gene_or_gene_product 386 407	prothrombin kringle-2
+T18	Gene_or_gene_product 409 413	rk-2
+T21	Cell 432 458	capillary endothelial cell
+T23	Cellular_component 563 583	extracellular matrix
+T24	Cellular_component 585 588	ECM
+T25	Cancer 608 613	tumor
+T27	Gene_or_gene_product 668 672	rk-2
+T28	Cell 722 743	B16F10 melanoma cells
+T29	Cancer 796 802	tumors
+T30	Organ 812 816	lung
+T31	Organ 878 882	lung
+T32	Cancer 901 916	B16F10 melanoma
+T33	Gene_or_gene_product 955 959	rk-2
+T34	Gene_or_gene_product 1004 1008	rk-2
+T37	Gene_or_gene_product 1031 1065	vascular endothelial growth factor
+T40	Organ 1142 1146	lung
+T41	Gene_or_gene_product 1154 1158	rk-2
+T45	Gene_or_gene_product 1219 1221	-9
+T46	Gene_or_gene_product 1188 1214	matrix metalloproteinase-2
+T47	Organ 1235 1239	lung
+T48	Cancer 1254 1259	tumor
+T50	Cancer 1327 1342	B16F10 melanoma
+T51	Gene_or_gene_product 1357 1361	rk-2
+T2	Gene_or_gene_product 134 158	matrix metalloproteinase
+T4	Gene_or_gene_product 1426 1450	matrix metalloproteinase
+T1000	Organism 12 17	human
+T1001	Organism 380 385	human
+T1002	Organism 425 431	bovine
+T1003	Organism 749 753	mice
+T1004	Organism 806 811	mouse
+T1005	Organism 1136 1141	mouse
+T1006	Organism 1229 1234	mouse
+T7	Cancer 687 697	metastases

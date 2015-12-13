@@ -1,0 +1,27 @@
+T1	Gene_or_gene_product 24 27	HRK
+T2	Cancer 79 111	central nervous system lymphomas
+T3	Gene_or_gene_product 180 183	HRK
+T4	Cancer 238 255	astrocytic tumors
+T5	Gene_or_gene_product 301 304	HRK
+T6	Cancer 313 353	primary central nervous system lymphomas
+T7	Cancer 355 361	PCNSLs
+T8	Cancer 481 487	PCNSLs
+T9	Cancer 512 518	PCNSLs
+T10	Gene_or_gene_product 597 600	HRK
+T11	Cancer 652 658	tumors
+T12	Gene_or_gene_product 777 780	HRK
+T13	Cancer 793 799	PCNSLs
+T14	Gene_or_gene_product 805 808	HRK
+T15	Gene_or_gene_product 872 878	p14ARF
+T16	Gene_or_gene_product 880 888	p16INK4a
+T17	Gene_or_gene_product 890 893	RB1
+T18	Gene_or_gene_product 895 902	p27Kip1
+T19	Gene_or_gene_product 907 914	O6-MGMT
+T20	Organism 916 924	Patients
+T21	Cancer 930 936	tumors
+T22	Gene_or_gene_product 1098 1101	HRK
+T23	Gene_or_gene_product 1280 1283	HRK
+T24	Cancer 1326 1331	PCNSL
+T25	Gene_or_gene_product 1354 1357	HRK
+T26	Cell 1454 1462	cellular
+T27	Cancer 1489 1494	PCNSL

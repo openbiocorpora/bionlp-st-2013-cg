@@ -1,0 +1,56 @@
+*	Equiv T5 T6
+*	Equiv T8 T9
+*	Equiv T11 T12
+T41	Regulation 32 41	modulates
+E1	Regulation:T41 Cause:T1 Theme:E2
+T42	Blood_vessel_development 42 54	angiogenesis
+E2	Blood_vessel_development:T42 
+T43	Blood_vessel_development 96 108	Angiogenesis
+E3	Blood_vessel_development:T43 
+T44	Regulation 109 132	plays an important role
+E4	Regulation:T44 Cause:E3 Theme:E5
+T45	Regulation 136 147	maintaining
+E5	Regulation:T45 Theme:E6
+T46	Localization 164 172	delivery
+E6	Localization:T46 Theme:T4
+T47	Blood_vessel_development 224 236	angiogenesis
+E7	Blood_vessel_development:T47 
+T48	Synthesis 244 255	synthesized
+E8	Synthesis:T48 Theme:T7
+T49	Positive_regulation 370 377	promote
+T50	Regulation 370 377	promote
+E9	Positive_regulation:T49 Theme:E11 Cause:E10
+E10	Regulation:T50 Cause:T10 Theme:E12
+M1	Speculation E9
+T51	Death 378 386	survival
+E11	Death:T51 Theme:T13
+M2	Negation E11
+T52	Blood_vessel_development 414 426	angiogenesis
+E12	Blood_vessel_development:T52 
+T53	Blood_vessel_development 513 525	angiogenesis
+E13	Blood_vessel_development:T53 AtLoc:T16
+T54	Planned_process 678 686	ligation
+E14	Planned_process:T54 Theme:T19
+T55	Planned_process 714 722	received
+E15	Planned_process:T55 Instrument:T20
+E16	Planned_process:T55 Instrument:T21
+T56	Planned_process 789 797	received
+E17	Planned_process:T56 Instrument:T22
+E18	Planned_process:T56 Instrument:T23
+T57	Gene_expression 929 939	expression
+E19	Gene_expression:T57 Theme:T27
+M3	Speculation E19
+T58	Gene_expression 1235 1245	expression
+E20	Gene_expression:T58 Theme:T34
+T59	Positive_regulation 1277 1286	increased
+E21	Positive_regulation:T59 Theme:E20
+T60	Negative_regulation 1338 1348	inhibition
+E22	Negative_regulation:T60 Theme:T35 Cause:T36
+T61	Negative_regulation 1366 1374	inhibits
+E23	Negative_regulation:T61 Theme:E24 Cause:E22
+T62	Blood_vessel_development 1375 1387	angiogenesis
+E24	Blood_vessel_development:T62 AtLoc:T37
+T63	Positive_regulation 1444 1451	induces
+E25	Positive_regulation:T63 Theme:E26
+T64	Gene_expression 1452 1462	expression
+E26	Gene_expression:T64 Theme:T39

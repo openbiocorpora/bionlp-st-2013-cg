@@ -1,0 +1,35 @@
+T1	Cell 28 36	cellular
+T2	Gene_or_gene_product 37 71	vascular endothelial growth factor
+T3	Gene_or_gene_product 73 77	VEGF
+T4	Cancer 107 132	chronic myeloid leukaemia
+T5	Multi-tissue_structure 174 185	bone marrow
+T6	Cancer 219 244	chronic myeloid leukaemia
+T7	Cancer 246 249	CML
+T8	Gene_or_gene_product 315 322	bcr/abl
+T9	Gene_or_gene_product 332 366	Vascular endothelial growth factor
+T10	Gene_or_gene_product 368 372	VEGF
+T11	Cell 467 484	endothelial cells
+T12	Gene_or_gene_product 601 605	VEGF
+T13	Cancer 634 659	chronic myeloid leukaemia
+T14	Gene_or_gene_product 726 730	VEGF
+T15	Cancer 763 766	CML
+T16	Gene_or_gene_product 788 792	VEGF
+T17	Cancer 810 813	CML
+T18	Organism 814 822	patients
+T19	Organism 902 910	patients
+T20	Cell 1070 1075	cells
+T21	Gene_or_gene_product 1077 1081	VEGF
+T22	Cancer 1110 1113	CML
+T23	Gene_or_gene_product 1248 1250	Hb
+T24	Cell 1252 1255	WBC
+T25	Cell 1260 1268	platelet
+T26	Gene_or_gene_product 1424 1428	VEGF
+T27	Gene_or_gene_product 1494 1498	VEGF
+T28	Pathological_formation 1550 1562	splenomegaly
+T29	Gene_or_gene_product 1612 1616	VEGF
+T30	Gene_or_gene_product 1759 1763	VEGF
+T31	Cancer 1785 1788	CML
+T32	Gene_or_gene_product 1886 1890	VEGF
+T33	Cancer 1922 1925	CML
+T34	Gene_or_gene_product 1935 1939	VEGF
+T35	Cancer 1977 1980	CML

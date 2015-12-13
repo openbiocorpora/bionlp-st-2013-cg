@@ -1,0 +1,42 @@
+*	Equiv T3 T4
+*	Equiv T8 T9
+*	Equiv T11 T12
+*	Equiv T13 T14
+*	Equiv T24 T25
+T38	Regulation 0 7	Changes
+E1	Regulation:T38 Theme:T1
+T39	Positive_regulation 84 93	Increased
+E2	Positive_regulation:T39 Theme:T3
+T40	Positive_regulation 143 152	increased
+E3	Positive_regulation:T40 Theme:E2
+T41	Positive_regulation 335 345	activating
+E4	Positive_regulation:T41 Theme:T6
+T42	Death 800 808	survival
+E5	Death:T42 Theme:T17
+M1	Negation E5
+T43	Positive_regulation 825 834	Increased
+E6	Positive_regulation:T43 Theme:T23
+T44	Regulation 856 866	associated
+E7	Regulation:T44 Cause:E6 Theme:E8
+T45	Negative_regulation 874 883	decreased
+E8	Negative_regulation:T45 Theme:E9
+T46	Death 884 892	survival
+E9	Death:T46 Theme:T17
+T47	Metastasis 1068 1078	metastases
+E10	Metastasis:T47 ToLoc:T27
+T48	Death 1337 1345	survival
+E11	Death:T48 Theme:T17
+M2	Negation E11
+T49	Death 1470 1478	survival
+E12	Death:T49 Theme:T17
+M3	Negation E12
+T50	Positive_regulation 1497 1506	increased
+E13	Positive_regulation:T50 Theme:T35
+T51	Regulation 1535 1545	associated
+E14	Regulation:T51 Cause:E13 Theme:E15
+M4	Speculation E14
+T52	Negative_regulation 1553 1562	decreased
+E15	Negative_regulation:T52 Theme:E16
+T53	Death 1563 1571	survival
+E16	Death:T53 Theme:T36
+M5	Negation E16

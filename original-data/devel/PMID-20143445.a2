@@ -1,0 +1,61 @@
+*	Equiv T6 T7
+T39	Death 0 7	Killing
+E1	Death:T39 Theme:T1
+T40	Planned_process 120 151	Targeted antibody-based therapy
+E2	Planned_process:T40 Theme:T4
+T41	Planned_process 182 187	treat
+E3	Planned_process:T41 Theme:T4
+T42	Planned_process 247 254	treated
+E4	Planned_process:T42 Theme:T5
+T43	Positive_regulation 377 384	undergo
+E5	Positive_regulation:T43 Theme:E6
+T44	Cell_death 385 394	apoptosis
+E6	Cell_death:T44 
+T45	Positive_regulation 475 481	induce
+E7	Positive_regulation:T45 Theme:E13 Cause:E15
+E8	Positive_regulation:T45 Theme:E13 Cause:E14
+E9	Positive_regulation:T45 Theme:E13 Cause:E16
+E10	Positive_regulation:T45 Theme:E13 Cause:E19
+E11	Positive_regulation:T45 Theme:E13 Cause:E21
+E12	Positive_regulation:T45 Theme:E13 Cause:E20
+T46	Cell_death 493 502	apoptosis
+E13	Cell_death:T46 
+T47	Localization 509 519	recruiting
+E14	Localization:T47 Theme:T13 ToLoc:T14
+T48	Positive_regulation 561 571	activating
+E15	Positive_regulation:T48 Theme:T15
+E16	Positive_regulation:T48 Theme:E18
+T49	Positive_regulation 640 649	dependent
+E17	Positive_regulation:T49 Cause:T16 Theme:E18
+T50	Pathway 674 691	signaling pathway
+E18	Pathway:T50 Participant:T17
+T51	Localization 699 708	expelling
+E19	Localization:T51 FromLoc:T20 Theme:T18
+E20	Localization:T51 FromLoc:T20 Theme:T19
+T52	Negative_regulation 789 799	inhibiting
+E21	Negative_regulation:T52 Theme:E23
+T53	Positive_regulation 831 838	induced
+E22	Positive_regulation:T53 Theme:E23
+T54	Positive_regulation 839 849	activation
+E23	Positive_regulation:T54 Theme:E24
+T55	Pathway 931 939	pathways
+E24	Pathway:T55 Participant:T21 Participant2:T22 Participant3:T23
+T56	Negative_regulation 982 993	compromised
+E25	Negative_regulation:T56 Theme:T24
+T57	Pathway 1023 1030	cascade
+E26	Pathway:T57 Participant:T25
+T58	Positive_regulation 1034 1043	activated
+E27	Positive_regulation:T58 Theme:E26
+T59	Planned_process 1047 1054	treated
+E28	Planned_process:T59 Theme:T26
+T60	Gene_expression 1115 1124	expressed
+E29	Gene_expression:T60 Theme:T27
+E30	Gene_expression:T60 Theme:T28
+T61	Breakdown 1261 1267	damage
+E31	Breakdown:T61 Theme:T31
+M1	Negation E31
+T62	Planned_process 1349 1358	targeting
+E32	Planned_process:T62 Theme:T34
+E33	Planned_process:T62 Theme:T35
+T63	Planned_process 1438 1458	therapeutic approach
+E34	Planned_process:T63 Theme:T36

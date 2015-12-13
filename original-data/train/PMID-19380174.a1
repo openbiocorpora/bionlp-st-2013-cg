@@ -1,0 +1,38 @@
+T1	Gene_or_gene_product 0 6	FOXO3a
+T2	Cell 57 65	cellular
+T3	Organism 78 83	human
+T4	Organ 84 88	lung
+T5	Simple_chemical 100 134	nicotine-derived nitrosaminoketone
+T6	Simple_chemical 136 139	NNK
+T7	Cell 262 267	cells
+T8	Cancer 321 332	lung cancer
+T9	Gene_or_gene_product 334 340	FOXO3a
+T10	Cell 413 421	cellular
+T11	Cancer 457 462	tumor
+T12	Cancer 487 502	sporadic cancer
+T13	Gene_or_gene_product 543 549	FOXO3a
+T14	Cancer 608 627	lung adenocarcinoma
+T15	Cancer 629 632	LAC
+T16	Gene_or_gene_product 654 660	FOXO3a
+T17	Cancer 680 683	LAC
+T18	Gene_or_gene_product 818 824	FOXO3a
+T19	Cell 832 840	cellular
+T20	Simple_chemical 853 887	nicotine-derived nitrosaminoketone
+T21	Simple_chemical 889 892	NNK
+T22	Organ 897 901	lung
+T23	Organism 938 943	human
+T24	Cancer 944 947	LAC
+T25	Gene_or_gene_product 977 983	FOXO3a
+T26	Gene_or_gene_product 987 993	FOXO3a
+T27	Cell 1004 1013	LAC cells
+T28	Cellular_component 1061 1064	DNA
+T29	Simple_chemical 1090 1093	NNK
+T30	Cell 1109 1117	cellular
+T31	Gene_or_gene_product 1127 1133	FOXO3a
+T32	Cell 1362 1366	cell
+T33	Cell 1426 1430	cell
+T34	Cell 1437 1441	cell
+T35	Gene_or_gene_product 1485 1491	FOXO3a
+T36	Cell 1600 1605	cells
+T37	Gene_or_gene_product 1626 1632	FOXO3a
+T38	Cancer 1685 1688	LAC

@@ -1,0 +1,37 @@
+T1	Gene_or_gene_product 12 17	c-Myc
+T2	Cell 36 47	cancer cell
+T3	Simple_chemical 63 74	vinblastine
+T4	Gene_or_gene_product 81 86	c-myc
+T5	Cell 150 158	cellular
+T6	Gene_or_gene_product 275 280	c-Myc
+T7	Cell 292 300	cellular
+T8	Cancer 321 327	cancer
+T9	Gene_or_gene_product 375 380	c-Myc
+T10	Cell 384 395	cancer cell
+T11	Simple_chemical 411 422	vinblastine
+T12	Simple_chemical 424 427	VLB
+T13	Organism 435 440	human
+T14	Cell 441 459	colon cancer cells
+T15	Cell 461 465	LoVo
+T16	Organism 521 526	human
+T17	Gene_or_gene_product 527 532	c-myc
+T18	Cell 564 575	LoVo-mycANS
+T19	Simple_chemical 590 593	VLB
+T20	Simple_chemical 641 644	VLB
+T21	Cell 660 677	LoVo-mycANS cells
+T22	Cell 698 703	cells
+T23	Cell 759 764	cells
+T24	Gene_or_gene_product 785 812	poly(ADP-ribose) polymerase
+T25	Cell 842 853	LoVo-mycANS
+T26	Cellular_component 879 901	mitochondrial membrane
+T27	Gene_or_gene_product 935 947	cytochrome c
+T28	Cellular_component 990 1002	mitochondria
+T29	Gene_or_gene_product 1084 1089	Bcl-2
+T30	Gene_or_gene_product 1105 1108	p53
+T31	Gene_or_gene_product 1150 1155	c-Myc
+T32	Simple_chemical 1180 1183	VLB
+T33	Gene_or_gene_product 1276 1281	c-myc
+T34	Cancer 1345 1351	tumors
+T35	Gene_or_gene_product 1375 1380	c-Myc
+T36	Simple_chemical 1417 1432	vinca alkaloids
+T37	Gene_or_gene_product 1476 1481	c-myc

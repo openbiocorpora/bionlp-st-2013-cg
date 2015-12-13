@@ -1,0 +1,24 @@
+T1	Gene_or_gene_product 0 8	Hedgehog
+T2	Cancer 44 62	promalignant tumor
+T3	Developing_anatomical_structure 109 118	embryonic
+T4	Gene_or_gene_product 136 144	Hedgehog
+T5	Cancer 199 205	cancer
+T6	Gene_or_gene_product 309 317	Hedgehog
+T7	Cell 373 378	cells
+T8	Gene_or_gene_product 430 438	Hedgehog
+T9	Cell 495 506	tumor cells
+T10	Gene_or_gene_product 569 577	Hedgehog
+T11	Cell 618 631	stromal cells
+T12	Cancer 652 657	tumor
+T13	Cell 680 693	stromal cells
+T14	Cancer 735 740	tumor
+T15	Gene_or_gene_product 789 797	Hedgehog
+T16	Cancer 862 867	tumor
+T17	Gene_or_gene_product 895 903	Hedgehog
+T18	Gene_or_gene_product 1067 1075	Hedgehog
+T19	Cell 1120 1132	cancer cells
+T20	Cancer 1148 1153	tumor
+T21	Gene_or_gene_product 1328 1336	Hedgehog
+T22	Cancer 1350 1356	cancer
+T23	Organism 1471 1479	patients
+T24	Gene_or_gene_product 1575 1583	Hedgehog

@@ -1,0 +1,53 @@
+*	Equiv T9 T10
+T31	Cell_transformation 22 36	transformation
+T32	Positive_regulation 22 36	transformation
+E1	Cell_transformation:T31 Theme:T2
+E2	Positive_regulation:T32 Theme:E1 Cause:E4
+E3	Positive_regulation:T32 Theme:E1 Cause:T4
+T33	Planned_process 74 84	gamma rays
+E4	Planned_process:T33 Theme:T2 Instrument:T3
+T34	Cell_transformation 196 207	transformed
+T35	Positive_regulation 196 207	transformed
+E5	Cell_transformation:T34 Theme:T6
+E6	Positive_regulation:T35 Theme:E5 Cause:E7
+T36	Planned_process 262 283	gamma-ray irradiation
+E7	Planned_process:T36 Theme:T6 Instrument:T8
+T37	Cell_transformation 302 313	transformed
+E8	Cell_transformation:T37 Theme:T9
+T38	Carcinogenesis 377 388	tumorigenic
+E9	Carcinogenesis:T38 AtLoc:T9
+M1	Negation E9
+T39	Planned_process 402 411	treatment
+E10	Planned_process:T39 Instrument:T11 Theme:T14
+T40	Growth 622 626	grew
+E11	Growth:T40 Theme:T16
+T41	Positive_regulation 627 640	progressively
+E12	Positive_regulation:T41 Theme:E11
+T42	Negative_regulation 657 667	regression
+E13	Negative_regulation:T42 Theme:T17 Cause:T16
+M2	Negation E13
+T43	Death 672 678	killed
+E14	Death:T43 Theme:T17
+M3	Negation E14
+T44	Planned_process 719 733	transplantable
+E15	Planned_process:T44 Instrument:T18 Theme:T19
+T45	Regulation 785 792	convert
+E16	Regulation:T45 Theme:T22 Cause:T20
+M4	Negation E16
+T46	Negative_regulation 902 924	worked as an initiator
+E17	Negative_regulation:T46 Theme:E18
+T47	Carcinogenesis 928 942	carcinogenesis
+E18	Carcinogenesis:T47 AtLoc:T26
+T48	Positive_regulation 973 977	rise
+E19	Positive_regulation:T48 Theme:E20
+T49	Mutation 992 1003	aberrations
+E20	Mutation:T49 AtLoc:T27
+T50	Regulation 1045 1058	played a role
+E21	Regulation:T50 Cause:T28 Theme:E23
+E22	Regulation:T50 Cause:T28 Theme:E25
+T51	Positive_regulation 1066 1077	progression
+E23	Positive_regulation:T51 Theme:E24
+T52	Cell_transformation 1096 1107	transformed
+E24	Cell_transformation:T52 Theme:T29
+T53	Carcinogenesis 1195 1209	tumorigenicity
+E25	Carcinogenesis:T53 

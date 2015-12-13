@@ -1,0 +1,62 @@
+*	Equiv T6 T7
+*	Equiv T8 T9
+*	Equiv T10 T11
+*	Equiv T14 T15
+*	Equiv T37 T38
+T65	Negative_regulation 53 61	suppress
+E1	Negative_regulation:T65 Theme:T4 Cause:T3
+E2	Negative_regulation:T65 Theme:T4 Cause:T2
+E3	Negative_regulation:T65 Theme:T4 Cause:T1
+M1	Negation E2
+T66	Gene_expression 104 111	lacking
+E4	Gene_expression:T66 Theme:T8 Theme2:T10
+M2	Negation E4
+T67	Development 183 190	develop
+E5	Development:T67 Theme:T14
+T68	Regulation 316 324	interact
+E6	Regulation:T68 Theme:T18 Cause:T16
+E7	Regulation:T68 Theme:T18 Cause:T17
+M3	Speculation E6
+M4	Speculation E7
+T69	Mutation 362 369	mutated
+E8	Mutation:T69 Theme:T18 AtLoc:T20
+T70	Development 537 544	develop
+E9	Development:T70 Theme:T30
+T71	Positive_regulation 558 569	accelerated
+E10	Positive_regulation:T71 Theme:E9
+T72	Positive_regulation 587 596	increased
+E11	Positive_regulation:T72 Theme:E9
+T73	Phosphorylation 701 716	phosphorylation
+E12	Phosphorylation:T73 Theme:T37
+T74	Positive_regulation 786 795	increased
+E13	Positive_regulation:T74 Theme:E12
+T75	Positive_regulation 844 853	increased
+E14	Positive_regulation:T75 Theme:E12
+T76	Mutation 924 928	lost
+E15	Mutation:T76 Theme:T47 AtLoc:T48
+T77	Mutation 972 980	retained
+E16	Mutation:T77 Theme:T47 AtLoc:T51
+M5	Negation E16
+T78	Mutation 1036 1045	mutations
+E17	Mutation:T78 Theme:T55
+E18	Mutation:T78 Theme:T56
+T79	Positive_regulation 1125 1136	stimulation
+E19	Positive_regulation:T79 Theme:T57 Cause:E18
+E20	Positive_regulation:T79 Theme:E25 Cause:E18
+E21	Positive_regulation:T79 Theme:E26 Cause:E18
+E22	Positive_regulation:T79 Theme:T57 Cause:E17
+E23	Positive_regulation:T79 Theme:E25 Cause:E17
+E24	Positive_regulation:T79 Theme:E26 Cause:E17
+M6	Negation E19
+M7	Negation E20
+M8	Negation E21
+M9	Negation E22
+M10	Negation E23
+M11	Negation E24
+T80	Cell_proliferation 1165 1178	proliferation
+E25	Cell_proliferation:T80 Theme:T58
+T81	Growth 1190 1196	growth
+E26	Growth:T81 Theme:T59
+T82	Binding 1343 1351	interact
+E27	Binding:T82 Theme:T63
+E28	Binding:T82 Theme:T64

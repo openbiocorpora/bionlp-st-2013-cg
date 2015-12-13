@@ -1,0 +1,37 @@
+*	Equiv T4 T5
+T40	Carcinogenesis 79 92	tumorigenesis
+E1	Carcinogenesis:T40 AtLoc:T3
+T41	Mutation 144 153	mutations
+E2	Mutation:T41 
+T42	Pathway 261 268	pathway
+E3	Pathway:T42 Participant:T6 Participant2:T7
+T43	Negative_regulation 330 341	suppressing
+E4	Negative_regulation:T43 Cause:T8 Theme:E5
+T44	Carcinogenesis 353 366	tumorigenesis
+E5	Carcinogenesis:T44 AtLoc:T9
+T45	Gene_expression 458 468	expression
+E6	Gene_expression:T45 Theme:T13
+E7	Gene_expression:T45 Theme:T12
+T46	Negative_regulation 481 488	reduced
+E8	Negative_regulation:T46 Theme:E6
+E9	Negative_regulation:T46 Theme:E7
+T47	Development 576 585	developed
+E10	Development:T47 Theme:T14
+T48	Positive_regulation 1003 1015	accumulation
+E11	Positive_regulation:T48 Theme:T29
+T49	Transcription 1047 1062	transcriptional
+E12	Transcription:T49 Theme:T30
+E13	Transcription:T49 Theme:T31
+T50	Negative_regulation 1104 1111	reduced
+E14	Negative_regulation:T50 Theme:T32
+T51	Positive_regulation 1130 1139	increases
+E15	Positive_regulation:T51 Theme:T33 Cause:E17
+E16	Positive_regulation:T51 Theme:T33 Cause:E18
+T52	Positive_regulation 1191 1202	stimulation
+E17	Positive_regulation:T52 Cause:E14 Theme:E19
+E18	Positive_regulation:T52 Cause:E14 Theme:E20
+T53	Transcription 1237 1250	transcription
+E19	Transcription:T53 Theme:T34
+E20	Transcription:T53 Theme:T35
+T54	Development 1313 1318	forms
+E21	Development:T54 Theme:T37

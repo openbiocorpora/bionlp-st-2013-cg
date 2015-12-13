@@ -1,0 +1,74 @@
+T36	Mutation 6 15	mutations
+E1	Mutation:T36 Theme:T1 AtLoc:T3
+T37	Metastasis 45 55	metastases
+E2	Metastasis:T37 Theme:T3
+T38	Carcinogenesis 92 105	tumorigenesis
+E3	Carcinogenesis:T38 AtLoc:T4
+T39	Mutation 237 246	mutations
+E4	Mutation:T39 Theme:T5 AtLoc:T8
+E5	Mutation:T39 Theme:T7 AtLoc:T8
+E6	Mutation:T39 Theme:T5 AtLoc:T9
+E7	Mutation:T39 Theme:T7 AtLoc:T9
+T40	Mutation 414 423	mutations
+E8	Mutation:T40 Theme:T10
+M1	Negation E8
+T41	Mutation 434 443	mutations
+E9	Mutation:T41 Theme:T11 AtLoc:T13
+E10	Mutation:T41 Theme:T12 AtLoc:T13
+E11	Mutation:T41 Theme:T12 AtLoc:T14
+E12	Mutation:T41 Theme:T11 AtLoc:T14
+T42	Metastasis 534 544	metastatic
+E13	Metastasis:T42 ToLoc:T14 Theme:T13
+T43	Mutation 555 570	Point mutations
+E14	Mutation:T43 Theme:T15 AtLoc:T16
+E15	Mutation:T43 Theme:T15 AtLoc:T17
+E16	Mutation:T43 Theme:T15 AtLoc:T18
+M2	Negation E15
+M3	Negation E16
+T44	Metastasis 622 632	metastatic
+E17	Metastasis:T44 Theme:T16
+T45	Localization 730 738	invasive
+E18	Localization:T45 Theme:T18
+T46	Mutation 760 769	mutations
+E19	Mutation:T46 
+T47	Mutation 788 800	substitution
+E20	Mutation:T47 Site:T48
+T48	DNA_domain_or_region 804 812	codon 12
+T49	Mutation 827 839	substitution
+E21	Mutation:T49 Site:T50
+T50	DNA_domain_or_region 843 851	codon 18
+T51	Mutation 968 976	mutation
+E22	Mutation:T51 
+T52	Mutation 1015 1023	deletion
+E23	Mutation:T52 Theme:T29 Site:T53
+T53	DNA_domain_or_region 1027 1034	codon 3
+T54	Positive_regulation 1050 1056	causes
+E24	Positive_regulation:T54 Cause:E23 Theme:E25
+T55	Mutation 1059 1070	frame shift
+E25	Mutation:T55 Site:T56
+T56	DNA_domain_or_region 1109 1117	codon 19
+T57	Mutation 1146 1161	point mutations
+E26	Mutation:T57 Theme:T30
+E27	Mutation:T57 Theme:T31
+T58	Regulation 1185 1195	associated
+E28	Regulation:T58 Theme:E30 Cause:E26
+E29	Regulation:T58 Theme:E30 Cause:E27
+M4	Negation E28
+M5	Negation E29
+T59	Carcinogenesis 1211 1224	tumorigenesis
+E30	Carcinogenesis:T59 AtLoc:T32
+T60	Mutation 1235 1250	point mutations
+E31	Mutation:T60 Theme:T33
+T61	Positive_regulation 1276 1285	important
+E32	Positive_regulation:T61 Cause:E31 Theme:E34
+E33	Positive_regulation:T61 Cause:E31 Theme:E35
+M6	Speculation E32
+M7	Speculation E33
+T62	Development 1293 1302	formation
+E34	Development:T62 Theme:T34
+T63	Growth 1310 1316	growth
+E35	Growth:T63 Theme:T34
+T64	Mutation 1356 1375	genomic instability
+E36	Mutation:T64 
+T65	Metastasis 1421 1431	metastatic
+E37	Metastasis:T65 Theme:T35

@@ -1,0 +1,20 @@
+*	Equiv T13 T14
+T20	Planned_process 276 283	treated
+E1	Planned_process:T20 Theme:T3
+T21	Planned_process 516 527	angiography
+E2	Planned_process:T21 Instrument:T5
+E3	Planned_process:T21 Instrument:T4
+T22	Positive_regulation 813 821	improved
+E4	Positive_regulation:T22 Theme:T8
+T23	Breakdown 981 991	detachment
+E5	Breakdown:T23 Theme:T10
+T24	Planned_process 1050 1063	PDT treatment
+E6	Planned_process:T24 Theme:T11
+T25	Blood_vessel_development 1081 1099	neovascularization
+E7	Blood_vessel_development:T25 AtLoc:T12
+T26	Positive_regulation 1104 1112	increase
+E8	Positive_regulation:T26 Theme:T13
+T27	Breakdown 1321 1331	detachment
+E9	Breakdown:T27 Theme:T17
+T28	Breakdown 1456 1462	damage
+E10	Breakdown:T28 Theme:T19

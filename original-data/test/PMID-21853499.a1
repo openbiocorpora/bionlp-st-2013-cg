@@ -1,0 +1,25 @@
+T1	Multi-tissue_structure 15 31	lymphatic vessel
+T2	Gene_or_gene_product 44 78	vascular endothelial growth factor
+T3	Multi-tissue_structure 84 89	nodal
+T4	Cancer 104 136	papillary thyroid microcarcinoma
+T5	Cancer 205 217	intratumoral
+T6	Multi-tissue_structure 222 250	peritumoral lymphatic vessel
+T7	Gene_or_gene_product 300 335	vascular endothelial growth factors
+T8	Gene_or_gene_product 337 342	VEGFs
+T9	Multi-tissue_structure 388 399	lymph nodal
+T10	Cancer 414 446	papillary thyroid microcarcinoma
+T11	Cancer 448 452	PTMC
+T12	Organism 516 524	patients
+T13	Cancer 530 534	PTMC
+T14	Organism_subdivision 580 584	neck
+T15	Multi-tissue_structure 614 631	lymphatic vessels
+T16	Gene_or_gene_product 651 656	VEGFs
+T17	Organism_subdivision 685 689	neck
+T18	Organism 775 783	Patients
+T19	Organism_subdivision 828 832	neck
+T20	Organism_subdivision 995 999	neck
+T21	Gene_or_gene_product 1030 1035	VEGFs
+T22	Organ 1066 1075	lymphatic
+T23	Organism_subdivision 1087 1091	neck
+T24	Organism_subdivision 1170 1174	neck
+T25	Cancer 1189 1193	PTMC

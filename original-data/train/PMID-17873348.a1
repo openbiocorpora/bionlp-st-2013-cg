@@ -1,0 +1,42 @@
+T1	Gene_or_gene_product 0 3	Wnt
+T2	Cell 15 25	stem cells
+T3	Cell 35 43	cellular
+T4	Cancer 54 67	breast cancer
+T5	Tissue 74 91	breast epithelium
+T6	Cell 102 107	cells
+T7	Cell 158 168	stem cells
+T8	Cell 170 186	progenitor cells
+T9	Cell 212 222	epithelial
+T10	Cell 227 246	myoepithelial cells
+T11	Gene_or_gene_product 248 251	Wnt
+T12	Cell 298 302	stem
+T13	Cell 303 319	progenitor cells
+T14	Organ 327 340	mammary gland
+T15	Multi-tissue_structure 358 377	tissue compartments
+T16	Gene_or_gene_product 456 459	Wnt
+T17	Cancer 478 492	mammary tumors
+T18	Cell 498 502	stem
+T19	Cell 503 519	progenitor cells
+T20	Gene_or_gene_product 530 533	Wnt
+T21	Gene_or_gene_product 571 575	LRP5
+T22	Gene_or_gene_product 576 577	6
+T23	Gene_or_gene_product 601 613	beta-catenin
+T24	Gene_or_gene_product 618 622	mTOR
+T25	Organism 654 670	avian retrovirus
+T26	Cell 729 750	somatic mammary cells
+T27	Organism 764 771	polyoma
+T28	Gene_or_gene_product 772 788	middle T antigen
+T29	Gene_or_gene_product 790 794	PyMT
+T30	Cell 830 834	stem
+T31	Cell 835 851	progenitor cells
+T32	Cell 885 889	stem
+T33	Cell 890 906	progenitor cells
+T34	Organ 914 927	mammary gland
+T35	Cell 1015 1020	cells
+T36	Cell 1122 1132	stem cells
+T37	Cell 1151 1164	mammary cells
+T38	Cell 1236 1245	stem cell
+T39	Cell 1250 1265	progenitor cell
+T40	Cell 1345 1357	mammary cell
+T41	Cell 1436 1446	stem cells
+T42	Cell 1474 1479	cells

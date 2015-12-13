@@ -1,0 +1,30 @@
+*	Equiv T13 T14
+T42	Planned_process 260 267	therapy
+E1	Planned_process:T42 Theme:T5
+T43	Planned_process 332 344	therapeutics
+E2	Planned_process:T43 Theme:T6
+T44	Negative_regulation 579 588	inhibited
+E3	Negative_regulation:T44 Cause:T12 Theme:T13
+T45	Planned_process 650 657	culture
+E4	Planned_process:T45 Theme:T15
+T46	Positive_regulation 680 689	dependent
+E5	Positive_regulation:T46 Theme:E3
+T47	Negative_regulation 710 719	inhibited
+E6	Negative_regulation:T47 Cause:T16 Theme:T17
+T48	Planned_process 777 786	treatment
+E7	Planned_process:T48 Theme:T18
+T49	Planned_process 879 886	treated
+E8	Planned_process:T49 Theme:T20
+T50	Metabolism 990 1000	metabolism
+E9	Metabolism:T50 Theme:T21
+E10	Metabolism:T50 Theme:T22
+T51	Cell_death 1025 1034	apoptotic
+E11	Cell_death:T51 
+T52	Planned_process 1186 1193	therapy
+E12	Planned_process:T52 Instrument:T26
+T53	Negative_regulation 1299 1308	decreases
+E13	Negative_regulation:T53 Theme:E14
+T54	Metabolism 1317 1327	metabolism
+E14	Metabolism:T54 Theme:T31
+T55	Planned_process 1373 1380	culture
+E15	Planned_process:T55 Theme:T33

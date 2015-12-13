@@ -1,0 +1,47 @@
+T45	Gene_expression 0 10	Expression
+E1	Gene_expression:T45 Theme:T1 Theme2:T2 Theme3:T3
+T46	Metastasis 68 78	metastases
+E2	Metastasis:T46 ToLoc:T5 Theme:T6
+T47	Cell_death 143 152	apoptosis
+E3	Cell_death:T47 
+T48	Development 190 201	development
+E4	Development:T48 Theme:T8
+T49	Positive_regulation 206 217	progression
+E5	Positive_regulation:T49 Theme:T8
+T50	Cell_death 330 339	apoptosis
+E6	Cell_death:T50 
+T51	Gene_expression 595 605	expression
+E7	Gene_expression:T51 Theme:T16
+E8	Gene_expression:T51 Theme:T17
+E9	Gene_expression:T51 Theme:T18
+M1	Speculation E7
+M2	Speculation E8
+M3	Speculation E9
+T52	Metastasis 1164 1174	metastases
+E10	Metastasis:T52 Theme:T29 ToLoc:T30
+T53	Gene_expression 1379 1389	expression
+E11	Gene_expression:T53 Theme:T34
+T54	Gene_expression 1422 1432	expression
+E12	Gene_expression:T54 Theme:T34
+T55	Metastasis 1447 1457	metastases
+E13	Metastasis:T55 ToLoc:T37
+T56	Positive_regulation 1478 1487	increased
+E14	Positive_regulation:T56 Theme:E17
+E15	Positive_regulation:T56 Theme:E18
+E16	Positive_regulation:T56 Theme:E19
+T57	Gene_expression 1488 1498	expression
+E17	Gene_expression:T57 Theme:T38
+E18	Gene_expression:T57 Theme:T39
+E19	Gene_expression:T57 Theme:T40
+T58	Metastasis 1526 1536	metastatic
+E20	Metastasis:T58 
+T59	Positive_regulation 1637 1648	progression
+E21	Positive_regulation:T59 Theme:T42
+T60	Positive_regulation 1653 1664	development
+E22	Positive_regulation:T60 Theme:E23
+T61	Metastasis 1668 1678	metastases
+E23	Metastasis:T61 
+T62	Metastasis 1756 1766	metastatic
+E24	Metastasis:T62 Theme:T43
+T63	Positive_regulation 1824 1835	progression
+E25	Positive_regulation:T63 Theme:T44

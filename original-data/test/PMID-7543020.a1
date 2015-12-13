@@ -1,0 +1,25 @@
+T1	Cancer 84 102	cutaneous melanoma
+T2	Gene_or_gene_product 120 133	interleukin 8
+T3	Organism 200 205	human
+T4	Cancer 206 224	cutaneous melanoma
+T5	Cancer 261 279	malignant melanoma
+T6	Cell 451 462	tumor cells
+T7	Gene_or_gene_product 517 530	interleukin 8
+T8	Gene_or_gene_product 532 536	IL-8
+T9	Organism 568 573	human
+T10	Cancer 574 592	cutaneous melanoma
+T11	Gene_or_gene_product 623 627	IL-8
+T12	Gene_or_gene_product 642 646	IL-8
+T13	Cancer 705 711	tumors
+T14	Organism 725 729	mice
+T15	Gene_or_gene_product 744 748	IL-8
+T16	Simple_chemical 788 801	cyclohexamide
+T17	Cell 895 900	cells
+T18	Organism 966 975	nude mice
+T19	Gene_or_gene_product 1079 1098	type IV collagenase
+T20	Gene_or_gene_product 1156 1160	IL-8
+T21	Gene_or_gene_product 1288 1291	p53
+T22	Gene_or_gene_product 1295 1300	MTS-1
+T23	Gene_or_gene_product 1302 1309	p16INK4
+T24	Organism 1426 1431	human
+T25	Cancer 1432 1450	cutaneous melanoma

@@ -1,0 +1,29 @@
+T20	Negative_regulation 0 15	Down-regulation
+E1	Negative_regulation:T20 Theme:T1
+T21	Cell_transformation 35 46	transformed
+E2	Cell_transformation:T21 Theme:T2
+T22	Binding 113 123	associated
+E3	Binding:T22 Theme:T6 Theme2:T3
+T23	Gene_expression 191 199	produced
+E4	Gene_expression:T23 Theme:T3
+T24	Gene_expression 279 285	absent
+E5	Gene_expression:T24 Theme:T3
+M1	Negation E5
+T25	Cell_transformation 297 308	transformed
+T26	Positive_regulation 297 308	transformed
+E6	Cell_transformation:T25 Theme:T8
+E7	Positive_regulation:T26 Theme:E6 Cause:T9
+E8	Positive_regulation:T26 Theme:E6 Cause:T10
+T27	Positive_regulation 389 396	induced
+E9	Positive_regulation:T27 Cause:T12 Theme:T13
+T28	Transcription 433 437	lack
+E10	Transcription:T28 Theme:T15
+M2	Negation E10
+T29	Gene_expression 491 500	synthesis
+E11	Gene_expression:T29 Theme:T15
+T30	Negative_regulation 698 707	reduction
+E12	Negative_regulation:T30 Theme:E13
+T31	Gene_expression 715 725	expression
+E13	Gene_expression:T31 Theme:T17
+T32	Cell_transformation 818 829	transformed
+E14	Cell_transformation:T32 Theme:T19

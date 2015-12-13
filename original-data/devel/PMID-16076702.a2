@@ -1,0 +1,79 @@
+*	Equiv T10 T11
+*	Equiv T12 T13
+*	Equiv T15 T17
+*	Equiv T16 T18
+*	Equiv T22 T24
+*	Equiv T23 T25
+T51	Gene_expression 90 100	expression
+T52	Transcription 90 100	expression
+E1	Gene_expression:T51 Theme:T3
+E2	Transcription:T52 Theme:T3
+E3	Transcription:T52 Theme:T2
+E4	Transcription:T52 Theme:T1
+E5	Gene_expression:T51 Theme:T2
+E6	Gene_expression:T51 Theme:T1
+T53	Blood_vessel_development 208 220	angiogenesis
+E7	Blood_vessel_development:T53 
+T54	Regulation 257 268	controlling
+E8	Regulation:T54 Cause:T6 Theme:E9
+T55	Growth 276 282	growth
+E9	Growth:T55 Theme:T7
+T56	Binding 288 297	interacts
+E10	Binding:T56 Theme:T8
+T57	Negative_regulation 355 363	inhibits
+E11	Negative_regulation:T57 Theme:E12 Cause:T8
+T58	Positive_regulation 364 375	stimulation
+E12	Positive_regulation:T58 Theme:E13
+T59	Blood_vessel_development 379 391	angiogenesis
+E13	Blood_vessel_development:T59 
+T60	Gene_expression 440 449	expressed
+E14	Gene_expression:T60 Theme:T9
+T61	Gene_expression 552 558	absent
+E15	Gene_expression:T61 Theme:T9
+M1	Negation E15
+T62	Gene_expression 636 646	expression
+E16	Gene_expression:T62 Theme:T15
+E17	Gene_expression:T62 Theme:T16
+E18	Gene_expression:T62 Theme:T20
+E19	Gene_expression:T62 Theme:T21
+E20	Gene_expression:T62 Theme:T22
+E21	Gene_expression:T62 Theme:T23
+M2	Speculation E16
+M3	Speculation E17
+M4	Speculation E18
+M5	Speculation E19
+M6	Speculation E20
+M7	Speculation E21
+T63	Gene_expression 867 877	expression
+E22	Gene_expression:T63 Theme:T28
+E23	Gene_expression:T63 Theme:T29
+E24	Gene_expression:T63 Theme:T30
+E25	Gene_expression:T63 Theme:T31
+E26	Gene_expression:T63 Theme:T32
+E27	Gene_expression:T63 Theme:T33
+M8	Speculation E22
+M9	Speculation E23
+M10	Speculation E24
+M11	Speculation E25
+M12	Speculation E26
+M13	Speculation E27
+T64	Negative_regulation 1048 1057	decreased
+E28	Negative_regulation:T64 Theme:T37
+T65	Transcription 1140 1150	expression
+E29	Transcription:T65 Theme:T40
+E30	Transcription:T65 Theme:T41
+T66	Positive_regulation 1202 1211	increased
+E31	Positive_regulation:T66 Theme:T42
+T67	Gene_expression 1236 1246	expression
+E32	Gene_expression:T67 Theme:T43
+M14	Negation E32
+T68	Positive_regulation 1297 1305	increase
+E33	Positive_regulation:T68 Theme:T44
+T69	Gene_expression 1382 1391	expressed
+E34	Gene_expression:T69 Theme:T46
+E35	Gene_expression:T69 Theme:T46
+M15	Negation E35
+T70	Gene_expression 1477 1487	expression
+E36	Gene_expression:T70 Theme:T50
+T71	Positive_regulation 1488 1497	increases
+E37	Positive_regulation:T71 Theme:E36

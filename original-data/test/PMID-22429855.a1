@@ -1,0 +1,25 @@
+T1	Gene_or_gene_product 0 37	Activation-induced cytidine deaminase
+T2	Cellular_component 70 80	chromosome
+T3	Cellular_component 97 100	DNA
+T4	Organism 144 149	human
+T5	Anatomical_system 258 271	immune system
+T6	Cell 278 289	lymphocytes
+T7	Cellular_component 309 312	DNA
+T8	Cell 369 370	B
+T9	Cell 375 388	T lymphocytes
+T10	Gene_or_gene_product 431 435	RAG1
+T11	Gene_or_gene_product 436 437	2
+T12	Cell 466 473	B cells
+T13	Gene_or_gene_product 592 629	activation-induced cytidine deaminase
+T14	Gene_or_gene_product 631 634	AID
+T15	Gene_or_gene_product 637 640	AID
+T16	Simple_chemical 652 661	cytidines
+T17	Cellular_component 665 668	DNA
+T18	Gene_or_gene_product 785 788	AID
+T19	Gene_or_gene_product 812 826	Immunoglobulin
+T20	Gene_or_gene_product 828 830	Ig
+T21	Gene_or_gene_product 879 881	Ig
+T22	Cancer 924 933	lymphomas
+T23	Gene_or_gene_product 974 977	AID
+T24	Gene_or_gene_product 1043 1046	AID
+T25	Cellular_component 1068 1078	chromosome

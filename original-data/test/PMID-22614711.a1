@@ -1,0 +1,23 @@
+T1	Gene_or_gene_product 13 17	BRAF
+T2	Amino_acid 20 29	Val600Glu
+T3	Amino_acid 36 45	Val600Lys
+T4	Cancer 98 106	melanoma
+T5	Organism 107 115	patients
+T6	Cancer 176 185	melanomas
+T7	Gene_or_gene_product 247 251	BRAF
+T8	Amino_acid 295 304	Val600Glu
+T9	Amino_acid 306 311	V600E
+T10	Amino_acid 425 434	Val600Lys
+T11	Amino_acid 436 441	V600K
+T12	Cancer 466 474	melanoma
+T13	Gene_or_gene_product 632 636	BRAF
+T14	Cancer 653 672	metastatic melanoma
+T15	Gene_or_gene_product 708 712	BRAF
+T16	Amino_acid 834 843	Val600Lys
+T17	Gene_or_gene_product 929 933	BRAF
+T18	Gene_or_gene_product 984 988	BRAF
+T19	Amino_acid 991 1000	Val600Lys
+T20	Cancer 1084 1092	melanoma
+T21	Organism 1093 1101	patients
+T22	Gene_or_gene_product 1143 1147	BRAF
+T23	Amino_acid 1212 1221	Val600Lys

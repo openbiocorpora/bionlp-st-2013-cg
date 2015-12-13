@@ -1,0 +1,106 @@
+*	Equiv T4 T5
+*	Equiv T9 T10 T11
+T51	Negative_regulation 40 46	blocks
+E1	Negative_regulation:T51 Theme:T2 Cause:T1
+T52	Positive_regulation 54 61	induced
+E2	Positive_regulation:T52 Theme:T2
+T53	Blood_vessel_development 317 327	angiogenic
+E3	Blood_vessel_development:T53 
+T54	Negative_regulation 490 496	impede
+E4	Negative_regulation:T54 Theme:E5 Cause:T7
+T55	Growth 503 509	growth
+E5	Growth:T55 Theme:T8
+T56	Pathway 647 656	signaling
+E6	Pathway:T56 Participant:T12
+T57	Negative_regulation 703 710	prevent
+E7	Negative_regulation:T57 Cause:T9 Theme:E10
+E8	Negative_regulation:T57 Cause:T9 Theme:E11
+T58	Positive_regulation 718 725	induced
+E9	Positive_regulation:T58 Cause:T13 Theme:E10
+T59	Blood_vessel_development 726 738	angiogenesis
+E10	Blood_vessel_development:T59 
+T60	Growth 757 763	growth
+E11	Growth:T60 Theme:T14
+T61	Regulation 773 780	effects
+E12	Regulation:T61 Cause:T15 Theme:T17
+M1	Speculation E12
+T62	Regulation 821 829	mediated
+E13	Regulation:T62 Cause:T16 Theme:T17
+T63	Negative_regulation 1133 1142	inhibited
+E14	Negative_regulation:T63 Cause:T25 Theme:E17
+E15	Negative_regulation:T63 Cause:T25 Theme:E19
+T64	Positive_regulation 1150 1157	induced
+E16	Positive_regulation:T64 Cause:T26 Theme:E17
+T65	Phosphorylation 1158 1173	phosphorylation
+E17	Phosphorylation:T65 Theme:T27
+T66	Positive_regulation 1200 1207	induced
+E18	Positive_regulation:T66 Cause:T28 Theme:E19
+T67	Phosphorylation 1208 1223	phosphorylation
+E19	Phosphorylation:T67 Theme:T29
+T68	Negative_regulation 1361 1368	blocked
+E20	Negative_regulation:T68 Cause:T30 Theme:E38
+E21	Negative_regulation:T68 Cause:T30 Theme:E40
+E22	Negative_regulation:T68 Cause:T30 Theme:E42
+E23	Negative_regulation:T68 Cause:T30 Theme:E43
+E24	Negative_regulation:T68 Cause:T30 Theme:E41
+E25	Negative_regulation:T68 Cause:T30 Theme:E39
+T69	Positive_regulation 1380 1387	induced
+E26	Positive_regulation:T69 Cause:T31 Theme:E38
+E27	Positive_regulation:T69 Cause:T31 Theme:E40
+E28	Positive_regulation:T69 Cause:T31 Theme:E42
+E29	Positive_regulation:T69 Cause:T31 Theme:E43
+E30	Positive_regulation:T69 Cause:T31 Theme:E41
+E31	Positive_regulation:T69 Cause:T31 Theme:E39
+T70	Positive_regulation 1399 1406	induced
+E32	Positive_regulation:T70 Cause:T32 Theme:E38
+E33	Positive_regulation:T70 Cause:T32 Theme:E40
+E34	Positive_regulation:T70 Cause:T32 Theme:E42
+E35	Positive_regulation:T70 Cause:T32 Theme:E43
+E36	Positive_regulation:T70 Cause:T32 Theme:E41
+E37	Positive_regulation:T70 Cause:T32 Theme:E39
+T71	Cell_proliferation 1407 1420	proliferation
+E38	Cell_proliferation:T71 Theme:T33
+E39	Cell_proliferation:T71 Theme:T34
+T72	Death 1422 1430	survival
+E40	Death:T72 Theme:T33
+E41	Death:T72 Theme:T34
+M2	Negation E40
+M3	Negation E41
+T73	Localization 1436 1445	migration
+E42	Localization:T73 Theme:T33
+E43	Localization:T73 Theme:T34
+T74	Negative_regulation 1528 1537	prevented
+E44	Negative_regulation:T74 Cause:T35 Theme:E45
+T75	Blood_vessel_development 1538 1550	angiogenesis
+E45	Blood_vessel_development:T75 
+T76	Positive_regulation 1573 1580	induced
+E46	Positive_regulation:T76 Theme:E45 Cause:T38
+T77	Gene_expression 1591 1601	expressing
+E47	Gene_expression:T77 Theme:T36
+T78	Gene_expression 1617 1627	expressing
+E48	Gene_expression:T78 Theme:T37
+T79	Negative_regulation 1685 1692	blocked
+E49	Negative_regulation:T79 Cause:T39 Theme:E50
+T80	Blood_vessel_development 1693 1705	angiogenesis
+E50	Blood_vessel_development:T80 
+T81	Gene_expression 1752 1762	expressing
+E51	Gene_expression:T81 Theme:T41
+E52	Gene_expression:T81 Theme:T42
+T82	Gene_expression 1843 1853	expressing
+E53	Gene_expression:T82 Theme:T45
+T83	Negative_regulation 1913 1923	preventing
+E54	Negative_regulation:T83 Theme:E57 Cause:E58
+E55	Negative_regulation:T83 Theme:E57 Cause:E59
+E56	Negative_regulation:T83 Theme:E57 Cause:E61
+M4	Speculation E54
+M5	Speculation E55
+M6	Speculation E56
+T84	Development 1930 1941	progression
+E57	Development:T84 Theme:T48
+T85	Negative_regulation 1955 1965	inhibiting
+E58	Negative_regulation:T85 Cause:T47 Theme:T49
+E59	Negative_regulation:T85 Cause:T47 Theme:E60
+T86	Blood_vessel_development 1987 1999	angiogenesis
+E60	Blood_vessel_development:T86 
+T87	Negative_regulation 2027 2037	inhibiting
+E61	Negative_regulation:T87 Theme:T50

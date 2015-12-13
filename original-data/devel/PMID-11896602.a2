@@ -1,0 +1,76 @@
+T40	Negative_regulation 22 32	suppresses
+E1	Negative_regulation:T40 Theme:E3 Cause:T1
+T41	Regulation 61 69	mediated
+E2	Regulation:T41 Theme:E3 Cause:T2
+T42	Cell_transformation 79 93	transformation
+E3	Cell_transformation:T42 Theme:T4
+T43	Negative_regulation 218 237	negative regulators
+E4	Negative_regulation:T43 Cause:T6 Theme:E5
+T44	Pathway 269 287	signaling pathways
+E5	Pathway:T44 Participant:T12
+T45	Negative_regulation 317 336	negatively regulate
+E6	Negative_regulation:T45 Theme:T15 Cause:E7
+T46	Positive_regulation 400 409	targeting
+E7	Positive_regulation:T46 Theme:E8 Cause:T13
+T47	Catabolism 417 428	degradation
+E8	Catabolism:T47 Theme:T15
+T48	Positive_regulation 434 442	mediated
+E9	Positive_regulation:T48 Cause:T16 Theme:E10
+T49	Cell_transformation 452 466	transformation
+E10	Cell_transformation:T49 Theme:T19
+T50	Negative_regulation 492 500	reverted
+E11	Negative_regulation:T50 Cause:E12 Theme:E10
+T51	Gene_expression 512 522	expression
+E12	Gene_expression:T51 Theme:T21
+T52	Negative_regulation 600 611	suppression
+E13	Negative_regulation:T52 Theme:E14
+T53	Cell_proliferation 637 643	growth
+E14	Cell_proliferation:T53 Theme:T22
+T54	Negative_regulation 660 669	reduction
+E15	Negative_regulation:T54 Theme:E16
+T55	Phosphorylation 692 707	phosphorylation
+E16	Phosphorylation:T55 Site:T23 Theme:T21
+T56	Gene_expression 737 747	expression
+E17	Gene_expression:T56 Theme:T25
+T57	Positive_regulation 778 785	targets
+E18	Positive_regulation:T57 Cause:T25 Theme:E22 CSite:T60
+E19	Positive_regulation:T57 Cause:T25 Theme:E23 CSite:T60
+E20	Positive_regulation:T57 Cause:T25 Theme:E24 CSite:T60
+E21	Positive_regulation:T57 Cause:T25 Theme:E25 CSite:T60
+T58	Ubiquitination 810 824	ubiquitination
+E22	Ubiquitination:T58 Theme:T25
+E23	Ubiquitination:T58 Theme:T27
+T59	Catabolism 829 840	degradation
+E24	Catabolism:T59 Theme:T25
+E25	Catabolism:T59 Theme:T27
+T60	Protein_domain_or_region 862 873	RING finger
+T61	Negative_regulation 920 928	prevents
+E26	Negative_regulation:T61 Theme:E27
+T62	Catabolism 933 944	degradation
+E27	Catabolism:T62 Theme:T28
+T63	Positive_regulation 1029 1038	Activated
+E28	Positive_regulation:T63 Theme:T31
+E29	Positive_regulation:T63 Theme:T33
+T64	Binding 1056 1064	anchored
+E30	Binding:T64 Theme:T32 Theme2:T33
+T65	Localization 1104 1117	localizations
+E31	Localization:T65 AtLoc:T34 Theme:T31
+E32	Localization:T65 AtLoc:T34 Theme:T33
+T66	Binding 1166 1177	interaction
+E33	Binding:T66 Theme:T31 Theme2:T33
+T67	Positive_regulation 1181 1189	required
+E34	Positive_regulation:T67 Cause:T33 Theme:E36
+E35	Positive_regulation:T67 Cause:T33 Theme:E37
+T68	Ubiquitination 1205 1219	ubiquitination
+E36	Ubiquitination:T68 Theme:T31
+T69	Catabolism 1224 1235	degradation
+E37	Catabolism:T69 Theme:T31
+T70	Binding 1303 1311	interact
+E38	Binding:T70 Theme:T35 Theme2:T36
+T71	Positive_regulation 1325 1333	targeted
+E39	Positive_regulation:T71 Cause:T36 Theme:E40
+T72	Catabolism 1338 1349	degradation
+E40	Catabolism:T72 Theme:T35
+T73	Negative_regulation 1465 1473	suppress
+E41	Negative_regulation:T73 Theme:T39 Cause:T38
+M1	Speculation E41

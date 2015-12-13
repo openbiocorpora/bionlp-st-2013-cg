@@ -1,0 +1,71 @@
+*	Equiv T8 T9
+*	Equiv T10 T11
+*	Equiv T14 T15
+*	Equiv T19 T20
+*	Equiv T23 T24
+T48	Blood_vessel_development 0 12	Angiogenesis
+E1	Blood_vessel_development:T48 AtLoc:T1
+E2	Blood_vessel_development:T48 AtLoc:T2
+T49	Development 110 119	expansion
+E3	Development:T49 Theme:T4
+T50	Regulation 141 147	linked
+E4	Regulation:T50 Theme:E3 Cause:E5
+T51	Development 155 166	development
+E5	Development:T51 Theme:T5
+T52	Regulation 200 210	regulation
+E6	Regulation:T52 Theme:E7
+T53	Blood_vessel_development 229 241	angiogenesis
+E7	Blood_vessel_development:T53 AtLoc:T6
+T54	Blood_vessel_development 313 325	angiogenesis
+E8	Blood_vessel_development:T54 AtLoc:T8
+E9	Blood_vessel_development:T54 AtLoc:T10
+T55	Planned_process 562 570	obtained
+E10	Planned_process:T55 Theme:T16
+E11	Planned_process:T55 Theme:T15
+T56	Localization 649 656	layered
+E12	Localization:T56 Theme:T16
+E13	Localization:T56 Theme:T15
+T57	Blood_vessel_development 734 744	angiogenic
+E14	Blood_vessel_development:T57 
+T58	Gene_expression 830 840	expression
+E15	Gene_expression:T58 Theme:T23
+T59	Localization 857 864	layered
+E16	Localization:T59 Theme:T25
+T60	Positive_regulation 872 882	stimulated
+E17	Positive_regulation:T60 Cause:T25 Theme:E18
+T61	Blood_vessel_development 883 895	angiogenesis
+E18	Blood_vessel_development:T61 
+T62	Blood_vessel_development 897 907	Angiogenic
+E19	Blood_vessel_development:T62 
+T63	Positive_regulation 908 919	stimulation
+E20	Positive_regulation:T63 Theme:E19
+T64	Binding 1049 1059	connection
+E21	Binding:T64 Theme:T27 Theme:T28
+T65	Localization 1143 1154	recruitment
+E22	Localization:T65 Theme:T31
+T66	Blood_vessel_development 1202 1212	angiogenic
+E23	Blood_vessel_development:T66 AtLoc:T32
+T67	Localization 1262 1274	localization
+E24	Localization:T67 Theme:T32
+T68	Blood_vessel_development 1284 1294	angiogenic
+E25	Blood_vessel_development:T68 
+T69	Positive_regulation 1295 1306	stimulation
+E26	Positive_regulation:T69 Theme:E25
+T70	Positive_regulation 1454 1465	Stimulation
+E27	Positive_regulation:T70 Theme:E28 Cause:T39
+T71	Blood_vessel_development 1469 1481	angiogenesis
+E28	Blood_vessel_development:T71 
+T72	Negative_regulation 1511 1520	abolished
+E29	Negative_regulation:T72 Cause:T40 Theme:E27
+T73	Regulation 1556 1563	targets
+E30	Regulation:T73 Cause:T40 Theme:T42
+T74	Regulation 1630 1640	regulation
+E31	Regulation:T74 Cause:T44 Theme:E32
+T75	Blood_vessel_development 1644 1656	angiogenesis
+E32	Blood_vessel_development:T75 
+T76	Regulation 1709 1713	role
+E33	Regulation:T76 Cause:T45 Theme:E35
+E34	Regulation:T76 Cause:T45 Theme:E36
+T77	Blood_vessel_development 1725 1737	angiogenesis
+E35	Blood_vessel_development:T77 AtLoc:T46
+E36	Blood_vessel_development:T77 AtLoc:T47

@@ -1,0 +1,40 @@
+T1	Gene_or_gene_product 0 7	SWAP-70
+T2	Gene_or_gene_product 52 57	v-Src
+T3	Organism 61 66	mouse
+T4	Cell 67 85	embryo fibroblasts
+T5	Gene_or_gene_product 88 95	SWAP-70
+T6	Simple_chemical 101 135	phosphatidylinositol trisphosphate
+T7	Simple_chemical 137 154	PtdIns(3,4,5)P(3)
+T8	Gene_or_gene_product 187 194	F-actin
+T9	Gene_or_gene_product 222 229	SWAP-70
+T10	Organism 261 266	mouse
+T11	Cell 267 285	embryo fibroblasts
+T12	Cell 287 291	MEFs
+T13	Gene_or_gene_product 296 301	v-Src
+T14	Cell 325 329	MEFs
+T15	Gene_or_gene_product 343 350	SWAP-70
+T16	Gene_or_gene_product 352 357	v-Src
+T17	Cell 386 390	MEFs
+T18	Gene_or_gene_product 399 406	SWAP-70
+T19	Cell 438 443	cells
+T20	Cell 479 484	cells
+T21	Gene_or_gene_product 513 520	SWAP-70
+T22	Gene_or_gene_product 526 531	v-Src
+T23	Cell 544 548	MEFs
+T24	Gene_or_gene_product 562 569	SWAP-70
+T25	Gene_or_gene_product 626 632	SWAP70
+T26	Cell 648 656	colonies
+T27	Gene_or_gene_product 674 681	SWAP-70
+T28	Gene_or_gene_product 730 735	v-Src
+T29	Cell 748 752	MEFs
+T30	Organism 775 784	nude mice
+T31	Cancer 786 792	tumors
+T32	Gene_or_gene_product 807 812	v-Src
+T33	Gene_or_gene_product 825 832	SWAP-70
+T34	Cell 825 842	SWAP-70(-/-) MEFs
+T35	Cell 877 882	cells
+T36	Gene_or_gene_product 904 911	SWAP-70
+T37	Gene_or_gene_product 940 947	SWAP-70
+T38	Cell 1012 1016	cell
+T39	Cell 1027 1031	MEFs
+T40	Gene_or_gene_product 1047 1052	v-Src

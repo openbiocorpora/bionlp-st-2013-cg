@@ -1,0 +1,26 @@
+T35	Development 0 9	Formation
+E1	Development:T35 Theme:T1
+T36	Planned_process 29 62	vertical distraction osteogenesis
+E2	Planned_process:T36 Theme:T3
+T37	Growth 189 195	growth
+E3	Growth:T37 Theme:T5
+T38	Planned_process 235 268	vertical distraction osteogenesis
+E4	Planned_process:T38 Theme:T7
+T39	Development 855 861	formed
+E5	Development:T39 Theme:T15
+T40	Negative_regulation 1141 1146	delay
+E6	Negative_regulation:T40 Theme:E7
+T41	Blood_vessel_development 1150 1162	angiogenesis
+E7	Blood_vessel_development:T41 
+T42	Negative_regulation 1577 1587	disruption
+E8	Negative_regulation:T42 Theme:E9
+T43	Blood_vessel_development 1591 1603	angiogenesis
+E9	Blood_vessel_development:T43 AtLoc:T28
+T44	Positive_regulation 1677 1688	stimulation
+E10	Positive_regulation:T44 Theme:T29
+T45	Blood_vessel_development 1710 1722	angiogenesis
+E11	Blood_vessel_development:T45 
+T46	Development 1976 1985	formation
+E12	Development:T46 Theme:T31
+T47	Planned_process 1999 2010	distraction
+E13	Planned_process:T47 Theme:T33

@@ -1,0 +1,41 @@
+T1	Cell 36 69	early-passage breast cancer cells
+T2	Cancer 86 92	cancer
+T3	Simple_chemical 183 202	[(18)F]deoxyglucose
+T4	Simple_chemical 204 207	FdG
+T5	Organism 212 220	patients
+T6	Simple_chemical 267 286	[(18)F]deoxyglucose
+T7	Gene_or_gene_product 310 329	glucose transporter
+T8	Gene_or_gene_product 331 337	GLUT-1
+T9	Gene_or_gene_product 377 409	hypoxia-inducible factor 1 alpha
+T10	Gene_or_gene_product 411 421	HIF-1alpha
+T11	Cell 467 479	breast lines
+T12	Gene_or_gene_product 485 495	HIF-1alpha
+T13	Simple_chemical 522 528	oxygen
+T14	Gene_or_gene_product 582 588	GLUT-1
+T15	Gene_or_gene_product 624 634	HIF-1alpha
+T16	Gene_or_gene_product 661 666	c-Myc
+T17	Gene_or_gene_product 686 689	Akt
+T18	Gene_or_gene_product 691 695	pAkt
+T19	Gene_or_gene_product 722 732	HIF-1alpha
+T20	Gene_or_gene_product 734 739	c-Myc
+T21	Gene_or_gene_product 741 745	pAkt
+T22	Cell 785 804	breast cancer cells
+T23	Cell 893 898	lines
+T24	Simple_chemical 919 922	FdG
+T25	Cancer 930 952	primary breast cancers
+T26	Cell 1004 1009	cells
+T27	Gene_or_gene_product 1026 1031	c-Myc
+T28	Gene_or_gene_product 1036 1046	HIF-1alpha
+T29	Cell 1060 1070	cell lines
+T30	Gene_or_gene_product 1177 1181	pAkt
+T31	Cell 1200 1210	cell lines
+T32	Cancer 1218 1228	xenografts
+T33	Organism 1232 1236	mice
+T34	Gene_or_gene_product 1261 1271	HIF-1alpha
+T35	Gene_or_gene_product 1291 1296	c-Myc
+T36	Gene_or_gene_product 1328 1332	pAkt
+T37	Gene_or_gene_product 1391 1396	c-Myc
+T38	Gene_or_gene_product 1401 1411	HIF-1alpha
+T39	Gene_or_gene_product 1441 1446	c-Myc
+T40	Gene_or_gene_product 1454 1464	HIF-1alpha
+T41	Cancer 1529 1543	breast cancers

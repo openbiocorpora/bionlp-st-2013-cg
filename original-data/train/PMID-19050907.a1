@@ -1,0 +1,32 @@
+T1	Pathological_formation 50 55	wound
+T2	Organism 95 101	lapine
+T3	Pathological_formation 102 107	wound
+T4	Pathological_formation 123 129	wounds
+T5	Organism 174 180	people
+T6	Pathological_formation 406 411	wound
+T7	Organism 533 539	lapine
+T8	Pathological_formation 540 545	wound
+T9	Pathological_formation 634 639	wound
+T10	Pathological_formation 827 833	wounds
+T11	Organism 872 879	rabbits
+T12	Organism_substance 1098 1103	blood
+T13	Gene_or_gene_product 1161 1180	alpha2 (I) collagen
+T14	Gene_or_gene_product 1182 1187	COL-I
+T15	Gene_or_gene_product 1190 1206	type IV collagen
+T16	Gene_or_gene_product 1208 1214	COL-IV
+T17	Gene_or_gene_product 1217 1236	alpha1 (V) collagen
+T18	Gene_or_gene_product 1238 1243	COL-V
+T19	Gene_or_gene_product 1250 1284	vascular endothelial growth factor
+T20	Gene_or_gene_product 1286 1290	VEGF
+T21	Pathological_formation 1364 1370	wounds
+T22	Pathological_formation 1432 1438	wounds
+T23	Gene_or_gene_product 1584 1588	VEGF
+T24	Gene_or_gene_product 1593 1599	COL-IV
+T25	Pathological_formation 1812 1818	wounds
+T26	Gene_or_gene_product 1877 1882	COL-I
+T27	Gene_or_gene_product 1887 1892	COL-V
+T28	Cellular_component 2051 2057	matrix
+T29	Pathological_formation 2095 2101	wounds
+T30	Organism 2119 2125	rabbit
+T31	Organ 2126 2129	ear
+T32	Pathological_formation 2165 2170	wound

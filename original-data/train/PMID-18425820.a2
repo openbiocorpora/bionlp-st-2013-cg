@@ -1,0 +1,72 @@
+*	Equiv T4 T5
+*	Equiv T6 T7
+T26	Glycolysis 35 45	glycolytic
+E1	Glycolysis:T26 
+T27	Negative_regulation 98 108	decelerate
+E2	Negative_regulation:T27 Theme:E3 Cause:T1
+T28	Cell_proliferation 120 133	proliferation
+E3	Cell_proliferation:T28 Theme:T2
+T29	Gene_expression 148 155	express
+E4	Gene_expression:T29 Theme:T4
+T30	Glycolysis 160 170	glycolytic
+E5	Glycolysis:T30 
+T31	Binding 264 272	affinity
+E6	Binding:T31 Theme:T4 Theme2:T6
+T32	Binding 350 358	affinity
+E7	Binding:T32 Theme:T4 Theme2:T8
+T33	Regulation 421 428	control
+E8	Regulation:T33 Theme:E9
+T34	Glycolysis 432 442	glycolysis
+E9	Glycolysis:T34 
+T35	Positive_regulation 450 459	important
+E10	Positive_regulation:T35 Theme:E12
+E11	Positive_regulation:T35 Theme:E13
+T36	Cell_proliferation 475 488	proliferation
+E12	Cell_proliferation:T36 Theme:T9
+T37	Death 493 501	survival
+E13	Death:T37 Theme:T9
+M1	Negation E13
+T38	Planned_process 511 519	targeted
+E14	Planned_process:T38 Theme:T10
+T39	Binding 576 580	bind
+E15	Binding:T39 Theme:T11
+T40	Binding 644 656	conformation
+E16	Binding:T40 Theme:T11
+T41	Positive_regulation 670 677	induced
+E17	Positive_regulation:T41 Theme:E18
+T42	Binding 678 690	dimerization
+E18	Binding:T42 Theme:T12
+T43	Negative_regulation 695 707	inactivation
+E19	Negative_regulation:T43 Theme:T12
+T44	Positive_regulation 717 720	led
+E20	Positive_regulation:T44 Theme:E22 Cause:E19
+E21	Positive_regulation:T44 Theme:E22 Cause:E18
+T45	Negative_regulation 738 746	decrease
+E22	Negative_regulation:T45 Theme:T13
+T46	Binding 858 865	binding
+E23	Binding:T46 Theme:T17
+T47	Negative_regulation 894 901	reduced
+E24	Negative_regulation:T47 Theme:E25 Cause:E27
+T48	Cell_proliferation 906 912	growth
+E25	Cell_proliferation:T48 Theme:T18
+T49	Cell_transformation 916 928	immortalized
+E26	Cell_transformation:T49 Theme:T18
+T50	Negative_regulation 956 968	decelerating
+E27	Negative_regulation:T50 Theme:E28
+T51	Cell_proliferation 974 987	proliferation
+E28	Cell_proliferation:T51 Theme:T19
+T52	Regulation 1001 1010	affecting
+E29	Regulation:T52 Theme:E30
+M2	Negation E29
+T53	Cell_death 1026 1031	death
+E30	Cell_death:T53 Theme:T20
+T54	Binding 1053 1060	binding
+E31	Binding:T54 Theme:T21
+T55	Negative_regulation 1083 1090	reduced
+E32	Negative_regulation:T55 Theme:E33
+T56	Cell_proliferation 1095 1108	proliferation
+E33	Cell_proliferation:T56 Theme:T23
+T57	Negative_regulation 1310 1320	decelerate
+E34	Negative_regulation:T57 Theme:E35 Cause:T24
+T58	Cell_proliferation 1332 1345	proliferation
+E35	Cell_proliferation:T58 Theme:T25

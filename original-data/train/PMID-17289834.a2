@@ -1,0 +1,66 @@
+*	Equiv T5 T6
+*	Equiv T8 T9
+*	Equiv T13 T14
+T36	Negative_regulation 11 17	blocks
+E1	Negative_regulation:T36 Cause:T1 Theme:E5
+E2	Negative_regulation:T36 Cause:T1 Theme:E6
+E3	Negative_regulation:T36 Cause:T1 Theme:E7
+E4	Negative_regulation:T36 Cause:T1 Theme:E9
+T37	Positive_regulation 29 39	activation
+E5	Positive_regulation:T37 Theme:T3 Cause:T2
+T38	Localization 71 79	motility
+E6	Localization:T38 Theme:T2
+T39	Localization 84 95	recruitment
+E7	Localization:T39 Theme:T2
+T40	Positive_regulation 124 133	triggered
+E8	Positive_regulation:T40 Theme:E9
+T41	Blood_vessel_development 134 146	angiogenesis
+E9	Blood_vessel_development:T41 
+T42	Cell_proliferation 393 406	proliferation
+E10	Cell_proliferation:T42 Theme:T11
+E11	Cell_proliferation:T42 Theme:T10
+T43	Negative_regulation 461 471	inhibiting
+E12	Negative_regulation:T43 Cause:T15 Theme:T13
+T44	Regulation 519 528	effective
+E13	Regulation:T44 Cause:T15 Theme:E14
+M1	Speculation E13
+T45	Localization 593 604	recruitment
+E14	Localization:T45 Theme:T16
+T46	Negative_regulation 807 814	inhibit
+E15	Negative_regulation:T46 Cause:T20 Theme:E17
+E16	Negative_regulation:T46 Cause:T20 Theme:E18
+T47	Localization 848 858	chemotaxis
+E17	Localization:T47 Theme:T19
+T48	Localization 863 876	chemoinvasion
+E18	Localization:T48 Theme:T19
+T49	Negative_regulation 937 944	reduced
+E19	Negative_regulation:T49 Theme:E20 Cause:T24
+T50	Gene_expression 945 955	expression
+E20	Gene_expression:T50 Theme:T22
+T51	Positive_regulation 1009 1019	stimulated
+E21	Positive_regulation:T51 Cause:T23 Theme:T24
+T52	Negative_regulation 1036 1041	block
+E22	Negative_regulation:T52 Theme:T26
+T53	Positive_regulation 1048 1057	triggered
+E23	Positive_regulation:T53 Cause:T25 Theme:E24
+T54	Positive_regulation 1058 1068	activation
+E24	Positive_regulation:T54 Theme:T26
+T55	Positive_regulation 1119 1128	triggered
+E25	Positive_regulation:T55 Cause:T27 Theme:E26
+T56	Blood_vessel_development 1129 1141	angiogenesis
+E26	Blood_vessel_development:T56 
+T57	Negative_regulation 1150 1157	blocked
+E27	Negative_regulation:T57 Theme:E26 Cause:E29
+E28	Negative_regulation:T57 Theme:E26 Cause:E30
+T58	Planned_process 1172 1181	injection
+E29	Planned_process:T58 Instrument:T28 Theme:T30
+T59	Planned_process 1197 1211	administration
+E30	Planned_process:T59 Instrument:T28 Theme:T30
+T60	Positive_regulation 1248 1255	induced
+E31	Positive_regulation:T60 Cause:T29 Theme:T30
+T61	Planned_process 1288 1297	treatment
+E32	Planned_process:T61 Instrument:T31
+T62	Negative_regulation 1307 1314	reduces
+E33	Negative_regulation:T62 Cause:E32 Theme:E34
+T63	Localization 1325 1336	recruitment
+E34	Localization:T63 Theme:T32

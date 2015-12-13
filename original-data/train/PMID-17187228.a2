@@ -1,0 +1,98 @@
+*	Equiv T6 T7
+*	Equiv T10 T11
+*	Equiv T14 T15
+T39	Negative_regulation 40 48	inhibits
+E1	Negative_regulation:T39 Cause:E3 Theme:E2
+T40	Metastasis 65 75	metastasis
+E2	Metastasis:T40 Theme:T3
+T41	Negative_regulation 84 94	inhibition
+E3	Negative_regulation:T41 Cause:T2 Theme:E4
+T42	Blood_vessel_development 98 116	neovascularization
+E4	Blood_vessel_development:T42 
+T43	Negative_regulation 121 130	reduction
+E5	Negative_regulation:T43 Theme:E6 Cause:T2
+T44	Gene_expression 159 169	expression
+E6	Gene_expression:T44 Theme:T4
+T45	Blood_vessel_development 171 183	Angiogenesis
+E7	Blood_vessel_development:T45 
+T46	Cell_proliferation 238 251	proliferation
+E8	Cell_proliferation:T46 Theme:T5
+T47	Binding 253 261	adhesion
+E9	Binding:T47 Theme:T5
+T48	Localization 263 272	migration
+E10	Localization:T48 Theme:T5
+T49	Breakdown 301 312	degradation
+E11	Breakdown:T49 Theme:T6
+T50	Positive_regulation 317 326	essential
+E12	Positive_regulation:T50 Theme:E13 Cause:E7
+T51	Metastasis 337 347	metastasis
+E13	Metastasis:T51 Theme:T8
+T52	Negative_regulation 414 423	inhibited
+E14	Negative_regulation:T52 Cause:T10 Theme:E15
+T53	Localization 458 467	migration
+E15	Localization:T53 Theme:T13
+T54	Negative_regulation 540 549	inhibited
+E16	Negative_regulation:T54 Theme:E17 Cause:T10
+T55	Binding 550 558	adhesion
+E17	Binding:T55 Theme:T14 Theme2:T13
+T56	Metastasis 613 623	metastasis
+E18	Metastasis:T56 Theme:T16
+T57	Positive_regulation 624 632	requires
+E19	Positive_regulation:T57 Cause:E20 Theme:E18
+T58	Blood_vessel_development 633 645	angiogenesis
+E20	Blood_vessel_development:T58 
+T59	Negative_regulation 678 685	inhibit
+E21	Negative_regulation:T59 Cause:T17 Theme:E22
+M1	Speculation E21
+T60	Metastasis 686 696	metastases
+E22	Metastasis:T60 
+T61	Positive_regulation 697 704	induced
+E23	Positive_regulation:T61 Cause:E24 Theme:E22
+T62	Planned_process 708 717	injection
+E24	Planned_process:T62 Instrument:T18 Theme:T19
+T63	Metastasis 784 794	metastatic
+E25	Metastasis:T63 Theme:T20 ToLoc:T22
+T64	Negative_regulation 830 839	decreased
+E26	Negative_regulation:T64 Theme:E25
+T65	Metastasis 916 926	metastasis
+E27	Metastasis:T65 Theme:T24
+T66	Planned_process 959 968	treatment
+E28	Planned_process:T66 Instrument:T25
+T67	Negative_regulation 1008 1015	reduced
+E29	Negative_regulation:T67 Theme:E30 Cause:T26
+T68	Gene_expression 1016 1026	expression
+E30	Gene_expression:T68 Theme:T27
+T69	Blood_vessel_development 1084 1094	angiogenic
+E31	Blood_vessel_development:T69 
+T70	Blood_vessel_development 1109 1127	neovascularization
+E32	Blood_vessel_development:T70 
+T71	Negative_regulation 1158 1168	diminished
+E33	Negative_regulation:T71 Cause:T30 Theme:E35
+E34	Negative_regulation:T71 Cause:T30 Theme:E36
+T72	Gene_expression 1173 1183	expression
+E35	Gene_expression:T72 Theme:T31
+E36	Gene_expression:T72 Theme:T32
+T73	Positive_regulation 1245 1252	induces
+E37	Positive_regulation:T73 Theme:E41 Cause:E34
+E38	Positive_regulation:T73 Theme:E42 Cause:E34
+E39	Positive_regulation:T73 Theme:E41 Cause:E33
+E40	Positive_regulation:T73 Theme:E42 Cause:E33
+T74	Metastasis 1259 1269	metastasis
+E41	Metastasis:T74 Theme:T35
+T75	Blood_vessel_development 1274 1286	angiogenesis
+E42	Blood_vessel_development:T75 
+T76	Negative_regulation 1312 1322	inhibition
+E43	Negative_regulation:T76 Cause:T37 Theme:E44
+T77	Metastasis 1342 1352	metastasis
+E44	Metastasis:T77 Theme:T36
+T78	Positive_regulation 1365 1371	caused
+E45	Positive_regulation:T78 Theme:E43 Cause:E47
+E46	Positive_regulation:T78 Theme:E43 Cause:E49
+T79	Negative_regulation 1375 1385	inhibition
+E47	Negative_regulation:T79 Theme:E48
+T80	Blood_vessel_development 1389 1407	neovascularization
+E48	Blood_vessel_development:T80 
+T81	Negative_regulation 1412 1421	reduction
+E49	Negative_regulation:T81 Theme:E50
+T82	Gene_expression 1450 1460	expression
+E50	Gene_expression:T82 Theme:T38

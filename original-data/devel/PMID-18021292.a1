@@ -1,0 +1,67 @@
+T1	Gene_or_gene_product 8 15	decorin
+T2	Gene_or_gene_product 40 44	VEGF
+T3	Organism 59 64	mouse
+T4	Cell 65 91	cerebral endothelial cells
+T5	Gene_or_gene_product 136 139	Sp1
+T6	Gene_or_gene_product 141 150	HIF1alpha
+T7	Gene_or_gene_product 156 161	Stat3
+T8	Gene_or_gene_product 198 205	decorin
+T9	Gene_or_gene_product 207 210	DCN
+T10	Gene_or_gene_product 229 263	vascular endothelial growth factor
+T11	Gene_or_gene_product 265 269	VEGF
+T12	Gene_or_gene_product 301 305	VEGF
+T13	Gene_or_gene_product 339 342	Sp1
+T14	Gene_or_gene_product 344 375	hypoxia-inducible factor 1alpha
+T15	Gene_or_gene_product 377 386	HIF1alpha
+T16	Gene_or_gene_product 393 443	signal transducer and activator of transcription 3
+T17	Gene_or_gene_product 445 450	Stat3
+T18	Gene_or_gene_product 456 488	epidermal growth factor receptor
+T19	Gene_or_gene_product 490 494	EGFR
+T20	Gene_or_gene_product 497 571	mitogen-activated protein kinase extracellular signal-regulated kinase 1/2
+T21	Gene_or_gene_product 573 579	ERK1/2
+T22	Gene_or_gene_product 586 602	protein kinase B
+T23	Gene_or_gene_product 604 607	AKT
+T24	Gene_or_gene_product 621 624	DCN
+T25	Organism 637 642	mouse
+T26	Cell 643 675	cerebral endothelial (MCE) cells
+T27	Gene_or_gene_product 786 789	Sp1
+T28	Gene_or_gene_product 791 800	HIF1alpha
+T29	Gene_or_gene_product 806 811	Stat3
+T30	Gene_or_gene_product 894 898	VEGF
+T31	Gene_or_gene_product 919 923	VEGF
+T32	Gene_or_gene_product 965 968	DCN
+T33	Gene_or_gene_product 969 973	EGFR
+T34	Gene_or_gene_product 974 999	phosphoinositide-3 kinase
+T35	Gene_or_gene_product 1000 1003	AKT
+T36	Gene_or_gene_product 1008 1011	DCN
+T37	Gene_or_gene_product 1012 1016	EGFR
+T38	Gene_or_gene_product 1017 1023	ERK1/2
+T39	Gene_or_gene_product 1042 1045	DCN
+T40	Cell 1059 1068	MCE cells
+T41	Cell 1074 1078	cell
+T42	Gene_or_gene_product 1116 1119	Sp1
+T43	Gene_or_gene_product 1124 1133	HIF1alpha
+T44	Gene_or_gene_product 1221 1225	VEGF
+T45	Gene_or_gene_product 1229 1232	DCN
+T46	Cell 1245 1254	MCE cells
+T47	Gene_or_gene_product 1282 1308	matrix metalloproteinase 2
+T48	Gene_or_gene_product 1313 1314	9
+T49	Gene_or_gene_product 1337 1365	tissue plasminogen activator
+T50	Gene_or_gene_product 1370 1377	plasmin
+T51	Gene_or_gene_product 1381 1384	DCN
+T52	Cell 1401 1410	MCE cells
+T53	Immaterial_anatomical_entity 1420 1433	extracellular
+T54	Gene_or_gene_product 1477 1481	VEGF
+T55	Gene_or_gene_product 1593 1596	DCN
+T56	Gene_or_gene_product 1597 1601	EGFR
+T57	Gene_or_gene_product 1602 1608	ERK1/2
+T58	Gene_or_gene_product 1613 1616	DCN
+T59	Gene_or_gene_product 1617 1621	EGFR
+T60	Gene_or_gene_product 1622 1647	phosphoinositide-3 kinase
+T61	Gene_or_gene_product 1648 1651	AKT
+T62	Gene_or_gene_product 1718 1722	VEGF
+T63	Gene_or_gene_product 1731 1740	HIF1alpha
+T64	Gene_or_gene_product 1742 1747	Stat3
+T65	Gene_or_gene_product 1753 1756	Sp1
+T66	Gene_or_gene_product 1770 1774	VEGF
+T67	Cell 1809 1818	MCE cells

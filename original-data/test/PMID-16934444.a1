@@ -1,0 +1,30 @@
+T1	Gene_or_gene_product 12 21	syndecans
+T2	Pathological_formation 37 42	wound
+T3	Gene_or_gene_product 52 61	Syndecans
+T4	Cellular_component 78 91	transmembrane
+T5	Simple_chemical 92 107	heparan sulfate
+T6	Tissue 147 157	developing
+T7	Tissue 162 175	adult tissues
+T8	Gene_or_gene_product 299 308	syndecans
+T9	Organism 312 317	human
+T10	Cancer 318 325	cancers
+T11	Pathological_formation 357 362	wound
+T12	Cancer 397 404	cancers
+T13	Gene_or_gene_product 406 414	syndecan
+T14	Cell 453 463	tumor cell
+T15	Cancer 555 560	tumor
+T16	Organism 577 584	patient
+T17	Simple_chemical 615 648	heparan sulfate glycosaminoglycan
+T18	Gene_or_gene_product 659 668	syndecans
+T19	Gene_or_gene_product 782 791	syndecans
+T20	Tissue 935 941	tissue
+T21	Gene_or_gene_product 982 991	syndecans
+T22	Pathological_formation 1019 1024	wound
+T23	Cell 1044 1054	fibroblast
+T24	Cell 1059 1070	endothelial
+T25	Cell 1086 1090	cell
+T26	Cellular_component 1119 1139	extracellular matrix
+T27	Gene_or_gene_product 1197 1206	syndecans
+T28	Tissue 1222 1228	tissue
+T29	Gene_or_gene_product 1266 1274	syndecan
+T30	Organism 1345 1350	human

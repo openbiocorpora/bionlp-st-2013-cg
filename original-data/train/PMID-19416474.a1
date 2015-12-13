@@ -1,0 +1,40 @@
+T1	Gene_or_gene_product 4 8	EGFR
+T2	Gene_or_gene_product 9 15	GEP100
+T3	Gene_or_gene_product 16 20	Arf6
+T4	Gene_or_gene_product 21 26	AMAP1
+T5	Cancer 57 70	breast cancer
+T6	Cancer 97 103	Tumors
+T7	Tissue 108 114	tissue
+T8	Cancer 205 218	breast cancer
+T9	Gene_or_gene_product 337 341	Arf6
+T10	Organism_substance 375 381	plasma
+T11	Cellular_component 382 401	membrane components
+T12	Gene_or_gene_product 422 426	Arf6
+T13	Gene_or_gene_product 444 449	AMAP1
+T14	Gene_or_gene_product 451 456	DDEF1
+T15	Gene_or_gene_product 458 462	DEF1
+T16	Gene_or_gene_product 464 469	ASAP1
+T17	Gene_or_gene_product 474 489	centaurin beta4
+T18	Cancer 528 542	breast cancers
+T19	Cell 713 742	malignant breast cancer cells
+T20	Gene_or_gene_product 767 773	GEP100
+T21	Gene_or_gene_product 775 780	BRAG2
+T22	Gene_or_gene_product 808 812	Arf6
+T23	Gene_or_gene_product 899 931	epidermal growth factor receptor
+T24	Gene_or_gene_product 933 937	EGFR
+T25	Gene_or_gene_product 1020 1024	EGFR
+T26	Gene_or_gene_product 1050 1054	Arf6
+T27	Gene_or_gene_product 1059 1064	AMAP1
+T28	Gene_or_gene_product 1105 1109	EGFR
+T29	Organism 1205 1210	human
+T30	Cancer 1211 1225	ductal cancers
+T31	Gene_or_gene_product 1242 1246	EGFR
+T32	Gene_or_gene_product 1247 1253	GEP100
+T33	Gene_or_gene_product 1254 1258	Arf6
+T34	Gene_or_gene_product 1259 1264	AMAP1
+T35	Cancer 1362 1376	mammary tumors
+T36	Cancer 1451 1465	breast cancers
+T37	Immaterial_anatomical_entity 1518 1531	intracellular
+T38	Cell 1547 1559	cancer cells
+T39	Immaterial_anatomical_entity 1565 1578	extracellular
+T40	Cancer 1674 1680	cancer

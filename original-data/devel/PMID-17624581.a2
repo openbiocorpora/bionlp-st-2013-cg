@@ -1,0 +1,31 @@
+T19	Glycolysis 70 80	glycolysis
+E1	Glycolysis:T19 
+T20	Positive_regulation 110 119	increased
+E2	Positive_regulation:T20 Theme:E3
+T21	Glycolysis 120 138	aerobic glycolysis
+E3	Glycolysis:T21 
+T22	Positive_regulation 377 386	increased
+E4	Positive_regulation:T22 Theme:E5
+T23	Localization 395 401	uptake
+E5	Localization:T23 Theme:T3
+T24	Glycolysis 1171 1189	aerobic glycolysis
+E6	Glycolysis:T24 
+T25	Development 1209 1218	evolution
+E7	Development:T25 Theme:T9
+T26	Localization 1222 1230	invasive
+E8	Localization:T26 Theme:T9
+T27	Glycolysis 1331 1349	aerobic glycolysis
+E9	Glycolysis:T27 
+T28	Positive_regulation 1459 1468	increased
+E10	Positive_regulation:T28 Theme:E11
+T29	Metabolism 1469 1480	consumption
+E11	Metabolism:T29 Theme:T12
+T30	Glycolysis 1564 1591	Embden-Meyerhoff glycolysis
+E12	Glycolysis:T30 
+T31	Synthesis 1608 1618	production
+E13	Synthesis:T31 Theme:T14
+T32	Localization 1685 1693	invasion
+E14	Localization:T32 Theme:T15
+T33	Synthesis 1751 1761	generation
+E15	Synthesis:T33 Theme:T17
+E16	Synthesis:T33 Theme:T18

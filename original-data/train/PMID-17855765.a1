@@ -1,0 +1,37 @@
+T1	Simple_chemical 27 36	enalapril
+T2	Organism 50 53	rat
+T3	Cell 55 60	CC531
+T4	Organ 70 75	liver
+T5	Simple_chemical 189 198	enalapril
+T6	Cancer 240 251	liver tumor
+T7	Organism 278 290	Wag/Rij rats
+T8	Cell 326 358	CC531 colon adenocarcinoma cells
+T9	Tissue 401 413	Liver tissue
+T10	Organ 481 486	liver
+T11	Cancer 537 542	tumor
+T12	Multi-tissue_structure 578 594	sinusoidal blood
+T13	Gene_or_gene_product 606 613	albumin
+T14	Cancer 629 634	tumor
+T15	Organ 643 649	livers
+T16	Multi-tissue_structure 724 735	canalicular
+T17	Simple_chemical 736 739	ATP
+T18	Gene_or_gene_product 770 811	multidrug resistance-associated protein 2
+T19	Gene_or_gene_product 813 817	Mrp2
+T20	Simple_chemical 824 833	bile salt
+T21	Gene_or_gene_product 895 899	Ntcp
+T22	Gene_or_gene_product 901 908	Oatp1a1
+T23	Gene_or_gene_product 910 917	Oatp1a4
+T24	Gene_or_gene_product 923 927	Mct2
+T25	Gene_or_gene_product 953 972	cytochrome P450 3a2
+T26	Gene_or_gene_product 974 980	Cyp3a2
+T27	Gene_or_gene_product 986 1011	glutathione S-transferase
+T28	Gene_or_gene_product 1013 1019	Gst4-4
+T29	Cell 1059 1068	peritumor
+T30	Tissue 1087 1100	liver tissues
+T31	Simple_chemical 1161 1170	enalapril
+T32	Organ 1200 1205	liver
+T33	Gene_or_gene_product 1218 1225	Oatp1a1
+T34	Organ 1305 1310	liver
+T35	Multi-tissue_structure 1367 1378	portal vein
+T36	Multi-tissue_structure 1382 1396	hepatic artery
+T37	Organ 1415 1420	liver

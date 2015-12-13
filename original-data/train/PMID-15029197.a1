@@ -1,0 +1,33 @@
+T1	Cancer 14 20	tumour
+T2	Gene_or_gene_product 40 44	ING4
+T3	Cancer 55 67	brain tumour
+T4	Cancer 93 100	Gliomas
+T5	Cancer 129 136	tumours
+T6	Anatomical_system 144 166	central nervous system
+T7	Cancer 284 296	glioblastoma
+T8	Cancer 348 361	glioblastomas
+T9	Cancer 496 508	brain tumour
+T10	Cancer 584 590	tumour
+T11	Gene_or_gene_product 608 612	ING4
+T12	Cancer 640 652	brain tumour
+T13	Gene_or_gene_product 692 696	ING4
+T14	Cancer 725 732	gliomas
+T15	Organism 757 762	human
+T16	Tissue 763 775	brain tissue
+T17	Cancer 868 875	tumours
+T18	Organism 880 884	mice
+T19	Cancer 886 896	xenografts
+T20	Organism 900 905	human
+T21	Cancer 906 924	glioblastoma U87MG
+T22	Gene_or_gene_product 960 964	ING4
+T23	Multi-tissue_structure 1008 1016	vascular
+T24	Cancer 1047 1054	tumours
+T25	Gene_or_gene_product 1069 1073	ING4
+T26	Gene_or_gene_product 1100 1103	p65
+T27	Gene_or_gene_product 1105 1109	RelA
+T28	Gene_or_gene_product 1137 1146	NF-kappaB
+T29	Gene_or_gene_product 1157 1161	ING4
+T30	Cancer 1172 1184	brain tumour
+T31	Gene_or_gene_product 1236 1245	NF-kappaB
+T32	Gene_or_gene_product 1292 1296	ING4
+T33	Cancer 1322 1334	brain tumour

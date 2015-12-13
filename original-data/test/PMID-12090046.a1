@@ -1,0 +1,34 @@
+T1	Cancer 27 41	gastric cancer
+T2	Simple_chemical 56 60	TS-1
+T3	Organism_subdivision 70 74	oral
+T4	Simple_chemical 75 87	fluorouracil
+T5	Simple_chemical 102 106	TS-1
+T6	Organism_subdivision 117 121	oral
+T7	Cancer 126 132	cancer
+T8	Simple_chemical 167 176	gimeracil
+T9	Simple_chemical 178 182	CDHP
+T10	Simple_chemical 188 206	oteracil potassium
+T11	Simple_chemical 208 211	Oxo
+T12	Simple_chemical 228 235	tegafur
+T13	Cancer 290 304	gastric cancer
+T14	Organ 310 314	lung
+T15	Multi-tissue_structure 319 329	lymph node
+T16	Simple_chemical 370 374	TS-1
+T17	Organism 390 395	woman
+T18	Cancer 476 490	gastric cancer
+T19	Multi-tissue_structure 506 516	lymph node
+T20	Organ 541 550	pulmonary
+T21	Simple_chemical 599 603	TS-1
+T22	Organ 730 739	pulmonary
+T23	Simple_chemical 835 839	TS-1
+T24	Cancer 884 889	tumor
+T25	Pathological_formation 908 918	ulcer scar
+T26	Tissue 985 998	cancer tissue
+T27	Multi-tissue_structure 1081 1091	lymph node
+T28	Organ 1104 1108	lung
+T29	Organism_substance 1155 1160	serum
+T30	Gene_or_gene_product 1170 1173	CEA
+T31	Simple_chemical 1222 1226	TS-1
+T32	Pathological_formation 1266 1278	pigmentation
+T33	Organ 1286 1290	skin
+T34	Pathological_formation 1303 1313	oral aphta

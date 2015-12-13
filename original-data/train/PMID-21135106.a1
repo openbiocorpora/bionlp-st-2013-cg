@@ -1,0 +1,48 @@
+T1	Gene_or_gene_product 4 15	disintegrin
+T2	Amino_acid 25 33	cysteine
+T3	Gene_or_gene_product 50 56	ADAM-9
+T4	Cell 86 100	melanoma cells
+T5	Cell 105 116	fibroblasts
+T6	Cell 139 154	malignant cells
+T7	Organ 231 237	organs
+T8	Cell 289 294	tumor
+T9	Cell 299 312	stromal cells
+T10	Cellular_component 324 344	extracellular matrix
+T11	Gene_or_gene_product 446 450	ADAM
+T12	Gene_or_gene_product 515 521	ADAM-9
+T13	Organism 538 543	human
+T14	Cancer 544 552	melanoma
+T15	Tissue 560 579	tumor-stroma border
+T16	Cell 626 637	tumor cells
+T17	Cell 642 653	fibroblasts
+T18	Gene_or_gene_product 684 690	ADAM-9
+T19	Cell 719 733	melanoma cells
+T20	Cell 738 757	stromal fibroblasts
+T21	Gene_or_gene_product 787 798	disintegrin
+T22	Amino_acid 808 816	cysteine
+T23	Gene_or_gene_product 832 838	ADAM-9
+T24	Cell 847 861	Melanoma cells
+T25	Organism 866 871	human
+T26	Cell 872 883	fibroblasts
+T27	Simple_chemical 917 923	Mn(2+)
+T28	Gene_or_gene_product 956 964	integrin
+T29	Cell 1026 1037	fibroblasts
+T30	Gene_or_gene_product 1062 1076	beta1 integrin
+T31	Cell 1165 1176	fibroblasts
+T32	Cell 1181 1209	high invasive melanoma cells
+T33	Gene_or_gene_product 1275 1280	MMP-1
+T34	Gene_or_gene_product 1285 1290	MMP-2
+T35	Gene_or_gene_product 1305 1311	ADAM-9
+T36	Cell 1315 1329	melanoma cells
+T37	Cell 1352 1356	cell
+T38	Cell 1369 1380	fibroblasts
+T39	Gene_or_gene_product 1394 1400	ADAM-9
+T40	Cell 1404 1415	fibroblasts
+T41	Cell 1450 1458	cellular
+T42	Cell 1476 1489	melanoma cell
+T43	Gene_or_gene_product 1548 1554	ADAM-9
+T44	Cell 1603 1607	cell
+T45	Cell 1608 1612	cell
+T46	Cell 1630 1641	fibroblasts
+T47	Cell 1646 1660	melanoma cells
+T48	Cell 1754 1768	melanoma cells

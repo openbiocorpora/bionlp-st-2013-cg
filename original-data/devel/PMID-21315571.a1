@@ -1,0 +1,33 @@
+T1	Simple_chemical 0 18	Diallyl trisulfide
+T2	Simple_chemical 20 24	DATS
+T3	Organism 35 40	mouse
+T4	Cancer 41 52	colon tumor
+T5	Organism 56 61	mouse
+T6	Cell 62 73	CT-26 cells
+T7	Simple_chemical 132 136	DATS
+T8	Organism 158 163	human
+T9	Cell 164 181	colon cancer HT29
+T10	Cell 186 205	colo 205 cell lines
+T11	Simple_chemical 257 261	DATS
+T12	Cell 303 320	CT26 cancer cells
+T13	Organism 334 340	murine
+T14	Simple_chemical 410 414	DATS
+T15	Cell 475 485	CT26 cells
+T16	Cell 504 521	CT26 cancer cells
+T17	Organism 542 553	BALB/c mice
+T18	Organism 568 572	mice
+T19	Simple_chemical 600 604	DATS
+T20	Organism_subdivision 625 629	body
+T21	Simple_chemical 639 643	DATS
+T22	Immaterial_anatomical_entity 677 694	intraperitoneally
+T23	Cell 744 749	cells
+T24	Simple_chemical 813 817	DATS
+T25	Cancer 845 850	tumor
+T26	Cancer 870 875	Tumor
+T27	Gene_or_gene_product 893 903	hemoglobin
+T28	Organism 917 921	mice
+T29	Simple_chemical 944 948	DATS
+T30	Simple_chemical 1038 1042	DATS
+T31	Cancer 1052 1057	tumor
+T32	Simple_chemical 1101 1105	DATS
+T33	Cancer 1122 1134	colon cancer

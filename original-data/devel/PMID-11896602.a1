@@ -1,0 +1,39 @@
+T1	Gene_or_gene_product 18 21	Cbl
+T2	Gene_or_gene_product 33 36	Hck
+T3	Amino_acid 45 53	tyrosine
+T4	Cell 70 78	cellular
+T5	Organism 100 109	mammalian
+T6	Gene_or_gene_product 125 128	Cbl
+T7	Cell 137 145	cellular
+T8	Organism 160 182	Caenorhabditis elegans
+T9	Gene_or_gene_product 184 189	Sli-1
+T10	Organism 195 205	Drosophila
+T11	Gene_or_gene_product 207 212	D-Cbl
+T12	Gene_or_gene_product 246 268	growth factor receptor
+T13	Gene_or_gene_product 309 312	Cbl
+T14	Gene_or_gene_product 375 378	Src
+T15	Gene_or_gene_product 393 396	Hck
+T16	Gene_or_gene_product 430 433	Hck
+T17	Cell 443 451	cellular
+T18	Organism 470 476	murine
+T19	Cell 477 488	fibroblasts
+T20	Cellular_component 528 536	membrane
+T21	Gene_or_gene_product 556 559	Cbl
+T22	Cell 579 587	cellular
+T23	Amino_acid 683 691	tyrosine
+T24	Cell 726 731	cells
+T25	Gene_or_gene_product 751 754	Cbl
+T26	Cellular_component 762 777	plasma membrane
+T27	Gene_or_gene_product 791 794	Hck
+T28	Gene_or_gene_product 948 951	Hck
+T29	Amino_acid 988 1003	phosphotyrosine
+T30	Cell 1022 1027	cells
+T31	Gene_or_gene_product 1039 1042	Hck
+T32	Cellular_component 1047 1055	membrane
+T33	Gene_or_gene_product 1065 1068	Cbl
+T34	Cellular_component 1092 1103	subcellular
+T35	Gene_or_gene_product 1299 1302	Hck
+T36	Gene_or_gene_product 1353 1356	Cbl
+T37	Gene_or_gene_product 1408 1411	Src
+T38	Gene_or_gene_product 1446 1449	Cbl
+T39	Cancer 1562 1568	cancer

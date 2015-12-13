@@ -1,0 +1,21 @@
+T1	Pathological_formation 29 52	peritumoral brain edema
+T2	Pathological_formation 85 108	peritumoral brain edema
+T3	Cancer 141 144	VX2
+T4	Organism 145 151	rabbit
+T5	Cancer 152 163	brain tumor
+T6	Simple_chemical 171 184	Meclofenamate
+T7	Simple_chemical 189 201	indomethacin
+T8	Pathological_formation 262 267	edema
+T9	Simple_chemical 280 317	non steroidal anti-inflammatory drugs
+T10	Simple_chemical 319 326	NSAID's
+T11	Simple_chemical 356 378	17 hydroxyprogesterone
+T12	Simple_chemical 383 394	epicortisol
+T13	Simple_chemical 432 446	glucocorticoid
+T14	Simple_chemical 451 468	mineralocorticoid
+T15	Simple_chemical 512 527	glucocorticoids
+T16	Pathological_formation 564 575	brain edema
+T17	Pathological_formation 658 663	edema
+T18	Simple_chemical 714 719	NSAID
+T19	Pathological_formation 732 737	edema
+T20	Pathological_formation 824 829	edema
+T21	Simple_chemical 850 867	steroid compounds

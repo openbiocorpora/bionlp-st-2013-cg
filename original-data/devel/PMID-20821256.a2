@@ -1,0 +1,101 @@
+*	Equiv T3 T4
+*	Equiv T9 T10
+T49	Blood_vessel_development 87 99	Angiogenesis
+E1	Blood_vessel_development:T49 
+T50	Positive_regulation 103 110	induced
+E2	Positive_regulation:T50 Cause:T3 Theme:E1
+T51	Localization 180 188	released
+E3	Localization:T51 FromLoc:T5 Theme:T3
+T52	Positive_regulation 221 229	enhances
+E4	Positive_regulation:T52 Cause:E1 Theme:E5
+T53	Growth 242 248	growth
+E5	Growth:T53 Theme:T6
+T54	Positive_regulation 253 272	provides an ability
+E6	Positive_regulation:T54 Cause:E1 Theme:E7
+T55	Positive_regulation 276 285	establish
+E7	Positive_regulation:T55 Cause:E9 Theme:E8
+T56	Metastasis 286 296	metastasis
+E8	Metastasis:T56 ToLoc:T7
+T57	Localization 331 340	migration
+E9	Localization:T57 Theme:T8
+T58	Regulation 400 407	control
+E10	Regulation:T58 Cause:T9 Theme:E11
+T59	Remodeling 421 435	reorganization
+E11	Remodeling:T59 Theme:T12
+T60	Blood_vessel_development 467 479	angiogenesis
+E12	Blood_vessel_development:T60 
+T61	Metastasis 490 500	metastasis
+E13	Metastasis:T61 Theme:T13
+T62	Positive_regulation 505 514	dependent
+E14	Positive_regulation:T62 Cause:E17 Theme:E12
+E15	Positive_regulation:T62 Cause:E17 Theme:E13
+M1	Speculation E14
+M2	Speculation E15
+T63	Positive_regulation 539 546	induced
+E16	Positive_regulation:T63 Theme:E17
+T64	Gene_expression 551 561	expression
+E17	Gene_expression:T64 Theme:T14
+T65	Gene_expression 592 602	expression
+E18	Gene_expression:T65 Theme:T16
+T66	Positive_regulation 623 632	increased
+E19	Positive_regulation:T66 Theme:E18
+T67	Positive_regulation 667 676	dependent
+E20	Positive_regulation:T67 Theme:E18
+T68	Positive_regulation 710 718	increase
+E21	Positive_regulation:T68 Theme:E22
+T69	Blood_vessel_development 722 734	angiogenesis
+E22	Blood_vessel_development:T69 
+T70	Gene_expression 750 760	expression
+E23	Gene_expression:T70 Theme:T18
+T71	Localization 883 892	migration
+E24	Localization:T71 Theme:T23
+T72	Positive_regulation 923 931	enhanced
+E25	Positive_regulation:T72 Theme:E26
+T73	Localization 944 953	migration
+E26	Localization:T73 Theme:T24
+T74	Gene_expression 964 974	expression
+E27	Gene_expression:T74 Theme:T25
+T75	Negative_regulation 995 1004	inhibited
+E28	Negative_regulation:T75 Theme:E27 Cause:E29
+T76	Infection 1012 1021	infection
+E29	Infection:T76 Theme:T26
+T77	Planned_process 1057 1063	cloned
+E30	Planned_process:T77 Theme:T27
+T78	Localization 1097 1106	migration
+E31	Localization:T78 Theme:T29
+T79	Negative_regulation 1111 1119	retarded
+E32	Negative_regulation:T79 Theme:E31
+T80	Positive_regulation 1155 1162	induced
+E33	Positive_regulation:T80 Theme:E34
+T81	Localization 1174 1183	migration
+E34	Localization:T81 Theme:T30
+T82	Negative_regulation 1188 1195	reduced
+E35	Negative_regulation:T82 Theme:E34 Cause:E36
+T83	Infection 1203 1212	infection
+E36	Infection:T83 Participant:T31
+T84	Infection 1349 1358	infection
+E37	Infection:T84 Participant:T35 Theme:T37
+T85	Positive_regulation 1420 1428	increase
+E38	Positive_regulation:T85 Theme:E40
+E39	Positive_regulation:T85 Theme:E41
+T86	Growth 1438 1444	growth
+E40	Growth:T86 Theme:T38
+T87	Metastasis 1454 1464	metastasis
+E41	Metastasis:T87 ToLoc:T39
+T88	Positive_regulation 1551 1558	induced
+E42	Positive_regulation:T88 Theme:E43
+T89	Localization 1570 1579	migration
+E43	Localization:T89 Theme:T43
+T90	Gene_expression 1587 1597	expression
+E44	Gene_expression:T90 Theme:T44
+T91	Positive_regulation 1598 1607	dependent
+E45	Positive_regulation:T91 Cause:E44 Theme:T45
+T92	Regulation 1698 1705	control
+E46	Regulation:T92 Cause:T46 Theme:E47
+M3	Speculation E46
+T93	Localization 1717 1726	migration
+E47	Localization:T93 Theme:T47
+T94	Blood_vessel_development 1730 1742	angiogenesis
+E48	Blood_vessel_development:T94 
+T95	Metastasis 1753 1763	metastasis
+E49	Metastasis:T95 Theme:T48

@@ -1,0 +1,60 @@
+T1	Gene_or_gene_product 18 24	Glut-1
+T2	Simple_chemical 25 32	glucose
+T3	Organism 48 53	human
+T4	Cancer 54 67	breast cancer
+T5	Cancer 111 125	Breast cancers
+T6	Simple_chemical 150 157	glucose
+T7	Simple_chemical 191 198	glucose
+T8	Cancer 216 222	tumors
+T9	Simple_chemical 292 299	glucose
+T10	Gene_or_gene_product 314 320	Glut-1
+T11	Cell 322 333	erythrocyte
+T12	Gene_or_gene_product 341 347	Glut-2
+T13	Organ 349 354	liver
+T14	Gene_or_gene_product 362 368	Glut-3
+T15	Organ 370 375	brain
+T16	Gene_or_gene_product 383 389	Glut-4
+T17	Organ 391 397	muscle
+T18	Tissue 398 401	fat
+T19	Gene_or_gene_product 413 419	Glut-5
+T20	Organ 421 436	small intestine
+T21	Simple_chemical 483 491	paraffin
+T22	Tissue 492 500	sections
+T23	Organism 517 522	human
+T24	Cancer 523 537	breast cancers
+T25	Cancer 544 565	lymph node metastases
+T26	Organism 573 581	patients
+T27	Organism 583 586	Rat
+T28	Tissue 587 594	tissues
+T29	Simple_chemical 618 625	glucose
+T30	Cancer 687 701	breast cancers
+T31	Cancer 710 731	lymph node metastases
+T32	Gene_or_gene_product 750 756	Glut-1
+T33	Cellular_component 796 809	cell membrane
+T34	Organism_substance 821 830	cytoplasm
+T35	Cell 838 849	tumor cells
+T36	Cancer 872 884	intratumoral
+T37	Cancer 889 901	intertumoral
+T38	Cell 945 950	cells
+T39	Tissue 1005 1023	mammary epithelium
+T40	Cell 1069 1080	tumor cells
+T41	Organism 1095 1102	patient
+T42	Gene_or_gene_product 1104 1110	Glut-2
+T43	Cancer 1139 1145	tumors
+T44	Tissue 1225 1239	healthy breast
+T45	Gene_or_gene_product 1253 1259	Glut-4
+T46	Cell 1294 1299	cells
+T47	Cancer 1314 1320	tumors
+T48	Cancer 1334 1340	tumors
+T49	Tissue 1348 1362	healthy breast
+T50	Tissue 1370 1377	tissues
+T51	Gene_or_gene_product 1396 1402	Glut-3
+T52	Gene_or_gene_product 1406 1412	Glut-5
+T53	Simple_chemical 1452 1459	glucose
+T54	Gene_or_gene_product 1472 1478	Glut-1
+T55	Cell 1482 1501	breast cancer cells
+T56	Tissue 1520 1541	healthy breast tissue
+T57	Simple_chemical 1563 1570	glucose
+T58	Simple_chemical 1644 1676	2-[18F]-fluoro-2-deoxy-D-glucose
+T59	Simple_chemical 1678 1681	FDG
+T60	Cancer 1692 1698	tumors

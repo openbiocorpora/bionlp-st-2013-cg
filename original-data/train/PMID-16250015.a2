@@ -1,0 +1,24 @@
+T13	Cell_transformation 11 23	transforming
+E1	Cell_transformation:T13 
+T14	Positive_regulation 123 142	has a critical role
+E2	Positive_regulation:T14 Cause:T2 Theme:T3
+T15	Development 219 230	development
+E3	Development:T15 Theme:T4
+T16	Mutation 296 303	mutated
+E4	Mutation:T16 
+T17	Regulation 356 360	role
+E5	Regulation:T17 Cause:T7 Theme:E7
+E6	Regulation:T17 Cause:T7 Theme:E8
+T18	Cell_transformation 397 409	transforming
+E7	Cell_transformation:T18 
+T19	Pathway 410 418	pathways
+E8	Pathway:T19 
+T20	Regulation 461 466	roles
+E9	Regulation:T20 Cause:T8 Theme:E11
+E10	Regulation:T20 Cause:T8 Theme:E12
+T21	Development 493 505	self-renewal
+E11	Development:T21 Theme:T9
+T22	Cell_differentiation 510 525	differentiation
+E12	Cell_differentiation:T22 Theme:T9
+T23	Negative_regulation 616 628	deregulation
+E13	Negative_regulation:T23 Cause:T10 Theme:T12

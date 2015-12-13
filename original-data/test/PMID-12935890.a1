@@ -1,0 +1,30 @@
+T1	Simple_chemical 0 12	T140 analogs
+T2	Gene_or_gene_product 16 21	CXCR4
+T3	Cancer 91 104	breast cancer
+T4	Gene_or_gene_product 129 134	CXCR4
+T5	Gene_or_gene_product 163 192	stromal cell-derived factor-1
+T6	Gene_or_gene_product 194 199	SDF-1
+T7	Cancer 276 283	cancers
+T8	Simple_chemical 285 297	T140 analogs
+T9	Gene_or_gene_product 311 316	CXCR4
+T10	Organism 403 406	HIV
+T11	Organism 449 452	HIV
+T12	Gene_or_gene_product 484 489	CXCR4
+T13	Gene_or_gene_product 552 557	SDF-1
+T14	Organism 579 584	human
+T15	Cell 585 604	breast cancer cells
+T16	Cell 606 616	MDA-MB-231
+T17	Organism 619 624	human
+T18	Cell 625 641	leukemia T cells
+T19	Cell 643 649	Sup-T1
+T20	Cell 655 693	human umbilical vein endothelial cells
+T21	Simple_chemical 857 868	T140 analog
+T22	Simple_chemical 870 888	4F-benzoyl-TN14003
+T23	Organ 969 978	pulmonary
+T24	Cell 993 1003	MDA-MB-231
+T25	Organism 1007 1016	SCID mice
+T26	Gene_or_gene_product 1093 1097	CCR7
+T27	Simple_chemical 1126 1138	T140 analogs
+T28	Cancer 1162 1168	cancer
+T29	Gene_or_gene_product 1203 1208	CXCR4
+T30	Cancer 1301 1314	breast cancer

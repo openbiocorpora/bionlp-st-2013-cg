@@ -1,0 +1,56 @@
+*	Equiv T26 T27
+T34	Negative_regulation 21 31	suppressor
+E1	Negative_regulation:T34 Theme:T1 Cause:T2
+T35	Regulation 45 54	regulates
+E2	Regulation:T35 Cause:T2 Theme:E4
+E3	Regulation:T35 Cause:T2 Theme:E5
+T36	Growth 68 74	growth
+E4	Growth:T36 Theme:T3
+T37	Blood_vessel_development 79 91	angiogenesis
+E5	Blood_vessel_development:T37 AtLoc:T3
+T38	Positive_regulation 319 328	induction
+E6	Positive_regulation:T38 Theme:E7
+T39	Blood_vessel_development 332 344	angiogenesis
+E7	Blood_vessel_development:T39 AtLoc:T8
+T40	Positive_regulation 384 398	necessary part
+E8	Positive_regulation:T40 Theme:E9 Cause:E7
+T41	Carcinogenesis 402 423	malignant progression
+E9	Carcinogenesis:T41 
+T42	Regulation 482 492	regulation
+E10	Regulation:T42 Theme:E12
+E11	Regulation:T42 Theme:E13
+T43	Growth 509 515	growth
+E12	Growth:T43 Theme:T9
+T44	Blood_vessel_development 520 532	angiogenesis
+E13	Blood_vessel_development:T44 AtLoc:T9
+T45	Regulation 629 639	regulating
+E14	Regulation:T45 Theme:E16
+E15	Regulation:T45 Theme:E17
+T46	Growth 653 659	growth
+E16	Growth:T46 Theme:T12
+T47	Blood_vessel_development 664 676	angiogenesis
+E17	Blood_vessel_development:T47 AtLoc:T12
+T48	Gene_expression 678 688	Expression
+E18	Gene_expression:T48 Theme:T13
+T49	Negative_regulation 714 721	reduced
+E19	Negative_regulation:T49 Cause:E18 Theme:T14
+T50	Negative_regulation 795 804	reduction
+E20	Negative_regulation:T50 Theme:T14
+T51	Development 825 836	progression
+E21	Development:T51 Theme:T17
+T52	Negative_regulation 936 945	decreased
+E22	Negative_regulation:T52 Theme:E23
+T53	Gene_expression 946 956	expression
+E23	Gene_expression:T53 Theme:T22
+T54	Growth 966 970	grow
+E24	Growth:T54 Theme:T23
+T55	Binding 1085 1094	interacts
+E25	Binding:T55 Theme:T25 Theme:T26
+T56	Regulation 1162 1171	regulates
+E26	Regulation:T56 Theme:E27 Cause:T29
+T57	Blood_vessel_development 1185 1197	angiogenesis
+E27	Blood_vessel_development:T57 AtLoc:T30
+T58	Regulation 1297 1318	has an important role
+E28	Regulation:T58 Cause:T32 Theme:E29
+T59	Development 1335 1347	pathogenesis
+E29	Development:T59 Theme:T33

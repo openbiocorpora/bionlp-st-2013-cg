@@ -1,0 +1,45 @@
+T1	Gene_or_gene_product 0 32	Ras-association domain family 1C
+T2	Cell 50 68	breast cancer cell
+T3	Gene_or_gene_product 122 153	Ras association domain family 1
+T4	Gene_or_gene_product 155 161	RASSF1
+T5	Gene_or_gene_product 173 176	Ras
+T6	Gene_or_gene_product 217 224	RASSF1A
+T7	Gene_or_gene_product 229 236	RASSF1C
+T8	Gene_or_gene_product 311 318	RASSF1A
+T9	Cancer 324 329	tumor
+T10	Gene_or_gene_product 399 406	RASSF1C
+T11	Cell 438 443	cells
+T12	Gene_or_gene_product 522 529	RASSF1C
+T13	Organism 544 549	human
+T14	Cell 550 569	breast cancer cells
+T15	Cell 622 632	T47D cells
+T16	Gene_or_gene_product 649 656	RASSF1C
+T17	Gene_or_gene_product 669 676	RASSF1C
+T18	Cell 772 776	Cell
+T19	Gene_or_gene_product 888 895	RASSF1C
+T20	Organism 910 915	human
+T21	Cell 916 935	breast cancer cells
+T22	Gene_or_gene_product 961 968	RASSF1C
+T23	Cell 977 1001	breast cancer cell lines
+T24	Cell 1003 1012	MDA-MB231
+T25	Cell 1017 1021	T47D
+T26	Cell 1066 1070	cell
+T27	Gene_or_gene_product 1127 1134	RASSF1C
+T28	Cell 1138 1157	breast cancer cells
+T29	Cell 1159 1168	MDA-MB231
+T30	Cell 1173 1177	T47D
+T31	Cell 1211 1215	cell
+T32	Gene_or_gene_product 1277 1284	RASSF1C
+T33	Gene_or_gene_product 1299 1306	RASSF1C
+T34	Cancer 1348 1353	tumor
+T35	Cell 1422 1441	breast cancer cells
+T36	Gene_or_gene_product 1483 1492	caspase 3
+T37	Gene_or_gene_product 1515 1522	RASSF1C
+T38	Cell 1531 1550	breast cancer cells
+T39	Simple_chemical 1597 1606	etoposide
+T40	Gene_or_gene_product 1635 1642	RASSF1C
+T41	Cell 1668 1677	T47D cell
+T42	Gene_or_gene_product 1755 1762	RASSF1C
+T43	Gene_or_gene_product 1771 1778	RASSF1A
+T44	Cancer 1789 1794	tumor
+T45	Cell 1877 1896	breast cancer cells

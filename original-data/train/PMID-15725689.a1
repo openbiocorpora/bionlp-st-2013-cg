@@ -1,0 +1,26 @@
+T1	Gene_or_gene_product 8 28	thrombogenic factors
+T2	Gene_or_gene_product 68 86	Hemostatic factors
+T3	Pathological_formation 121 137	thrombotic plugs
+T4	Multi-tissue_structure 150 158	vascular
+T5	Gene_or_gene_product 203 221	hemostatic factors
+T6	Tissue 349 356	intimal
+T7	Pathological_formation 423 440	lipid-rich plaque
+T8	Pathological_formation 458 465	lesions
+T9	Tissue 510 517	intimal
+T10	Cell 530 539	Platelets
+T11	Pathological_formation 644 652	thrombus
+T12	Tissue 665 672	intimal
+T13	Cell 775 783	platelet
+T14	Pathological_formation 812 820	thrombus
+T15	Gene_or_gene_product 832 845	Tissue factor
+T16	Gene_or_gene_product 847 849	TF
+T17	Organism_substance 880 885	blood
+T18	Pathological_formation 937 960	atherosclerotic lesions
+T19	Organism 964 970	humans
+T20	Gene_or_gene_product 1008 1016	thrombin
+T21	Gene_or_gene_product 1021 1027	fibrin
+T22	Gene_or_gene_product 1090 1092	TF
+T23	Gene_or_gene_product 1130 1132	TF
+T24	Cell 1148 1152	cell
+T25	Gene_or_gene_product 1201 1203	TF
+T26	Gene_or_gene_product 1274 1303	protease-activated receptor 2

@@ -1,0 +1,48 @@
+T26	Positive_regulation 14 22	promotes
+E1	Positive_regulation:T26 Cause:E3 Theme:E2
+T27	Carcinogenesis 28 41	tumorigenesis
+E2	Carcinogenesis:T27 AtLoc:T2
+T28	Positive_regulation 45 55	triggering
+E3	Positive_regulation:T28 Theme:T5
+T29	Positive_regulation 74 83	dependent
+E4	Positive_regulation:T29 Theme:T5 Cause:T4
+E5	Positive_regulation:T29 Theme:T5 Cause:T3
+T30	Positive_regulation 163 173	initiating
+E6	Positive_regulation:T30 Theme:T7 Cause:E7
+T31	Carcinogenesis 174 185	carcinogens
+E7	Carcinogenesis:T31 
+T32	Development 216 227	development
+E8	Development:T32 Theme:T8
+T33	Positive_regulation 364 373	initiator
+E9	Positive_regulation:T33 Theme:T11
+T34	Positive_regulation 420 428	promoter
+E10	Positive_regulation:T34 Theme:T12
+T35	Positive_regulation 464 470	caused
+E11	Positive_regulation:T35 Cause:E12 Theme:T12
+T36	Positive_regulation 480 490	activation
+E12	Positive_regulation:T36 Theme:T13
+T37	Development 586 597	development
+E13	Development:T37 Theme:T15
+T38	Planned_process 617 624	treated
+E14	Planned_process:T38 Theme:T16
+T39	Planned_process 637 647	transgenic
+E15	Planned_process:T39 Theme:T17
+T40	Positive_regulation 679 689	activation
+E16	Positive_regulation:T40 Theme:T18
+T41	Positive_regulation 722 731	promotion
+E17	Positive_regulation:T41 Theme:T20 Cause:E18
+T42	Positive_regulation 742 751	induction
+E18	Positive_regulation:T42 Theme:T21
+T43	Positive_regulation 773 780	results
+E19	Positive_regulation:T43 Theme:E21 Cause:T21
+T44	Positive_regulation 784 792	enhanced
+E20	Positive_regulation:T44 Theme:E21
+T45	Cell_proliferation 804 817	proliferation
+E21	Cell_proliferation:T45 Theme:T22
+T46	Negative_regulation 825 834	abrogated
+E22	Negative_regulation:T46 Theme:E17 Cause:E24
+E23	Negative_regulation:T46 Theme:E17 Cause:E25
+T47	Negative_regulation 846 854	ablation
+E24	Negative_regulation:T47 Theme:T23
+T48	Negative_regulation 875 887	inactivation
+E25	Negative_regulation:T48 Theme:T25

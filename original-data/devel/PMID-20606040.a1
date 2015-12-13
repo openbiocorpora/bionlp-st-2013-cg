@@ -1,0 +1,46 @@
+T1	Simple_chemical 0 40	1,4-phenylenebis(methylene)selenocyanate
+T2	Simple_chemical 50 66	selenomethionine
+T3	Gene_or_gene_product 77 94	androgen receptor
+T4	Gene_or_gene_product 99 102	Akt
+T5	Organism 116 121	human
+T6	Cell 122 143	prostate cancer cells
+T7	Organism 185 193	patients
+T8	Pathological_formation 210 245	prostatic intraepithelial neoplasia
+T9	Cancer 307 322	prostate cancer
+T10	Cancer 393 408	prostate cancer
+T11	Cancer 606 621	prostate cancer
+T12	Gene_or_gene_product 665 682	androgen receptor
+T13	Gene_or_gene_product 684 686	AR
+T14	Gene_or_gene_product 692 721	phosphatidylinositol 3-kinase
+T15	Gene_or_gene_product 722 725	Akt
+T16	Cancer 851 867	prostate disease
+T17	Simple_chemical 954 970	selenomethionine
+T18	Simple_chemical 972 974	SM
+T19	Simple_chemical 994 1034	1,4-phenylenebis(methylene)selenocyanate
+T20	Simple_chemical 1036 1041	p-XSC
+T21	Organism 1055 1060	human
+T22	Cell 1061 1081	prostate cancer cell
+T23	Simple_chemical 1117 1119	SM
+T24	Simple_chemical 1121 1126	p-XSC
+T25	Simple_chemical 1215 1220	p-XSC
+T26	Simple_chemical 1252 1254	SM
+T27	Simple_chemical 1306 1314	androgen
+T28	Cell 1326 1331	LNCaP
+T29	Simple_chemical 1336 1344	androgen
+T30	Cell 1357 1395	LNCaP C4-2 human prostate cancer cells
+T31	Simple_chemical 1397 1402	p-XSC
+T32	Gene_or_gene_product 1424 1426	AR
+T33	Cell 1475 1485	cell lines
+T34	Simple_chemical 1487 1492	p-XSC
+T35	Gene_or_gene_product 1508 1511	Akt
+T36	Gene_or_gene_product 1539 1542	Akt
+T37	Gene_or_gene_product 1575 1577	AR
+T38	Gene_or_gene_product 1593 1596	Akt
+T39	Simple_chemical 1632 1637	p-XSC
+T40	Gene_or_gene_product 1665 1667	AR
+T41	Gene_or_gene_product 1708 1710	AR
+T42	Simple_chemical 1724 1729	p-XSC
+T43	Gene_or_gene_product 1779 1808	phosphatidylinositol 3-kinase
+T44	Gene_or_gene_product 1809 1812	Akt
+T45	Simple_chemical 1853 1858	p-XSC
+T46	Cancer 1899 1914	prostate cancer

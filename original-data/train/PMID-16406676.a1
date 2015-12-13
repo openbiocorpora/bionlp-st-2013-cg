@@ -1,0 +1,22 @@
+T1	Cancer 14 19	tumor
+T2	Gene_or_gene_product 36 52	thrombospondin-1
+T3	Cancer 121 127	tumors
+T4	Gene_or_gene_product 129 145	Thrombospondin-1
+T5	Gene_or_gene_product 147 152	TSP-1
+T6	Gene_or_gene_product 213 218	TSP-1
+T7	Cancer 247 252	tumor
+T8	Cancer 303 308	tumor
+T9	Gene_or_gene_product 330 335	TSP-1
+T10	Cancer 359 364	tumor
+T11	Gene_or_gene_product 382 385	p53
+T12	Gene_or_gene_product 427 430	Myc
+T13	Gene_or_gene_product 435 438	Ras
+T14	Gene_or_gene_product 440 445	TSP-1
+T15	Cell 482 498	endothelial cell
+T16	Gene_or_gene_product 581 612	transforming growth factor beta
+T17	Gene_or_gene_product 614 622	TGF-beta
+T18	Gene_or_gene_product 627 632	TSP-1
+T19	Cancer 675 680	tumor
+T20	Gene_or_gene_product 737 742	TSP-1
+T21	Cancer 783 788	tumor
+T22	Cancer 872 878	cancer

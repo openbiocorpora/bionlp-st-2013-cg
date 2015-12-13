@@ -1,0 +1,40 @@
+*	Equiv T7 T6
+*	Equiv T13 T12
+*	Equiv T14 T15
+T40	Negative_regulation 84 99	down-regulation
+E1	Negative_regulation:T40 Theme:T3
+E2	Negative_regulation:T40 Theme:T4
+T41	Metastasis 452 462	metastatic
+E3	Metastasis:T41 
+T42	Cell_differentiation 823 839	undifferentiated
+E4	Cell_differentiation:T42 Theme:T16
+M1	Negation E4
+T43	Planned_process 853 861	embedded
+E5	Planned_process:T43 Theme:T17
+T44	Cell_differentiation 1109 1125	undifferentiated
+E6	Cell_differentiation:T44 Theme:T20
+M2	Negation E6
+T45	Positive_regulation 1269 1281	up-regulated
+E7	Positive_regulation:T45 Theme:T22
+T46	Negative_regulation 1351 1365	down-regulated
+E8	Negative_regulation:T46 Theme:T23
+E9	Negative_regulation:T46 Theme:T24
+E10	Negative_regulation:T46 Theme:T25
+E11	Negative_regulation:T46 Theme:T26
+T47	Planned_process 1404 1413	processed
+E12	Planned_process:T47 Theme:T27
+T48	Gene_expression 1457 1467	expression
+E13	Gene_expression:T48 Theme:T28
+E14	Gene_expression:T48 Theme:T29
+T49	Negative_regulation 1625 1640	down-regulation
+E15	Negative_regulation:T49 Theme:T34
+T50	Metastasis 1683 1693	metastasis
+E16	Metastasis:T50 ToLoc:T35
+T51	Negative_regulation 1818 1833	down-regulation
+E17	Negative_regulation:T51 Theme:T37
+E18	Negative_regulation:T51 Theme:T38
+T52	Positive_regulation 1837 1846	important
+E19	Positive_regulation:T52 Theme:E21 Cause:E17
+E20	Positive_regulation:T52 Theme:E21 Cause:E18
+T53	Development 1854 1863	formation
+E21	Development:T53 Theme:T39

@@ -1,0 +1,50 @@
+T29	Positive_regulation 148 156	promotes
+E1	Positive_regulation:T29 Cause:T3 Theme:E2
+T30	Catabolism 161 172	degradation
+E2	Catabolism:T30 Theme:T4
+T31	Negative_regulation 201 226	negative feedback control
+E3	Negative_regulation:T31 Theme:T6
+T32	Regulation 251 260	affecting
+E4	Regulation:T32 Cause:T3 Theme:E7
+E5	Regulation:T32 Cause:T3 Theme:E8
+T33	Pathway 266 271	cycle
+E6	Pathway:T33 Theme:T7
+T34	Negative_regulation 272 278	arrest
+E7	Negative_regulation:T34 Theme:E6
+T35	Cell_death 283 292	apoptosis
+E8	Cell_death:T35 
+T36	Gene_expression 345 355	expression
+E9	Gene_expression:T36 Theme:T8
+T37	Metastasis 375 393	distant metastasis
+E10	Metastasis:T37 
+T38	Metastasis 395 397	DM
+E11	Metastasis:T38 
+T39	Death 415 424	mortality
+E12	Death:T39 Theme:T9
+T40	Death 438 447	mortality
+E13	Death:T40 Theme:T9
+T41	Planned_process 455 462	treated
+E14	Planned_process:T41 Theme:T9 Instrument:T10
+T42	Localization 548 559	deprivation
+E15	Localization:T42 Theme:T10
+M1	Negation E15
+T43	Gene_expression 862 876	overexpression
+T44	Positive_regulation 862 876	overexpression
+E16	Gene_expression:T43 Theme:T17
+E17	Positive_regulation:T44 Theme:E16
+T45	Gene_expression 1074 1088	Overexpression
+T46	Positive_regulation 1074 1088	Overexpression
+E18	Gene_expression:T45 Theme:T22
+E19	Positive_regulation:T46 Theme:E18
+T47	Gene_expression 1233 1247	overexpression
+T48	Positive_regulation 1233 1247	overexpression
+E20	Gene_expression:T47 Theme:T24
+E21	Positive_regulation:T48 Theme:E20
+T49	Gene_expression 1523 1533	expression
+E22	Gene_expression:T49 Theme:T26
+T50	Metastasis 1590 1592	DM
+E23	Metastasis:T50 
+T51	Gene_expression 1673 1687	overexpression
+T52	Positive_regulation 1673 1687	overexpression
+E24	Gene_expression:T51 Theme:T28
+E25	Positive_regulation:T52 Theme:E24

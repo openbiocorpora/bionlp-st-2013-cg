@@ -1,0 +1,61 @@
+*	Equiv T10 T11
+T28	Positive_regulation 27 37	activation
+E1	Positive_regulation:T28 Cause:E2 Theme:T1
+T29	Glycolysis 41 59	aerobic glycolysis
+E2	Glycolysis:T29 
+T30	Carcinogenesis 93 107	carcinogenesis
+E3	Carcinogenesis:T30 
+T31	Glycolysis 145 163	aerobic glycolysis
+E4	Glycolysis:T31 
+T32	Glycolysis 262 272	glycolysis
+E5	Glycolysis:T32 
+T33	Synthesis 285 293	produced
+E6	Synthesis:T33 Theme:T3
+E7	Synthesis:T33 Theme:T4
+T34	Localization 322 330	presence
+E8	Localization:T34 Theme:T6
+T35	Cell_transformation 409 433	malignant transformation
+E9	Cell_transformation:T35 AtLoc:T7
+T36	Positive_regulation 557 568	stimulating
+E10	Positive_regulation:T36 Theme:E11
+T37	Positive_regulation 573 585	accumulation
+E11	Positive_regulation:T37 Theme:T10
+T38	Positive_regulation 685 697	accumulation
+E12	Positive_regulation:T38 Theme:T15
+T39	Positive_regulation 745 753	requires
+E13	Positive_regulation:T39 Cause:E14 Theme:E12
+T40	Metabolism 758 768	metabolism
+E14	Metabolism:T40 Theme:T16
+T41	Negative_regulation 797 805	prevents
+E15	Negative_regulation:T41 Cause:E14 Theme:E16
+T42	Catabolism 810 829	aerobic degradation
+E16	Catabolism:T42 Theme:T18
+T43	Positive_regulation 853 862	activates
+E17	Positive_regulation:T43 Cause:E14 Theme:E18
+T44	Binding 873 880	binding
+E18	Binding:T44 Theme:T19 Theme2:T20
+T45	Positive_regulation 895 903	enhances
+E19	Positive_regulation:T45 Cause:E14 Theme:E23
+E20	Positive_regulation:T45 Cause:E14 Theme:E24
+E21	Positive_regulation:T45 Cause:E14 Theme:E25
+E22	Positive_regulation:T45 Cause:E14 Theme:E26
+T46	Gene_expression 908 918	expression
+E23	Gene_expression:T46 Theme:T22
+E24	Gene_expression:T46 Theme:T23
+E25	Gene_expression:T46 Theme:T24
+E26	Gene_expression:T46 Theme:T25
+T47	Positive_regulation 936 945	activated
+E27	Positive_regulation:T47 Cause:T21 Theme:T22
+E28	Positive_regulation:T47 Cause:T21 Theme:T23
+E29	Positive_regulation:T47 Cause:T21 Theme:T24
+E30	Positive_regulation:T47 Cause:T21 Theme:T25
+T48	Glycolysis 1170 1188	aerobic glycolysis
+E31	Glycolysis:T48 
+T49	Positive_regulation 1193 1200	promote
+E32	Positive_regulation:T49 Cause:T26 Theme:E34
+E33	Positive_regulation:T49 Cause:T26 Theme:E35
+T50	Cell_transformation 1205 1229	malignant transformation
+E34	Cell_transformation:T50 
+T51	Death 1234 1242	survival
+E35	Death:T51 Theme:T27
+M1	Negation E35

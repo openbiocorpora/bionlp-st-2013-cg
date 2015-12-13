@@ -1,0 +1,34 @@
+T1	Cancer 24 38	ovarian cancer
+T2	Gene_or_gene_product 118 125	hPNAS-4
+T3	Organism 132 137	mouse
+T4	Cell 201 221	ovarian cancer cells
+T5	Gene_or_gene_product 268 275	hPNAS-4
+T6	Organism 279 288	nude mice
+T7	Cancer 297 311	ovarian cancer
+T8	Gene_or_gene_product 346 353	hPNAS-4
+T9	Cancer 362 376	ovarian cancer
+T10	Cell 408 434	Ovarian cancer SKOV3 cells
+T11	Gene_or_gene_product 457 464	hPNAS-4
+T12	Cell 478 482	cell
+T13	Cellular_component 551 554	DNA
+T14	Organism 613 622	Nude mice
+T15	Cancer 631 646	ovarian cancers
+T16	Gene_or_gene_product 665 672	hPNAS-4
+T17	Simple_chemical 675 683	liposome
+T18	Cancer 685 690	Tumor
+T19	Tissue 756 767	microvessel
+T20	Cell 937 948	SKOV3 cells
+T21	Gene_or_gene_product 966 973	hPNAS-4
+T22	Gene_or_gene_product 989 996	hPNAS-4
+T23	Cell 1007 1018	tumor cells
+T24	Cancer 1028 1033	tumor
+T25	Cancer 1093 1098	tumor
+T26	Organism 1107 1111	mice
+T27	Cell 1190 1201	tumor cells
+T28	Tissue 1232 1244	tumor tissue
+T29	Cancer 1321 1326	tumor
+T30	Gene_or_gene_product 1338 1345	hPNAS-4
+T31	Cancer 1349 1363	ovarian cancer
+T32	Gene_or_gene_product 1488 1495	hPNAS-4
+T33	Organism 1536 1541	human
+T34	Cancer 1542 1556	ovarian cancer

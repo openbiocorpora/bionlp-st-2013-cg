@@ -1,0 +1,51 @@
+T1	Simple_chemical 0 9	Sunitinib
+T2	Cell 31 59	pheochromocytoma tumor cells
+T3	Gene_or_gene_product 74 80	VEGFR2
+T4	Gene_or_gene_product 81 84	Akt
+T5	Gene_or_gene_product 85 89	mTOR
+T6	Gene_or_gene_product 90 94	S6K1
+T7	Gene_or_gene_product 126 131	Bcl-2
+T8	Gene_or_gene_product 136 139	BAD
+T9	Simple_chemical 142 151	Sunitinib
+T10	Organism_subdivision 158 162	oral
+T11	Cancer 240 245	tumor
+T12	Gene_or_gene_product 275 319	vascular endothelial growth factor receptors
+T13	Gene_or_gene_product 321 327	VEGFRs
+T14	Simple_chemical 345 354	sunitinib
+T15	Cancer 413 440	malignant pheochromocytomas
+T16	Simple_chemical 473 482	sunitinib
+T17	Cell 568 579	tumor cells
+T18	Simple_chemical 581 590	Sunitinib
+T19	Cell 621 631	PC12 cells
+T20	Simple_chemical 736 745	sunitinib
+T21	Gene_or_gene_product 814 819	Bcl-2
+T22	Gene_or_gene_product 878 881	BAD
+T23	Gene_or_gene_product 918 921	BAD
+T24	Cell 931 936	cells
+T25	Simple_chemical 1003 1012	sunitinib
+T26	Gene_or_gene_product 1042 1045	Akt
+T27	Gene_or_gene_product 1050 1054	mTOR
+T28	Gene_or_gene_product 1090 1094	S6K1
+T29	Gene_or_gene_product 1128 1132	mTOR
+T30	Gene_or_gene_product 1147 1154	VEGFR-2
+T31	Simple_chemical 1170 1179	sunitinib
+T32	Gene_or_gene_product 1285 1288	Akt
+T33	Gene_or_gene_product 1300 1304	mTOR
+T34	Gene_or_gene_product 1310 1315	Bcl-2
+T35	Gene_or_gene_product 1373 1380	VEGFR-2
+T36	Gene_or_gene_product 1408 1412	S6K1
+T37	Gene_or_gene_product 1483 1486	BAD
+T38	Gene_or_gene_product 1491 1496	Bcl-2
+T39	Simple_chemical 1528 1537	sunitinib
+T40	Simple_chemical 1591 1600	sunitinib
+T41	Gene_or_gene_product 1665 1672	VEGFR-2
+T42	Gene_or_gene_product 1747 1750	Akt
+T43	Gene_or_gene_product 1751 1755	mTOR
+T44	Gene_or_gene_product 1756 1760	S6K1
+T45	Gene_or_gene_product 1815 1820	Bcl-2
+T46	Gene_or_gene_product 1865 1868	BAD
+T47	Cell 1872 1882	PC12 cells
+T48	Cell 1893 1903	PC12 cells
+T49	Cell 1949 1964	malignant cells
+T50	Organism 2043 2048	human
+T51	Cell 2049 2076	neuroblastoma SK-N-SH cells

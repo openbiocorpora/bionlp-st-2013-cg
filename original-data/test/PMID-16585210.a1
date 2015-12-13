@@ -1,0 +1,59 @@
+T1	Cell 42 61	hematopoietic cells
+T2	Gene_or_gene_product 144 170	Fms-like tyrosine kinase 3
+T3	Gene_or_gene_product 175 178	BCR
+T4	Gene_or_gene_product 179 182	ABL
+T5	Gene_or_gene_product 236 286	signal transducer and activator of transcription 5
+T6	Gene_or_gene_product 288 293	STAT5
+T7	Amino_acid 385 393	tyrosine
+T8	Gene_or_gene_product 417 422	PIM-1
+T9	Gene_or_gene_product 428 433	STAT5
+T10	Amino_acid 489 495	serine
+T11	Amino_acid 496 505	threonine
+T12	Gene_or_gene_product 515 520	PIM-1
+T13	Gene_or_gene_product 524 529	PIM-3
+T14	Gene_or_gene_product 534 537	PTK
+T15	Cell 565 584	hematopoietic cells
+T16	Cell 586 597	Ba/F3 cells
+T17	Gene_or_gene_product 667 670	TEL
+T18	Gene_or_gene_product 671 675	JAK2
+T19	Gene_or_gene_product 677 680	TEL
+T20	Gene_or_gene_product 681 685	TRKC
+T21	Gene_or_gene_product 687 690	TEL
+T22	Gene_or_gene_product 691 694	ABL
+T23	Gene_or_gene_product 696 699	BCR
+T24	Gene_or_gene_product 700 703	ABL
+T25	Gene_or_gene_product 705 713	FLT3-ITD
+T26	Gene_or_gene_product 719 721	H4
+T27	Gene_or_gene_product 722 731	PDGFbetaR
+T28	Gene_or_gene_product 761 766	PIM-1
+T29	Gene_or_gene_product 771 776	PIM-2
+T30	Gene_or_gene_product 793 798	PIM-1
+T31	Gene_or_gene_product 890 895	PIM-2
+T32	Gene_or_gene_product 904 911	PIM-2KD
+T33	Cell 951 962	Ba/F3 cells
+T34	Gene_or_gene_product 978 986	FLT3-ITD
+T35	Gene_or_gene_product 1014 1018	PTKs
+T36	Gene_or_gene_product 1043 1050	PIM-1KD
+T37	Gene_or_gene_product 1055 1062	PIM-2KD
+T38	Cell 1109 1114	Ba/F3
+T39	Gene_or_gene_product 1154 1157	BCR
+T40	Gene_or_gene_product 1158 1161	ABL
+T41	Gene_or_gene_product 1191 1196	PIM-2
+T42	Cell 1258 1269	Ba/F3 cells
+T43	Gene_or_gene_product 1293 1319	Fms-like tyrosine kinase 3
+T44	Gene_or_gene_product 1321 1325	FLT3
+T45	Organism 1425 1430	human
+T46	Cell 1431 1441	cell lines
+T47	Gene_or_gene_product 1453 1457	FLT3
+T48	Cell 1484 1489	cells
+T49	Gene_or_gene_product 1505 1509	FLT3
+T50	Gene_or_gene_product 1514 1517	BCR
+T51	Gene_or_gene_product 1518 1521	ABL
+T52	Gene_or_gene_product 1558 1588	small-molecule tyrosine kinase
+T53	Gene_or_gene_product 1637 1642	PIM-2
+T54	Gene_or_gene_product 1647 1652	PIM-1
+T55	Gene_or_gene_product 1657 1662	PIM-2
+T56	Gene_or_gene_product 1728 1733	PIM-1
+T57	Gene_or_gene_product 1738 1743	PIM-2
+T58	Cancer 1849 1857	leukemia
+T59	Amino_acid 1964 1972	tyrosine

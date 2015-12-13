@@ -1,0 +1,39 @@
+T1	Gene_or_gene_product 14 19	CD154
+T2	Cancer 23 44	renal cell carcinomas
+T3	Cell 59 63	cell
+T4	Simple_chemical 92 118	platelet-activating factor
+T5	Gene_or_gene_product 131 135	CD40
+T6	Gene_or_gene_product 150 155	CD154
+T7	Cell 176 184	cellular
+T8	Cell 269 273	cell
+T9	Cell 295 310	malignant cells
+T10	Gene_or_gene_product 350 355	CD154
+T11	Cell 369 380	tumor cells
+T12	Gene_or_gene_product 441 445	CD40
+T13	Gene_or_gene_product 446 451	CD154
+T14	Cancer 495 516	renal cell carcinomas
+T15	Cancer 539 544	tumor
+T16	Gene_or_gene_product 619 623	CD40
+T17	Gene_or_gene_product 628 633	CD154
+T18	Cell 649 675	renal carcinoma cell lines
+T19	Gene_or_gene_product 677 682	CD154
+T20	Gene_or_gene_product 692 696	CD40
+T21	Cancer 739 744	tumor
+T22	Cell 762 788	renal carcinoma cell lines
+T23	Gene_or_gene_product 823 828	CD154
+T24	Gene_or_gene_product 851 855	CD40
+T25	Gene_or_gene_product 870 875	CD154
+T26	Gene_or_gene_product 931 936	CD154
+T27	Cell 948 952	cell
+T28	Simple_chemical 995 998	PAF
+T29	Cell 1085 1111	renal carcinoma cell lines
+T30	Gene_or_gene_product 1122 1127	PAF-R
+T31	Gene_or_gene_product 1141 1146	PAF-R
+T32	Simple_chemical 1150 1158	WEB-2170
+T33	Gene_or_gene_product 1162 1167	PAF-R
+T34	Gene_or_gene_product 1194 1199	CD154
+T35	Simple_chemical 1242 1245	PAF
+T36	Gene_or_gene_product 1264 1269	CD154
+T37	Cell 1285 1305	renal carcinoma cell
+T38	Gene_or_gene_product 1383 1388	CD154
+T39	Cell 1457 1478	renal carcinoma cells

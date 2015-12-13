@@ -1,0 +1,77 @@
+*	Equiv T3 T4
+T38	Positive_regulation 0 9	Promoting
+E1	Positive_regulation:T38 Theme:E2 Cause:E3
+T39	Blood_vessel_development 10 22	angiogenesis
+E2	Blood_vessel_development:T39 
+T40	Regulation 27 39	manipulation
+E3	Regulation:T40 Theme:T1 Cause:E4
+T41	Pathway 68 83	notch signaling
+E4	Pathway:T41 
+T42	Positive_regulation 85 94	Promoting
+E5	Positive_regulation:T42 Theme:E6 Cause:E7
+T43	Blood_vessel_development 95 107	angiogenesis
+E6	Blood_vessel_development:T43 
+T44	Localization 112 120	delivery
+E7	Localization:T44 Theme:T3
+T45	Blood_vessel_development 176 186	angiogenic
+E8	Blood_vessel_development:T45 
+T46	Development 284 296	regeneration
+E9	Development:T46 Theme:T6
+T47	Pathway 333 342	signaling
+E10	Pathway:T47 Participant:T7
+T48	Regulation 346 355	modulated
+E11	Regulation:T48 Cause:E12 Theme:E10
+T49	Pathway 369 386	signaling pathway
+E12	Pathway:T49 Participant:T8
+T50	Negative_regulation 411 421	inhibiting
+E13	Negative_regulation:T50 Theme:E14
+T51	Pathway 428 437	signaling
+E14	Pathway:T51 Participant:T9
+T52	Positive_regulation 442 449	enhance
+E15	Positive_regulation:T52 Theme:E16 Cause:E13
+T53	Blood_vessel_development 459 477	neovascularization
+E16	Blood_vessel_development:T53 
+T54	Regulation 495 509	responsiveness
+E17	Regulation:T54 Theme:T10
+T55	Blood_vessel_development 540 550	angiogenic
+E18	Blood_vessel_development:T55 
+T56	Planned_process 687 696	Treatment
+E19	Planned_process:T56 Theme:T15 Instrument:T16
+T57	Planned_process 700 708	cultured
+E20	Planned_process:T57 Instrument:T15
+T58	Positive_regulation 773 782	increased
+E21	Positive_regulation:T58 Theme:E23 Cause:E25
+E22	Positive_regulation:T58 Theme:E24 Cause:E25
+T59	Localization 788 797	migration
+E23	Localization:T59 Theme:T18
+T60	Development 809 818	formation
+E24	Development:T60 Theme:T19
+T61	Positive_regulation 839 850	stimulation
+E25	Positive_regulation:T61 Theme:T20 Cause:E19
+T62	Localization 910 918	delivery
+E26	Localization:T62 ToLoc:T24 Theme:T22
+E27	Localization:T62 ToLoc:T24 Theme:T23
+T63	Localization 1185 1193	delivery
+E28	Localization:T63 Theme:T29
+E29	Localization:T63 Theme:T28
+T64	Planned_process 1235 1244	injection
+E30	Planned_process:T64 Instrument:T32 Theme:T31
+E31	Planned_process:T64 Instrument:T32 Theme:T30
+T65	Localization 1402 1410	delivery
+E32	Localization:T65 Theme:T34
+T66	Positive_regulation 1501 1513	introduction
+E33	Positive_regulation:T66 Theme:T35
+T67	Positive_regulation 1575 1582	promote
+E34	Positive_regulation:T67 Theme:E35 Cause:E36
+T68	Blood_vessel_development 1583 1595	angiogenesis
+E35	Blood_vessel_development:T68 
+T69	Regulation 1599 1610	controlling
+E36	Regulation:T69 Theme:E37
+T70	Pathway 1611 1626	Notch signaling
+E37	Pathway:T70 
+T71	Planned_process 1659 1664	treat
+E38	Planned_process:T71 Theme:T37
+T72	Negative_regulation 1693 1701	diminish
+E39	Negative_regulation:T72 Theme:E40
+T73	Blood_vessel_development 1702 1712	angiogenic
+E40	Blood_vessel_development:T73 

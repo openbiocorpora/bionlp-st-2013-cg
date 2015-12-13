@@ -1,0 +1,68 @@
+T1	Gene_or_gene_product 9 18	CK1 delta
+T2	Organism 39 43	SV40
+T3	Cell 52 60	cellular
+T4	Organism 89 94	mouse
+T5	Organ 95 102	mammary
+T6	Organism 128 143	Simian virus 40
+T7	Organism 145 149	SV40
+T8	Cell 179 187	cellular
+T9	Cancer 224 229	tumor
+T10	Cell 275 283	cellular
+T11	Gene_or_gene_product 319 322	CK1
+T12	Organism 397 401	SV40
+T13	Gene_or_gene_product 442 446	T-Ag
+T14	Organism 482 486	SV40
+T15	Gene_or_gene_product 540 548	CK1delta
+T16	Organism 591 595	SV40
+T17	Cell 604 608	cell
+T18	Organism 641 645	SV40
+T19	Organ 654 661	mammary
+T20	Organism 690 720	transgenic/bi-transgenic mouse
+T21	Gene_or_gene_product 728 736	CK1delta
+T22	Gene_or_gene_product 793 803	wtCK1delta
+T23	Gene_or_gene_product 969 980	mutCK1delta
+T24	Cell 1041 1052	SV-52 cells
+T25	Gene_or_gene_product 1054 1062	CK1delta
+T26	Gene_or_gene_product 1174 1184	wtCK1delta
+T27	Gene_or_gene_product 1217 1225	CK1delta
+T28	Organism 1229 1233	SV40
+T29	Organ 1242 1249	mammary
+T30	Organism 1279 1294	transgenic mice
+T31	Gene_or_gene_product 1313 1321	CK1delta
+T32	Gene_or_gene_product 1347 1366	whey acidic protein
+T33	Gene_or_gene_product 1368 1371	WAP
+T34	Organism 1410 1414	SV40
+T35	Organism 1415 1452	transgenic WAP-T-antigen (WAP-T) mice
+T36	Gene_or_gene_product 1426 1439	WAP-T-antigen
+T37	Gene_or_gene_product 1441 1446	WAP-T
+T38	Gene_or_gene_product 1459 1464	WAP-T
+T39	Organism 1465 1469	mice
+T40	Gene_or_gene_product 1481 1484	WAP
+T41	Organism 1481 1521	WAP-mutCK1delta/WAP-T bi-transgenic mice
+T42	Gene_or_gene_product 1485 1496	mutCK1delta
+T43	Gene_or_gene_product 1497 1502	WAP-T
+T44	Cancer 1532 1545	breast cancer
+T45	Cancer 1556 1561	tumor
+T46	Gene_or_gene_product 1624 1627	WAP
+T47	Organism 1624 1667	WAP-mutCK1delta/WAP-T bi-transgenic animals
+T48	Gene_or_gene_product 1628 1639	mutCK1delta
+T49	Gene_or_gene_product 1640 1643	WAP
+T50	Gene_or_gene_product 1681 1689	CK1delta
+T51	Pathological_formation 1720 1726	lesion
+T52	Gene_or_gene_product 1784 1792	CK1delta
+T53	Cancer 1843 1861	in situ carcinomas
+T54	Cancer 1865 1884	invasive carcinomas
+T55	Organism 1925 1929	SV40
+T56	Gene_or_gene_product 1933 1938	WAP-T
+T57	Gene_or_gene_product 1943 1946	WAP
+T58	Gene_or_gene_product 1947 1958	mutCK1delta
+T59	Gene_or_gene_product 1959 1964	WAP-T
+T60	Cancer 1965 1971	tumors
+T61	Cancer 2072 2077	tumor
+T62	Gene_or_gene_product 2125 2128	wnt
+T63	Cellular_component 2143 2146	DNA
+T64	Gene_or_gene_product 2200 2208	CK1delta
+T65	Organism 2216 2220	SV40
+T66	Cell 2229 2237	cellular
+T67	Organism 2266 2271	mouse
+T68	Organ 2272 2279	mammary

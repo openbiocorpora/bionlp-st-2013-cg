@@ -1,0 +1,69 @@
+*	Equiv T13 T14
+T24	Mutation 75 94	Genetic instability
+E1	Mutation:T24 
+T25	Development 161 172	development
+E2	Development:T25 Theme:T3
+T26	Mutation 211 220	mutations
+E3	Mutation:T26 
+T27	Regulation 235 243	regulate
+E4	Regulation:T27 Theme:E6
+T28	Death 249 254	death
+E5	Death:T28 Theme:T4
+T29	Cell_proliferation 259 272	proliferation
+E6	Cell_proliferation:T29 Theme:T4
+T30	Positive_regulation 287 295	promotes
+E7	Positive_regulation:T30 Cause:E3 Theme:E8
+T31	Cell_transformation 296 320	malignant transformation
+E8	Cell_transformation:T31 
+T32	Development 392 403	development
+E9	Development:T32 Theme:T6
+T33	Positive_regulation 510 517	crucial
+E10	Positive_regulation:T33 Cause:T9 Theme:E11
+T34	Development 525 536	development
+E11	Development:T34 Theme:T10
+T35	Regulation 553 563	associated
+E12	Regulation:T35 Theme:T10
+T36	Positive_regulation 605 610	cause
+E13	Positive_regulation:T36 Cause:T11 Theme:E14
+T37	Breakdown 615 622	damages
+E14	Breakdown:T37 Theme:T12
+T38	Planned_process 671 680	treatment
+E15	Planned_process:T38 Instrument:T15 Theme:T16
+T39	Planned_process 684 692	cultured
+E16	Planned_process:T39 Theme:T16
+T40	Positive_regulation 699 707	resulted
+E17	Positive_regulation:T40 Cause:E15 Theme:E21
+E18	Positive_regulation:T40 Cause:E15 Theme:E22
+E19	Positive_regulation:T40 Cause:E15 Theme:E23
+E20	Positive_regulation:T40 Cause:E15 Theme:E24
+T41	Positive_regulation 711 720	increased
+E21	Positive_regulation:T41 Theme:E25
+E22	Positive_regulation:T41 Theme:E26
+E23	Positive_regulation:T41 Theme:E27
+E24	Positive_regulation:T41 Theme:E28
+T42	Mutation 726 735	mutations
+E25	Mutation:T42 
+T43	Mutation 737 755	gene amplification
+E26	Mutation:T43 
+T44	Development 769 778	formation
+E27	Development:T44 Theme:T17
+T45	Mutation 795 806	instability
+E28	Mutation:T45 AtLoc:T18
+T46	Negative_regulation 835 842	reduced
+E29	Negative_regulation:T46 Theme:E31
+T47	Positive_regulation 852 859	induced
+E30	Positive_regulation:T47 Cause:T19 Theme:E31
+T48	Mutation 860 874	genetic damage
+E31	Mutation:T48 
+T49	Planned_process 898 907	treatment
+E32	Planned_process:T49 Instrument:T20
+T50	Positive_regulation 921 930	increased
+E33	Positive_regulation:T50 Cause:E32 Theme:E34
+T51	Cell_transformation 931 955	malignant transformation
+E34	Cell_transformation:T51 Theme:T22
+T52	Negative_regulation 1010 1020	suppressed
+E35	Negative_regulation:T52 Theme:E34
+T53	Mutation 1049 1068	genetic instability
+E36	Mutation:T53 
+T54	Regulation 1069 1092	plays an important role
+E37	Regulation:T54 Cause:E36 Theme:T23

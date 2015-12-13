@@ -1,0 +1,48 @@
+T1	Gene_or_gene_product 0 34	Prostate-specific membrane antigen
+T2	Gene_or_gene_product 72 80	integrin
+T3	Cellular_component 106 119	transmembrane
+T4	Gene_or_gene_product 130 164	prostate-specific membrane antigen
+T5	Gene_or_gene_product 166 170	PSMA
+T6	Multi-tissue_structure 206 217	vasculature
+T7	Cancer 221 233	solid tumors
+T8	Cancer 262 267	tumor
+T9	Gene_or_gene_product 363 367	PSMA
+T10	Cell 436 452	endothelial cell
+T11	Cellular_component 474 502	extracellular matrix barrier
+T12	Cellular_component 543 563	extracellular matrix
+T13	Cell 591 602	endothelial
+T14	Gene_or_gene_product 658 662	PSMA
+T15	Cellular_component 679 685	matrix
+T16	Gene_or_gene_product 757 761	PSMA
+T17	Gene_or_gene_product 861 868	laminin
+T18	Gene_or_gene_product 878 886	integrin
+T19	Gene_or_gene_product 919 941	p21-activated kinase 1
+T20	Gene_or_gene_product 943 948	PAK-1
+T21	Gene_or_gene_product 973 977	PSMA
+T22	Cell 1025 1041	endothelial cell
+T23	Gene_or_gene_product 1064 1072	integrin
+T24	Gene_or_gene_product 1077 1080	PAK
+T25	Gene_or_gene_product 1149 1156	beta(1)
+T26	Gene_or_gene_product 1180 1183	PAK
+T27	Gene_or_gene_product 1194 1198	PSMA
+T28	Gene_or_gene_product 1250 1254	PSMA
+T29	Cellular_component 1300 1312	cytoskeleton
+T30	Gene_or_gene_product 1359 1363	PSMA
+T31	Organism_substance 1364 1375	cytoplasmic
+T32	Gene_or_gene_product 1404 1413	filamin A
+T33	Gene_or_gene_product 1424 1428	PSMA
+T34	Gene_or_gene_product 1439 1447	integrin
+T35	Gene_or_gene_product 1462 1465	PAK
+T36	Gene_or_gene_product 1505 1508	PAK
+T37	Gene_or_gene_product 1533 1537	PSMA
+T38	Gene_or_gene_product 1538 1547	filamin A
+T39	Gene_or_gene_product 1578 1582	PSMA
+T40	Gene_or_gene_product 1615 1619	PSMA
+T41	Gene_or_gene_product 1675 1679	PSMA
+T42	Gene_or_gene_product 1692 1700	integrin
+T43	Gene_or_gene_product 1715 1718	PAK
+T44	Gene_or_gene_product 1789 1805	integrin beta(1)
+T45	Gene_or_gene_product 1828 1832	PSMA
+T46	Gene_or_gene_product 1890 1894	PSMA
+T47	Immaterial_anatomical_entity 1943 1956	extracellular
+T48	Immaterial_anatomical_entity 1961 1974	intracellular

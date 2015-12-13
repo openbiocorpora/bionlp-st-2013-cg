@@ -1,0 +1,30 @@
+T1	Gene_or_gene_product 0 10	Calretinin
+T2	Cell 45 73	neoplastic mesothelial cells
+T3	Organism_substance 77 93	serous effusions
+T4	Organism_substance 137 146	antiserum
+T5	Gene_or_gene_product 150 160	calretinin
+T6	Simple_chemical 170 177	calcium
+T7	Cell 229 252	tumor mesothelial cells
+T8	Tissue 256 278	cytologic preparations
+T9	Tissue 316 335	cytologic specimens
+T10	Organism 347 355	patients
+T11	Cancer 386 408	malignant mesothelioma
+T12	Organism 421 429	patients
+T13	Organism_substance 446 462	serous effusions
+T14	Organism_substance 521 530	antiserum
+T15	Cell 553 569	cell suspensions
+T16	Organism_substance 576 590	pleural fluids
+T17	Organism_substance 626 635	antiserum
+T18	Multi-tissue_structure 666 675	specimens
+T19	Gene_or_gene_product 712 732	alkaline phosphatase
+T20	Gene_or_gene_product 738 758	alkaline phosphatase
+T21	Cell 816 832	cell suspensions
+T22	Simple_chemical 858 862	gold
+T23	Cancer 995 1018	malignant mesotheliomas
+T24	Cancer 1050 1065	adenocarcinomas
+T25	Organism_substance 1084 1100	serous membranes
+T26	Organism_substance 1204 1213	antiserum
+T27	Cell 1224 1241	mesothelial cells
+T28	Gene_or_gene_product 1314 1324	Calretinin
+T29	Cell 1391 1414	tumor mesothelial cells
+T30	Organism_substance 1418 1434	serous effusions

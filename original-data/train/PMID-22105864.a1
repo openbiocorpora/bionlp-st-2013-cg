@@ -1,0 +1,48 @@
+T1	Gene_or_gene_product 0 10	Aquaporins
+T2	Organism 14 19	human
+T3	Cancer 20 33	breast cancer
+T4	Cancer 87 100	breast cancer
+T5	Gene_or_gene_product 130 140	Aquaporins
+T6	Gene_or_gene_product 142 146	AQPs
+T7	Simple_chemical 172 177	water
+T8	Simple_chemical 182 190	glycerol
+T9	Gene_or_gene_product 224 228	AQPs
+T10	Organism 232 237	human
+T11	Gene_or_gene_product 338 342	AQPs
+T12	Organism 346 351	human
+T13	Cancer 352 365	breast cancer
+T14	Gene_or_gene_product 434 438	AQPs
+T15	Organism 442 447	human
+T16	Cancer 448 461	breast cancer
+T17	Gene_or_gene_product 546 553	AQP0-12
+T18	Tissue 557 578	breast cancer tissues
+T19	Tissue 597 611	normal tissues
+T20	Gene_or_gene_product 675 679	AQP1
+T21	Gene_or_gene_product 681 682	3
+T22	Gene_or_gene_product 683 684	5
+T23	Gene_or_gene_product 690 692	10
+T24	Gene_or_gene_product 693 695	12
+T25	Organism 714 719	human
+T26	Cancer 720 733	breast cancer
+T27	Tissue 748 762	breast tissues
+T28	Gene_or_gene_product 768 772	AQP1
+T29	Gene_or_gene_product 777 778	3
+T30	Gene_or_gene_product 779 780	5
+T31	Gene_or_gene_product 816 820	AQP1
+T32	Cellular_component 838 852	cell membranes
+T33	Cancer 886 892	cancer
+T34	Tissue 906 920	normal tissues
+T35	Gene_or_gene_product 922 926	AQP4
+T36	Cellular_component 948 961	cell membrane
+T37	Organism_substance 966 975	cytoplasm
+T38	Tissue 1029 1043	cancer tissues
+T39	Gene_or_gene_product 1045 1049	AQP5
+T40	Cellular_component 1074 1088	cell membranes
+T41	Tissue 1092 1109	carcinoma tissues
+T42	Tissue 1143 1157	breast tissues
+T43	Gene_or_gene_product 1173 1177	AQP5
+T44	Cell 1198 1206	cellular
+T45	Multi-tissue_structure 1224 1234	lymph node
+T46	Gene_or_gene_product 1349 1352	AQP
+T47	Organism 1375 1380	human
+T48	Organism_subdivision 1381 1387	breast

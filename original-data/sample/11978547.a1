@@ -1,0 +1,45 @@
+T3	Gene_or_gene_product 21 31	HIF-1alpha
+T5	Gene_or_gene_product 36 40	VEGF
+T8	Cell 55 98	head and neck squamous cell carcinoma lines
+T11	Cancer 149 161	Solid tumors
+T12	Organism_substance 179 184	blood
+T17	Cell 311 338	capillary endothelial cells
+T20	Gene_or_gene_product 391 425	vascular endothelial growth factor
+T21	Gene_or_gene_product 427 431	VEGF
+T24	Gene_or_gene_product 444 448	VEGF
+T25	Cancer 463 479	malignant tumors
+T28	Gene_or_gene_product 630 634	VEGF
+T30	Gene_or_gene_product 687 719	hypoxia inducible factor 1 alpha
+T31	Gene_or_gene_product 721 731	HIF-1alpha
+T32	Cancer 766 771	tumor
+T35	Gene_or_gene_product 792 802	HIF-1alpha
+T36	Gene_or_gene_product 807 811	VEGF
+T38	Gene_or_gene_product 844 865	Jun N terminal kinase
+T39	Gene_or_gene_product 867 871	JNK1
+T41	Gene_or_gene_product 877 887	p38 kinase
+T42	Gene_or_gene_product 1021 1031	HIF-1alpha
+T43	Gene_or_gene_product 1036 1040	VEGF
+T44	Gene_or_gene_product 1064 1068	JNK1
+T45	Gene_or_gene_product 1073 1076	p38
+T46	Cell 1089 1124	squamous cell carcinoma (SCC) lines
+T51	Gene_or_gene_product 1198 1202	JNK1
+T53	Gene_or_gene_product 1207 1210	p38
+T57	Gene_or_gene_product 1281 1291	HIF-1alpha
+T58	Gene_or_gene_product 1353 1356	p38
+T59	Simple_chemical 1367 1375	SB203580
+T62	Gene_or_gene_product 1400 1404	VEGF
+T63	Simple_chemical 1468 1476	SB203580
+T66	Gene_or_gene_product 1496 1500	JNK1
+T67	Gene_or_gene_product 1504 1507	p38
+T70	Gene_or_gene_product 1533 1543	HIF-1alpha
+T72	Gene_or_gene_product 1548 1552	VEGF
+T75	Gene_or_gene_product 1606 1611	SAPKs
+T78	Gene_or_gene_product 1633 1643	HIF-1alpha
+T80	Gene_or_gene_product 1648 1652	VEGF
+T81	Cell 1667 1701	head and neck carcinoma cell lines
+T7	Multi-tissue_structure 557 567	lymph node
+T9	Simple_chemical 588 594	oxygen
+T10	Cell 1419 1428	SCC lines
+T6	Cell 533 544	cancer cell
+T1000	Cell 226 238	Cancer cells
+T65	Cell 1229 1234	cells

@@ -1,0 +1,45 @@
+T1	Gene_or_gene_product 0 3	p21
+T2	Cancer 11 16	tumor
+T3	Cellular_component 42 53	chromosomal
+T4	Gene_or_gene_product 70 73	p53
+T5	Cell 121 129	cellular
+T6	Cell 148 152	cell
+T7	Cellular_component 195 198	DNA
+T8	Gene_or_gene_product 209 212	p53
+T9	Gene_or_gene_product 221 229	p53R172P
+T10	Cell 286 290	cell
+T11	Cancer 321 326	tumor
+T12	Organism 336 340	mice
+T13	Cancer 354 363	lymphomas
+T14	Organism 375 396	Trp53(515C/515C) mice
+T15	Gene_or_gene_product 375 380	Trp53
+T16	Gene_or_gene_product 407 415	p53R172P
+T17	Gene_or_gene_product 467 470	p21
+T18	Gene_or_gene_product 474 477	p53
+T19	Cell 478 482	cell
+T20	Organism 509 530	Trp53(515C/515C) mice
+T21	Gene_or_gene_product 509 514	Trp53
+T22	Gene_or_gene_product 538 541	p21
+T23	Organism 538 557	p21-null background
+T24	Gene_or_gene_product 579 582	p21
+T25	Cellular_component 612 623	chromosomal
+T26	Cancer 647 652	tumor
+T27	Gene_or_gene_product 668 671	p21
+T28	Cell 697 701	cell
+T29	Gene_or_gene_product 727 735	p53R172P
+T30	Cancer 752 757	tumor
+T31	Organism 767 788	Trp53(515C/515C) mice
+T32	Gene_or_gene_product 767 772	Trp53
+T33	Gene_or_gene_product 817 822	Trp53
+T34	Gene_or_gene_product 834 837	p21
+T35	Cancer 843 851	sarcomas
+T36	Cancer 856 865	lymphomas
+T37	Pathological_formation 875 885	aneuploidy
+T38	Pathological_formation 890 913	chromosomal aberrations
+T39	Gene_or_gene_product 934 939	Trp53
+T40	Cancer 951 963	malignancies
+T41	Gene_or_gene_product 971 974	p21
+T42	Gene_or_gene_product 983 986	p53
+T43	Cellular_component 1036 1047	chromosomal
+T44	Cancer 1104 1109	tumor
+T45	Organism 1119 1123	mice

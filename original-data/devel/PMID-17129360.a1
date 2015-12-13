@@ -1,0 +1,26 @@
+T1	Gene_or_gene_product 54 57	Maf
+T2	Cancer 183 189	cancer
+T3	Cell 212 224	Cancer cells
+T4	Cell 369 378	stem cell
+T5	Cancer 414 420	cancer
+T6	Cancer 446 452	cancer
+T7	Cell 464 468	cell
+T8	Cellular_component 685 692	genomes
+T9	Cell 711 715	cell
+T10	Gene_or_gene_product 846 851	Keap1
+T11	Gene_or_gene_product 852 856	Nrf2
+T12	Gene_or_gene_product 936 940	Nrf2
+T13	Gene_or_gene_product 968 971	Maf
+T14	Gene_or_gene_product 1027 1030	Maf
+T15	Gene_or_gene_product 1062 1067	Keap1
+T16	Gene_or_gene_product 1098 1102	Nrf2
+T17	Gene_or_gene_product 1127 1131	Nrf2
+T18	Cell 1155 1163	cellular
+T19	Cellular_component 1182 1188	genome
+T20	Gene_or_gene_product 1306 1310	Nrf2
+T21	Cancer 1356 1362	cancer
+T22	Gene_or_gene_product 1412 1416	Nrf2
+T23	Gene_or_gene_product 1441 1446	keap1
+T24	Cell 1486 1503	lung cancer cells
+T25	Gene_or_gene_product 1543 1547	Nrf2
+T26	Cell 1586 1598	cancer cells

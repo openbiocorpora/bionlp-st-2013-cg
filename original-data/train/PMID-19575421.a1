@@ -1,0 +1,59 @@
+T1	Simple_chemical 0 11	Desipramine
+T2	Organism 37 42	mouse
+T3	Cell 43 81	skin squamous cell carcinoma cell line
+T4	Gene_or_gene_product 94 117	glucocorticoid receptor
+T5	Simple_chemical 223 234	desipramine
+T6	Simple_chemical 236 239	DMI
+T7	Gene_or_gene_product 291 314	glucocorticoid receptor
+T8	Gene_or_gene_product 316 318	GR
+T9	Organism_substance 329 338	cytoplasm
+T10	Cellular_component 346 353	nucleus
+T11	Cell 357 366	cancerous
+T12	Cell 371 394	noncancerous cell lines
+T13	Simple_chemical 413 416	DMI
+T14	Gene_or_gene_product 420 422	GR
+T15	Cell 476 499	keratinocytes cell line
+T16	Cell 501 504	3PC
+T17	Cell 507 516	papilloma
+T18	Cell 518 523	MT1/2
+T19	Cell 530 553	squamous cell carcinoma
+T20	Cell 555 560	Ca3/7
+T21	Cell 562 572	cell lines
+T22	Cell 606 610	cell
+T23	Simple_chemical 632 635	DMI
+T24	Cell 671 681	cell lines
+T25	Simple_chemical 700 703	DMI
+T26	Cell 730 741	Ca3/7 cells
+T27	Simple_chemical 785 788	DMI
+T28	Cell 792 803	Ca3/7 cells
+T29	Simple_chemical 853 890	glucocorticoid fluocinolone acetonide
+T30	Simple_chemical 892 894	FA
+T31	Simple_chemical 897 900	DMI
+T32	Cell 911 915	cell
+T33	Gene_or_gene_product 979 981	GR
+T34	Simple_chemical 997 999	FA
+T35	Simple_chemical 1007 1010	DMI
+T36	Simple_chemical 1050 1052	FA
+T37	Gene_or_gene_product 1061 1063	GR
+T38	Cell 1090 1101	Ca3/7 cells
+T39	Gene_or_gene_product 1121 1145	luciferase reporter gene
+T40	Simple_chemical 1210 1213	DMI
+T41	Gene_or_gene_product 1235 1237	GR
+T42	Simple_chemical 1271 1274	DMI
+T43	Simple_chemical 1285 1287	FA
+T44	Gene_or_gene_product 1297 1299	GR
+T45	Simple_chemical 1379 1382	DMI
+T46	Simple_chemical 1410 1413	DMI
+T47	Simple_chemical 1418 1420	FA
+T48	Gene_or_gene_product 1431 1433	GR
+T49	Simple_chemical 1485 1487	FA
+T50	Gene_or_gene_product 1507 1524	metallothionein-1
+T51	Gene_or_gene_product 1526 1530	Mt-1
+T52	Gene_or_gene_product 1560 1562	GR
+T53	Simple_chemical 1612 1615	DMI
+T54	Simple_chemical 1620 1622	FA
+T55	Simple_chemical 1672 1674	FA
+T56	Simple_chemical 1683 1686	DMI
+T57	Simple_chemical 1688 1691	DMI
+T58	Cell 1730 1741	Ca3/7 cells
+T59	Gene_or_gene_product 1756 1758	GR

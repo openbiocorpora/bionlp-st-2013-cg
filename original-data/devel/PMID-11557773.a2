@@ -1,0 +1,26 @@
+*	Equiv T15 T16
+T32	Catabolism 8 18	catabolism
+E1	Catabolism:T32 Theme:T1
+T33	Metabolism 241 251	metabolize
+E2	Metabolism:T33 Theme:T5
+T34	Gene_expression 372 382	expression
+E3	Gene_expression:T34 Theme:T9
+T35	Planned_process 828 839	transfected
+E4	Planned_process:T35 Theme:T18
+T36	Positive_regulation 877 886	activates
+E5	Positive_regulation:T36 Site:T37 Cause:T18 Theme:T19
+T37	DNA_domain_or_region 910 918	promoter
+T38	Localization 972 980	presence
+E6	Localization:T38 Theme:T20 AtLoc:T18
+T39	Mutation 1128 1143	nested deletion
+E7	Mutation:T39 Theme:T23 Site:T40
+T40	DNA_domain_or_region 1187 1195	promoter
+T41	Positive_regulation 1602 1612	activation
+E8	Positive_regulation:T41 Cause:T27 Theme:T28
+T42	Glycolysis 1689 1699	glycolytic
+E9	Glycolysis:T42 
+T43	Cell_proliferation 1774 1780	growth
+E10	Cell_proliferation:T43 Theme:T30
+T44	Death 1785 1793	survival
+E11	Death:T44 Theme:T30
+M1	Negation E11

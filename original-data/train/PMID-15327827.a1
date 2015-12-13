@@ -1,0 +1,20 @@
+T1	Gene_or_gene_product 15 18	p53
+T2	Gene_or_gene_product 23 31	TGF-beta
+T3	Gene_or_gene_product 53 56	p53
+T4	Cell 184 189	cells
+T5	Cell 198 206	cellular
+T6	Gene_or_gene_product 223 226	p53
+T7	Gene_or_gene_product 355 358	p53
+T8	Cell 400 405	cells
+T9	Gene_or_gene_product 443 446	p53
+T10	Cellular_component 500 503	DNA
+T11	Cancer 561 566	tumor
+T12	Gene_or_gene_product 592 595	p53
+T13	Immaterial_anatomical_entity 622 635	extracellular
+T14	Cellular_component 657 669	cell surface
+T15	Tissue 677 683	tissue
+T16	Gene_or_gene_product 818 821	p53
+T17	Gene_or_gene_product 842 850	TGF-beta
+T18	Gene_or_gene_product 924 932	TGF-beta
+T19	Developing_anatomical_structure 942 949	embryos
+T20	Cancer 1026 1032	cancer

@@ -1,0 +1,43 @@
+*	Equiv T3 T4
+*	Equiv T13 T14
+*	Equiv T16 T17
+*	Equiv T18 T19
+T27	Planned_process 18 27	Treatment
+E1	Planned_process:T27 Instrument:T1 Theme:T2
+T28	Death 184 188	kill
+T29	Positive_regulation 184 188	kill
+E2	Death:T28 Theme:T5
+E3	Positive_regulation:T29 Theme:E2 Cause:T3
+T30	Positive_regulation 223 232	essential
+E4	Positive_regulation:T30 Cause:T6 Theme:E5
+T31	Negative_regulation 303 313	protection
+E5	Negative_regulation:T31 Theme:E6
+T32	Infection 329 338	infection
+E6	Infection:T32 
+T33	Regulation 453 466	major players
+E7	Regulation:T33 Cause:T8 Theme:E12
+E8	Regulation:T33 Cause:T8 Theme:E13
+E9	Regulation:T33 Cause:T8 Theme:E14
+E10	Regulation:T33 Cause:T8 Theme:E15
+E11	Regulation:T33 Cause:T8 Theme:E16
+T34	Positive_regulation 476 486	initiation
+E12	Positive_regulation:T34 Theme:T9
+T35	Growth 488 501	proliferation
+E13	Growth:T35 Theme:T9
+T36	Localization 503 511	invasion
+E14	Localization:T36 Theme:T9
+T37	Blood_vessel_development 513 525	angiogenesis
+E15	Blood_vessel_development:T37 AtLoc:T9
+T38	Metastasis 530 540	metastasis
+E16	Metastasis:T38 Theme:T9
+T39	Planned_process 989 998	treatment
+E17	Planned_process:T39 Instrument:T18
+E18	Planned_process:T39 Instrument:T16
+E19	Planned_process:T39 Instrument:T13
+T40	Negative_regulation 1342 1350	suppress
+E20	Negative_regulation:T40 Theme:E22
+E21	Negative_regulation:T40 Theme:E23
+T41	Gene_expression 1355 1365	expression
+E22	Gene_expression:T41 Theme:T25
+T42	Pathway 1374 1383	signaling
+E23	Pathway:T42 Participant:T26

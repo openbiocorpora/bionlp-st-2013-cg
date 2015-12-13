@@ -1,0 +1,29 @@
+T1	Tissue 14 35	skin microvasculature
+T2	Cell 50 54	cell
+T3	Gene_or_gene_product 110 118	PKCalpha
+T4	Gene_or_gene_product 134 150	protein kinase C
+T5	Gene_or_gene_product 152 155	PKC
+T6	Cell 205 236	microvascular endothelial cells
+T7	Tissue 272 288	microvasculature
+T8	Cell 361 365	cell
+T9	Multi-tissue_structure 400 408	vascular
+T10	Gene_or_gene_product 450 453	PKC
+T11	Gene_or_gene_product 576 584	IL-1beta
+T12	Simple_chemical 589 613	phorbol myristic acetate
+T13	Gene_or_gene_product 627 630	PKC
+T14	Gene_or_gene_product 667 675	PKCalpha
+T15	Simple_chemical 677 683	Go6976
+T16	Gene_or_gene_product 689 696	PKCbeta
+T17	Simple_chemical 698 706	hispidin
+T18	Pathological_formation 775 780	wound
+T19	Gene_or_gene_product 841 849	PKCalpha
+T20	Gene_or_gene_product 919 926	PKCbeta
+T21	Simple_chemical 978 984	Go6976
+T22	Gene_or_gene_product 1103 1111	PKCalpha
+T23	Cellular_component 1119 1132	cell membrane
+T24	Organism_substance 1137 1146	cytoplasm
+T25	Gene_or_gene_product 1176 1184	PKCalpha
+T26	Simple_chemical 1199 1205	Go6976
+T27	Gene_or_gene_product 1280 1288	PKCalpha
+T28	Cell 1312 1328	endothelial cell
+T29	Tissue 1380 1393	microvascular

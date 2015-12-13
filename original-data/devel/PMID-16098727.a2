@@ -1,0 +1,25 @@
+T23	Development 74 85	progression
+E1	Development:T23 Theme:T3
+T24	Development 166 179	morphogenesis
+E2	Development:T24 Theme:T6
+T25	Positive_regulation 211 222	progression
+E3	Positive_regulation:T25 Theme:E4
+T26	Metastasis 249 259	metastases
+E4	Metastasis:T26 Theme:T7
+T27	Positive_regulation 381 392	progression
+E5	Positive_regulation:T27 Theme:T8
+T28	Pathway 422 431	signaling
+E6	Pathway:T28 Participant:T9 Participant2:T10 Participant3:T11
+T29	Pathway 493 511	dependent pathways
+E7	Pathway:T29 Participant:T12
+E8	Pathway:T29 Participant:T13
+E9	Pathway:T29 Participant:T14
+E10	Pathway:T29 Participant:T15
+T30	Negative_regulation 545 555	Repression
+E11	Negative_regulation:T30 Theme:T17
+T31	Regulation 786 807	plays a specific role
+E12	Regulation:T31 Theme:E13
+T32	Localization 815 824	migration
+E13	Localization:T32 Theme:T20 FromLoc:T21
+T33	Planned_process 941 950	therapies
+E14	Planned_process:T33 Theme:T22

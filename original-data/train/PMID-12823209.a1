@@ -1,0 +1,37 @@
+T1	Gene_or_gene_product 20 23	p53
+T2	Gene_or_gene_product 47 81	vascular endothelial growth factor
+T3	Cancer 105 128	squamous cell carcinoma
+T4	Organ 136 145	esophagus
+T5	Cancer 210 217	cancers
+T6	Gene_or_gene_product 222 225	p53
+T7	Cancer 226 231	tumor
+T8	Gene_or_gene_product 259 262	p53
+T9	Cell 344 348	cell
+T10	Cancer 455 466	solid tumor
+T11	Gene_or_gene_product 490 524	Vascular endothelial growth factor
+T12	Gene_or_gene_product 526 530	VEGF
+T13	Cancer 624 629	tumor
+T14	Gene_or_gene_product 708 711	p53
+T15	Gene_or_gene_product 716 720	VEGF
+T16	Cancer 750 770	esophageal carcinoma
+T17	Organism 808 816	patients
+T18	Cancer 839 862	squamous cell carcinoma
+T19	Cancer 864 867	SCC
+T20	Organ 876 885	esophagus
+T21	Gene_or_gene_product 935 939	VEGF
+T22	Gene_or_gene_product 944 947	p53
+T23	Cancer 996 1002	tumors
+T24	Gene_or_gene_product 1022 1025	p53
+T25	Gene_or_gene_product 1030 1034	VEGF
+T26	Cancer 1088 1094	tumors
+T27	Gene_or_gene_product 1145 1148	p53
+T28	Gene_or_gene_product 1153 1157	VEGF
+T29	Gene_or_gene_product 1232 1235	p53
+T30	Gene_or_gene_product 1239 1243	VEGF
+T31	Gene_or_gene_product 1291 1294	p53
+T32	Gene_or_gene_product 1299 1303	VEGF
+T33	Gene_or_gene_product 1361 1364	p53
+T34	Gene_or_gene_product 1369 1373	VEGF
+T35	Organism 1412 1420	patients
+T36	Cancer 1443 1446	SCC
+T37	Organ 1454 1463	esophagus

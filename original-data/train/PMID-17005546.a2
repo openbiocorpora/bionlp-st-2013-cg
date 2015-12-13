@@ -1,0 +1,37 @@
+*	Equiv T5 T6
+T34	Carcinogenesis 0 25	Neoplastic transformation
+E1	Carcinogenesis:T34 AtLoc:T1
+T35	Gene_expression 88 98	expression
+E2	Gene_expression:T35 Theme:T2
+M1	Negation E2
+T36	Gene_expression 211 222	synthesised
+E3	Gene_expression:T36 Theme:T3
+T37	Localization 227 235	secreted
+E4	Localization:T37 FromLoc:T5 Theme:T3
+T38	Positive_regulation 282 292	initiation
+E5	Positive_regulation:T38 Theme:E6
+T39	Development 300 311	development
+E6	Development:T39 Theme:T7
+T40	Gene_expression 331 341	production
+E7	Gene_expression:T40 Theme:T3
+T41	Gene_expression 429 439	synthesise
+E8	Gene_expression:T41 Theme:T10
+M2	Speculation E8
+T42	Localization 687 702	immunolocalised
+E9	Localization:T42 Theme:T17 AtLoc:T18
+E10	Localization:T42 Theme:T17 AtLoc:T19
+E11	Localization:T42 Theme:T17 AtLoc:T24
+T43	Localization 961 968	stained
+E12	Localization:T43 Theme:T29 AtLoc:T27
+E13	Localization:T43 Theme:T29 AtLoc:T26
+M3	Negation E12
+M4	Negation E13
+T44	Gene_expression 1049 1057	produced
+E14	Gene_expression:T44 Theme:T30
+T45	Gene_expression 1122 1132	expression
+E15	Gene_expression:T45 Theme:T32
+M5	Negation E15
+T46	Positive_regulation 1177 1187	contribute
+E16	Positive_regulation:T46 Cause:E15 Theme:E17
+T47	Cell_transformation 1196 1221	neoplastic transformation
+E17	Cell_transformation:T47 

@@ -1,0 +1,72 @@
+T46	Negative_regulation 4 10	delays
+E1	Negative_regulation:T46 Cause:T1 Theme:E2
+T47	Development 17 22	onset
+E2	Development:T47 Theme:T2
+T48	Negative_regulation 82 92	suppresses
+E3	Negative_regulation:T48 Theme:E5 Cause:E6
+E4	Negative_regulation:T48 Theme:E5 Cause:E7
+T49	Carcinogenesis 93 106	tumorigenesis
+E5	Carcinogenesis:T49 
+T50	Positive_regulation 110 120	initiating
+E6	Positive_regulation:T50 Cause:T4 Theme:E9
+E7	Positive_regulation:T50 Cause:T4 Theme:E10
+T51	Pathway 153 158	cycle
+E8	Pathway:T51 Theme:T6
+T52	Negative_regulation 159 165	arrest
+E9	Negative_regulation:T52 Theme:E8
+T53	Cell_death 170 179	apoptosis
+E10	Cell_death:T53 Theme:T6
+T54	Regulation 183 191	response
+E11	Regulation:T54 Theme:E4 Cause:E13
+E12	Regulation:T54 Theme:E3 Cause:E13
+T55	Breakdown 199 205	damage
+E13	Breakdown:T55 Theme:T7
+T56	Regulation 240 249	deficient
+E14	Regulation:T56 Cause:T9 Theme:E15
+M1	Negation E14
+T57	Cell_death 254 263	apoptosis
+E15	Cell_death:T57 
+T58	Pathway 291 296	cycle
+E16	Pathway:T58 Theme:T10
+T59	Negative_regulation 297 303	arrest
+E17	Negative_regulation:T59 Theme:E16 Cause:T9
+T60	Negative_regulation 314 320	delays
+E18	Negative_regulation:T60 Theme:E19 Cause:T9
+T61	Development 327 332	onset
+E19	Development:T61 Theme:T11
+T62	Regulation 459 463	role
+E20	Regulation:T62 Theme:E22 Cause:T17
+T63	Pathway 483 488	cycle
+E21	Pathway:T63 Theme:T19
+T64	Regulation 489 496	control
+E22	Regulation:T64 Theme:E21 Cause:T18
+T65	Planned_process 501 508	crossed
+E23	Planned_process:T65 Theme:T20 Theme2:T23
+T66	Positive_regulation 587 595	required
+E24	Positive_regulation:T66 Cause:T24 Theme:E25
+M2	Speculation E24
+T67	Negative_regulation 638 646	delaying
+E25	Negative_regulation:T67 Theme:E26
+T68	Development 653 658	onset
+E26	Development:T68 Theme:T26
+T69	Localization 660 664	Loss
+E27	Localization:T69 Theme:T27
+M3	Negation E27
+T70	Negative_regulation 683 692	abolished
+E28	Negative_regulation:T70 Cause:E27 Theme:E30
+T71	Pathway 702 707	cycle
+E29	Pathway:T71 Participant:T28
+T72	Negative_regulation 708 714	arrest
+E30	Negative_regulation:T72 Theme:E29 Cause:T29
+T73	Positive_regulation 740 751	accelerated
+E31	Positive_regulation:T73 Theme:E32
+T74	Development 758 763	onset
+E32	Development:T74 Theme:T30
+T75	Regulation 1063 1073	cooperated
+E33	Regulation:T75 Theme:E35 Cause:E34
+T76	Cell_death 1079 1088	apoptosis
+E34	Cell_death:T76 
+T77	Negative_regulation 1092 1103	suppressing
+E35	Negative_regulation:T77 Theme:E36
+T78	Development 1110 1115	onset
+E36	Development:T78 Theme:T44

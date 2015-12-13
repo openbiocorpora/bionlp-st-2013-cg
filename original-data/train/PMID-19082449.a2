@@ -1,0 +1,37 @@
+*	Equiv T4 T5
+*	Equiv T27 T28
+T33	Gene_expression 85 95	expression
+E1	Gene_expression:T33 Theme:T1
+T34	Regulation 196 219	plays an essential role
+E2	Regulation:T34 Cause:T4 Theme:E3
+T35	Blood_vessel_development 223 235	angiogenesis
+E3	Blood_vessel_development:T35 
+T36	Gene_expression 286 296	expression
+E4	Gene_expression:T36 Theme:T6
+T37	Positive_regulation 310 318	enhanced
+E5	Positive_regulation:T37 Cause:E4 Theme:E6
+T38	Localization 319 331	invasiveness
+E6	Localization:T38 Theme:T8
+T39	Gene_expression 469 479	expression
+E7	Gene_expression:T39 Theme:T9
+T40	Gene_expression 541 551	expression
+E8	Gene_expression:T40 Theme:T11
+T41	Regulation 668 672	role
+E9	Regulation:T41 Cause:T13 Theme:T14
+M1	Speculation E9
+T42	Localization 754 762	presence
+E10	Localization:T42 Theme:T15 AtLoc:T17
+E11	Localization:T42 Theme:T15 AtLoc:T18
+T43	Gene_expression 935 945	expression
+E12	Gene_expression:T43 Theme:T21
+T44	Gene_expression 1097 1107	expressing
+E13	Gene_expression:T44 Theme:T24
+T45	Gene_expression 1236 1246	expression
+E14	Gene_expression:T45 Theme:T25
+T46	Localization 1315 1323	invasion
+E15	Localization:T46 Theme:T26
+T47	Gene_expression 1432 1440	positive
+E16	Gene_expression:T47 Theme:T29
+T48	Gene_expression 1499 1507	negative
+E17	Gene_expression:T48 Theme:T30
+M2	Negation E17

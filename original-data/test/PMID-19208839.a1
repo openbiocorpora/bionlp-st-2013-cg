@@ -1,0 +1,50 @@
+T1	Gene_or_gene_product 13 27	angiopoietin-2
+T2	Cancer 52 57	tumor
+T3	Multi-tissue_structure 74 80	vessel
+T4	Cancer 131 136	tumor
+T5	Gene_or_gene_product 149 161	angiopoietin
+T6	Gene_or_gene_product 162 166	Tie2
+T7	Multi-tissue_structure 208 216	vascular
+T8	Multi-tissue_structure 270 276	vessel
+T9	Gene_or_gene_product 315 329	Angiopoietin-2
+T10	Gene_or_gene_product 331 336	Ang-2
+T11	Multi-tissue_structure 386 397	vasculature
+T12	Cancer 406 412	tumors
+T13	Gene_or_gene_product 505 510	Ang-2
+T14	Cancer 524 529	tumor
+T15	Gene_or_gene_product 629 634	Ang-2
+T16	Gene_or_gene_product 757 762	Ang-2
+T17	Cancer 784 789	tumor
+T18	Cancer 919 925	tumors
+T19	Gene_or_gene_product 943 948	Ang-2
+T20	Organism 943 963	Ang-2-deficient mice
+T21	Cancer 965 986	Lewis lung carcinomas
+T22	Cancer 988 1004	MT-ret melanomas
+T23	Cancer 1010 1026	B16F10 melanomas
+T24	Gene_or_gene_product 1046 1051	Ang-2
+T25	Organism 1046 1066	Ang-2-deficient mice
+T26	Cancer 1073 1078	tumor
+T27	Gene_or_gene_product 1103 1108	Ang-2
+T28	Organism 1103 1123	Ang-2-deficient mice
+T29	Cancer 1159 1164	tumor
+T30	Cancer 1186 1191	tumor
+T31	Cancer 1236 1241	tumor
+T32	Multi-tissue_structure 1284 1318	intratumoral vascular architecture
+T33	Tissue 1352 1363	microvessel
+T34	Tissue 1425 1450	intratumoral microvessels
+T35	Cancer 1467 1473	tumors
+T36	Gene_or_gene_product 1483 1488	Ang-2
+T37	Organism 1483 1503	Ang-2-deficient mice
+T38	Multi-tissue_structure 1513 1524	vasculature
+T39	Cell 1551 1559	pericyte
+T40	Gene_or_gene_product 1588 1593	Ang-2
+T41	Tissue 1588 1617	Ang-2-deficient tumor vessels
+T42	Cell 1629 1637	pericyte
+T43	Cell 1666 1675	pericytes
+T44	Gene_or_gene_product 1681 1687	desmin
+T45	Gene_or_gene_product 1692 1695	NG2
+T46	Gene_or_gene_product 1723 1748	alpha-smooth muscle actin
+T47	Cell 1787 1795	pericyte
+T48	Gene_or_gene_product 1856 1861	Ang-2
+T49	Cancer 1869 1874	tumor
+T50	Gene_or_gene_product 1957 1962	Ang-2

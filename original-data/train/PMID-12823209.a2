@@ -1,0 +1,46 @@
+*	Equiv T11 T12
+*	Equiv T18 T19
+T38	Gene_expression 32 42	expression
+E1	Gene_expression:T38 Theme:T1
+T39	Gene_expression 82 92	expression
+E2	Gene_expression:T39 Theme:T2
+T40	Planned_process 96 104	resected
+E3	Planned_process:T40 Theme:T3
+T41	Mutation 248 257	mutations
+E4	Mutation:T41 Theme:T6
+T42	Regulation 333 340	control
+E5	Regulation:T42 Cause:T8 Theme:E7
+E6	Regulation:T42 Cause:T8 Theme:E8
+T43	Cell_proliferation 349 362	proliferation
+E7	Cell_proliferation:T43 Theme:T9
+T44	Cell_death 364 373	apoptosis
+E8	Cell_death:T44 Theme:T9
+T45	Blood_vessel_development 417 429	Angiogenesis
+E9	Blood_vessel_development:T45 
+T46	Positive_regulation 435 443	critical
+E10	Positive_regulation:T46 Cause:E9 Theme:E12
+E11	Positive_regulation:T46 Cause:E9 Theme:E13
+T47	Growth 467 473	growth
+E12	Growth:T47 Theme:T10
+T48	Metastasis 478 488	metastasis
+E13	Metastasis:T48 Theme:T10
+T49	Blood_vessel_development 586 596	angiogenic
+E14	Blood_vessel_development:T49 
+T50	Blood_vessel_development 630 642	angiogenesis
+E15	Blood_vessel_development:T50 AtLoc:T13
+T51	Regulation 643 652	regulator
+E16	Regulation:T51 Cause:T11 Theme:E15
+T52	Gene_expression 721 732	expressions
+E17	Gene_expression:T52 Theme:T15
+E18	Gene_expression:T52 Theme:T14
+T53	Planned_process 794 802	resected
+E19	Planned_process:T53 Theme:T18
+T54	Gene_expression 948 959	expressions
+E20	Gene_expression:T54 Theme:T22
+E21	Gene_expression:T54 Theme:T21
+T55	Gene_expression 1244 1254	expression
+E22	Gene_expression:T55 Theme:T30
+E23	Gene_expression:T55 Theme:T29
+T56	Gene_expression 1304 1315	expressions
+E24	Gene_expression:T56 Theme:T32
+E25	Gene_expression:T56 Theme:T31

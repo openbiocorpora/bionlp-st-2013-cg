@@ -1,0 +1,25 @@
+*	Equiv T8 T9
+*	Equiv T12 T13
+*	Equiv T18 T19
+T31	Positive_regulation 80 89	dependent
+E1	Positive_regulation:T31 Cause:E2 Theme:T3
+T32	Blood_vessel_development 93 108	neoangiogenesis
+E2	Blood_vessel_development:T32 
+T33	Blood_vessel_development 117 132	neoangiogenesis
+E3	Blood_vessel_development:T33 AtLoc:T4
+T34	Breakdown 216 227	dysfunction
+E4	Breakdown:T34 Theme:T5
+T35	Positive_regulation 413 421	elevated
+E5	Positive_regulation:T35 Theme:T8
+T36	Regulation 479 491	perturbation
+E6	Regulation:T36 Theme:T10
+T37	Positive_regulation 579 587	increase
+E7	Positive_regulation:T37 Theme:T12
+T38	Breakdown 616 622	damage
+E8	Breakdown:T38 Theme:T14
+T39	Regulation 659 681	have an important role
+E9	Regulation:T39 Cause:T15 Theme:E10
+T40	Blood_vessel_development 691 705	vasculogenesis
+E10	Blood_vessel_development:T40 AtLoc:T16
+T41	Breakdown 768 779	dysfunction
+E11	Breakdown:T41 Theme:T17

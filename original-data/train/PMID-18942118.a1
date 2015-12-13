@@ -1,0 +1,62 @@
+T1	Gene_or_gene_product 0 4	PI3K
+T2	Gene_or_gene_product 5 8	Akt
+T3	Gene_or_gene_product 64 69	BMP-2
+T4	Gene_or_gene_product 70 74	Smad
+T5	Gene_or_gene_product 88 97	NF-kappaB
+T6	Cell 112 133	prostate cancer cells
+T7	Organ 148 152	Bone
+T8	Cancer 215 230	prostate cancer
+T9	Cancer 232 234	PC
+T10	Cellular_component 311 318	nuclear
+T11	Gene_or_gene_product 340 349	NF-kappaB
+T12	Cancer 365 367	PC
+T13	Gene_or_gene_product 440 445	BMP-2
+T14	Gene_or_gene_product 449 454	BMP-4
+T15	Gene_or_gene_product 455 459	Smad
+T16	Cell 473 481	PC cells
+T17	Gene_or_gene_product 492 501	NF-kappaB
+T18	Gene_or_gene_product 529 541	IkappaBalpha
+T19	Organism 558 568	adenoviral
+T20	Cellular_component 745 754	chromatin
+T21	Gene_or_gene_product 789 794	Smad1
+T22	Gene_or_gene_product 795 796	5
+T23	Gene_or_gene_product 797 798	8
+T24	Gene_or_gene_product 880 885	BMP-2
+T25	Gene_or_gene_product 890 895	BMP-4
+T26	Gene_or_gene_product 931 940	NF-kappaB
+T27	Gene_or_gene_product 984 989	BMP-2
+T28	Gene_or_gene_product 993 996	p65
+T29	Gene_or_gene_product 1015 1026	rhTNF-alpha
+T30	Cell 1038 1046	PC cells
+T31	Gene_or_gene_product 1062 1071	NF-kappaB
+T32	Gene_or_gene_product 1140 1145	BMP-2
+T33	Gene_or_gene_product 1149 1160	rhTNF-alpha
+T34	Cell 1172 1183	C4-2B cells
+T35	Cell 1223 1234	LNCaP cells
+T36	Gene_or_gene_product 1260 1264	PI3K
+T37	Gene_or_gene_product 1265 1268	Akt
+T38	Gene_or_gene_product 1284 1293	NF-kappaB
+T39	Gene_or_gene_product 1302 1307	BMP-2
+T40	Gene_or_gene_product 1355 1364	NF-kappaB
+T41	Gene_or_gene_product 1412 1417	BMP-2
+T42	Gene_or_gene_product 1445 1450	Smad1
+T43	Gene_or_gene_product 1451 1452	5
+T44	Gene_or_gene_product 1453 1454	8
+T45	Gene_or_gene_product 1487 1492	BMP-2
+T46	Cell 1506 1514	PC cells
+T47	Gene_or_gene_product 1543 1549	BMPRII
+T48	Gene_or_gene_product 1553 1558	BMP-2
+T49	Gene_or_gene_product 1589 1593	Smad
+T50	Gene_or_gene_product 1608 1617	NF-kappaB
+T51	Cell 1621 1629	PC cells
+T52	Gene_or_gene_product 1689 1694	BMP-2
+T53	Gene_or_gene_product 1703 1712	NF-kappaB
+T54	Gene_or_gene_product 1755 1761	kappab
+T55	Gene_or_gene_product 1774 1779	BMP-2
+T56	Gene_or_gene_product 1825 1829	PI3K
+T57	Gene_or_gene_product 1830 1833	Akt
+T58	Gene_or_gene_product 1834 1843	NF-kappaB
+T59	Multi-tissue_structure 1861 1868	PC bone
+T60	Gene_or_gene_product 1938 1943	BMP-2
+T61	Gene_or_gene_product 1944 1948	Smad
+T62	Cell 1970 1990	osteotropic PC cells

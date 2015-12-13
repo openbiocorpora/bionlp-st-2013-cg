@@ -1,0 +1,32 @@
+T1	Simple_chemical 11 25	spironolactone
+T2	Multi-tissue_structure 29 46	corneal allograft
+T3	Organism 63 66	rat
+T4	Simple_chemical 77 91	Spironolactone
+T5	Simple_chemical 245 259	spironolactone
+T6	Multi-tissue_structure 281 298	corneal allograft
+T7	Gene_or_gene_product 314 325	MHC class I
+T8	Gene_or_gene_product 326 328	II
+T9	Organism 338 341	rat
+T10	Multi-tissue_structure 342 349	corneal
+T11	Multi-tissue_structure 397 404	corneal
+T12	Simple_chemical 455 469	spironolactone
+T13	Simple_chemical 513 538	phosphate-buffered saline
+T14	Simple_chemical 540 543	PBS
+T15	Simple_chemical 568 582	spironolactone
+T16	Organism 642 646	rats
+T17	Simple_chemical 660 674	spironolactone
+T18	Simple_chemical 686 689	PBS
+T19	Multi-tissue_structure 805 810	graft
+T20	Simple_chemical 869 883	spironolactone
+T21	Simple_chemical 923 926	PBS
+T22	Multi-tissue_structure 1043 1050	corneal
+T23	Simple_chemical 1073 1087	spironolactone
+T24	Organism 1096 1100	rats
+T25	Simple_chemical 1119 1122	PBS
+T26	Simple_chemical 1197 1211	Spironolactone
+T27	Cell 1255 1266	CD25+ cells
+T28	Gene_or_gene_product 1255 1259	CD25
+T29	Organ 1270 1276	spleen
+T30	Gene_or_gene_product 1322 1327	IL-10
+T31	Multi-tissue_structure 1331 1337	cornea
+T32	Simple_chemical 1422 1436	spironolactone

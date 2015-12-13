@@ -1,0 +1,43 @@
+T1	Simple_chemical 14 21	glucose
+T2	Cell 44 55	tumor cells
+T3	Gene_or_gene_product 117 149	death-inducing signaling complex
+T4	Gene_or_gene_product 171 183	procaspase-8
+T5	Cancer 197 203	Tumors
+T6	Simple_chemical 227 234	glucose
+T7	Simple_chemical 292 299	glucose
+T8	Organism 361 366	human
+T9	Cell 367 378	tumor cells
+T10	Simple_chemical 432 439	glucose
+T11	Simple_chemical 444 452	pyruvate
+T12	Simple_chemical 472 486	2-deoxyglucose
+T13	Gene_or_gene_product 517 550	tumor necrosis factor (TNF)-alpha
+T14	Gene_or_gene_product 552 556	CD95
+T15	Gene_or_gene_product 581 618	TNF-related apoptosis-inducing ligand
+T16	Gene_or_gene_product 620 625	TRAIL
+T17	Simple_chemical 642 649	glucose
+T18	Cell 681 702	myeloid leukemia U937
+T19	Cell 704 727	cervical carcinoma HeLa
+T20	Cell 733 761	breast carcinoma MCF-7 cells
+T21	Gene_or_gene_product 792 799	Caspase
+T22	Cellular_component 812 825	mitochondrial
+T23	Gene_or_gene_product 846 858	cytochrome c
+T24	Simple_chemical 906 913	Glucose
+T25	Cell 979 990	MCF-7 cells
+T26	Gene_or_gene_product 1006 1011	BCL-2
+T27	Organism 1032 1037	human
+T28	Cell 1038 1071	B-lymphoblastoid cell line SKW6.4
+T29	Cellular_component 1089 1101	mitochondria
+T30	Gene_or_gene_product 1176 1180	CD95
+T31	Gene_or_gene_product 1185 1190	TRAIL
+T32	Simple_chemical 1215 1222	glucose
+T33	Gene_or_gene_product 1251 1260	c-FLIP(L)
+T34	Gene_or_gene_product 1265 1271	cFLIPs
+T35	Cell 1317 1327	cell lines
+T36	Simple_chemical 1346 1353	glucose
+T37	Simple_chemical 1367 1374	Glucose
+T38	Gene_or_gene_product 1434 1466	death-inducing signaling complex
+T39	Gene_or_gene_product 1491 1503	procaspase-8
+T40	Cell 1636 1647	tumor cells
+T41	Cell 1718 1723	cells
+T42	Anatomical_system 1731 1744	immune system
+T43	Gene_or_gene_product 1789 1798	caspase-8

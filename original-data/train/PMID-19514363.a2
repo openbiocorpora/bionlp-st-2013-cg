@@ -1,0 +1,31 @@
+T15	Regulation 1 5	Role
+E1	Regulation:T15 Cause:T2 Theme:E2
+T16	Carcinogenesis 37 48	oncogenesis
+E2	Carcinogenesis:T16 
+T17	Regulation 110 114	role
+E3	Regulation:T17 Cause:T4 Theme:E4
+T18	Carcinogenesis 146 157	oncogenesis
+E4	Carcinogenesis:T18 
+T19	Positive_regulation 226 235	dependent
+E5	Positive_regulation:T19 Theme:T5 Cause:T6
+T20	Regulation 245 256	independent
+E6	Regulation:T20 Theme:T5 Cause:T7
+M1	Negation E6
+T21	Regulation 333 344	implication
+E7	Regulation:T21 Theme:E8 Cause:T8
+T22	Blood_vessel_development 355 367	angiogenesis
+E8	Blood_vessel_development:T22 
+T23	Regulation 430 440	regulation
+E9	Regulation:T23 Theme:E10
+T24	Cell_death 458 467	apoptosis
+E10	Cell_death:T24 
+T25	Positive_regulation 488 498	importance
+E11	Positive_regulation:T25 Theme:E12
+T26	Carcinogenesis 545 559	carcinogenesis
+E12	Carcinogenesis:T26 
+T27	Negative_regulation 586 598	inactivation
+E13	Negative_regulation:T27 Theme:T12
+T28	Positive_regulation 626 631	leads
+E14	Positive_regulation:T28 Cause:E13 Theme:E15
+T29	Growth 645 651	growth
+E15	Growth:T29 Theme:T13

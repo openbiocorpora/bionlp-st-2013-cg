@@ -1,0 +1,43 @@
+T1	Gene_or_gene_product 0 10	Syndecan-1
+T2	Cell 25 55	mammary epithelial tumor cells
+T3	Gene_or_gene_product 59 69	E-cadherin
+T4	Gene_or_gene_product 82 92	E-cadherin
+T5	Simple_chemical 98 104	Ca(2+)
+T6	Cell 115 119	cell
+T7	Cell 120 124	cell
+T8	Cell 173 189	epithelial cells
+T9	Gene_or_gene_product 222 232	E-cadherin
+T10	Cell 293 315	epithelial tumor cells
+T11	Gene_or_gene_product 317 327	Syndecan-1
+T12	Cellular_component 333 345	cell surface
+T13	Cell 399 407	cellular
+T14	Cell 428 432	cell
+T15	Cell 433 437	cell
+T16	Cell 448 452	cell
+T17	Cellular_component 453 459	matrix
+T18	Gene_or_gene_product 474 487	growth factor
+T19	Cell 613 629	epithelial cells
+T20	Cell 691 695	cell
+T21	Cell 696 700	cell
+T22	Cell 705 709	cell
+T23	Cellular_component 710 716	matrix
+T24	Gene_or_gene_product 797 807	syndecan-1
+T25	Cell 811 840	malignant mammary tumor cells
+T26	Gene_or_gene_product 869 879	E-cadherin
+T27	Cell 904 923	NM-e-ras-MAC1 cells
+T28	Gene_or_gene_product 931 941	E-cadherin
+T29	Gene_or_gene_product 997 1007	syndecan-1
+T30	Gene_or_gene_product 1064 1079	E-cadherin cDNA
+T31	Cell 1094 1111	NM-f-ras-TD cells
+T32	Gene_or_gene_product 1144 1154	syndecan-1
+T33	Gene_or_gene_product 1239 1249	syndecan-1
+T34	Gene_or_gene_product 1289 1299	syndecan-1
+T35	Gene_or_gene_product 1388 1398	syndecan-1
+T36	Gene_or_gene_product 1426 1436	E-cadherin
+T37	Cell 1456 1460	cell
+T38	Gene_or_gene_product 1479 1494	beta 1-integrin
+T39	Gene_or_gene_product 1515 1525	E-cadherin
+T40	Cell 1614 1618	cell
+T41	Gene_or_gene_product 1639 1649	syndecan-1
+T42	Gene_or_gene_product 1654 1664	E-cadherin
+T43	Cell 1672 1687	epithelial cell

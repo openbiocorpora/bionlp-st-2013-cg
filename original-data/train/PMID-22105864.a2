@@ -1,0 +1,47 @@
+*	Equiv T5 T6
+T49	Carcinogenesis 69 83	carcinogenesis
+E1	Carcinogenesis:T49 Theme:T4
+T50	Regulation 148 168	play important roles
+E2	Regulation:T50 Cause:T5 Theme:E4
+E3	Regulation:T50 Cause:T5 Theme:E5
+T51	Localization 191 200	transport
+E4	Localization:T51 Theme:T7
+E5	Localization:T51 Theme:T8
+T52	Regulation 216 220	role
+E6	Regulation:T52 Cause:T9 Theme:E7
+T53	Carcinogenesis 238 252	carcinogenesis
+E7	Carcinogenesis:T53 
+T54	Gene_expression 412 422	expression
+E8	Gene_expression:T54 Theme:T14
+M1	Speculation E8
+T55	Gene_expression 524 534	expression
+E9	Gene_expression:T55 Theme:T17
+M2	Speculation E9
+T56	Gene_expression 701 710	expressed
+E10	Gene_expression:T56 Theme:T20
+E11	Gene_expression:T56 Theme:T21
+E12	Gene_expression:T56 Theme:T22
+E13	Gene_expression:T56 Theme:T23
+E14	Gene_expression:T56 Theme:T24
+T57	Gene_expression 804 814	expression
+E15	Gene_expression:T57 Theme:T28
+E16	Gene_expression:T57 Theme:T29
+E17	Gene_expression:T57 Theme:T30
+T58	Gene_expression 825 834	expressed
+E18	Gene_expression:T58 Theme:T31
+T59	Gene_expression 861 871	expression
+E19	Gene_expression:T59 Theme:T31
+T60	Gene_expression 931 940	expressed
+E20	Gene_expression:T60 Theme:T35
+T61	Gene_expression 1054 1063	expressed
+E21	Gene_expression:T61 Theme:T39
+T62	Gene_expression 1159 1169	Expression
+E22	Gene_expression:T62 Theme:T43
+T63	Cell_differentiation 1207 1222	differentiation
+E23	Cell_differentiation:T63 Theme:T44
+T64	Localization 1235 1243	invasion
+E24	Localization:T64 ToLoc:T45 Theme:T33
+T65	Regulation 1360 1371	play a role
+E25	Regulation:T65 Cause:T46 Theme:E26
+T66	Carcinogenesis 1388 1402	carcinogenesis
+E26	Carcinogenesis:T66 AtLoc:T48

@@ -1,0 +1,38 @@
+T1	Gene_or_gene_product 0 37	Insulin-like growth factor 1 receptor
+T2	Cell 95 113	colon cancer cells
+T3	Gene_or_gene_product 126 129	Akt
+T4	Gene_or_gene_product 130 138	Bcl-x(L)
+T5	Cancer 149 161	Colon cancer
+T6	Gene_or_gene_product 176 204	insulin-like growth factor 1
+T7	Gene_or_gene_product 206 210	IGF1
+T8	Gene_or_gene_product 216 253	insulin-like growth factor 1 receptor
+T9	Gene_or_gene_product 255 261	IGF1-R
+T10	Multi-tissue_structure 291 309	adenomatous mucosa
+T11	Cell 343 366	colorectal cancer cells
+T12	Gene_or_gene_product 381 385	IGF1
+T13	Gene_or_gene_product 386 392	IGF1-R
+T14	Organism 460 465	human
+T15	Cell 466 495	colon cancer cell line HCT116
+T16	Cell 522 549	HCT116/IGF1-R transfectants
+T17	Gene_or_gene_product 529 535	IGF1-R
+T18	Cell 607 625	parental cell line
+T19	Gene_or_gene_product 693 697	IGF1
+T20	Organism_substance 760 765	serum
+T21	Cell 834 843	monolayer
+T22	Organism 881 890	nude mice
+T23	Cell 892 919	HCT116/IGF1-R transfectants
+T24	Gene_or_gene_product 899 905	IGF1-R
+T25	Cancer 962 972	metastases
+T26	Cell 986 999	parental cell
+T27	Gene_or_gene_product 1041 1047	IGF1-R
+T28	Cell 1057 1062	cells
+T29	Gene_or_gene_product 1083 1089	IGF1-R
+T30	Gene_or_gene_product 1112 1115	Akt
+T31	Gene_or_gene_product 1163 1171	Bcl-x(L)
+T32	Gene_or_gene_product 1191 1194	Akt
+T33	Gene_or_gene_product 1212 1218	IGF1-R
+T34	Gene_or_gene_product 1227 1235	Bcl-x(L)
+T35	Gene_or_gene_product 1320 1326	IGF1-R
+T36	Gene_or_gene_product 1327 1330	Akt
+T37	Gene_or_gene_product 1331 1339	Bcl-x(L)
+T38	Cancer 1420 1438	colorectal cancers

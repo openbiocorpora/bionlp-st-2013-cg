@@ -1,0 +1,30 @@
+T1	Organism 0 3	Bee
+T2	Organism_substance 4 9	venom
+T3	Gene_or_gene_product 55 71	cyclooxygenase-2
+T4	Organism 80 85	human
+T5	Cell 86 117	lung cancer cell line NCI-H1299
+T6	Organism 143 146	bee
+T7	Organism_substance 147 152	venom
+T8	Organism_substance 154 156	BV
+T9	Simple_chemical 181 241	3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide
+T10	Gene_or_gene_product 249 286	terminal deoxynucleotidyl transferase
+T11	Simple_chemical 297 301	dUTP
+T12	Simple_chemical 327 355	4,6-diamidino-2-phenylindole
+T13	Cellular_component 396 399	DNA
+T14	Cell 438 465	NCI-H1299 lung cancer cells
+T15	Organism_substance 479 481	BV
+T16	Cell 556 571	NCI-H1299 cells
+T17	Organism_substance 585 587	BV
+T18	Simple_chemical 692 710	prostaglandin E(2)
+T19	Simple_chemical 712 718	PGE(2)
+T20	Organism_substance 765 767	BV
+T21	Gene_or_gene_product 820 834	cyclooxygenase
+T22	Gene_or_gene_product 836 839	COX
+T23	Simple_chemical 845 852	PGE(2 )
+T24	Gene_or_gene_product 877 882	COX-2
+T25	Simple_chemical 905 911	PGE(2)
+T26	Organism_substance 930 932	BV
+T27	Organism_substance 977 979	BV
+T28	Cancer 998 1003	tumor
+T29	Organism 1014 1019	human
+T30	Cancer 1020 1031	lung cancer

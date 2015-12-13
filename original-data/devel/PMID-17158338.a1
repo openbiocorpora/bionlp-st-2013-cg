@@ -1,0 +1,42 @@
+T1	Gene_or_gene_product 0 14	Angiotensin II
+T2	Gene_or_gene_product 31 57	fms-Like tyrosine kinase-1
+T3	Gene_or_gene_product 70 81	calcineurin
+T4	Cell 123 134	endothelial
+T5	Gene_or_gene_product 200 226	fms-like tyrosine kinase-1
+T6	Gene_or_gene_product 228 234	sFlt-1
+T7	Gene_or_gene_product 265 299	vascular endothelial growth factor
+T8	Gene_or_gene_product 304 327	placental growth factor
+T9	Gene_or_gene_product 329 343	Angiotensin II
+T10	Gene_or_gene_product 345 351	Ang II
+T11	Gene_or_gene_product 413 419	sFlt-1
+T12	Gene_or_gene_product 468 474	Ang II
+T13	Gene_or_gene_product 505 511	sFlt-1
+T14	Gene_or_gene_product 558 564	Ang II
+T15	Gene_or_gene_product 611 617	sFlt-1
+T16	Organism 630 634	mice
+T17	Gene_or_gene_product 663 669	Ang II
+T18	Gene_or_gene_product 688 694	sFlt-1
+T19	Gene_or_gene_product 727 733	Ang II
+T20	Gene_or_gene_product 745 751	sFlt-1
+T21	Organism 805 810	human
+T22	Cell 841 853	trophoblasts
+T23	Cell 867 884	endothelial cells
+T24	Cell 902 914	trophoblasts
+T25	Gene_or_gene_product 941 947	sFlt-1
+T26	Gene_or_gene_product 979 985	Ang II
+T27	Gene_or_gene_product 994 1000	sFlt-1
+T28	Cell 1041 1057	endothelial cell
+T29	Tissue 1081 1085	tube
+T30	Simple_chemical 1131 1139	losartan
+T31	Gene_or_gene_product 1176 1187	calcineurin
+T32	Simple_chemical 1192 1197	FK506
+T33	Gene_or_gene_product 1216 1222	Ang II
+T34	Gene_or_gene_product 1232 1238	sFlt-1
+T35	Gene_or_gene_product 1255 1277	Ang II type 1 receptor
+T36	Gene_or_gene_product 1398 1404	Ang II
+T37	Gene_or_gene_product 1408 1414	sFlt-1
+T38	Organism 1429 1435	murine
+T39	Organism 1440 1445	human
+T40	Gene_or_gene_product 1482 1488	sFlt-1
+T41	Gene_or_gene_product 1558 1563	renin
+T42	Gene_or_gene_product 1564 1575	angiotensin

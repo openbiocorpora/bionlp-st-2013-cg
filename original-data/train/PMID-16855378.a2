@@ -1,0 +1,57 @@
+*	Equiv T25 T26
+T59	Development 445 452	develop
+E1	Development:T59 Theme:T15
+E2	Development:T59 Theme:T16
+T60	Planned_process 788 805	radiomodification
+E3	Planned_process:T60 Instrument:T21
+T61	Regulation 911 918	effects
+E4	Regulation:T61 Theme:T27 Cause:E3
+T62	Metabolism 962 973	consumption
+E5	Metabolism:T62 Theme:T29
+T63	Synthesis 1006 1016	production
+E6	Synthesis:T63 Theme:T30
+T64	Localization 1133 1141	Presence
+E7	Localization:T64 Theme:T32
+T65	Negative_regulation 1167 1176	inhibited
+E8	Negative_regulation:T65 Cause:E7 Theme:E10
+E9	Negative_regulation:T65 Cause:E7 Theme:E11
+T66	Metabolism 1189 1194	usage
+E10	Metabolism:T66 Theme:T33
+T67	Synthesis 1207 1217	production
+E11	Synthesis:T67 Theme:T34
+T68	Negative_regulation 1251 1260	reduction
+E12	Negative_regulation:T68 Theme:E10
+E13	Negative_regulation:T68 Theme:E11
+T69	Positive_regulation 1335 1343	enhanced
+E14	Positive_regulation:T69 Theme:E17 Cause:T37
+T70	Positive_regulation 1358 1365	induced
+E15	Positive_regulation:T70 Theme:E17
+E16	Positive_regulation:T70 Theme:E18
+T71	Death 1371 1376	death
+E17	Death:T71 Theme:T39
+E18	Death:T71 Theme:T40
+T72	Positive_regulation 1418 1426	increase
+E19	Positive_regulation:T72 Cause:T37 Theme:E18
+T73	Planned_process 1460 1478	Radiosensitization
+E20	Planned_process:T73 Instrument:T41 Theme:T42
+T74	Positive_regulation 1530 1538	increase
+E21	Positive_regulation:T74 Theme:E22
+T75	Death 1542 1555	mitotic death
+E22	Death:T75 Theme:T42
+T76	Breakdown 1584 1590	damage
+E23	Breakdown:T76 Theme:T43
+T77	Positive_regulation 1625 1634	induction
+E24	Positive_regulation:T77 Theme:E25
+T78	Cell_death 1638 1647	apoptosis
+E25	Cell_death:T78 
+T79	Localization 1886 1894	presence
+E26	Localization:T79 Theme:T53
+T80	Planned_process 1914 1925	irradiation
+E27	Planned_process:T80 Theme:T54
+T81	Positive_regulation 2023 2029	induce
+E28	Positive_regulation:T81 Cause:T55 Theme:E29
+M1	Negation E28
+T82	Negative_regulation 2055 2060	delay
+E29	Negative_regulation:T82 Theme:T57
+T83	Negative_regulation 2099 2104	delay
+E30	Negative_regulation:T83 Theme:T58 Cause:T55

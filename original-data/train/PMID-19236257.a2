@@ -1,0 +1,35 @@
+*	Equiv T1 T2
+T24	Negative_regulation 51 61	inhibiting
+E1	Negative_regulation:T24 Theme:E2 Cause:T4
+T25	Blood_vessel_development 69 81	angiogenesis
+E2	Blood_vessel_development:T25 AtLoc:T3
+T26	Regulation 134 142	Aberrant
+E3	Regulation:T26 Theme:E4
+T27	Blood_vessel_development 143 155	angiogenesis
+E4	Blood_vessel_development:T27 
+T28	Positive_regulation 198 207	important
+E5	Positive_regulation:T28 Cause:E4 Theme:E7
+E6	Positive_regulation:T28 Cause:E4 Theme:E8
+T29	Growth 227 233	growth
+E7	Growth:T29 Theme:T5
+T30	Metastasis 238 248	metastasis
+E8	Metastasis:T30 Theme:T5
+T31	Regulation 257 265	mediated
+E9	Regulation:T31 Theme:E4
+T32	Blood_vessel_development 281 291	angiogenic
+E10	Blood_vessel_development:T32 
+T33	Pathway 310 317	pathway
+E11	Pathway:T33 Participant:T6
+T34	Blood_vessel_development 364 374	angiogenic
+E12	Blood_vessel_development:T34 
+T35	Negative_regulation 385 395	Inhibition
+E13	Negative_regulation:T35 Theme:E11
+T36	Negative_regulation 488 495	inhibit
+E14	Negative_regulation:T36 Theme:E19 Cause:T10
+E15	Negative_regulation:T36 Theme:E19 Cause:T11
+E16	Negative_regulation:T36 Theme:E19 Cause:T12
+E17	Negative_regulation:T36 Theme:E19
+E18	Negative_regulation:T36 Theme:E19 Cause:T14
+T37	Pathway 505 512	pathway
+E19	Pathway:T37 Participant:T9
+T38	Protein_domain_or_region 891 902	Fc fragment

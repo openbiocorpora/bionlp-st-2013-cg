@@ -1,0 +1,40 @@
+T1	Simple_chemical 0 18	2-methoxyestradiol
+T2	Gene_or_gene_product 28 59	hypoxia-inducible factor 1alpha
+T3	Cancer 61 66	tumor
+T4	Simple_chemical 105 115	paclitaxel
+T5	Cancer 128 165	head and neck squamous cell carcinoma
+T6	Cancer 176 214	Head and neck squamous cell carcinomas
+T7	Gene_or_gene_product 249 286	hypoxia-inducible factor (HIF)-1alpha
+T8	Cell 409 413	cell
+T9	Simple_chemical 421 439	2-Methoxyestradiol
+T10	Simple_chemical 441 445	2ME2
+T11	Gene_or_gene_product 474 484	HIF-1alpha
+T12	Cancer 585 597	solid tumors
+T13	Cancer 611 618	myeloma
+T14	Simple_chemical 689 693	2ME2
+T15	Cancer 697 734	head and neck squamous cell carcinoma
+T16	Simple_chemical 810 814	2ME2
+T17	Simple_chemical 845 855	paclitaxel
+T18	Cancer 898 935	head and neck squamous cell carcinoma
+T19	Simple_chemical 946 950	2ME2
+T20	Cell 1020 1068	head and neck squamous cell carcinoma cell lines
+T21	Gene_or_gene_product 1142 1151	caspase-3
+T22	Gene_or_gene_product 1152 1153	7
+T23	Simple_chemical 1193 1197	2ME2
+T24	Gene_or_gene_product 1228 1238	HIF-1alpha
+T25	Gene_or_gene_product 1313 1316	bid
+T26	Gene_or_gene_product 1333 1338	bcl-2
+T27	Gene_or_gene_product 1358 1392	vascular endothelial growth factor
+T28	Gene_or_gene_product 1441 1444	Bid
+T29	Gene_or_gene_product 1505 1539	vascular endothelial growth factor
+T30	Gene_or_gene_product 1684 1694	HIF-1alpha
+T31	Gene_or_gene_product 1704 1714	HIF-1alpha
+T32	Cancer 1787 1796	xenograft
+T33	Cancer 1806 1843	head and neck squamous cell carcinoma
+T34	Cell 1850 1866	UM-SCC-11A cells
+T35	Simple_chemical 1868 1872	2ME2
+T36	Cancer 1887 1892	tumor
+T37	Gene_or_gene_product 1937 1941	CD31
+T38	Simple_chemical 2016 2020	2ME2
+T39	Simple_chemical 2041 2051	paclitaxel
+T40	Cancer 2095 2132	head and neck squamous cell carcinoma

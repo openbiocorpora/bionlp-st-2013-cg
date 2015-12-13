@@ -1,0 +1,54 @@
+T1	Gene_or_gene_product 14 18	HER2
+T2	Gene_or_gene_product 23 46	bradykinin B1 receptors
+T3	Pathological_formation 50 67	precursor lesions
+T4	Cancer 71 92	gallbladder carcinoma
+T5	Gene_or_gene_product 131 135	HER2
+T6	Gene_or_gene_product 140 165	bradykinin B(1) receptors
+T7	Gene_or_gene_product 167 172	B(1)R
+T8	Cancer 206 224	gallbladder cancer
+T9	Cancer 230 260	metaplasia-dysplasia-carcinoma
+T10	Cancer 269 286	adenoma-carcinoma
+T11	Multi-tissue_structure 373 381	sections
+T12	Tissue 403 409	tissue
+T13	Cancer 455 469	biopsy samples
+T14	Organism 478 486	patients
+T15	Gene_or_gene_product 566 570	HER2
+T16	Cancer 585 594	specimens
+T17	Cell 664 668	Cell
+T18	Gene_or_gene_product 761 774	HER2 receptor
+T19	Cancer 797 805	adenomas
+T20	Tissue 820 842	gallbladder epithelium
+T21	Gene_or_gene_product 892 896	HER2
+T22	Cellular_component 904 924	basolateral membrane
+T23	Cell 928 944	epithelial cells
+T24	Cancer 948 969	intestinal metaplasia
+T25	Cancer 989 998	carcinoma
+T26	Pathological_formation 1024 1031	lesions
+T27	Gene_or_gene_product 1114 1118	HER2
+T28	Tissue 1126 1136	epithelium
+T29	Cancer 1142 1152	metaplasia
+T30	Cancer 1156 1165	carcinoma
+T31	Gene_or_gene_product 1197 1201	HER2
+T32	Cancer 1255 1274	invasive carcinomas
+T33	Gene_or_gene_product 1287 1292	B(1)R
+T34	Gene_or_gene_product 1331 1335	HER2
+T35	Gene_or_gene_product 1348 1353	B(1)R
+T36	Cancer 1387 1395	adenomas
+T37	Gene_or_gene_product 1401 1406	B(1)R
+T38	Organism_substance 1426 1437	cytoplasmic
+T39	Cellular_component 1462 1482	apical cell membrane
+T40	Cell 1490 1495	cells
+T41	Tissue 1510 1519	epithelia
+T42	Cancer 1525 1546	intestinal metaplasia
+T43	Cancer 1565 1582	carcinoma in situ
+T44	Cell 1608 1624	epithelial cells
+T45	Cancer 1628 1636	adenomas
+T46	Gene_or_gene_product 1656 1660	HER2
+T47	Gene_or_gene_product 1677 1682	B(1)R
+T48	Cancer 1723 1754	invasive gallbladder carcinomas
+T49	Gene_or_gene_product 1789 1793	HER2
+T50	Gene_or_gene_product 1798 1803	B(1)R
+T51	Pathological_formation 1807 1824	precursor lesions
+T52	Cancer 1828 1849	gallbladder carcinoma
+T53	Cell 1945 1949	cell
+T54	Organ 1967 1978	gallbladder

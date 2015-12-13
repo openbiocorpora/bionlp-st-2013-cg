@@ -1,0 +1,52 @@
+T1	Gene_or_gene_product 16 50	vascular endothelial growth factor
+T2	Gene_or_gene_product 55 58	p53
+T3	Cancer 70 93	squamous cell carcinoma
+T4	Organ 101 110	esophagus
+T5	Gene_or_gene_product 123 126	p53
+T6	Cancer 143 148	tumor
+T7	Gene_or_gene_product 167 201	vascular endothelial growth factor
+T8	Gene_or_gene_product 203 207	VEGF
+T9	Cancer 229 234	tumor
+T10	Gene_or_gene_product 311 314	p53
+T11	Gene_or_gene_product 385 389	VEGF
+T12	Gene_or_gene_product 394 397	p53
+T13	Cancer 482 516	esophageal squamous cell carcinoma
+T14	Cancer 518 521	SCC
+T15	Tissue 533 548	Tissues samples
+T16	Organism 568 576	patients
+T17	Cancer 582 596	esophageal SCC
+T18	Gene_or_gene_product 630 634	VEGF
+T19	Gene_or_gene_product 639 642	p53
+T20	Cancer 660 663	SCC
+T21	Tissue 700 711	Microvessel
+T22	Tissue 753 765	microvessels
+T23	Multi-tissue_structure 769 783	tumor sections
+T24	Gene_or_gene_product 796 823	Factor VIII-related antigen
+T25	Gene_or_gene_product 825 830	Ki-67
+T26	Gene_or_gene_product 876 881	Ki-67
+T27	Gene_or_gene_product 983 1020	terminal deoxynucleotidyl transferase
+T28	Simple_chemical 1030 1062	deoxyuridine triphosphate biotin
+T29	Gene_or_gene_product 1114 1118	VEGF
+T30	Gene_or_gene_product 1157 1160	p53
+T31	Organism 1212 1220	patients
+T32	Gene_or_gene_product 1222 1226	VEGF
+T33	Gene_or_gene_product 1231 1234	p53
+T34	Multi-tissue_structure 1302 1308	venous
+T35	Gene_or_gene_product 1418 1421	p53
+T36	Cancer 1498 1501	SCC
+T37	Gene_or_gene_product 1507 1511	VEGF
+T38	Gene_or_gene_product 1512 1515	p53
+T39	Gene_or_gene_product 1581 1586	Ki-67
+T40	Cancer 1726 1729	SCC
+T41	Gene_or_gene_product 1735 1738	p53
+T42	Cancer 1770 1773	SCC
+T43	Gene_or_gene_product 1798 1803	Ki-67
+T44	Cancer 1848 1851	SCC
+T45	Gene_or_gene_product 1857 1861	VEGF
+T46	Gene_or_gene_product 1862 1865	p53
+T47	Organism 1945 1953	patients
+T48	Organism 2005 2013	patients
+T49	Gene_or_gene_product 2061 2064	p53
+T50	Cancer 2134 2148	esophageal SCC
+T51	Gene_or_gene_product 2179 2182	p53
+T52	Gene_or_gene_product 2187 2191	VEGF

@@ -1,0 +1,20 @@
+T13	Regulation 0 10	Regulation
+E1	Regulation:T13 Theme:E2
+T14	Pathway 46 55	signaling
+E2	Pathway:T14 Participant:T1
+T15	Regulation 218 231	Dysregulation
+E3	Regulation:T15 Theme:T5
+T16	Pathway 239 259	signaling mechanisms
+E4	Pathway:T16 Theme:T5
+T17	Regulation 300 310	associated
+E5	Regulation:T17 Theme:T6 Cause:E3
+T18	Pathway 644 653	signaling
+E6	Pathway:T18 Participant:T8
+T19	Regulation 671 676	roles
+E7	Regulation:T19 Cause:T9 Theme:E8
+T20	Regulation 692 702	regulation
+E8	Regulation:T20 Theme:T10
+T21	Regulation 737 747	regulation
+E9	Regulation:T21 Theme:T11 Cause:E10
+T22	Negative_regulation 783 793	inhibitory
+E10	Negative_regulation:T22 Theme:T12

@@ -1,0 +1,39 @@
+T1	Simple_chemical 0 22	N-methyl-N-nitrosourea
+T2	Organism 49 52	rat
+T3	Cell 53 69	urothelial cells
+T4	Gene_or_gene_product 112 115	ras
+T5	Organism 134 137	rat
+T6	Cell 138 154	urothelial cells
+T7	Simple_chemical 223 245	N-methyl-N-nitrosourea
+T8	Simple_chemical 247 250	MNU
+T9	Simple_chemical 255 258	MNU
+T10	Simple_chemical 296 312	sodium saccharin
+T11	Cell 406 421	epithelial foci
+T12	Simple_chemical 452 455	MNU
+T13	Cell 480 484	foci
+T14	Cell 516 526	cell lines
+T15	Cell 621 642	epithelial cell lines
+T16	Cell 656 676	fibroblast cell line
+T17	Cellular_component 757 760	DNA
+T18	Cell 779 791	NIH3T3 cells
+T19	Cell 805 826	epithelial cell lines
+T20	Cell 835 839	foci
+T21	Cell 845 850	focus
+T22	Cell 879 898	non-epithelial line
+T23	Cell 907 911	foci
+T24	Gene_or_gene_product 950 958	c-Ki-ras
+T25	Simple_chemical 971 972	G
+T26	Simple_chemical 976 977	A
+T27	Cell 1086 1091	focus
+T28	Cell 1120 1136	epithelial lines
+T29	Organism 1256 1265	nude mice
+T30	Cancer 1270 1277	tumours
+T31	Cancer 1320 1326	tumour
+T32	Cell 1341 1354	control cells
+T33	Cell 1372 1383	NIH3T3 cell
+T34	Cellular_component 1384 1387	DNA
+T35	Cell 1438 1442	cell
+T36	Organism 1500 1503	rat
+T37	Organ 1504 1511	bladder
+T38	Gene_or_gene_product 1569 1572	ras
+T39	Cell 1616 1626	urothelial

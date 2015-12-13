@@ -1,0 +1,15 @@
+T1	Gene_or_gene_product 0 3	p53
+T2	Cancer 30 36	cancer
+T3	Gene_or_gene_product 43 46	p53
+T4	Organism 83 88	human
+T5	Cancer 89 96	cancers
+T6	Gene_or_gene_product 105 108	p53
+T7	Cell 150 154	cell
+T8	Cancer 334 339	tumor
+T9	Gene_or_gene_product 505 508	p53
+T10	Cancer 539 544	tumor
+T11	Gene_or_gene_product 595 598	p53
+T12	Cell 689 693	cell
+T13	Gene_or_gene_product 773 776	p53
+T14	Gene_or_gene_product 886 889	p53
+T15	Cancer 907 916	neoplasia

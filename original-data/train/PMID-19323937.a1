@@ -1,0 +1,33 @@
+T1	Organism 24 32	patients
+T2	Cancer 38 58	pancreatic carcinoma
+T3	Organism 101 109	patients
+T4	Cancer 115 135	pancreatic carcinoma
+T5	Organism 253 261	patients
+T6	Cancer 267 287	pancreatic carcinoma
+T7	Organism 335 343	patients
+T8	Gene_or_gene_product 435 446	prothrombin
+T9	Gene_or_gene_product 471 485	thromboplastin
+T10	Gene_or_gene_product 496 506	fibrinogen
+T11	Gene_or_gene_product 579 589	fibrinogen
+T12	Organism 600 608	patients
+T13	Cancer 614 634	pancreatic carcinoma
+T14	Organism 697 705	patients
+T15	Organism 772 780	patients
+T16	Cancer 786 806	pancreatic carcinoma
+T17	Gene_or_gene_product 822 832	fibrinogen
+T18	Organism 894 902	patients
+T19	Organism 935 943	patients
+T20	Gene_or_gene_product 1016 1026	fibrinogen
+T21	Organ 1144 1153	lymphatic
+T22	Organ 1206 1215	lymphatic
+T23	Organism_substance 1293 1298	blood
+T24	Organism 1312 1320	patients
+T25	Simple_chemical 1326 1335	vitamin K
+T26	Simple_chemical 1379 1388	vitamin K
+T27	Gene_or_gene_product 1451 1461	fibrinogen
+T28	Organism 1465 1473	patients
+T29	Cancer 1479 1499	pancreatic carcinoma
+T30	Gene_or_gene_product 1527 1537	fibrinogen
+T31	Organ 1584 1593	lymphatic
+T32	Simple_chemical 1612 1621	vitamin K
+T33	Organism_substance 1680 1685	blood

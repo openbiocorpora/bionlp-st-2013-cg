@@ -1,0 +1,54 @@
+T1	Simple_chemical 11 25	5-fluorouracil
+T2	Simple_chemical 27 38	oxaliplatin
+T3	Simple_chemical 43 53	irinotecan
+T4	Cancer 57 74	colorectal cancer
+T5	Cell 229 240	endothelial
+T6	Cancer 467 472	tumor
+T7	Simple_chemical 498 508	irinotecan
+T8	Simple_chemical 510 516	CPT-11
+T9	Simple_chemical 519 530	oxaliplatin
+T10	Simple_chemical 532 537	L-OHP
+T11	Simple_chemical 543 557	5-fluorouracil
+T12	Simple_chemical 559 563	5-FU
+T13	Cancer 568 585	colorectal cancer
+T14	Cell 657 661	cell
+T15	Gene_or_gene_product 701 735	vascular endothelial growth factor
+T16	Gene_or_gene_product 737 741	VEGF
+T17	Cell 780 801	endothelial (HMVEC-d)
+T18	Cell 806 837	colorectal cancer (HT-29) cells
+T19	Simple_chemical 888 893	SN-38
+T20	Simple_chemical 920 926	CPT-11
+T21	Simple_chemical 928 933	L-OHP
+T22	Simple_chemical 938 942	5-FU
+T23	Cell 944 949	HT-29
+T24	Organism 950 955	human
+T25	Cancer 956 983	colorectal cancer xenograft
+T26	Cancer 1003 1009	tumour
+T27	Tissue 1018 1029	microvessel
+T28	Gene_or_gene_product 1042 1046	VEGF
+T29	Cancer 1080 1087	tumours
+T30	Simple_chemical 1127 1133	CPT-11
+T31	Simple_chemical 1135 1140	L-OHP
+T32	Simple_chemical 1142 1146	5-FU
+T33	Simple_chemical 1205 1210	SN-38
+T34	Simple_chemical 1220 1224	5-FU
+T35	Simple_chemical 1229 1234	L-OHP
+T36	Cell 1261 1277	endothelial cell
+T37	Cell 1333 1338	HT-29
+T38	Cell 1343 1356	HMVEC-d cells
+T39	Simple_chemical 1379 1384	SN-38
+T40	Simple_chemical 1385 1390	L-OHP
+T41	Simple_chemical 1391 1395	5-FU
+T42	Gene_or_gene_product 1546 1550	VEGF
+T43	Cell 1564 1582	HT-29 cancer cells
+T44	Cancer 1589 1598	xenograft
+T45	Simple_chemical 1616 1622	CPT-11
+T46	Simple_chemical 1632 1636	5-FU
+T47	Simple_chemical 1641 1646	L-OHP
+T48	Cancer 1671 1682	HT-29 tumor
+T49	Tissue 1694 1705	microvessel
+T50	Simple_chemical 1770 1774	5-FU
+T51	Simple_chemical 1775 1780	L-OHP
+T52	Simple_chemical 1781 1787	CPT-11
+T53	Tissue 1815 1828	microvascular
+T54	Cancer 1914 1931	colorectal cancer

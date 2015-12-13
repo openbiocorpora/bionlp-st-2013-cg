@@ -1,0 +1,23 @@
+T1	Gene_or_gene_product 0 3	FAS
+T2	Multi-tissue_structure 43 53	lymph node
+T3	Cancer 68 83	cervical cancer
+T4	Gene_or_gene_product 125 128	FAS
+T5	Gene_or_gene_product 139 142	FAS
+T6	Gene_or_gene_product 156 160	FASL
+T7	Cancer 315 330	cervical cancer
+T8	Organism 383 391	patients
+T9	Cancer 397 412	cervical cancer
+T10	Organism 421 445	healthy control subjects
+T11	Cancer 571 577	cancer
+T12	Multi-tissue_structure 681 691	lymph node
+T13	Gene_or_gene_product 723 726	FAS
+T14	Gene_or_gene_product 855 858	FAS
+T15	Multi-tissue_structure 914 918	node
+T16	Cancer 1096 1111	cervical cancer
+T17	Gene_or_gene_product 1157 1160	FAS
+T18	Gene_or_gene_product 1165 1169	FASL
+T19	Cancer 1266 1281	cervical cancer
+T20	Gene_or_gene_product 1298 1301	FAS
+T21	Multi-tissue_structure 1371 1381	lymph node
+T22	Cancer 1403 1418	cervical cancer
+T23	Organism 1419 1427	patients

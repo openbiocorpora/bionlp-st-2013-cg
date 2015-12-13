@@ -1,0 +1,71 @@
+*	Equiv T5 T6
+T39	Negative_regulation 9 17	inhibits
+E1	Negative_regulation:T39 Cause:E4 Theme:E3
+T40	Metastasis 18 28	metastatic
+E2	Metastasis:T40 
+T41	Positive_regulation 29 40	progression
+E3	Positive_regulation:T41 Theme:T2
+T42	Regulation 63 70	through
+E4	Regulation:T42 Cause:T1 Theme:E5
+T43	Negative_regulation 71 82	suppression
+E5	Negative_regulation:T43 Cause:E6 Theme:T3
+T44	Pathway 137 155	signaling pathways
+E6	Pathway:T44 Participant:T4
+T45	Planned_process 233 242	extracted
+E7	Planned_process:T45 Theme:T5
+T46	Negative_regulation 317 323	effect
+E8	Negative_regulation:T46 Theme:T8 Cause:T5
+T47	Regulation 419 425	effect
+E9	Regulation:T47 Theme:T10
+M1	Speculation E9
+T48	Regulation 491 498	effects
+E10	Regulation:T48 Cause:T11 Theme:T13
+M2	Speculation E10
+T49	Planned_process 573 580	treated
+E11	Planned_process:T49 Instrument:T15 Theme:T14
+T50	Localization 651 659	invasion
+E12	Localization:T50 Theme:T17
+T51	Binding 701 708	binding
+E13	Binding:T51 Theme:T18 Theme2:T19
+M3	Speculation E13
+T52	Regulation 848 854	effect
+E14	Regulation:T52 Cause:T23 Theme:E15
+M4	Speculation E14
+T53	Gene_expression 874 884	expression
+E15	Gene_expression:T53 Theme:T24
+T54	Negative_regulation 943 952	inhibited
+E16	Negative_regulation:T54 Cause:T25 Theme:E17
+T55	Cell_proliferation 968 981	proliferation
+E17	Cell_proliferation:T55 Theme:T26
+T56	Binding 1013 1021	adhesion
+E18	Binding:T56 Theme:T27
+T57	Localization 1026 1034	invasion
+E19	Localization:T57 Theme:T27
+T58	Negative_regulation 1071 1080	inhibited
+E20	Negative_regulation:T58 Cause:E22 Theme:E18
+E21	Negative_regulation:T58 Cause:E22 Theme:E19
+T59	Planned_process 1086 1093	treated
+E22	Planned_process:T59 Instrument:T28 Theme:T27
+T60	Negative_regulation 1165 1174	decreased
+E23	Negative_regulation:T60 Cause:T29 Theme:E25
+E24	Negative_regulation:T60 Cause:T29 Theme:E26
+T61	Gene_expression 1190 1200	expression
+E25	Gene_expression:T61 Theme:T30
+T62	Binding 1226 1233	binding
+E26	Binding:T62 Theme:T31 Theme2:T32
+T63	Negative_regulation 1288 1296	inhibits
+E27	Negative_regulation:T63 Theme:E31 Cause:E33
+E28	Negative_regulation:T63 Theme:E32 Cause:E33
+E29	Negative_regulation:T63 Theme:E31 Cause:E34
+E30	Negative_regulation:T63 Theme:E32 Cause:E34
+T64	Binding 1301 1309	adhesion
+E31	Binding:T64 Theme:T34
+T65	Localization 1314 1322	invasion
+E32	Localization:T65 Theme:T34
+T66	Negative_regulation 1346 1361	down-regulating
+E33	Negative_regulation:T66 Cause:T33 Theme:E35
+E34	Negative_regulation:T66 Cause:T33 Theme:E36
+T67	Gene_expression 1374 1384	expression
+E35	Gene_expression:T67 Theme:T35
+T68	Positive_regulation 1409 1419	activation
+E36	Positive_regulation:T68 Theme:T36

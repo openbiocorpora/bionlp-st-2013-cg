@@ -1,0 +1,55 @@
+*	Equiv T10 T12
+*	Equiv T14 T15
+*	Equiv T16 T17
+*	Equiv T19 T20
+*	Equiv T21 T22
+*	Equiv T27 T28
+T42	Positive_regulation 56 63	induces
+E1	Positive_regulation:T42 Cause:E3 Theme:E2
+T43	Cell_death 64 73	apoptosis
+E2	Cell_death:T43 
+T44	Positive_regulation 78 88	activation
+E3	Positive_regulation:T44 Theme:T4 Cause:T1
+T45	Positive_regulation 523 530	induces
+E4	Positive_regulation:T45 Theme:E5 Cause:T10
+T46	Phosphorylation 567 582	phosphorylation
+E5	Phosphorylation:T46 Theme:T14
+T47	Negative_regulation 596 604	inhibits
+E6	Negative_regulation:T47 Theme:E8 Cause:E9
+E7	Negative_regulation:T47 Theme:T21 Cause:E9
+T48	Pathway 699 708	signaling
+E8	Pathway:T48 Participant:T19 Participant2:T18 Participant3:T16
+T49	Regulation 749 752	via
+E9	Regulation:T49 Theme:E10 Cause:T10
+T50	Phosphorylation 753 768	phosphorylation
+E10	Phosphorylation:T50 Theme:T23
+T51	Positive_regulation 815 822	induced
+E11	Positive_regulation:T51 Cause:T25 Theme:E14
+E12	Positive_regulation:T51 Cause:T25 Theme:E15
+E13	Positive_regulation:T51 Cause:T25 Theme:E16
+T52	Positive_regulation 823 833	activation
+E14	Positive_regulation:T52 Theme:T26
+E15	Positive_regulation:T52 Theme:T27
+T53	Breakdown 895 908	fragmentation
+E16	Breakdown:T53 Theme:T29
+T54	Positive_regulation 925 930	leads
+E17	Positive_regulation:T54 Cause:T25 Theme:E19
+E18	Positive_regulation:T54 Cause:T25 Theme:E21
+T55	Positive_regulation 934 943	induction
+E19	Positive_regulation:T55 Theme:E20
+T56	Cell_death 947 956	apoptosis
+E20	Cell_death:T56 
+T57	Negative_regulation 968 979	suppression
+E21	Negative_regulation:T57 Theme:E22
+T58	Carcinogenesis 983 997	tumorigenicity
+E22	Carcinogenesis:T58 AtLoc:T31
+T59	Negative_regulation 1030 1038	inhibits
+E23	Negative_regulation:T59 Cause:T32 Theme:T34
+T60	Positive_regulation 1074 1081	induced
+E24	Positive_regulation:T60 Cause:T33 Theme:T34
+T61	Cell_transformation 1105 1119	transformation
+E25	Cell_transformation:T61 Theme:T35 AtLoc:T36
+T62	Regulation 1210 1219	mediating
+E26	Regulation:T62 Cause:T37 Theme:E27
+T63	Negative_regulation 1235 1245	properties
+E27	Negative_regulation:T63 Theme:T38 Cause:T39

@@ -1,0 +1,58 @@
+T27	Positive_regulation 6 14	augments
+E1	Positive_regulation:T27 Cause:T1 Theme:E2
+T28	Death 15 20	death
+E2	Death:T28 Theme:T3
+T29	Negative_regulation 25 35	attenuates
+E3	Negative_regulation:T29 Cause:T1 Theme:E4
+T30	Regulation 47 54	effects
+E4	Regulation:T30 Cause:T2 Theme:T3
+T31	Cell_death 120 132	proapoptotic
+E5	Cell_death:T31 
+T32	Regulation 133 142	functions
+E6	Regulation:T32 Cause:T4 Theme:E5
+T33	Cell_death 199 208	apoptotic
+E7	Cell_death:T33 
+T34	Negative_regulation 209 219	mechanisms
+E8	Negative_regulation:T34 Theme:E7
+T35	Cell_death 284 296	proapoptotic
+E9	Cell_death:T35 
+T36	Regulation 297 304	effects
+E10	Regulation:T36 Cause:T7 Theme:E9
+T37	Positive_regulation 332 341	activated
+E11	Positive_regulation:T37 Theme:T8
+T38	Gene_expression 461 471	expression
+E12	Gene_expression:T38 Theme:T11
+E13	Gene_expression:T38 Theme:T12
+E14	Gene_expression:T38 Theme:T13
+T39	Cell_death 508 517	apoptotic
+E15	Cell_death:T39 
+T40	Gene_expression 534 547	overexpressed
+T41	Positive_regulation 534 547	overexpressed
+E16	Gene_expression:T40 Theme:T11
+E17	Positive_regulation:T41 Theme:E16
+E18	Gene_expression:T40 Theme:T12
+E19	Gene_expression:T40 Theme:T13
+E20	Positive_regulation:T41 Theme:E18
+E21	Positive_regulation:T41 Theme:E19
+T42	Negative_regulation 588 597	protected
+E22	Negative_regulation:T42 Theme:E23 Cause:T15
+T43	Death 615 620	death
+E23	Death:T43 Theme:T16
+T44	Glycolysis 834 844	glycolytic
+E24	Glycolysis:T44 
+T45	Negative_regulation 859 869	attenuated
+E25	Negative_regulation:T45 Theme:E27 Cause:T17
+T46	Cell_death 878 887	apoptotic
+E26	Cell_death:T46 
+T47	Negative_regulation 888 894	effect
+E27	Negative_regulation:T47 Cause:T19 Theme:E26
+T48	Negative_regulation 948 959	antagonized
+E28	Negative_regulation:T48 Theme:E31 Cause:T20
+E29	Negative_regulation:T48 Theme:E31 Cause:T24
+M1	Negation E29
+T49	Cell_proliferation 964 970	growth
+E30	Cell_proliferation:T49 Theme:T22
+T50	Negative_regulation 971 982	suppressive
+E31	Negative_regulation:T50 Cause:T21 Theme:E30
+T51	Regulation 1128 1137	functions
+E32	Regulation:T51 Cause:T25 Theme:T26

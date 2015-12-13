@@ -1,0 +1,40 @@
+T2	Gene_or_gene_product 15 56	sterol regulatory element binding protein
+T6	Cell 80 96	endothelial cell
+T8	Gene_or_gene_product 147 188	sterol regulatory element binding protein
+T9	Gene_or_gene_product 190 195	SREBP
+T13	Cell 222 238	endothelial cell
+T15	Cell 266 290	aortic endothelial cells
+T16	Cell 292 295	ECs
+T19	Gene_or_gene_product 330 335	SREBP
+T20	Gene_or_gene_product 340 345	Cdc42
+T23	Cell 499 502	ECs
+T25	Gene_or_gene_product 527 532	SREBP
+T29	Cell 554 557	ECs
+T31	Gene_or_gene_product 626 631	SREBP
+T32	Cell 674 677	ECs
+T35	Gene_or_gene_product 690 695	SREBP
+T39	Cell 720 723	ECs
+T42	Gene_or_gene_product 763 768	SREBP
+T46	Gene_or_gene_product 825 857	low density lipoprotein receptor
+T47	Gene_or_gene_product 859 876	HMG-CoA reductase
+T48	Gene_or_gene_product 882 901	fatty acid synthase
+T52	Cell 930 933	ECs
+T54	Gene_or_gene_product 997 1002	SREBP
+T55	Cell 1017 1020	ECs
+T57	Simple_chemical 1089 1110	25-hydroxycholesterol
+T59	Gene_or_gene_product 1130 1135	SREBP
+T63	Cell 1153 1156	ECs
+T64	Gene_or_gene_product 1221 1241	SREBP-acting protein
+T65	Gene_or_gene_product 1243 1246	S1P
+T66	Gene_or_gene_product 1251 1254	S2P
+T70	Gene_or_gene_product 1305 1310	SREBP
+T71	Cell 1325 1328	ECs
+T73	Gene_or_gene_product 1369 1374	Cdc42
+T76	Cell 1395 1398	ECs
+T78	Gene_or_gene_product 1422 1427	SREBP
+T83	Cell 1477 1480	ECs
+T85	Gene_or_gene_product 1502 1507	SREBP
+T89	Cell 1578 1581	ECs
+T3	Gene_or_gene_product 1038 1058	SREBP-acting protein
+T1000	Organism 259 265	Bovine
+T90	Cell 1190 1195	Cells

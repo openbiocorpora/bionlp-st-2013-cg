@@ -1,0 +1,32 @@
+T1	Gene_or_gene_product 25 84	chicken ovalbumin upstream promoter-transcription factor II
+T2	Organism 99 104	human
+T3	Cancer 105 122	colorectal cancer
+T4	Gene_or_gene_product 124 183	Chicken ovalbumin upstream promoter-transcription factor II
+T5	Gene_or_gene_product 185 194	COUP-TFII
+T6	Gene_or_gene_product 300 309	COUP-TFII
+T7	Organism 335 340	human
+T8	Cell 341 361	lung carcinoma cells
+T9	Gene_or_gene_product 459 468	COUP-TFII
+T10	Cancer 483 500	colorectal cancer
+T11	Gene_or_gene_product 555 564	COUP-TFII
+T12	Cancer 568 585	colorectal cancer
+T13	Gene_or_gene_product 676 685	COUP-TFII
+T14	Cancer 715 732	colorectal cancer
+T15	Gene_or_gene_product 766 775	COUP-TFII
+T16	Organism 779 784	human
+T17	Tissue 785 810	colorectal cancer tissues
+T18	Tissue 824 838	normal tissues
+T19	Cancer 855 872	colorectal cancer
+T20	Organism 873 881	patients
+T21	Gene_or_gene_product 949 958	COUP-TFII
+T22	Organism 1076 1084	patients
+T23	Cancer 1090 1096	tumors
+T24	Gene_or_gene_product 1128 1137	COUP-TFII
+T25	Gene_or_gene_product 1226 1235	COUP-TFII
+T26	Multi-tissue_structure 1308 1314	vessel
+T27	Gene_or_gene_product 1325 1349	carcinoembryonic antigen
+T28	Gene_or_gene_product 1351 1354	CEA
+T29	Gene_or_gene_product 1422 1431	COUP-TFII
+T30	Gene_or_gene_product 1489 1498	COUP-TFII
+T31	Gene_or_gene_product 1565 1574	COUP-TFII
+T32	Cancer 1623 1640	colorectal cancer

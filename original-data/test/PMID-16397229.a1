@@ -1,0 +1,55 @@
+T1	Organism 4 43	Kaposi's sarcoma-associated herpesvirus
+T2	Gene_or_gene_product 44 70	G protein-coupled receptor
+T3	Cancer 116 132	Kaposi's sarcoma
+T4	Organism 139 178	Kaposi's sarcoma-associated herpesvirus
+T5	Organism 180 184	KSHV
+T6	Gene_or_gene_product 196 222	G protein-coupled receptor
+T7	Gene_or_gene_product 224 229	vGPCR
+T8	Cancer 277 293	Kaposi's sarcoma
+T9	Gene_or_gene_product 307 312	vGPCR
+T10	Cancer 352 368	Kaposi's sarcoma
+T11	Cell 401 406	cells
+T12	Cancer 410 443	advanced Kaposi's sarcoma lesions
+T13	Gene_or_gene_product 452 457	vGPCR
+T14	Cancer 523 539	Kaposi's sarcoma
+T15	Cell 603 608	cells
+T16	Gene_or_gene_product 622 627	vGPCR
+T17	Cancer 643 649	tumors
+T18	Organism 715 723	patients
+T19	Cancer 741 757	Kaposi's sarcoma
+T20	Cell 785 807	endothelial cell lines
+T21	Gene_or_gene_product 826 831	vGPCR
+T22	Organism 839 843	KSHV
+T23	Gene_or_gene_product 873 880	vCyclin
+T24	Gene_or_gene_product 882 887	vFlip
+T25	Gene_or_gene_product 893 898	LANA1
+T26	Cell 905 926	endothelial cell line
+T27	Gene_or_gene_product 938 943	vGPCR
+T28	Simple_chemical 989 999	nucleoside
+T29	Simple_chemical 1009 1020	ganciclovir
+T30	Organism 1071 1093	herpes simplex virus 1
+T31	Gene_or_gene_product 1094 1110	thymidine kinase
+T32	Organism 1132 1141	nude mice
+T33	Cell 1147 1169	mixed-cell populations
+T34	Cancer 1177 1183	tumors
+T35	Gene_or_gene_product 1214 1219	vGPCR
+T36	Organism 1235 1239	KSHV
+T37	Cell 1263 1268	cells
+T38	Organism 1276 1280	mice
+T39	Simple_chemical 1304 1315	ganciclovir
+T40	Gene_or_gene_product 1348 1353	vGPCR
+T41	Cell 1365 1370	cells
+T42	Organism 1412 1416	KSHV
+T43	Cell 1454 1465	tumor cells
+T44	Gene_or_gene_product 1503 1508	vGPCR
+T45	Cell 1520 1525	cells
+T46	Cancer 1541 1547	tumors
+T47	Cancer 1560 1565	tumor
+T48	Cell 1651 1656	cells
+T49	Gene_or_gene_product 1697 1702	vGPCR
+T50	Cell 1714 1719	cells
+T51	Gene_or_gene_product 1750 1755	vGPCR
+T52	Cancer 1779 1795	Kaposi's sarcoma
+T53	Gene_or_gene_product 1911 1916	vGPCR
+T54	Cancer 1956 1972	Kaposi's sarcoma
+T55	Organism 1973 1981	patients

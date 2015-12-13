@@ -1,0 +1,44 @@
+*	Equiv T7 T8
+*	Equiv T9 T10
+T41	Metastasis 13 23	metastasis
+E1	Metastasis:T41 Theme:T1
+T42	Positive_regulation 42 50	requires
+E2	Positive_regulation:T42 Theme:E1 Cause:T2
+E3	Positive_regulation:T42 Theme:E1 Cause:E4
+T43	Gene_expression 76 86	expression
+E4	Gene_expression:T43 Theme:T3
+T44	Metastasis 172 182	metastasis
+E5	Metastasis:T44 Theme:T4
+T45	Regulation 203 207	role
+E6	Regulation:T45 Theme:E5 Cause:E8
+T46	Metastasis 211 224	premetastatic
+E7	Metastasis:T46 
+T47	Localization 245 256	circulating
+E8	Localization:T47 Theme:T5
+T48	Regulation 335 347	significance
+E9	Regulation:T48 Cause:T7 Theme:T6
+M1	Speculation E9
+T49	Gene_expression 469 478	expressed
+E10	Gene_expression:T49 Theme:T9
+M2	Speculation E10
+T50	Metastasis 1219 1231	metastasized
+E11	Metastasis:T50 Theme:T29
+T51	Localization 1263 1271	presence
+E12	Localization:T51 Theme:T31
+T52	Gene_expression 1349 1359	expression
+E13	Gene_expression:T52 Theme:T34
+T53	Metastasis 1429 1439	metastases
+E14	Metastasis:T53 
+M3	Negation E14
+T54	Localization 1477 1486	circulate
+E15	Localization:T54 Theme:T35
+T55	Gene_expression 1542 1552	expression
+E16	Gene_expression:T55 Theme:T36
+T56	Positive_regulation 1564 1575	facilitates
+E17	Positive_regulation:T56 Cause:E16 Theme:E18
+T57	Positive_regulation 1580 1593	establishment
+E18	Positive_regulation:T57 Theme:E19
+T58	Metastasis 1610 1620	metastases
+E19	Metastasis:T58 Theme:T37
+T59	Gene_expression 1711 1721	expression
+E20	Gene_expression:T59 Theme:T39

@@ -1,0 +1,48 @@
+T1	Simple_chemical 0 4	EPOX
+T2	Gene_or_gene_product 45 50	Mcl-1
+T3	Gene_or_gene_product 59 62	ERK
+T4	Cancer 193 199	tumors
+T5	Simple_chemical 255 275	xanthone derivatives
+T6	Cancer 285 291	cancer
+T7	Simple_chemical 445 477	3,6-di(2,3-epoxypropoxy)xanthone
+T8	Simple_chemical 479 483	EPOX
+T9	Gene_or_gene_product 494 499	Mcl-1
+T10	Simple_chemical 580 584	EPOX
+T11	Cell 593 597	cell
+T12	Cell 609 613	cell
+T13	Tissue 621 625	tube
+T14	Simple_chemical 711 715	EPOX
+T15	Cell 723 734	endothelial
+T16	Immaterial_anatomical_entity 831 844	Intracellular
+T17	Simple_chemical 845 856	glutathione
+T18	Simple_chemical 896 912	monochlorobimane
+T19	Simple_chemical 916 927	glutathione
+T20	Simple_chemical 953 957	EPOX
+T21	Cell 966 982	endothelial cell
+T22	Gene_or_gene_product 1034 1039	Mcl-1
+T23	Gene_or_gene_product 1072 1077	Mcl-1
+T24	Gene_or_gene_product 1105 1110	Mcl-1
+T25	Gene_or_gene_product 1116 1119	Bim
+T26	Gene_or_gene_product 1135 1138	Bax
+T27	Cellular_component 1162 1174	mitochondria
+T28	Simple_chemical 1209 1220	glutathione
+T29	Gene_or_gene_product 1235 1272	extracellular signal-regulated kinase
+T30	Gene_or_gene_product 1274 1277	ERK
+T31	Simple_chemical 1308 1312	EPOX
+T32	Cell 1321 1326	cells
+T33	Simple_chemical 1328 1339	Glutathione
+T34	Simple_chemical 1391 1395	EPOX
+T35	Gene_or_gene_product 1399 1402	ERK
+T36	Gene_or_gene_product 1443 1448	Mcl-1
+T37	Gene_or_gene_product 1478 1514	mitogen-activated protein/ERK kinase
+T38	Gene_or_gene_product 1516 1519	MEK
+T39	Simple_chemical 1554 1558	EPOX
+T40	Gene_or_gene_product 1562 1567	Mcl-1
+T41	Gene_or_gene_product 1640 1643	ERK
+T42	Gene_or_gene_product 1665 1670	Mcl-1
+T43	Simple_chemical 1729 1733	EPOX
+T44	Simple_chemical 1742 1753	glutathione
+T45	Gene_or_gene_product 1765 1768	ERK
+T46	Gene_or_gene_product 1787 1792	Mcl-1
+T47	Cell 1808 1825	endothelial cells
+T48	Simple_chemical 1895 1899	EPOX

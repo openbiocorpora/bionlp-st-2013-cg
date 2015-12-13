@@ -1,0 +1,25 @@
+T1	Cellular_component 24 37	mitochondrial
+T2	Gene_or_gene_product 38 50	ATP synthase
+T3	Gene_or_gene_product 112 123	angiostatin
+T4	Cell 157 174	endothelial cells
+T5	Gene_or_gene_product 178 200	F(1)-F(0) ATP synthase
+T6	Gene_or_gene_product 281 293	ATP synthase
+T7	Simple_chemical 304 307	ATP
+T8	Gene_or_gene_product 338 349	angiostatin
+T9	Cell 372 389	Endothelial cells
+T10	Gene_or_gene_product 441 452	angiostatin
+T11	Gene_or_gene_product 476 488	ATP synthase
+T12	Cell 498 515	endothelial cells
+T13	Cancer 530 535	tumor
+T14	Immaterial_anatomical_entity 541 554	extracellular
+T15	Immaterial_anatomical_entity 583 596	intracellular
+T16	Gene_or_gene_product 609 620	Angiostatin
+T17	Simple_chemical 635 638	ATP
+T18	Simple_chemical 653 656	ATP
+T19	Immaterial_anatomical_entity 709 722	intracellular
+T20	Gene_or_gene_product 789 800	angiostatin
+T21	Immaterial_anatomical_entity 814 827	intravenously
+T22	Simple_chemical 884 904	angiostatin-mimetics
+T23	Simple_chemical 970 989	angiostatin-mimetic
+T24	Gene_or_gene_product 1092 1104	ATP synthase
+T25	Gene_or_gene_product 1153 1164	angiostatin

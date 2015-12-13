@@ -1,0 +1,35 @@
+*	Equiv T5 T6
+T39	Breakdown 55 65	detachment
+E1	Breakdown:T39 Theme:T2
+T40	Breakdown 89 101	degeneration
+E2	Breakdown:T40 Theme:T3
+T41	Remodeling 124 135	alterations
+E3	Remodeling:T41 Theme:T4
+T42	Breakdown 243 255	degeneration
+E4	Breakdown:T42 Theme:T7
+T43	Planned_process 303 314	angiography
+E5	Planned_process:T43 Instrument:T8
+E6	Planned_process:T43 Instrument:T9
+T44	Planned_process 464 475	angiography
+E7	Planned_process:T44 Theme:T11 Instrument:T14 Instrument:T13
+T45	Blood_vessel_development 595 607	vascularized
+E8	Blood_vessel_development:T45 AtLoc:T18
+T46	Blood_vessel_development 630 645	nonvascularized
+E9	Blood_vessel_development:T46 AtLoc:T18
+M1	Negation E9
+T47	Planned_process 688 699	angiography
+E10	Planned_process:T47 Instrument:T19
+T48	Breakdown 775 785	detachment
+E11	Breakdown:T48 Theme:T21
+T49	Planned_process 862 873	angiography
+E12	Planned_process:T49 Instrument:T23
+T50	Planned_process 901 912	angiography
+E13	Planned_process:T50 Instrument:T24
+T51	Blood_vessel_development 1125 1144	neovascularizations
+E14	Blood_vessel_development:T51 AtLoc:T28
+T52	Blood_vessel_development 1228 1246	neovascularization
+E15	Blood_vessel_development:T52 AtLoc:T29
+T53	Positive_regulation 1364 1373	elevation
+E16	Positive_regulation:T53 Theme:T33
+T54	Planned_process 1514 1525	angiography
+E17	Planned_process:T54 Instrument:T38 Instrument:T37 Theme:T35

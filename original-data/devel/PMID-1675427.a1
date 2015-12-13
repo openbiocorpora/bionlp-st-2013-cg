@@ -1,0 +1,45 @@
+T1	Gene_or_gene_product 14 22	homeobox
+T2	Gene_or_gene_product 42 47	N-ras
+T3	Cell 66 98	PA-1 human teratocarcinoma cells
+T4	Cell 121 132	cell clones
+T5	Organism 140 145	human
+T6	Cell 146 171	teratocarcinoma cell line
+T7	Cell 173 177	PA-1
+T8	Gene_or_gene_product 233 238	N-ras
+T9	Simple_chemical 287 300	retinoic acid
+T10	Simple_chemical 302 304	RA
+T11	Organism 400 405	human
+T12	Gene_or_gene_product 406 411	HOX 2
+T13	Simple_chemical 447 449	RA
+T14	Gene_or_gene_product 465 472	Hox 2.9
+T15	Gene_or_gene_product 494 499	HOX 2
+T16	Gene_or_gene_product 682 687	HOX 1
+T17	Simple_chemical 716 718	RA
+T18	Gene_or_gene_product 813 818	N-ras
+T19	Cell 831 842	cell clones
+T20	Simple_chemical 844 846	RA
+T21	Gene_or_gene_product 875 883	homeobox
+T22	Gene_or_gene_product 902 909	Hox 1.4
+T23	Gene_or_gene_product 914 921	Hox 1.3
+T24	Cell 966 972	clones
+T25	Simple_chemical 989 991	RA
+T26	Gene_or_gene_product 1020 1025	N-ras
+T27	Cell 1038 1043	cells
+T28	Simple_chemical 1066 1068	RA
+T29	Cell 1098 1103	cells
+T30	Gene_or_gene_product 1251 1258	Hox 1.4
+T31	Organism 1287 1302	simian virus 40
+T32	Cell 1336 1340	cell
+T33	Simple_chemical 1375 1377	RA
+T34	Simple_chemical 1442 1444	RA
+T35	Gene_or_gene_product 1448 1453	N-ras
+T36	Cell 1466 1471	cells
+T37	Gene_or_gene_product 1540 1545	N-ras
+T38	Cell 1558 1563	cells
+T39	Cell 1576 1596	teratocarcinoma cell
+T40	Gene_or_gene_product 1656 1664	homeobox
+T41	Gene_or_gene_product 1711 1719	homeobox
+T42	Simple_chemical 1729 1731	RA
+T43	Cell 1740 1744	cell
+T44	Gene_or_gene_product 1851 1854	ras
+T45	Cell 1965 1969	cell

@@ -1,0 +1,66 @@
+*	Equiv T4 T5
+T39	Positive_regulation 48 56	enhances
+E1	Positive_regulation:T39 Cause:T1 Theme:T3
+E2	Positive_regulation:T39 Cause:T1 Theme:E5
+E3	Positive_regulation:T39 Cause:T1 Theme:E6
+T40	Blood_vessel_development 84 94	angiogenic
+E4	Blood_vessel_development:T40 
+T41	Negative_regulation 95 105	activities
+E5	Negative_regulation:T41 Cause:T3 Theme:E4
+E6	Negative_regulation:T41 Cause:T3 Theme:T2
+T42	Regulation 222 227	roles
+E7	Regulation:T42 Theme:E9 Cause:T4
+E8	Regulation:T42 Theme:E9 Cause:T6
+T43	Carcinogenesis 231 244	tumorigenesis
+E9	Carcinogenesis:T43 
+T44	Positive_regulation 253 264	stimulating
+E10	Positive_regulation:T44 Cause:T6 Theme:E12
+E11	Positive_regulation:T44 Cause:T4 Theme:E12
+T45	Growth 271 277	growth
+E12	Growth:T45 Theme:T7
+T46	Positive_regulation 282 291	promoting
+E13	Positive_regulation:T46 Cause:T6 Theme:E15
+E14	Positive_regulation:T46 Cause:T4 Theme:E15
+T47	Blood_vessel_development 292 304	angiogenesis
+E15	Blood_vessel_development:T47 
+T48	Positive_regulation 309 318	enhancing
+E16	Positive_regulation:T48 Theme:E18 Cause:T6
+E17	Positive_regulation:T48 Theme:E19 Cause:T4
+T49	Localization 328 339	recruitment
+E18	Localization:T49 Theme:T8
+T50	Development 351 361	maturation
+E19	Development:T50 Theme:T9
+T51	Binding 448 453	binds
+E20	Binding:T51 Theme:T13 Theme:T14
+T52	Negative_regulation 503 509	blocks
+E21	Negative_regulation:T52 Theme:E22 Cause:T13
+T53	Binding 523 530	binding
+E22	Binding:T53 Theme:T15
+T54	Negative_regulation 605 611	blocks
+E23	Negative_regulation:T54 Cause:T13 Theme:E26
+E24	Negative_regulation:T54 Cause:T13 Theme:E27
+E25	Negative_regulation:T54 Cause:T13 Theme:E28
+T55	Positive_regulation 630 640	activation
+E26	Positive_regulation:T55 Theme:T16
+E27	Positive_regulation:T55 Theme:T17
+E28	Positive_regulation:T55 Theme:T18
+T56	Positive_regulation 774 782	enhanced
+E29	Positive_regulation:T56 Cause:T20 Theme:E32
+E30	Positive_regulation:T56 Cause:T20 Theme:E33
+T57	Blood_vessel_development 810 820	angiogenic
+E31	Blood_vessel_development:T57 
+T58	Negative_regulation 821 831	activities
+E32	Negative_regulation:T58 Cause:T22 Theme:E31
+E33	Negative_regulation:T58 Cause:T22 Theme:T21
+T59	Planned_process 1010 1019	Treatment
+E34	Planned_process:T59 Instrument:T28 Instrument:T29 Theme:T31
+T60	Positive_regulation 1091 1099	resulted
+E35	Positive_regulation:T60 Cause:E34 Theme:E36
+T61	Negative_regulation 1109 1119	regression
+E36	Negative_regulation:T61 Theme:T32
+T62	Planned_process 1167 1174	treated
+E37	Planned_process:T62 Instrument:T35 Theme:T34
+T63	Blood_vessel_development 1320 1330	angiogenic
+E38	Blood_vessel_development:T63 
+T64	Planned_process 1345 1354	treatment
+E39	Planned_process:T64 Theme:T38 Instrument:T36

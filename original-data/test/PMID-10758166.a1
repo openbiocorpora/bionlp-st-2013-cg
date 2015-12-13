@@ -1,0 +1,21 @@
+T1	Organism 0 10	Adenovirus
+T2	Gene_or_gene_product 37 47	endostatin
+T3	Cancer 120 125	tumor
+T4	Cancer 222 228	cancer
+T5	Organism 240 244	mice
+T6	Organism 508 518	adenovirus
+T7	Organism 534 540	murine
+T8	Gene_or_gene_product 541 551	endostatin
+T9	Cell 612 628	endothelial cell
+T10	Gene_or_gene_product 706 744	vascular endothelial growth factor 165
+T11	Organism_substance 762 767	serum
+T12	Gene_or_gene_product 778 788	endostatin
+T13	Organism 884 893	nude mice
+T14	Cancer 974 993	JC breast carcinoma
+T15	Cancer 998 1018	Lewis lung carcinoma
+T16	Gene_or_gene_product 1096 1106	endostatin
+T17	Cancer 1162 1187	pulmonary micrometastases
+T18	Cancer 1191 1211	Lewis lung carcinoma
+T19	Cancer 1262 1268	tumors
+T20	Multi-tissue_structure 1304 1317	blood vessels
+T21	Cancer 1495 1501	cancer

@@ -1,0 +1,43 @@
+*	Equiv T9 T10
+*	Equiv T13 T14
+*	Equiv T26 T27
+T32	Breakdown 50 60	disrupting
+E1	Breakdown:T32 Theme:T3
+T33	Blood_vessel_development 68 80	Angiogenesis
+E2	Blood_vessel_development:T33 
+T34	Regulation 81 102	has an essential role
+E3	Regulation:T34 Cause:E2 Theme:E5
+E4	Regulation:T34 Cause:E2 Theme:E6
+T35	Positive_regulation 106 115	promoting
+E5	Positive_regulation:T35 Theme:E7
+T36	Positive_regulation 120 130	supporting
+E6	Positive_regulation:T36 Theme:E7
+T37	Growth 137 143	growth
+E7	Growth:T37 Theme:T4
+T38	Blood_vessel_development 235 245	angiogenic
+E8	Blood_vessel_development:T38 
+T39	Binding 287 298	interaction
+E9	Binding:T39 Theme:T6 Theme:T7
+T40	Blood_vessel_development 365 375	angiogenic
+E10	Blood_vessel_development:T40 
+T41	Positive_regulation 412 419	improve
+E11	Positive_regulation:T41 Cause:T9 Theme:E12
+T42	Regulation 426 433	control
+E12	Regulation:T42 Theme:T8
+T43	Blood_vessel_development 516 526	angiogenic
+E13	Blood_vessel_development:T43 
+T44	Blood_vessel_development 637 647	angiogenic
+E14	Blood_vessel_development:T44 
+T45	Regulation 868 874	target
+E15	Regulation:T45 Theme:T20 Cause:T19
+T46	Breakdown 879 886	destroy
+E16	Breakdown:T46 Theme:T20
+T47	Development 892 903	established
+E17	Development:T47 Theme:T20
+T48	Breakdown 936 947	destruction
+E18	Breakdown:T48 Theme:T21
+T49	Cell_death 989 997	necrosis
+E19	Cell_death:T49 
+T50	Death 1002 1010	survival
+E20	Death:T50 Theme:T22
+M1	Negation E20

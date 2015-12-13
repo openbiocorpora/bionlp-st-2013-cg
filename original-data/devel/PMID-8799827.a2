@@ -1,0 +1,74 @@
+T44	Gene_expression 11 21	expression
+E1	Gene_expression:T44 Theme:T1
+T45	Positive_regulation 70 79	dependent
+E2	Positive_regulation:T45 Cause:T3 Theme:E1
+T46	Positive_regulation 105 114	dependent
+E3	Positive_regulation:T46 Cause:T5 Theme:E4
+T47	Binding 125 133	adhesion
+E4	Binding:T47 Theme:T7 Theme2:T6
+T48	Gene_expression 160 169	expressed
+E5	Gene_expression:T48 Theme:T4
+T49	Regulation 233 254	has an important role
+E6	Regulation:T49 Cause:T9 Theme:T10
+T50	Binding 438 446	adhesion
+E7	Binding:T50 Theme:T15 Theme2:T14
+T51	Negative_regulation 531 542	suppression
+E8	Negative_regulation:T51 Theme:T11
+T52	Regulation 569 579	associated
+E9	Regulation:T52 Theme:E10 Cause:E8
+T53	Cell_transformation 585 609	malignant transformation
+E10	Cell_transformation:T53 Theme:T19
+T54	Regulation 677 687	regulation
+E11	Regulation:T54 Theme:E14
+E12	Regulation:T54 Theme:E13
+T55	Binding 717 729	interactions
+E13	Binding:T55 Theme:T23 Theme2:T22
+E14	Binding:T55 Theme:T21 Theme2:T20
+T56	Cell_transformation 737 761	malignant transformation
+E15	Cell_transformation:T56 
+T57	Gene_expression 783 793	expression
+E16	Gene_expression:T57 Theme:T24
+T58	Regulation 853 864	manipulated
+E17	Regulation:T58 Theme:E18 Cause:E16
+T59	Gene_expression 880 890	expression
+E18	Gene_expression:T59 Theme:T26
+T60	Localization 895 903	invasive
+E19	Localization:T60 Theme:T27
+T61	Negative_regulation 956 969	downregulated
+E20	Negative_regulation:T61 Theme:T28
+T62	Gene_expression 1008 1018	expression
+E21	Gene_expression:T62 Theme:T29
+T63	Negative_regulation 1023 1033	suppressed
+E22	Negative_regulation:T63 Theme:E21
+T64	Planned_process 1048 1060	transfection
+E23	Planned_process:T64 Instrument:T30 Theme:T31
+T65	Positive_regulation 1112 1120	resulted
+E24	Positive_regulation:T65 Cause:E23 Theme:E25
+T66	Positive_regulation 1128 1140	upregulation
+E25	Positive_regulation:T66 Theme:E26
+T67	Gene_expression 1155 1165	expression
+E26	Gene_expression:T67 Theme:T32
+T68	Negative_regulation 1186 1195	decreased
+E27	Negative_regulation:T68 Theme:E28
+T69	Localization 1196 1208	invasiveness
+E28	Localization:T69 Theme:T31
+T70	Regulation 1225 1235	regulation
+E29	Regulation:T70 Theme:T33
+T71	Transcription 1264 1281	transcriptionally
+E30	Transcription:T71 Theme:T33
+T72	Translation 1404 1421	protein synthesis
+E31	Translation:T72 Theme:T35
+T73	Positive_regulation 1437 1446	dependent
+E32	Positive_regulation:T73 Cause:T36 Theme:E31
+T74	Binding 1461 1469	adhesion
+E33	Binding:T74 Theme:T37
+T75	Regulation 1503 1511	affected
+E34	Regulation:T75 Cause:E35 Theme:T38
+M1	Negation E34
+T76	Gene_expression 1526 1536	expression
+E35	Gene_expression:T76 Theme:T39
+T77	Gene_expression 1596 1606	expression
+E36	Gene_expression:T77 Theme:T41
+E37	Gene_expression:T77 Theme:T42
+T78	Cell_transformation 1688 1702	transformation
+E38	Cell_transformation:T78 Theme:T43

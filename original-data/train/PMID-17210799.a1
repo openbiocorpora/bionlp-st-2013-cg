@@ -1,0 +1,59 @@
+T1	Gene_or_gene_product 14 48	vascular endothelial growth factor
+T2	Simple_chemical 57 80	reactive oxygen species
+T3	Simple_chemical 90 121	20-hydroxyeicosatetraenoic acid
+T4	Cell 130 146	endothelial cell
+T5	Simple_chemical 162 193	20-Hydroxyeicosatetraenoic acid
+T6	Simple_chemical 195 202	20-HETE
+T7	Simple_chemical 244 260	arachidonic acid
+T8	Gene_or_gene_product 264 282	cytochrome P450 4A
+T9	Gene_or_gene_product 287 289	4F
+T10	Simple_chemical 372 379	20-HETE
+T11	Cell 390 406	endothelial cell
+T12	Cell 408 410	EC
+T13	Gene_or_gene_product 430 464	vascular endothelial growth factor
+T14	Gene_or_gene_product 466 470	VEGF
+T15	Simple_chemical 499 505	WIT003
+T16	Simple_chemical 507 547	20-hydroxyeicosa-5(Z),14(Z)-dienoic acid
+T17	Simple_chemical 552 559	20-HETE
+T18	Organism 570 575	human
+T19	Cell 576 589	macrovascular
+T20	Cell 593 609	microvascular EC
+T21	Simple_chemical 611 617	WIT003
+T22	Simple_chemical 635 642	20-HETE
+T23	Cell 655 657	EC
+T24	Gene_or_gene_product 752 756	VEGF
+T25	Simple_chemical 821 828	20-HETE
+T26	Gene_or_gene_product 904 919	VEGF receptor 2
+T27	Simple_chemical 950 957	20-HETE
+T28	Gene_or_gene_product 987 991	VEGF
+T29	Simple_chemical 1015 1055	Polyethylene glycol-superoxide dismutase
+T30	Simple_chemical 1057 1064	PEG-SOD
+T31	Gene_or_gene_product 1107 1111	VEGF
+T32	Simple_chemical 1156 1163	20-HETE
+T33	Gene_or_gene_product 1200 1215	NAD(P)H oxidase
+T34	Simple_chemical 1226 1234	apocynin
+T35	Simple_chemical 1282 1289	20-HETE
+T36	Simple_chemical 1295 1302	20-HETE
+T37	Simple_chemical 1330 1340	superoxide
+T38	Simple_chemical 1382 1397	dihydroethidium
+T39	Cell 1410 1412	EC
+T40	Simple_chemical 1449 1456	PEG-SOD
+T41	Simple_chemical 1468 1476	apocynin
+T42	Simple_chemical 1478 1485	20-HETE
+T43	Gene_or_gene_product 1524 1564	p42/p44 mitogen-activated protein kinase
+T44	Gene_or_gene_product 1566 1570	MAPK
+T45	Cell 1575 1577	EC
+T46	Gene_or_gene_product 1603 1607	MAPK
+T47	Simple_chemical 1609 1614	U0126
+T48	Simple_chemical 1616 1675	1,4-diamino-2,3-dicyano-1,4-bis(2-aminophenylthio)butadiene
+T49	Gene_or_gene_product 1714 1718	VEGF
+T50	Simple_chemical 1762 1769	20-HETE
+T51	Simple_chemical 1795 1802	20-HETE
+T52	Simple_chemical 1814 1824	superoxide
+T53	Simple_chemical 1858 1866	apocynin
+T54	Gene_or_gene_product 1877 1892	NAD(P)H oxidase
+T55	Gene_or_gene_product 1913 1917	MAPK
+T56	Gene_or_gene_product 1937 1941	VEGF
+T57	Cell 1964 1966	EC
+T58	Simple_chemical 1988 1995	20-HETE
+T59	Cell 2033 2035	EC

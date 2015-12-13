@@ -1,0 +1,39 @@
+T1	Cancer 14 19	tumor
+T2	Simple_chemical 56 71	sodium fluoride
+T3	Simple_chemical 101 116	sodium fluoride
+T4	Simple_chemical 118 121	NaF
+T5	Cell 141 145	cell
+T6	Cell 155 171	tumor cell lines
+T7	Cancer 216 221	tumor
+T8	Simple_chemical 265 268	NaF
+T9	Organism 277 282	human
+T10	Cancer 283 306	squamous cell carcinoma
+T11	Cell 308 314	HSC-2)
+T12	Organism 319 324	human
+T13	Cancer 325 347	promyelocytic leukemia
+T14	Cell 349 366	HL-60) cell lines
+T15	Simple_chemical 396 405	cisplatin
+T16	Simple_chemical 407 416	etoposide
+T17	Simple_chemical 418 429	doxorubicin
+T18	Simple_chemical 433 443	peplomycin
+T19	Simple_chemical 495 507	methotrexate
+T20	Simple_chemical 512 516	5-FU
+T21	Simple_chemical 596 599	NaF
+T22	Simple_chemical 601 604	NaF
+T23	Cellular_component 652 655	DNA
+T24	Cell 673 684	HL-60 cells
+T25	Simple_chemical 751 754	NaF
+T26	Simple_chemical 786 797	doxorubicin
+T27	Cellular_component 813 816	DNA
+T28	Gene_or_gene_product 871 880	caspase 3
+T29	Gene_or_gene_product 923 932	Caspase 8
+T30	Cellular_component 950 963	mitochondrial
+T31	Gene_or_gene_product 987 996	caspase 9
+T32	Cellular_component 1010 1023	mitochondrial
+T33	Simple_chemical 1093 1096	NaF
+T34	Simple_chemical 1109 1116	glucose
+T35	Simple_chemical 1191 1200	cisplatin
+T36	Simple_chemical 1205 1214	etoposide
+T37	Simple_chemical 1227 1234	glucose
+T38	Simple_chemical 1296 1303	glucose
+T39	Simple_chemical 1338 1341	NaF

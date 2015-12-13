@@ -1,0 +1,45 @@
+T1	Gene_or_gene_product 9 14	IGF-1
+T2	Cell 35 53	smooth muscle cell
+T3	Cell 72 76	cell
+T4	Cell 120 124	cell
+T5	Multi-tissue_structure 149 159	myocardial
+T6	Cell 194 198	cell
+T7	Gene_or_gene_product 207 212	IGF-1
+T8	Cell 222 226	cell
+T9	Gene_or_gene_product 276 281	IGF-1
+T10	Cell 294 313	smooth muscle cells
+T11	Cell 315 319	SMCs
+T12	Cell 335 339	cell
+T13	Cell 379 383	cell
+T14	Gene_or_gene_product 405 410	IGF-1
+T15	Cell 442 446	SMCs
+T16	Cell 465 469	SMCs
+T17	Cell 540 544	SMCs
+T18	Cell 546 550	cell
+T19	Gene_or_gene_product 561 566	IGF-1
+T20	Gene_or_gene_product 708 712	VEGF
+T21	Gene_or_gene_product 756 761	IGF-1
+T22	Gene_or_gene_product 774 779	IGF-1
+T23	Cell 792 797	cells
+T24	Cell 819 823	cell
+T25	Gene_or_gene_product 878 887	caspase-3
+T26	Cell 996 1000	cell
+T27	Multi-tissue_structure 1022 1038	left ventricular
+T28	Organism 1069 1073	rats
+T29	Cell 1122 1127	cells
+T30	Pathological_formation 1170 1174	scar
+T31	Gene_or_gene_product 1192 1197	IGF-1
+T32	Cell 1210 1214	SMCs
+T33	Multi-tissue_structure 1229 1239	myocardial
+T34	Gene_or_gene_product 1240 1245	IGF-1
+T35	Gene_or_gene_product 1250 1254	VEGF
+T36	Gene_or_gene_product 1273 1277	Bcl2
+T37	Cell 1298 1302	cell
+T38	Multi-tissue_structure 1327 1333	vessel
+T39	Pathological_formation 1351 1366	myocardial scar
+T40	Cell 1458 1462	SMCs
+T41	Gene_or_gene_product 1536 1541	IGF-1
+T42	Cell 1582 1586	cell
+T43	Gene_or_gene_product 1619 1624	IGF-1
+T44	Cell 1634 1644	donor cell
+T45	Cell 1692 1696	cell

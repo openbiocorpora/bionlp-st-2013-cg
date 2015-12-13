@@ -1,0 +1,27 @@
+T1	Gene_or_gene_product 61 69	beclin 1
+T2	Cell 87 102	Malignant cells
+T3	Cellular_component 213 235	cytoplasmic organelles
+T4	Cancer 316 321	tumor
+T5	Gene_or_gene_product 339 347	beclin 1
+T6	Organism 412 417	human
+T7	Cancer 427 433	breast
+T8	Cancer 435 442	ovarian
+T9	Cancer 448 463	prostate cancer
+T10	Organism 502 507	mouse
+T11	Gene_or_gene_product 566 574	beclin 1
+T12	Gene_or_gene_product 644 652	beclin 1
+T13	Cancer 692 704	malignancies
+T14	Organism 740 757	hepatitis B virus
+T15	Pathological_formation 766 786	premalignant lesions
+T16	Cancer 810 816	tumors
+T17	Gene_or_gene_product 820 828	beclin 1
+T18	Organism 842 846	mice
+T19	Gene_or_gene_product 934 942	beclin 1
+T20	Cell 988 996	cellular
+T21	Gene_or_gene_product 1074 1082	beclin 1
+T22	Cancer 1107 1112	tumor
+T23	Cell 1197 1201	cell
+T24	Cancer 1221 1226	tumor
+T25	Gene_or_gene_product 1258 1266	beclin 1
+T26	Organism 1330 1335	human
+T27	Cancer 1336 1343	cancers

@@ -1,0 +1,36 @@
+*	Equiv T3 T4
+T26	Gene_expression 0 10	Expression
+E1	Gene_expression:T26 Theme:T2
+T27	Regulation 217 220	act
+E2	Regulation:T27 Cause:E5 Theme:E4
+T28	Positive_regulation 230 237	induced
+E3	Positive_regulation:T28 Cause:T6 Theme:E4
+T29	Blood_vessel_development 238 250	angiogenesis
+E4	Blood_vessel_development:T29 
+T30	Binding 254 261	binding
+E5	Binding:T30 Theme:T8 Theme:T3
+T31	Regulation 353 369	plays a key role
+E6	Regulation:T31 Theme:E9 Cause:T10
+E7	Regulation:T31 Theme:E9 Cause:T9
+T32	Positive_regulation 378 385	induced
+E8	Positive_regulation:T32 Theme:E9 Cause:T11
+T33	Blood_vessel_development 386 398	angiogenesis
+E9	Blood_vessel_development:T33 
+T34	Gene_expression 409 418	expressed
+E10	Gene_expression:T34 Theme:T12
+T35	Negative_regulation 933 942	inhibited
+E11	Negative_regulation:T35 Cause:T16 Theme:T17
+T36	Planned_process 988 997	Treatment
+E12	Planned_process:T36 Theme:T18 Instrument:T19
+T37	Negative_regulation 1030 1037	blocked
+E13	Negative_regulation:T37 Cause:E12 Theme:E15
+T38	Positive_regulation 1043 1050	induced
+E14	Positive_regulation:T38 Cause:T20 Theme:E15
+T39	Phosphorylation 1051 1066	phosphorylation
+E15	Phosphorylation:T39 Theme:T21
+T40	Negative_regulation 1136 1146	suppressed
+E16	Negative_regulation:T40 Theme:E17 Cause:T22
+T41	Development 1158 1167	formation
+E17	Development:T41 Theme:T23
+T42	Blood_vessel_development 1321 1333	angiogenesis
+E18	Blood_vessel_development:T42 

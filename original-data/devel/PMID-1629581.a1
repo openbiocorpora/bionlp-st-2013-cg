@@ -1,0 +1,25 @@
+T1	Cancer 33 47	gastric tumors
+T2	Simple_chemical 59 95	N-methyl-N'-nitro-N-nitrosoguanidine
+T3	Organism 99 103	rats
+T4	Cancer 125 134	carcinoma
+T5	Organism 156 167	Wistar rats
+T6	Simple_chemical 189 225	N-methyl-N'-nitro-N-nitrosoguanidine
+T7	Simple_chemical 227 231	MNNG
+T8	Simple_chemical 249 254	water
+T9	Simple_chemical 294 298	MNNG
+T10	Organism 315 319	rats
+T11	Tissue 382 395	microvascular
+T12	Gene_or_gene_product 425 431	lectin
+T13	Organism_substance 458 462	bile
+T14	Organ 477 484	stomach
+T15	Pathological_formation 555 579	gastric mucosal erosions
+T16	Cancer 606 627	ulcerating carcinomas
+T17	Tissue 660 673	microvascular
+T18	Organism 701 706	human
+T19	Cancer 707 721	adenocarcinoma
+T20	Gene_or_gene_product 737 743	lectin
+T21	Cell 819 823	cell
+T22	Cancer 928 945	gastric carcinoma
+T23	Tissue 951 964	microvascular
+T24	Gene_or_gene_product 979 985	lectin
+T25	Cancer 1058 1075	gastric carcinoma

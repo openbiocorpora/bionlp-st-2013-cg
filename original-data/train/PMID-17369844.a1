@@ -1,0 +1,36 @@
+T1	Gene_or_gene_product 0 6	Tsg101
+T2	Organism 46 51	human
+T3	Cancer 52 66	breast cancers
+T4	Organism 102 117	transgenic mice
+T5	Cancer 156 170	mammary cancer
+T6	Gene_or_gene_product 219 248	Tumor Susceptibility Gene 101
+T7	Gene_or_gene_product 250 256	TSG101
+T8	Organism 285 290	human
+T9	Cancer 291 303	malignancies
+T10	Gene_or_gene_product 337 343	Tsg101
+T11	Cell 384 395	fibroblasts
+T12	Gene_or_gene_product 455 461	Tsg101
+T13	Gene_or_gene_product 569 575	Tsg101
+T14	Organism 620 625	human
+T15	Cancer 626 640	breast cancers
+T16	Organism 703 708	mouse
+T17	Gene_or_gene_product 749 755	Tsg101
+T18	Organ 774 787	mammary gland
+T19	Gene_or_gene_product 814 820	Tsg101
+T20	Gene_or_gene_product 895 901	Tsg101
+T21	Gene_or_gene_product 941 947	Tsg101
+T22	Cell 958 982	mammary epithelial cells
+T23	Organism 1007 1011	mice
+T24	Gene_or_gene_product 1035 1041	Tsg101
+T25	Gene_or_gene_product 1087 1119	epidermal growth factor receptor
+T26	Gene_or_gene_product 1149 1160	MAP kinases
+T27	Organ 1233 1246	mammary gland
+T28	Gene_or_gene_product 1279 1285	Tsg101
+T29	Gene_or_gene_product 1380 1386	Tsg101
+T30	Tissue 1428 1445	mammary epithelia
+T31	Cancer 1517 1522	tumor
+T32	Cancer 1574 1589	mammary cancers
+T33	Gene_or_gene_product 1612 1618	Tsg101
+T34	Cancer 1674 1680	cancer
+T35	Gene_or_gene_product 1721 1727	Tsg101
+T36	Cancer 1814 1828	breast cancers

@@ -1,0 +1,57 @@
+*	Equiv T17 T18
+T42	Gene_expression 7 17	deficiency
+E1	Gene_expression:T42 Theme:T1
+M1	Negation E1
+T43	Negative_regulation 18 26	inhibits
+E2	Negative_regulation:T43 Cause:E1 Theme:E3
+T44	Carcinogenesis 44 57	tumorigenesis
+E3	Carcinogenesis:T44 AtLoc:T2
+T45	Regulation 83 106	plays an important role
+E4	Regulation:T45 Cause:T5 Theme:T6
+T46	Regulation 140 144	role
+E5	Regulation:T46 Cause:T7 Theme:E6
+M2	Speculation E5
+T47	Carcinogenesis 169 182	tumorigenesis
+E6	Carcinogenesis:T47 AtLoc:T8
+T48	Mutation 232 240	ablation
+E7	Mutation:T48 Theme:T9
+T49	Negative_regulation 265 273	inhibits
+E8	Negative_regulation:T49 Cause:E7 Theme:E9
+T50	Carcinogenesis 297 310	tumorigenesis
+E9	Carcinogenesis:T50 AtLoc:T10
+T51	Mutation 361 369	ablation
+E10	Mutation:T51 Theme:T14
+T52	Negative_regulation 370 379	decreased
+E11	Negative_regulation:T52 Cause:E10 Theme:E14
+E12	Negative_regulation:T52 Cause:E10 Theme:E16
+E13	Negative_regulation:T52 Cause:E10 Theme:E15
+T53	Gene_expression 399 409	expression
+E14	Gene_expression:T53 Theme:T15
+E15	Gene_expression:T53 Theme:T16
+T54	Gene_expression 448 458	expression
+E16	Gene_expression:T54 Theme:T17
+T55	Positive_regulation 471 480	increased
+E17	Positive_regulation:T55 Theme:E16
+E18	Positive_regulation:T55 Theme:E14
+E19	Positive_regulation:T55 Theme:E15
+T56	Gene_expression 661 670	deficient
+E20	Gene_expression:T56 Theme:T27
+M3	Negation E20
+T57	Negative_regulation 708 716	decrease
+E21	Negative_regulation:T57 Theme:E22
+T58	Localization 732 744	infiltration
+E22	Localization:T58 Theme:T30
+T59	Gene_expression 787 797	expression
+E23	Gene_expression:T59 Theme:T32
+T60	Regulation 855 864	unchanged
+E24	Regulation:T60 Theme:E25 Cause:E23
+M4	Negation E24
+T61	Localization 872 879	absence
+E25	Localization:T61 Theme:T36
+M5	Negation E25
+T62	Regulation 959 963	role
+E26	Regulation:T62 Cause:T37 Theme:E27
+T63	Carcinogenesis 1008 1021	tumorigenesis
+E27	Carcinogenesis:T63 AtLoc:T38
+T64	Localization 1048 1056	presence
+E28	Localization:T64 Theme:T41

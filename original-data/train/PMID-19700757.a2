@@ -1,0 +1,53 @@
+T36	Blood_vessel_development 74 86	angiogenesis
+E1	Blood_vessel_development:T36 
+T37	Regulation 122 138	plays a key role
+E2	Regulation:T37 Cause:T2 Theme:E3
+T38	Blood_vessel_development 142 154	angiogenesis
+E3	Blood_vessel_development:T38 
+T39	Blood_vessel_development 298 310	angiogenesis
+E4	Blood_vessel_development:T39 
+T40	Planned_process 315 327	unchallenged
+E5	Planned_process:T40 Theme:T5
+M1	Negation E5
+T41	Positive_regulation 366 373	induced
+E6	Positive_regulation:T41 Cause:T6 Theme:E7
+T42	Development 391 404	morphogenesis
+E7	Development:T42 Theme:T7
+T43	Development 424 433	formation
+E8	Development:T43 Theme:T8
+T44	Negative_regulation 452 459	reduced
+E9	Negative_regulation:T44 Theme:E8 Cause:T9
+E10	Negative_regulation:T44 Theme:E8 Cause:T11
+E11	Negative_regulation:T44 Theme:E8 Cause:T12
+M2	Negation E11
+T45	Binding 596 601	bound
+E12	Binding:T45 Theme:T15 Theme:T13
+T46	Planned_process 614 621	labeled
+E13	Planned_process:T46 Theme:T15 Instrument:T14
+T47	Negative_regulation 670 679	inhibited
+E14	Negative_regulation:T47 Theme:E12 Cause:T16
+T48	Positive_regulation 708 714	caused
+E15	Positive_regulation:T48 Cause:T17 Theme:E16
+T49	Death 735 756	cytoskeletal collapse
+E16	Death:T49 Theme:T19
+T50	Negative_regulation 789 796	delayed
+E17	Negative_regulation:T50 Theme:T20 Cause:T17
+T51	Gene_expression 922 932	expressing
+E18	Gene_expression:T51 Theme:T24
+T52	Regulation 969 976	control
+E19	Regulation:T52 Cause:T25 CSite:T53 Theme:E18
+T53	DNA_domain_or_region 1030 1038	promoter
+T54	Negative_regulation 1076 1086	interfered
+E20	Negative_regulation:T54 Theme:E21 Cause:E22
+T55	Blood_vessel_development 1092 1104	angiogenesis
+E21	Blood_vessel_development:T55 
+T56	Negative_regulation 1127 1137	inhibiting
+E22	Negative_regulation:T56 Theme:E23 Cause:T26
+T57	Development 1138 1147	sprouting
+E23	Development:T57 Theme:T27
+T58	Planned_process 1376 1385	knockdown
+E24	Planned_process:T58 Theme:T32
+T59	Regulation 1619 1631	central role
+E25	Regulation:T59 Cause:T35 Theme:E26
+T60	Blood_vessel_development 1691 1703	angiogenesis
+E26	Blood_vessel_development:T60 

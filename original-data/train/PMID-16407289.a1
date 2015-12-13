@@ -1,0 +1,38 @@
+T1	Cellular_component 37 57	extracellular matrix
+T2	Gene_or_gene_product 61 111	low density lipoprotein receptor-related protein-1
+T3	Gene_or_gene_product 164 214	Low density lipoprotein receptor-related protein-1
+T4	Gene_or_gene_product 216 221	LRP-1
+T5	Cellular_component 251 271	extracellular matrix
+T6	Cellular_component 273 276	ECM
+T7	Cellular_component 328 331	ECM
+T8	Gene_or_gene_product 333 338	LRP-1
+T9	Gene_or_gene_product 361 369	integrin
+T10	Cellular_component 469 472	ECM
+T11	Gene_or_gene_product 504 509	LRP-1
+T12	Gene_or_gene_product 524 529	LRP-1
+T13	Organism 544 550	murine
+T14	Cell 551 572	embryonic fibroblasts
+T15	Cell 574 578	MEFs
+T16	Gene_or_gene_product 619 636	type III collagen
+T17	Gene_or_gene_product 641 674	pigment epithelium-derived factor
+T18	Cellular_component 700 710	substratum
+T19	Cell 723 728	cells
+T20	Gene_or_gene_product 734 742	collagen
+T21	Gene_or_gene_product 753 760	uPAR-AP
+T22	Gene_or_gene_product 761 769	Endo-180
+T23	Gene_or_gene_product 792 797	LRP-1
+T24	Cell 808 812	MEFs
+T25	Organism 814 819	Human
+T26	Gene_or_gene_product 820 825	LRP-1
+T27	Gene_or_gene_product 885 890	LRP-1
+T28	Gene_or_gene_product 938 943	LRP-1
+T29	Gene_or_gene_product 1024 1051	c-Jun amino-terminal kinase
+T30	Gene_or_gene_product 1053 1056	JNK
+T31	Gene_or_gene_product 1066 1083	type III collagen
+T32	Gene_or_gene_product 1098 1103	LRP-1
+T33	Cell 1114 1118	MEFs
+T34	Gene_or_gene_product 1145 1148	JNK
+T35	Gene_or_gene_product 1182 1187	LRP-1
+T36	Gene_or_gene_product 1229 1234	LRP-1
+T37	Gene_or_gene_product 1309 1314	LRP-1
+T38	Multi-tissue_structure 1330 1342	blood vessel

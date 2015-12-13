@@ -1,0 +1,26 @@
+*	Equiv T1 T2
+*	Equiv T3 T4
+T33	Positive_regulation 153 160	induces
+E1	Positive_regulation:T33 Cause:T3 Theme:E2
+T34	Blood_vessel_development 161 173	angiogenesis
+E2	Blood_vessel_development:T34 
+T35	Development 179 190	development
+E3	Development:T35 Theme:T5
+T36	Positive_regulation 356 367	upregulated
+E4	Positive_regulation:T36 Theme:T12
+T37	Breakdown 519 528	breakdown
+E5	Breakdown:T37 Theme:T16
+T38	Breakdown 750 759	breakdown
+E6	Breakdown:T38 Theme:T19
+T39	Positive_regulation 964 973	increases
+E7	Positive_regulation:T39 Theme:T21
+T40	Positive_regulation 1074 1083	Increases
+E8	Positive_regulation:T40 Theme:T26
+T41	Positive_regulation 1098 1108	contribute
+E9	Positive_regulation:T41 Cause:E8 Theme:E10
+T42	Breakdown 1136 1145	breakdown
+E10	Breakdown:T42 Theme:T27
+T43	Negative_regulation 1311 1318	protect
+E11	Negative_regulation:T43 Theme:E12
+T44	Breakdown 1341 1347	damage
+E12	Breakdown:T44 Theme:T29

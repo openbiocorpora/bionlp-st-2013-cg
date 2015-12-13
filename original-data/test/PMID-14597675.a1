@@ -1,0 +1,34 @@
+T1	Gene_or_gene_product 51 75	angiotensin II receptors
+T2	Gene_or_gene_product 77 91	Angiotensin II
+T3	Gene_or_gene_product 93 99	ANG II
+T4	Organism_substance 121 126	blood
+T5	Organism_substance 140 150	body fluid
+T6	Cell 192 209	endothelial cells
+T7	Gene_or_gene_product 242 248	ANG II
+T8	Multi-tissue_structure 308 330	vascular perfusion bed
+T9	Simple_chemical 407 415	alginate
+T10	Organism 446 450	mice
+T11	Gene_or_gene_product 463 469	ANG II
+T12	Gene_or_gene_product 487 493	ANG II
+T13	Gene_or_gene_product 533 548	angiotensinogen
+T14	Gene_or_gene_product 550 555	AOGEN
+T15	Gene_or_gene_product 564 576	AT2 receptor
+T16	Organism 587 591	mice
+T17	Gene_or_gene_product 653 659	ANG II
+T18	Gene_or_gene_product 667 696	angiotensin-converting enzyme
+T19	Gene_or_gene_product 698 701	ACE
+T20	Simple_chemical 713 722	enalapril
+T21	Gene_or_gene_product 730 742	AT1 receptor
+T22	Simple_chemical 754 762	losartan
+T23	Gene_or_gene_product 844 850	ANG II
+T24	Gene_or_gene_product 863 875	AT1 receptor
+T25	Gene_or_gene_product 925 930	AOGEN
+T26	Organism 942 946	mice
+T27	Organism 961 965	mice
+T28	Gene_or_gene_product 978 984	ANG II
+T29	Gene_or_gene_product 1053 1059	ANG II
+T30	Gene_or_gene_product 1113 1125	AT2 receptor
+T31	Gene_or_gene_product 1183 1195	AT2 receptor
+T32	Organism 1183 1209	AT2 receptor knockout mice
+T33	Gene_or_gene_product 1262 1274	AT2 receptor
+T34	Gene_or_gene_product 1340 1346	ANG II

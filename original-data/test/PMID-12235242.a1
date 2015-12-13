@@ -1,0 +1,66 @@
+T1	Cellular_component 0 3	DNA
+T2	Gene_or_gene_product 27 30	p53
+T3	Gene_or_gene_product 31 39	survivin
+T4	Cell 69 73	cell
+T5	Cell 97 131	acute lymphoblastic leukemia cells
+T6	Gene_or_gene_product 134 142	Survivin
+T7	Gene_or_gene_product 168 190	inhibitor of apoptosis
+T8	Gene_or_gene_product 200 203	IAP
+T9	Simple_chemical 259 270	doxorubicin
+T10	Cellular_component 274 277	DNA
+T11	Gene_or_gene_product 306 309	p53
+T12	Gene_or_gene_product 310 318	survivin
+T13	Cell 346 350	cell
+T14	Cancer 391 419	acute lymphoblastic leukemia
+T15	Cancer 421 424	ALL
+T16	Cell 440 468	wild-type (wt) p53 ALL cells
+T17	Gene_or_gene_product 455 458	p53
+T18	Cell 470 484	EU-3 cell line
+T19	Simple_chemical 491 502	doxorubicin
+T20	Gene_or_gene_product 526 529	p53
+T21	Gene_or_gene_product 572 580	survivin
+T22	Cell 595 600	cells
+T23	Simple_chemical 673 684	doxorubicin
+T24	Cell 698 720	mutant (mut) p53 cells
+T25	Gene_or_gene_product 711 714	p53
+T26	Cell 722 735	EU-6/ALL line
+T27	Gene_or_gene_product 750 758	survivin
+T28	Cell 831 835	EU-6
+T29	Gene_or_gene_product 846 854	survivin
+T30	Cell 884 889	cells
+T31	Simple_chemical 893 904	doxorubicin
+T32	Gene_or_gene_product 937 940	p53
+T33	Cell 937 955	p53-null cell line
+T34	Cell 957 962	EU-4)
+T35	Simple_chemical 973 984	doxorubicin
+T36	Cell 1004 1009	cells
+T37	Gene_or_gene_product 1021 1029	survivin
+T38	Cell 1060 1065	cells
+T39	Gene_or_gene_product 1129 1132	p53
+T40	Cell 1136 1146	EU-4 cells
+T41	Simple_chemical 1165 1176	doxorubicin
+T42	Gene_or_gene_product 1177 1180	p53
+T43	Gene_or_gene_product 1181 1189	survivin
+T44	Gene_or_gene_product 1236 1244	survivin
+T45	Cell 1289 1294	cells
+T46	Simple_chemical 1301 1312	doxorubicin
+T47	Gene_or_gene_product 1352 1355	p53
+T48	Cell 1352 1371	p53-null EU-4 cells
+T49	Gene_or_gene_product 1377 1385	survivin
+T50	Gene_or_gene_product 1395 1405	luciferase
+T51	Gene_or_gene_product 1431 1434	p53
+T52	Gene_or_gene_product 1452 1455	p53
+T53	Gene_or_gene_product 1479 1482	p53
+T54	Gene_or_gene_product 1493 1501	survivin
+T55	Gene_or_gene_product 1521 1524	p53
+T56	Gene_or_gene_product 1585 1606	murine double minute2
+T57	Gene_or_gene_product 1608 1612	MDM2
+T58	Gene_or_gene_product 1662 1665	p53
+T59	Gene_or_gene_product 1666 1674	survivin
+T60	Cellular_component 1706 1709	DNA
+T61	Gene_or_gene_product 1752 1760	survivin
+T62	Cell 1762 1766	cell
+T63	Gene_or_gene_product 1843 1846	p53
+T64	Cell 1859 1870	tumor cells
+T65	Gene_or_gene_product 1906 1914	survivin
+T66	Cellular_component 1933 1936	DNA

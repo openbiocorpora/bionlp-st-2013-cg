@@ -1,0 +1,41 @@
+T1	Gene_or_gene_product 0 6	IL-17F
+T2	Organ 27 43	small intestinal
+T3	Organism 61 74	ApcMin/+ mice
+T4	Gene_or_gene_product 61 64	Apc
+T5	Gene_or_gene_product 77 82	IL-17
+T6	Organism_subdivision 110 113	gut
+T7	Gene_or_gene_product 148 154	IL-17F
+T8	Organ 158 168	intestinal
+T9	Gene_or_gene_product 244 250	IL-17F
+T10	Organ 286 296	intestinal
+T11	Organ 318 333	small intestine
+T12	Gene_or_gene_product 337 340	Apc
+T13	Organism 337 352	Apc(Min/+) mice
+T14	Gene_or_gene_product 354 360	IL-17F
+T15	Gene_or_gene_product 380 388	IL-1beta
+T16	Gene_or_gene_product 393 398	Cox-2
+T17	Gene_or_gene_product 421 437	IL-17 receptor C
+T18	Gene_or_gene_product 439 446	IL-17RC
+T19	Cancer 484 490	tumors
+T20	Gene_or_gene_product 496 499	Apc
+T21	Organism 496 511	Apc(Min/+) mice
+T22	Gene_or_gene_product 521 527	IL-17F
+T23	Pathological_formation 548 560	splenomegaly
+T24	Organ 584 590	thymic
+T25	Gene_or_gene_product 629 635	IL-17F
+T26	Organ 643 652	intestine
+T27	Gene_or_gene_product 654 660	IL-17F
+T28	Gene_or_gene_product 671 674	Apc
+T29	Organism 671 686	Apc(Min/+) mice
+T30	Cell 720 731	immune cell
+T31	Tissue 752 766	lamina propria
+T32	Gene_or_gene_product 801 807	IL-17A
+T33	Gene_or_gene_product 813 818	CD4 T
+T34	Cell 813 824	CD4 T cells
+T35	Tissue 832 846	lamina propria
+T36	Gene_or_gene_product 883 889	IL-17F
+T37	Gene_or_gene_product 967 973	IL-17F
+T38	Organ 997 1007	intestinal
+T39	Gene_or_gene_product 1025 1028	Apc
+T40	Organism 1025 1040	Apc(Min/+) mice
+T41	Gene_or_gene_product 1060 1066	IL-17A

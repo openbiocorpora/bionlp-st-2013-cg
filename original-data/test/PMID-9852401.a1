@@ -1,0 +1,18 @@
+T1	Gene_or_gene_product 15 32	estrogen receptor
+T2	Amino_acid 62 67	12Val
+T3	Gene_or_gene_product 69 74	K-Ras
+T4	Cell 84 95	NIH3T3 cell
+T5	Gene_or_gene_product 160 178	estrogen receptors
+T6	Gene_or_gene_product 180 183	ERs
+T7	Cell 188 199	NIH3T3 cell
+T8	Amino_acid 223 228	12Val
+T9	Gene_or_gene_product 230 235	K-Ras
+T10	Gene_or_gene_product 314 316	ER
+T11	Gene_or_gene_product 338 359	progesterone receptor
+T12	Gene_or_gene_product 372 377	K-Ras
+T13	Gene_or_gene_product 451 453	ER
+T14	Gene_or_gene_product 500 502	ER
+T15	Cell 558 568	K12V cells
+T16	Gene_or_gene_product 615 617	ER
+T17	Gene_or_gene_product 621 624	Ras
+T18	Cell 634 638	cell

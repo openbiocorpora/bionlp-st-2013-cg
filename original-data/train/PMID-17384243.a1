@@ -1,0 +1,44 @@
+T1	Gene_or_gene_product 14 20	Bcl-xL
+T2	Gene_or_gene_product 22 25	Bax
+T3	Gene_or_gene_product 31 34	p53
+T4	Cancer 38 52	primary tumors
+T5	Multi-tissue_structure 57 67	lymph node
+T6	Cancer 82 110	oral squamous cell carcinoma
+T7	Organism 226 231	human
+T8	Cancer 232 244	malignancies
+T9	Gene_or_gene_product 340 346	Bcl-xL
+T10	Gene_or_gene_product 348 351	Bax
+T11	Gene_or_gene_product 357 360	p53
+T12	Cancer 450 478	oral squamous cell carcinoma
+T13	Gene_or_gene_product 541 547	avidin
+T14	Simple_chemical 548 554	biotin
+T15	Gene_or_gene_product 555 565	peroxidase
+T16	Gene_or_gene_product 574 580	Bcl-xL
+T17	Gene_or_gene_product 582 585	Bax
+T18	Gene_or_gene_product 591 594	p53
+T19	Cancer 631 659	oral squamous cell carcinoma
+T20	Cancer 699 716	metastatic tumors
+T21	Gene_or_gene_product 754 760	Bcl-xL
+T22	Gene_or_gene_product 762 765	Bax
+T23	Gene_or_gene_product 771 774	p53
+T24	Cancer 804 809	tumor
+T25	Cell 845 856	tumor cells
+T26	Gene_or_gene_product 1026 1032	Bcl-xL
+T27	Gene_or_gene_product 1034 1037	Bax
+T28	Gene_or_gene_product 1043 1046	p53
+T29	Cancer 1112 1118	tumors
+T30	Multi-tissue_structure 1153 1163	lymph node
+T31	Gene_or_gene_product 1276 1282	Bcl-xL
+T32	Gene_or_gene_product 1287 1290	Bax
+T33	Cancer 1302 1308	tumors
+T34	Gene_or_gene_product 1375 1378	p53
+T35	Organism_subdivision 1401 1405	oral
+T36	Cancer 1406 1413	cancers
+T37	Multi-tissue_structure 1436 1446	lymph node
+T38	Gene_or_gene_product 1502 1508	Bcl-xL
+T39	Gene_or_gene_product 1510 1513	Bax
+T40	Gene_or_gene_product 1519 1522	p53
+T41	Cancer 1565 1571	tumors
+T42	Cancer 1625 1636	oral cancer
+T43	Cancer 1767 1772	tumor
+T44	Cancer 1812 1823	oral cancer

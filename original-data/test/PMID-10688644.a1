@@ -1,0 +1,40 @@
+T1	Cellular_component 27 38	chromosomal
+T2	Gene_or_gene_product 47 52	c-myc
+T3	Gene_or_gene_product 56 61	c-Myb
+T4	Cell 77 84	myeloid
+T5	Gene_or_gene_product 102 107	c-myb
+T6	Organism 132 142	retroviral
+T7	Organism 170 191	murine leukemia virus
+T8	Cancer 200 216	myeloid leukemia
+T9	Gene_or_gene_product 401 406	c-myb
+T10	Cell 462 469	myeloid
+T11	Cancer 478 487	neoplasms
+T12	Gene_or_gene_product 543 548	c-myc
+T13	Gene_or_gene_product 573 578	c-Myb
+T14	Cellular_component 616 627	chromosomal
+T15	Gene_or_gene_product 728 733	c-myc
+T16	Cell 739 761	myeloblastic cell line
+T17	Cell 763 765	M1
+T18	Gene_or_gene_product 801 824	c-Myb-estrogen receptor
+T19	Gene_or_gene_product 841 846	MybER
+T20	Gene_or_gene_product 863 868	MybER
+T21	Gene_or_gene_product 913 926	interleukin-6
+T22	Gene_or_gene_product 928 932	IL-6
+T23	Gene_or_gene_product 955 960	c-myc
+T24	Cell 1006 1011	cells
+T25	Gene_or_gene_product 1037 1041	IL-6
+T26	Gene_or_gene_product 1179 1184	c-myc
+T27	Gene_or_gene_product 1236 1241	c-Myb
+T28	Gene_or_gene_product 1243 1248	c-myc
+T29	Gene_or_gene_product 1283 1286	Myb
+T30	Gene_or_gene_product 1340 1363	c-Myc-estrogen receptor
+T31	Gene_or_gene_product 1509 1512	Myb
+T32	Gene_or_gene_product 1562 1565	Myb
+T33	Cell 1573 1607	myeloid leukemic cell line RI-4-11
+T34	Cell 1617 1626	cell line
+T35	Gene_or_gene_product 1628 1633	c-myb
+T36	Gene_or_gene_product 1728 1731	Myb
+T37	Gene_or_gene_product 1754 1761	c-myc's
+T38	Cell 1804 1809	cells
+T39	Gene_or_gene_product 1864 1869	c-myb
+T40	Cell 1907 1942	myeloid lineage hematopoietic cells

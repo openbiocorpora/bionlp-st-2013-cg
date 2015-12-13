@@ -1,0 +1,50 @@
+*	Equiv T6 T7
+T39	Cell_transformation 25 39	transformation
+E1	Cell_transformation:T39 
+T40	Binding 87 94	binding
+E2	Binding:T40 Theme:T4
+T41	Positive_regulation 159 167	required
+E3	Positive_regulation:T41 Cause:T5 Theme:E4
+T42	Cell_transformation 181 195	transformation
+E4	Cell_transformation:T42 
+T43	Regulation 254 265	contributes
+E5	Regulation:T43 Cause:T8 Theme:E6
+M1	Speculation E5
+T44	Cell_transformation 278 292	transformation
+E6	Cell_transformation:T44 Theme:T9
+T45	Binding 500 507	binding
+E7	Binding:T45 Theme:T12 Theme2:T13
+T46	Binding 544 551	complex
+E8	Binding:T46 Theme:T14 Theme2:T15
+T47	Positive_regulation 593 600	enhance
+E9	Positive_regulation:T47 Cause:E8 Theme:T16
+T48	Gene_expression 636 646	expressing
+E10	Gene_expression:T48 Theme:T17
+T49	Cell_transformation 730 744	transformation
+E11	Cell_transformation:T49 
+M2	Negation E11
+T50	Planned_process 770 779	knockdown
+E12	Planned_process:T50 Theme:T21
+T51	Negative_regulation 788 795	reduced
+E13	Negative_regulation:T51 Cause:E12 Theme:E14
+T52	Cell_transformation 796 810	transformation
+E14	Cell_transformation:T52 Theme:T22
+T53	Gene_expression 820 830	expressing
+E15	Gene_expression:T53 Theme:T25 Theme2:T24
+E16	Gene_expression:T53 Theme:T26
+T54	Positive_regulation 894 901	ability
+E17	Positive_regulation:T54 Cause:T27 Theme:E18
+T55	Cell_transformation 911 922	transformed
+E18	Cell_transformation:T55 Theme:T28
+T56	Regulation 932 940	mediated
+E19	Regulation:T56 Theme:E17 Cause:E20
+T57	Binding 983 987	bind
+E20	Binding:T57 Theme:T27 Theme2:T29
+T58	Binding 1051 1060	interacts
+E21	Binding:T58 Theme:T31 Theme2:T32
+T59	Binding 1086 1097	interaction
+E22	Binding:T59 Theme:T31 Theme2:T32
+T60	Positive_regulation 1118 1125	ability
+E23	Positive_regulation:T60 Cause:T34 Theme:E24
+T61	Cell_transformation 1141 1150	transform
+E24	Cell_transformation:T61 Theme:T35

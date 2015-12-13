@@ -1,0 +1,92 @@
+*	Equiv T9 T10
+T46	Regulation 0 10	Alteration
+E1	Regulation:T46 Theme:E2 Cause:E3
+T47	Gene_expression 28 38	expression
+E2	Gene_expression:T47 Theme:T1
+T48	Planned_process 48 62	transformation
+E3	Planned_process:T48 Instrument:T2 Theme:T3
+T49	Planned_process 202 216	transformation
+E4	Planned_process:T49 Instrument:T8
+T50	Positive_regulation 223 232	activated
+E5	Positive_regulation:T50 Theme:T8
+T51	Positive_regulation 306 313	induced
+E6	Positive_regulation:T51 Cause:T9 Theme:E8
+E7	Positive_regulation:T51 Cause:T9 Theme:E9
+T52	Cell_differentiation 314 329	differentiation
+E8	Cell_differentiation:T52 Theme:T7
+T53	Cell_proliferation 334 340	growth
+E9	Cell_proliferation:T53 Theme:T7
+T54	Regulation 341 351	regulation
+E10	Regulation:T54 Theme:E9
+T55	Gene_expression 386 396	expression
+E11	Gene_expression:T55 Theme:T12
+T56	Positive_regulation 434 443	activated
+E12	Positive_regulation:T56 Theme:E11 Cause:T13
+T57	Positive_regulation 705 712	induced
+E13	Positive_regulation:T57 Cause:T17 Theme:T16
+T58	Planned_process 819 830	transformed
+E14	Planned_process:T58 Instrument:T18 Theme:T19
+T59	Positive_regulation 847 854	induced
+E15	Positive_regulation:T59 Cause:T20 Theme:E16
+T60	Gene_expression 855 865	expression
+E16	Gene_expression:T60 Theme:T21
+T61	Positive_regulation 940 947	induced
+E17	Positive_regulation:T61 Theme:T23
+E18	Positive_regulation:T61 Theme:T22
+T62	Cell_transformation 951 965	nontransformed
+E19	Cell_transformation:T62 Theme:T24
+M1	Negation E19
+T63	Planned_process 992 1001	treatment
+E20	Planned_process:T63 Instrument:T25 Theme:T24
+T64	Gene_expression 1007 1016	expressed
+E21	Gene_expression:T64 Theme:T23
+E22	Gene_expression:T64 Theme:T22
+T65	Planned_process 1026 1037	transformed
+E23	Planned_process:T65 Instrument:T26 Theme:T27
+T66	Planned_process 1069 1078	treatment
+E24	Planned_process:T66 Instrument:T28 Theme:T27
+T67	Cell_proliferation 1105 1111	growth
+E25	Cell_proliferation:T67 Theme:T29
+T68	Negative_regulation 1115 1123	arrested
+E26	Negative_regulation:T68 Theme:E25
+T69	Cell_differentiation 1153 1167	differentiated
+E27	Cell_differentiation:T69 Theme:T29
+M2	Negation E27
+T70	Gene_expression 1223 1233	expression
+E28	Gene_expression:T70 Theme:T30
+T71	Planned_process 1239 1250	transfected
+E29	Planned_process:T71 Theme:T30
+T72	Cell_differentiation 1321 1335	differentiated
+E30	Cell_differentiation:T72 Theme:T32
+T73	Cell_proliferation 1413 1419	growth
+E31	Cell_proliferation:T73 Theme:T36
+T74	Negative_regulation 1420 1430	inhibitory
+E32	Negative_regulation:T74 Cause:T34 Theme:E31
+T75	Planned_process 1454 1465	transformed
+E33	Planned_process:T75 Instrument:T35 Theme:T36
+T76	Positive_regulation 1514 1522	enhanced
+E34	Positive_regulation:T76 Theme:E35
+T77	Cell_proliferation 1523 1536	proliferation
+E35	Cell_proliferation:T77 Theme:T38
+T78	Planned_process 1546 1557	transformed
+E36	Planned_process:T78 Instrument:T37 Theme:T38
+T79	Cell_differentiation 1597 1612	differentiation
+E37	Cell_differentiation:T79 Theme:T39
+T80	Negative_regulation 1645 1655	suppresses
+E38	Negative_regulation:T80 Theme:E39
+T81	Positive_regulation 1670 1679	induction
+E39	Positive_regulation:T81 Theme:T40
+T82	Regulation 1694 1706	central role
+E40	Regulation:T82 Cause:T41 Theme:E42
+T83	Positive_regulation 1732 1739	induced
+E41	Positive_regulation:T83 Cause:T42 Theme:E42
+T84	Cell_differentiation 1745 1760	differentiation
+E42	Cell_differentiation:T84 Theme:T43
+T85	Positive_regulation 1779 1790	stimulation
+E43	Positive_regulation:T85 Theme:E44
+T86	Pathway 1819 1833	signal pathway
+E44	Pathway:T86 
+T87	Cell_proliferation 1970 1976	growth
+E45	Cell_proliferation:T87 Theme:T45
+T88	Cell_differentiation 1981 1996	differentiation
+E46	Cell_differentiation:T88 Theme:T45

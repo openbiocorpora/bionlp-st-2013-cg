@@ -1,0 +1,57 @@
+T1	Gene_or_gene_product 0 6	ICAM-3
+T2	Organism 56 61	human
+T3	Cell 62 94	non-small cell lung cancer cells
+T4	Gene_or_gene_product 107 112	MMP-2
+T5	Gene_or_gene_product 117 122	MMP-9
+T6	Gene_or_gene_product 127 130	Akt
+T7	Gene_or_gene_product 135 139	CREB
+T8	Gene_or_gene_product 175 208	intercellular adhesion molecule-3
+T9	Gene_or_gene_product 210 216	ICAM-3
+T10	Cell 252 260	cellular
+T11	Cell 282 293	cancer cell
+T12	Gene_or_gene_product 345 351	ICAM-3
+T13	Cell 380 391	cancer cell
+T14	Gene_or_gene_product 444 450	ICAM-3
+T15	Cell 478 482	cell
+T16	Cell 543 597	NCI-H1299 non-small cell lung cancer (NSCLC) cell line
+T17	Gene_or_gene_product 599 602	p53
+T18	Cell 599 621	p53 and PTEN null cell
+T19	Gene_or_gene_product 607 611	PTEN
+T20	Gene_or_gene_product 642 648	ICAM-3
+T21	Cell 672 684	transfectant
+T22	Cell 712 716	cell
+T23	Gene_or_gene_product 838 843	MMP-2
+T24	Gene_or_gene_product 848 853	MMP-9
+T25	Gene_or_gene_product 855 861	ICAM-3
+T26	Gene_or_gene_product 877 880	Akt
+T27	Cell 926 934	cellular
+T28	Gene_or_gene_product 958 961	MMP
+T29	Gene_or_gene_product 1044 1047	Akt
+T30	Gene_or_gene_product 1104 1167	adenosine 3', 5'-monophosphate response element-binding protein
+T31	Gene_or_gene_product 1169 1173	CREB
+T32	Gene_or_gene_product 1178 1184	ICAM-3
+T33	Gene_or_gene_product 1215 1218	Akt
+T34	Gene_or_gene_product 1238 1242	CREB
+T35	Gene_or_gene_product 1273 1277	CREB
+T36	Cell 1297 1305	cellular
+T37	Gene_or_gene_product 1341 1345	MMPs
+T38	Gene_or_gene_product 1374 1378	CREB
+T39	Gene_or_gene_product 1422 1425	Akt
+T40	Gene_or_gene_product 1430 1433	MMP
+T41	Gene_or_gene_product 1450 1456	ICAM-3
+T42	Cell 1465 1469	cell
+T43	Cell 1496 1516	NCI-H460 NSCLC cells
+T44	Cell 1518 1545	wild-type p53 and PTEN cell
+T45	Gene_or_gene_product 1528 1531	p53
+T46	Gene_or_gene_product 1536 1540	PTEN
+T47	Gene_or_gene_product 1625 1631	ICAM-3
+T48	Cell 1643 1654	cancer cell
+T49	Gene_or_gene_product 1678 1684	ICAM-3
+T50	Gene_or_gene_product 1685 1688	Akt
+T51	Gene_or_gene_product 1689 1693	CREB
+T52	Gene_or_gene_product 1694 1697	MMP
+T53	Gene_or_gene_product 1720 1723	p53
+T54	Gene_or_gene_product 1728 1732	PTEN
+T55	Gene_or_gene_product 1780 1786	ICAM-3
+T56	Cancer 1831 1837	cancer
+T57	Cancer 1864 1870	cancer

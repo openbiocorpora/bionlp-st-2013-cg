@@ -1,0 +1,24 @@
+T1	Simple_chemical 17 45	low molecular weight heparin
+T2	Simple_chemical 50 67	hyperbaric oxygen
+T3	Pathological_formation 129 134	wound
+T4	Simple_chemical 338 373	low molecular weight (LMW) heparins
+T5	Simple_chemical 378 395	hyperbaric oxygen
+T6	Simple_chemical 397 400	HBO
+T7	Pathological_formation 449 454	wound
+T8	Organism 486 504	Wistar albino rats
+T9	Multi-tissue_structure 591 596	cecum
+T10	Simple_chemical 601 608	ethanol
+T11	Organism 626 630	rats
+T12	Simple_chemical 751 765	Enoxaparine Na
+T13	Simple_chemical 784 787	HBO
+T14	Simple_chemical 824 838	enoxaparine Na
+T15	Simple_chemical 843 846	HBO
+T16	Simple_chemical 940 954	enoxaparine Na
+T17	Pathological_formation 1129 1145	abdominal wounds
+T18	Pathological_formation 1181 1197	abdominal wounds
+T19	Simple_chemical 1560 1574	Enoxaparine Na
+T20	Simple_chemical 1616 1619	HBO
+T21	Simple_chemical 1667 1681	Enoxaparine Na
+T22	Pathological_formation 1708 1713	wound
+T23	Simple_chemical 1727 1730	HBO
+T24	Pathological_formation 1764 1769	wound

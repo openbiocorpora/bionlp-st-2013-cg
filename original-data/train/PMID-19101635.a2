@@ -1,0 +1,34 @@
+T23	Negative_regulation 398 406	removing
+E1	Negative_regulation:T23 Theme:T8 Cause:E2
+T24	Positive_regulation 434 444	initiating
+E2	Positive_regulation:T24 Theme:E3 Cause:T6
+T25	Death 454 459	death
+E3	Death:T25 Theme:T9
+T26	Negative_regulation 683 693	prevention
+E4	Negative_regulation:T26 Theme:T11
+T27	Regulation 813 821	maintain
+E5	Regulation:T27 Cause:T12 Theme:E6
+T28	Metabolism 846 856	metabolism
+E6	Metabolism:T28 Theme:T13
+T29	Localization 936 946	deficiency
+E7	Localization:T29 Theme:T15
+M1	Negation E7
+T30	Negative_regulation 1042 1050	reducing
+E8	Negative_regulation:T30 Theme:E9 Cause:T16
+T31	Mutation 1070 1079	mutations
+E9	Mutation:T31 
+T32	Regulation 1175 1185	regulation
+E10	Regulation:T32 Cause:T19 Theme:E11
+M2	Negation E10
+T33	Glycolysis 1189 1199	glycolysis
+E11	Glycolysis:T33 
+T34	Glycolysis 1300 1318	aerobic glycolysis
+E12	Glycolysis:T34 
+T35	Regulation 1430 1441	contributes
+E13	Regulation:T35 Theme:E14
+T36	Mutation 1445 1456	mutagenesis
+E14	Mutation:T36 
+T37	Positive_regulation 1474 1480	boosts
+E15	Positive_regulation:T37 Theme:E16
+T38	Carcinogenesis 1485 1499	carcinogenesis
+E16	Carcinogenesis:T38 

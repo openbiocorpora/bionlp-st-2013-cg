@@ -1,0 +1,29 @@
+T1	Gene_or_gene_product 27 33	VEGF-a
+T2	Organism 37 42	human
+T3	Cancer 43 60	ovarian carcinoma
+T4	Cancer 92 106	Ovarian cancer
+T5	Cancer 153 158	tumor
+T6	Multi-tissue_structure 172 182	peritoneal
+T7	Cancer 224 230	tumors
+T8	Multi-tissue_structure 268 275	vessels
+T9	Tissue 293 306	microvascular
+T10	Multi-tissue_structure 341 352	glomeruloid
+T11	Cancer 418 423	tumor
+T12	Organism_substance 424 429	blood
+T13	Organism 548 553	human
+T14	Cell 554 577	ovarian carcinoma cells
+T15	Gene_or_gene_product 677 683	VEGF-a
+T16	Cancer 752 759	cancers
+T17	Organism 765 770	human
+T18	Simple_chemical 771 779	Paraffin
+T19	Tissue 789 809	tumor tissue samples
+T20	Gene_or_gene_product 842 848	VEGF-a
+T21	Gene_or_gene_product 864 869	EphA2
+T22	Gene_or_gene_product 885 889	MMPs
+T23	Gene_or_gene_product 949 955	VEGF-a
+T24	Cancer 1113 1127	ovarian cancer
+T25	Gene_or_gene_product 1136 1147	anti-VEGF-a
+T26	Gene_or_gene_product 1177 1182	EphA2
+T27	Gene_or_gene_product 1198 1227	antibodies against human MMPs
+T28	Cancer 1235 1240	tumor
+T29	Cancer 1349 1354	tumor

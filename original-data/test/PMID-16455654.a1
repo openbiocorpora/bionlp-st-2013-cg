@@ -1,0 +1,33 @@
+T1	Gene_or_gene_product 0 5	c-Met
+T2	Gene_or_gene_product 33 37	Mitf
+T3	Cell 45 63	melanocyte lineage
+T4	Gene_or_gene_product 66 90	Hepatocyte growth factor
+T5	Gene_or_gene_product 92 95	HGF
+T6	Gene_or_gene_product 97 102	c-Met
+T7	Cell 152 162	melanocyte
+T8	Cancer 179 187	melanoma
+T9	Gene_or_gene_product 206 209	HGF
+T10	Cell 225 236	melanocytes
+T11	Gene_or_gene_product 261 266	c-Met
+T12	Gene_or_gene_product 327 330	HGF
+T13	Gene_or_gene_product 372 377	c-Met
+T14	Gene_or_gene_product 416 420	Mitf
+T15	Cellular_component 446 455	chromatin
+T16	Organism 495 500	human
+T17	Gene_or_gene_product 501 506	c-Met
+T18	Organism 546 558	adenovirally
+T19	Gene_or_gene_product 569 573	Mitf
+T20	Gene_or_gene_product 597 602	c-Met
+T21	Cell 621 632	melanocytes
+T22	Gene_or_gene_product 648 652	Mitf
+T23	Gene_or_gene_product 661 664	HGF
+T24	Gene_or_gene_product 699 704	c-Met
+T25	Gene_or_gene_product 749 752	HGF
+T26	Gene_or_gene_product 791 795	Mitf
+T27	Gene_or_gene_product 838 842	Mitf
+T28	Cell 878 889	melanocytes
+T29	Cell 894 908	melanoma cells
+T30	Gene_or_gene_product 912 915	HGF
+T31	Cellular_component 926 932	matrix
+T32	Cell 993 1004	melanocytic
+T33	Cancer 1021 1029	melanoma

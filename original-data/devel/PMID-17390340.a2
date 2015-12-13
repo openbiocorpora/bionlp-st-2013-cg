@@ -1,0 +1,114 @@
+*	Equiv T22 T23
+*	Equiv T25 T26
+*	Equiv T36 T35
+T59	Positive_regulation 28 35	induced
+E1	Positive_regulation:T59 Cause:T1 Theme:E2
+T60	Death 41 46	death
+E2	Death:T60 Theme:T2
+T61	Planned_process 107 115	purified
+E3	Planned_process:T61 Theme:T4 Instrument:T5
+T62	Negative_regulation 154 162	inhibits
+E4	Negative_regulation:T62 Cause:T4 Theme:E5
+T63	Cell_proliferation 168 181	proliferation
+E5	Cell_proliferation:T63 Theme:T7
+T64	Positive_regulation 186 193	induces
+E6	Positive_regulation:T64 Cause:T4 Theme:E7
+T65	Cell_death 194 203	apoptosis
+E7	Cell_death:T65 
+T66	Regulation 273 280	effects
+E8	Regulation:T66 Cause:T9 Theme:T10
+M1	Speculation E8
+T67	Planned_process 341 350	treatment
+E9	Planned_process:T67 Instrument:T11
+T68	Cell_death 436 445	apoptotic
+E10	Cell_death:T68 
+T69	Cell_death 463 471	necrotic
+E11	Cell_death:T69 
+T70	Cell_death 541 550	apoptotic
+E12	Cell_death:T70 Theme:T16
+T71	Positive_regulation 643 651	increase
+E13	Positive_regulation:T71 Theme:T19
+E14	Positive_regulation:T71 Theme:T21
+E15	Positive_regulation:T71 Theme:T22
+T72	Positive_regulation 665 674	activated
+E16	Positive_regulation:T72 Theme:T20
+E17	Positive_regulation:T72 Theme:T21
+T73	Catabolism 710 717	cleaved
+T74	Positive_regulation 710 717	cleaved
+E18	Catabolism:T73 Theme:T22
+E19	Positive_regulation:T74 Theme:E18 Cause:T24
+T75	Positive_regulation 847 856	dependent
+E20	Positive_regulation:T75 Theme:E21
+T76	Localization 857 870	translocation
+E21	Localization:T76 FromLoc:T27 ToLoc:T28 Theme:T25
+T77	Negative_regulation 909 919	Inhibition
+E22	Negative_regulation:T77 Theme:T29
+E23	Negative_regulation:T77 Theme:T30
+T78	Negative_regulation 955 962	blocked
+E24	Negative_regulation:T78 Theme:E27 Cause:E22
+E25	Negative_regulation:T78 Theme:E27 Cause:E23
+T79	Positive_regulation 972 979	induced
+E26	Positive_regulation:T79 Cause:T31 Theme:E27
+T80	Cell_death 980 989	apoptosis
+E27	Cell_death:T80 
+T81	Regulation 1006 1017	involvement
+E28	Regulation:T81 Theme:E27 Cause:T32
+E29	Regulation:T81 Theme:E27 Cause:T33
+T82	Positive_regulation 1066 1075	activated
+E30	Positive_regulation:T82 Cause:T34 Theme:T35
+T83	Negative_regulation 1143 1154	inactivated
+E31	Negative_regulation:T83 Theme:T37 Cause:E33
+E32	Negative_regulation:T83 Theme:T37 Cause:E34
+T84	Negative_regulation 1162 1172	decreasing
+E33	Negative_regulation:T84 Cause:T34 Theme:E35
+E34	Negative_regulation:T84 Cause:T34 Theme:E36
+T85	Phosphorylation 1183 1197	phosphorylated
+E35	Phosphorylation:T85 Theme:T38
+T86	Phosphorylation 1207 1221	phosphorylated
+E36	Phosphorylation:T86 Theme:T39
+T87	Positive_regulation 1260 1268	promoted
+E37	Positive_regulation:T87 Theme:E38 Cause:E39
+T88	Cell_death 1269 1278	apoptosis
+E38	Cell_death:T88 
+T89	Negative_regulation 1291 1302	alleviating
+E39	Negative_regulation:T89 Theme:E40 Cause:T40
+M2	Speculation E39
+T90	Negative_regulation 1307 1317	inhibitory
+E40	Negative_regulation:T90 Cause:T41 Theme:T42
+T91	Negative_regulation 1359 1369	inhibition
+E41	Negative_regulation:T91 Theme:T43
+E42	Negative_regulation:T91 Theme:T44
+T92	Negative_regulation 1428 1437	prevented
+E43	Negative_regulation:T92 Theme:E46 Cause:E41
+E44	Negative_regulation:T92 Theme:E46 Cause:E42
+M3	Negation E44
+T93	Positive_regulation 1447 1454	induced
+E45	Positive_regulation:T93 Cause:T45 Theme:E46
+T94	Cell_death 1455 1463	necrosis
+E46	Cell_death:T94 
+T95	Positive_regulation 1504 1510	caused
+E47	Positive_regulation:T95 Cause:E48 Theme:E46
+T96	Negative_regulation 1514 1523	depletion
+E48	Negative_regulation:T96 Theme:T47 Cause:E49
+T97	Positive_regulation 1564 1574	activation
+E49	Positive_regulation:T97 Theme:T48
+T98	Positive_regulation 1609 1618	initiates
+E50	Positive_regulation:T98 Theme:E56 Cause:E57
+E51	Positive_regulation:T98 Theme:E62 Cause:E57
+E52	Positive_regulation:T98 Theme:E56 Cause:E58
+E53	Positive_regulation:T98 Theme:E62 Cause:E58
+E54	Positive_regulation:T98 Theme:E56 Cause:E59
+E55	Positive_regulation:T98 Theme:E62 Cause:E59
+T99	Cell_death 1619 1628	apoptosis
+E56	Cell_death:T99 
+T100	Regulation 1629 1632	via
+E57	Regulation:T100 Cause:T49 Theme:E60
+E58	Regulation:T100 Cause:T49 Theme:E63
+E59	Regulation:T100 Cause:T49 Theme:E61
+T101	Pathway 1697 1705	pathways
+E60	Pathway:T101 Participant:T50 Participant2:T51 Participant3:T52 Participant4:T53
+E61	Pathway:T101 Participant:T54 Participant2:T55 Participant3:T56 Participant4:T57
+T102	Cell_death 1710 1718	necrosis
+E62	Cell_death:T102 
+T103	Positive_regulation 1728 1738	activation
+E63	Positive_regulation:T103 Theme:T58

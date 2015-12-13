@@ -1,0 +1,39 @@
+T1	Gene_or_gene_product 0 5	Trib1
+T2	Gene_or_gene_product 10 14	Evi1
+T3	Gene_or_gene_product 30 34	Hoxa
+T4	Gene_or_gene_product 39 44	Meis1
+T5	Cell 48 55	myeloid
+T6	Gene_or_gene_product 99 104	Meis1
+T7	Gene_or_gene_product 109 114	Hoxa9
+T8	Cell 124 131	myeloid
+T9	Cell 169 188	myeloid progenitors
+T10	Cancer 192 200	leukemia
+T11	Cancer 310 324	overt leukemia
+T12	Gene_or_gene_product 365 370	Hoxa9
+T13	Gene_or_gene_product 371 376	Meis1
+T14	Organism 401 411	retroviral
+T15	Organism 454 464	retrovirus
+T16	Organism 493 497	mice
+T17	Gene_or_gene_product 512 517	Hoxa9
+T18	Gene_or_gene_product 518 523	Meis1
+T19	Cell 535 552	bone marrow cells
+T20	Cancer 563 585	acute myeloid leukemia
+T21	Cancer 587 590	AML
+T22	Gene_or_gene_product 597 602	Trib1
+T23	Gene_or_gene_product 604 608	Evi1
+T24	Gene_or_gene_product 610 614	Ahi1
+T25	Gene_or_gene_product 616 624	Raralpha
+T26	Gene_or_gene_product 626 632	Pitpnb
+T27	Gene_or_gene_product 638 646	AK039950
+T28	Gene_or_gene_product 744 749	Trib1
+T29	Gene_or_gene_product 754 758	Evi1
+T30	Organism 784 794	retroviral
+T31	Gene_or_gene_product 878 883	Hoxa9
+T32	Gene_or_gene_product 884 889	Meis1
+T33	Cancer 898 901	AML
+T34	Gene_or_gene_product 919 924	Trib1
+T35	Gene_or_gene_product 929 933	Evi1
+T36	Gene_or_gene_product 974 979	Trib1
+T37	Cell 1001 1008	myeloid
+T38	Gene_or_gene_product 1048 1051	ERK
+T39	Cell 1168 1175	myeloid

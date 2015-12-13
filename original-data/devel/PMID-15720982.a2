@@ -1,0 +1,25 @@
+*	Equiv T5 T6
+T25	Planned_process 68 77	treatment
+E1	Planned_process:T25 Instrument:T2
+E2	Planned_process:T25 Instrument:T1
+T26	Planned_process 402 409	therapy
+E3	Planned_process:T26 Instrument:T5
+E4	Planned_process:T26 Instrument:T4
+T27	Planned_process 505 514	underwent
+E5	Planned_process:T27 Theme:T8
+T28	Planned_process 575 583	abrasion
+E6	Planned_process:T28 Theme:T9
+T29	Planned_process 609 620	application
+E7	Planned_process:T29 Instrument:T10
+T30	Planned_process 740 747	treated
+E8	Planned_process:T30 Instrument:T12
+T31	Planned_process 788 795	therapy
+E9	Planned_process:T31 Instrument:T13
+T32	Planned_process 847 856	treatment
+E10	Planned_process:T32 Instrument:T15 Instrument:T14
+T33	Blood_vessel_development 1391 1403	angiogenesis
+E11	Blood_vessel_development:T33 
+T34	Planned_process 1620 1627	therapy
+E12	Planned_process:T34 Instrument:T20
+T35	Planned_process 1731 1738	therapy
+E13	Planned_process:T35 Instrument:T23

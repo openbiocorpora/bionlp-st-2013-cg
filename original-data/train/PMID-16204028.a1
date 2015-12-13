@@ -1,0 +1,39 @@
+T1	Gene_or_gene_product 23 49	adenomatous polyposis coli
+T2	Organism 62 67	mouse
+T3	Organ 68 78	intestinal
+T4	Gene_or_gene_product 99 125	adenomatous polyposis coli
+T5	Gene_or_gene_product 127 130	APC
+T6	Gene_or_gene_product 244 247	Wnt
+T7	Gene_or_gene_product 248 260	beta-catenin
+T8	Gene_or_gene_product 315 318	APC
+T9	Organ 342 352	intestinal
+T10	Organism 390 394	mice
+T11	Gene_or_gene_product 416 419	Apc
+T12	Gene_or_gene_product 428 437	Apc(neoR)
+T13	Gene_or_gene_product 442 451	Apc(neoF)
+T14	Pathological_formation 586 603	intestinal polyps
+T15	Cancer 605 610	tumor
+T16	Gene_or_gene_product 655 668	Apc(Delta716)
+T17	Organism 655 673	Apc(Delta716) mice
+T18	Gene_or_gene_product 695 698	Apc
+T19	Gene_or_gene_product 720 733	Apc(Delta716)
+T20	Organism 720 738	Apc(Delta716) mice
+T21	Gene_or_gene_product 762 765	Apc
+T22	Pathological_formation 795 801	polyps
+T23	Gene_or_gene_product 818 827	Apc(neoR)
+T24	Gene_or_gene_product 832 841	Apc(neoF)
+T25	Organism 832 846	Apc(neoF) mice
+T26	Cell 855 875	embryonic stem cells
+T27	Gene_or_gene_product 909 912	Apc
+T28	Gene_or_gene_product 939 942	APC
+T29	Gene_or_gene_product 990 1002	beta-catenin
+T30	Gene_or_gene_product 1020 1032	beta-catenin
+T31	Gene_or_gene_product 1033 1046	T-cell factor
+T32	Gene_or_gene_product 1112 1115	APC
+T33	Pathological_formation 1140 1156	intestinal polyp
+T34	Gene_or_gene_product 1210 1222	beta-catenin
+T35	Gene_or_gene_product 1223 1236	T-cell factor
+T36	Gene_or_gene_product 1290 1293	APC
+T37	Pathological_formation 1323 1328	polyp
+T38	Organism 1333 1338	mouse
+T39	Gene_or_gene_product 1441 1444	Wnt

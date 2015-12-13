@@ -1,0 +1,66 @@
+T37	Gene_expression 0 10	Expression
+E1	Gene_expression:T37 Theme:T1
+E2	Gene_expression:T37 Theme:T2
+T38	Carcinogenesis 94 108	carcinogenesis
+E3	Carcinogenesis:T38 AtLoc:T5
+T39	Negative_regulation 176 186	suppressor
+E4	Negative_regulation:T39 Theme:T7 Cause:T6
+T40	Regulation 201 206	plays
+E5	Regulation:T40 Theme:T8 Cause:T6
+E6	Regulation:T40 Theme:E7 Cause:T6
+M1	Speculation E5
+M2	Speculation E6
+T41	Carcinogenesis 245 265	carcinogenic process
+E7	Carcinogenesis:T41 
+T42	Gene_expression 335 345	expression
+E8	Gene_expression:T42 Theme:T9
+E9	Gene_expression:T42 Theme:T10
+T43	Gene_expression 445 455	expression
+E10	Gene_expression:T43 Theme:T13
+E11	Gene_expression:T43 Theme:T14
+T44	Gene_expression 621 631	expression
+E12	Gene_expression:T44 Theme:T18
+E13	Gene_expression:T44 Theme:T17
+T45	Planned_process 693 705	transfection
+E14	Planned_process:T45 Instrument:T18
+E15	Planned_process:T45 Instrument:T17
+T46	Gene_expression 782 791	expressed
+E16	Gene_expression:T46 Theme:T20
+E17	Gene_expression:T46 Theme:T21
+T47	Negative_regulation 864 871	silence
+E18	Negative_regulation:T47 Theme:E19
+T48	Gene_expression 876 886	expression
+E19	Gene_expression:T48 Theme:T23
+T49	Negative_regulation 942 946	lost
+E20	Negative_regulation:T49 Theme:E21
+T50	Gene_expression 958 968	expression
+E21	Gene_expression:T50 Theme:T25
+T51	Gene_expression 983 993	expression
+E22	Gene_expression:T51 Theme:T26
+T52	Positive_regulation 1046 1053	induced
+E23	Positive_regulation:T52 Theme:E24
+T53	Cell_death 1054 1063	apoptosis
+E24	Cell_death:T53 Theme:T27
+T54	Pathway 1183 1192	signaling
+E25	Pathway:T54 Participant:T31 Participant2:T30
+T55	Regulation 1197 1203	commit
+E26	Regulation:T55 Cause:E25 Theme:T32
+M3	Speculation E26
+T56	Cell_proliferation 1281 1294	proliferating
+E27	Cell_proliferation:T56 Theme:T32
+T57	Negative_regulation 1334 1343	silencing
+E28	Negative_regulation:T57 Theme:E29
+T58	Gene_expression 1351 1361	expression
+E29	Gene_expression:T58 Theme:T34
+T59	Positive_regulation 1366 1376	contribute
+E30	Positive_regulation:T59 Cause:E28 Theme:E31
+T60	Negative_regulation 1384 1390	escape
+E31	Negative_regulation:T60 Theme:E33
+T61	Regulation 1430 1439	regulated
+E32	Regulation:T61 Cause:T36 Theme:E33
+T62	Death 1440 1457	apoptotic program
+E33	Death:T62 Theme:T35
+T63	Positive_regulation 1467 1476	promoting
+E34	Positive_regulation:T63 Theme:E35 Cause:E31
+T64	Carcinogenesis 1477 1497	malignant phenotypes
+E35	Carcinogenesis:T64 

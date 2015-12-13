@@ -1,0 +1,61 @@
+*	Equiv T1 T2
+*	Equiv T5 T6
+T26	Gene_expression 0 14	Overexpression
+T27	Positive_regulation 0 14	Overexpression
+E1	Gene_expression:T26 Theme:T1
+E2	Positive_regulation:T27 Theme:E1
+T28	Positive_regulation 41 48	induces
+E3	Positive_regulation:T28 Cause:E1 Theme:E4
+T29	Cell_transformation 54 68	transformation
+E4	Cell_transformation:T29 AtLoc:T4 Theme:T3
+T30	Cell_death 114 123	apoptosis
+E5	Cell_death:T30 
+T31	Negative_regulation 124 134	inhibiting
+E6	Negative_regulation:T31 Theme:E5 Cause:T5
+T32	Regulation 179 202	plays an important role
+E7	Regulation:T32 Cause:T5 Theme:E8
+T33	Cell_death 220 229	apoptosis
+E8	Cell_death:T33 
+T34	Negative_regulation 241 249	suppress
+E9	Negative_regulation:T34 Theme:E11 Cause:T5
+T35	Positive_regulation 254 261	induced
+E10	Positive_regulation:T35 Theme:E11 Cause:T9
+T36	Cell_death 262 271	apoptosis
+E11	Cell_death:T36 
+T37	Positive_regulation 318 327	promoting
+E12	Positive_regulation:T37 Cause:T10 Theme:E14
+E13	Positive_regulation:T37 Cause:T10 Theme:E15
+M1	Speculation E12
+M2	Speculation E13
+T38	Cell_proliferation 333 339	growth
+E14	Cell_proliferation:T38 Theme:T11
+T39	Carcinogenesis 344 357	tumorigenesis
+E15	Carcinogenesis:T39 
+T40	Planned_process 383 396	overexpressed
+E16	Planned_process:T40 Instrument:T12 Theme:T13
+T41	Positive_regulation 448 456	mediated
+E17	Positive_regulation:T41 Cause:T14 Theme:E18
+T42	Gene_expression 462 472	expression
+E18	Gene_expression:T42 Theme:T12
+T43	Gene_expression 527 541	overexpressing
+T44	Positive_regulation 527 541	overexpressing
+E19	Gene_expression:T43 Theme:T16
+E20	Positive_regulation:T44 Theme:E19
+T45	Positive_regulation 573 579	higher
+E21	Positive_regulation:T45 Theme:E22
+T46	Cell_proliferation 580 586	growth
+E22	Cell_proliferation:T46 Theme:T15
+T47	Infection 715 723	infected
+E23	Infection:T47 Participant:T18 Theme:T20
+T48	Development 730 736	formed
+E24	Development:T48 Theme:T21
+T49	Development 776 782	formed
+E25	Development:T49 Theme:T22
+M3	Negation E25
+T50	Planned_process 825 833	injected
+E26	Planned_process:T50 Theme:T24 Instrument:T23
+E27	Planned_process:T50 Theme:T24 Instrument:T20
+T51	Positive_regulation 908 927	play a crucial role
+E28	Positive_regulation:T51 Cause:T25 Theme:E29
+T52	Carcinogenesis 931 949	neoplastic genesis
+E29	Carcinogenesis:T52 

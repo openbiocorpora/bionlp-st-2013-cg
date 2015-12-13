@@ -1,0 +1,72 @@
+*	Equiv T10 T11
+*	Equiv T13 T14
+T55	Regulation 0 7	Effects
+E1	Regulation:T55 Cause:T1 Theme:E2
+T56	Carcinogenesis 70 84	carcinogenesis
+E2	Carcinogenesis:T56 AtLoc:T3
+T57	Gene_expression 133 142	deficient
+E3	Gene_expression:T57 Theme:T5
+E4	Gene_expression:T57 Theme:T4
+M1	Negation E3
+M2	Negation E4
+T58	Planned_process 157 172	supplementation
+E5	Planned_process:T58 Instrument:T7
+T59	Negative_regulation 177 183	reduce
+E6	Negative_regulation:T59 Cause:E5 Theme:T8
+E7	Negative_regulation:T59 Cause:E5 Theme:T9
+M3	Speculation E6
+M4	Speculation E7
+T60	Gene_expression 339 348	deficient
+E8	Gene_expression:T60 Theme:T13
+E9	Gene_expression:T60 Theme:T12
+M5	Negation E8
+M6	Negation E9
+T61	Gene_expression 355 359	null
+E10	Gene_expression:T61 Theme:T15
+M7	Negation E10
+T62	Gene_expression 372 376	null
+E11	Gene_expression:T62 Theme:T16
+M8	Negation E11
+T63	Development 398 405	develop
+E12	Development:T63 Theme:T18
+T64	Regulation 477 484	effects
+E13	Regulation:T64 Cause:T20 Theme:E14
+M9	Speculation E13
+T65	Development 510 521	development
+E14	Development:T65 Theme:T22
+T66	Gene_expression 564 568	null
+E15	Gene_expression:T66 Theme:T23
+M10	Negation E15
+T67	Gene_expression 581 585	null
+E16	Gene_expression:T67 Theme:T24
+M11	Negation E16
+T68	Gene_expression 606 610	null
+E17	Gene_expression:T68 Theme:T26
+M12	Negation E17
+T69	Gene_expression 623 627	null
+E18	Gene_expression:T69 Theme:T27
+M13	Negation E18
+T70	Planned_process 653 660	receive
+E19	Planned_process:T70 Theme:T28 Instrument:T29
+T71	Planned_process 1025 1037	supplemented
+E20	Planned_process:T71 Instrument:T37
+T72	Planned_process 1518 1533	supplementation
+E21	Planned_process:T72 Instrument:T42
+T73	Negative_regulation 1584 1594	suppresses
+E22	Negative_regulation:T73 Theme:E23 Cause:E21
+T74	Carcinogenesis 1620 1634	carcinogenesis
+E23	Carcinogenesis:T74 AtLoc:T44
+T75	Gene_expression 1647 1651	null
+E24	Gene_expression:T75 Theme:T45
+M14	Negation E24
+T76	Gene_expression 1664 1668	null
+E25	Gene_expression:T76 Theme:T46
+M15	Negation E25
+T77	Negative_regulation 1727 1734	inhibit
+E26	Negative_regulation:T77 Theme:E27
+T78	Carcinogenesis 1746 1760	carcinogenesis
+E27	Carcinogenesis:T78 AtLoc:T49
+T79	Regulation 1892 1898	effect
+E28	Regulation:T79 Theme:E29
+T80	Carcinogenesis 1948 1962	carcinogenesis
+E29	Carcinogenesis:T80 AtLoc:T54

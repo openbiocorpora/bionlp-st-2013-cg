@@ -1,0 +1,39 @@
+T1	Gene_or_gene_product 10 21	angiotensin
+T2	Organism 43 49	bovine
+T3	Cell 50 73	aortic endothelial cell
+T4	Gene_or_gene_product 88 109	plasminogen activator
+T5	Gene_or_gene_product 148 157	pp60c-src
+T6	Cell 176 192	endothelial cell
+T7	Multi-tissue_structure 294 305	vessel wall
+T8	Cell 325 341	endothelial cell
+T9	Gene_or_gene_product 352 363	angiotensin
+T10	Gene_or_gene_product 388 417	angiotensin-converting enzyme
+T11	Simple_chemical 428 438	lisinopril
+T12	Gene_or_gene_product 446 469	angiotensin II receptor
+T13	Gene_or_gene_product 481 485	sar1
+T14	Simple_chemical 487 507	ile8-angiotensin II,
+T15	Cell 527 543	endothelial cell
+T16	Gene_or_gene_product 558 594	urokinase-like plasminogen activator
+T17	Gene_or_gene_product 596 600	u-PA
+T18	Gene_or_gene_product 699 710	angiotensin
+T19	Gene_or_gene_product 839 844	c-src
+T20	Gene_or_gene_product 846 855	pp60c-src
+T21	Gene_or_gene_product 882 887	c-src
+T22	Gene_or_gene_product 908 913	c-src
+T23	Cell 940 956	Endothelial cell
+T24	Gene_or_gene_product 971 976	c-src
+T25	Gene_or_gene_product 1068 1073	c-src
+T26	Gene_or_gene_product 1116 1121	c-src
+T27	Gene_or_gene_product 1183 1187	u-PA
+T28	Gene_or_gene_product 1202 1213	angiotensin
+T29	Organism 1247 1253	bovine
+T30	Gene_or_gene_product 1254 1258	u-PA
+T31	Gene_or_gene_product 1319 1324	c-src
+T32	Cell 1374 1390	endothelial cell
+T33	Gene_or_gene_product 1405 1426	plasminogen activator
+T34	Gene_or_gene_product 1433 1444	angiotensin
+T35	Gene_or_gene_product 1486 1495	pp60c-src
+T36	Gene_or_gene_product 1515 1520	c-src
+T37	Gene_or_gene_product 1537 1548	angiotensin
+T38	Pathological_formation 1586 1599	intimal wound
+T39	Immaterial_anatomical_entity 1622 1629	luminal

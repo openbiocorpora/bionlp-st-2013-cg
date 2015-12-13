@@ -1,0 +1,23 @@
+T1	Cellular_component 0 8	Telomere
+T2	Gene_or_gene_product 9 19	telomerase
+T3	Gene_or_gene_product 124 134	Telomerase
+T4	Cellular_component 215 224	telomeres
+T5	Cell 249 262	somatic cells
+T6	Gene_or_gene_product 273 278	hTERT
+T7	Gene_or_gene_product 283 293	telomerase
+T8	Cell 332 343	lymphocytes
+T9	Gene_or_gene_product 373 378	hTERT
+T10	Gene_or_gene_product 394 404	telomerase
+T11	Gene_or_gene_product 516 526	telomerase
+T12	Cellular_component 577 585	telomere
+T13	Gene_or_gene_product 698 708	telomerase
+T14	Gene_or_gene_product 753 763	telomerase
+T15	Gene_or_gene_product 869 879	telomerase
+T16	Gene_or_gene_product 908 913	hTERT
+T17	Cell 939 949	lymphocyte
+T18	Cell 987 992	cells
+T19	Pathological_formation 1070 1091	lymphoid malignancies
+T20	Cellular_component 1126 1135	telomeres
+T21	Gene_or_gene_product 1208 1218	telomerase
+T22	Cancer 1279 1294	lymphoid tumors
+T23	Gene_or_gene_product 1419 1429	telomerase

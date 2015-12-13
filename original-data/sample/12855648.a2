@@ -1,0 +1,142 @@
+T1	Pathway 38 45	pathway
+T3	Blood_vessel_development 131 143	angiogenesis
+T28	Blood_vessel_development 1076 1088	angiogenesis
+T78	Blood_vessel_development 2656 2668	angiogenesis
+T5	Negative_regulation 350 360	inhibiting
+E5	Negative_regulation:T5 Theme:E6
+T6	Growth 367 373	growth
+E6	Growth:T6 Theme:T7
+T24	Positive_regulation 1005 1015	activation
+E24	Positive_regulation:T24 Theme:T25
+T26	Growth 1050 1056	growth
+E26	Growth:T26 Theme:T27
+T31	Localization 1228 1235	release
+E31	Localization:T31 Theme:T32
+T39	Negative_regulation 1523 1530	reduced
+E39	Negative_regulation:T39 Theme:E40 Cause:E14
+T40	Gene_expression 1548 1558	generation
+E40	Gene_expression:T40 Theme:T85
+T43	Gene_expression 1634 1644	expression
+E43	Gene_expression:T43 Theme:T44
+T51	Positive_regulation 1739 1747	resulted
+E51	Positive_regulation:T51 Theme:T52 Cause:E43
+T54	Localization 1878 1885	release
+E54	Localization:T54 Theme:T55
+E56	Planned_process:T22 Theme:T58
+T61	Negative_regulation 2090 2099	inhibited
+E61	Negative_regulation:T61 Cause:T62 Theme:E63
+T63	Growth 2100 2106	growth
+E63	Growth:T63 Theme:T64
+T45	Regulation 12 21	targeting
+E1	Regulation:T45 Theme:E47
+T48	Negative_regulation 99 110	suppression
+E2	Negative_regulation:T48 Theme:E7
+T50	Positive_regulation 278 288	triggering
+E3	Positive_regulation:T50 Theme:E4
+T66	Cell_death 300 309	apoptosis
+E4	Cell_death:T66 Theme:T11
+T77	Planned_process 662 670	infected
+E8	Planned_process:T77 Instrument:T79 Theme:T12
+E9	Planned_process:T77 Instrument:T79 Theme:T10
+T81	Planned_process 1178 1187	targeting
+E11	Planned_process:T81 Theme:T30
+T82	Gene_expression 1349 1358	deficient
+E12	Gene_expression:T82 Theme:T34
+M1	Negation E12
+E13	Gene_expression:T82 Theme:T35
+M2	Negation E13
+T83	Planned_process 1403 1415	transduction
+E14	Planned_process:T83 Theme:T36 Instrument:T84 Instrument2:T37
+E15	Gene_expression:T40 Theme:T41
+E16	Negative_regulation:T39 Theme:E15 Cause:E14
+E17	Cell_death:T116 Theme:T47
+T87	Positive_regulation 1657 1663	caused
+E18	Positive_regulation:T87 Cause:E43 Theme:E17
+E19	Cell_death:T116 Theme:T49
+E21	Positive_regulation:T87 Cause:E43 Theme:E19
+T88	Planned_process 1802 1811	targeting
+E23	Planned_process:T88 Theme:T53
+E25	Planned_process:T22 Theme:T57
+T89	Planned_process 2037 2045	injected
+E27	Planned_process:T89 Theme:T60 Instrument:T62
+T90	Positive_regulation 2133 2142	triggered
+E28	Positive_regulation:T90 Theme:E29 Cause:T62
+T91	Cell_death 2154 2163	apoptosis
+E29	Cell_death:T91 Theme:T65
+T92	Negative_regulation 2218 2227	reduction
+E30	Negative_regulation:T92 Theme:T68
+T93	Cell_death 2351 2360	apoptosis
+E32	Cell_death:T93 Theme:T71
+T72	Positive_regulation 2603 2612	induction
+E33	Positive_regulation:T72 Theme:E34
+T74	Cell_death 2627 2636	apoptosis
+E34	Cell_death:T74 Theme:T75
+T94	Negative_regulation 2641 2652	suppression
+E35	Negative_regulation:T94 Theme:E45
+T96	Death 439 444	death
+E36	Death:T96 Theme:T95
+T98	Death 1142 1155	death pathway
+E37	Death:T98 Theme:T97
+T99	Positive_regulation 1156 1165	initiated
+E38	Positive_regulation:T99 Cause:E11 Theme:E37
+T101	Death 1776 1781	death
+E41	Death:T101 Theme:T100
+T102	Positive_regulation 1782 1789	induced
+E42	Positive_regulation:T102 Theme:E41 Cause:E23
+E7	Blood_vessel_development:T3 AtLoc:T76
+E44	Blood_vessel_development:T28 AtLoc:T29
+E45	Blood_vessel_development:T78 
+E47	Pathway:T1 Participant:T2
+T20	Regulation 877 883	effect
+E20	Regulation:T20 Cause:T19 Theme:T21
+E22	Regulation:T20 Cause:T19 Theme:T23
+E48	Regulation:T20 Cause:T19 Theme:E24
+E49	Regulation:T20 Cause:T19 Theme:E26
+E50	Regulation:T20 Cause:T19 Theme:E44
+M3	Subproc E17
+M4	Subproc E19
+T22	Planned_process 1994 2002	knockout
+T108	Cell_death 85 94	apoptosis
+E10	Cell_death:T108 
+T109	Positive_regulation 57 67	initiation
+E46	Positive_regulation:T109 Theme:E10
+T110	Cell_death 197 206	apoptosis
+E52	Cell_death:T110 
+T111	Negative_regulation 184 193	inhibitor
+E53	Negative_regulation:T111 Theme:E52 Cause:T4
+T113	Cell_death 1512 1521	apoptosis
+E55	Cell_death:T113 
+T114	Negative_regulation 1455 1464	inhibited
+E57	Negative_regulation:T114 Cause:E14 Theme:E55
+T115	Positive_regulation 1504 1511	induced
+E58	Positive_regulation:T115 Cause:T38 Theme:E55
+T116	Cell_death 1664 1673	apoptosis
+T86	Cell_death 1863 1872	apoptosis
+E59	Cell_death:T86 
+T117	Positive_regulation 1853 1862	dependent
+E60	Positive_regulation:T117 Cause:T104 Theme:E59
+T118	Cell_death 2497 2506	apoptosis
+E62	Cell_death:T118 
+T119	Regulation 2460 2469	regulator
+E64	Regulation:T119 Cause:T73 Theme:E62
+T120	Positive_regulation 2487 2496	dependent
+E65	Positive_regulation:T120 Theme:E62 Cause:T106
+T122	Negative_regulation 2570 2578	activity
+E66	Negative_regulation:T122 Theme:T121 Cause:E33
+T124	Mutation 865 871	mutant
+E67	Mutation:T124 Theme:T17
+T125	Mutation 887 896	wild-type
+E68	Mutation:T125 Theme:T19
+M5	Negation E68
+T126	Mutation 900 906	mutant
+E69	Mutation:T126 Theme:T19
+E70	Negative_regulation:T122 Theme:T121 Cause:E35
+T127	Regulation 2522 2531	targeting
+E71	Regulation:T127 Theme:E74
+T128	Positive_regulation 2548 2555	results
+E72	Positive_regulation:T128 Cause:E71 Theme:E70
+E73	Positive_regulation:T128 Cause:E71 Theme:E66
+T129	Pathway 2540 2547	pathway
+E74	Pathway:T129 Participant:T73
+T107	Regulation 419 426	couples
+E75	Regulation:T107 Cause:T8 Theme:E36

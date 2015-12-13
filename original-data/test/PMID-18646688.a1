@@ -1,0 +1,44 @@
+T1	Organism 22 32	adenovirus
+T2	Gene_or_gene_product 42 52	endostatin
+T3	Cancer 83 97	lung carcinoma
+T4	Organism 101 105	mice
+T5	Organism 147 157	adenovirus
+T6	Gene_or_gene_product 167 177	endostatin
+T7	Cancer 208 219	lung cancer
+T8	Organism 223 227	mice
+T9	Cancer 266 282	Transplant tumor
+T10	Cell 342 371	Lewis lung cancer (LLC) cells
+T11	Organism_subdivision 381 385	back
+T12	Organism 389 401	C57BL/6 mice
+T13	Organism 407 411	mice
+T14	Cancer 428 440	intratumoral
+T15	Gene_or_gene_product 468 482	Ad-mEndostatin
+T16	Gene_or_gene_product 502 512	endostatin
+T17	Gene_or_gene_product 620 630	endostatin
+T18	Organism_substance 640 645	serum
+T19	Cancer 690 695	tumor
+T20	Tissue 749 760	microvessel
+T21	Gene_or_gene_product 820 824	CD31
+T22	Gene_or_gene_product 829 845	CD105 antibodies
+T23	Cancer 851 856	tumor
+T24	Cancer 942 954	intratumoral
+T25	Gene_or_gene_product 968 982	Ad-mEndostatin
+T26	Cancer 1011 1016	tumor
+T27	Organism 1075 1079	mice
+T28	Gene_or_gene_product 1132 1143	mEndostatin
+T29	Tissue 1160 1172	tumor tissue
+T30	Gene_or_gene_product 1192 1206	Ad-mEndostatin
+T31	Organism 1241 1246	mouse
+T32	Gene_or_gene_product 1247 1277	endostatin monoclonal antibody
+T33	Organism_substance 1348 1353	Serum
+T34	Gene_or_gene_product 1354 1364	endostatin
+T35	Gene_or_gene_product 1458 1468	endostatin
+T36	Tissue 1499 1510	microvessel
+T37	Gene_or_gene_product 1615 1619	CD10
+T38	Gene_or_gene_product 1670 1674	CD31
+T39	Cell 1735 1746	tumor cells
+T40	Gene_or_gene_product 1813 1823	Endostatin
+T41	Gene_or_gene_product 1901 1911	endostatin
+T42	Cancer 1963 1968	tumor
+T43	Multi-tissue_structure 2017 2037	tumor neovasculature
+T44	Cancer 2073 2078	tumor

@@ -1,0 +1,17 @@
+T1	Cancer 0 6	Cancer
+T2	Gene_or_gene_product 23 26	p53
+T3	Cell 52 65	somatic cells
+T4	Cancer 305 311	cancer
+T5	Cellular_component 381 384	DNA
+T6	Cell 399 403	cell
+T7	Cell 438 443	cells
+T8	Cellular_component 459 462	DNA
+T9	Cell 530 543	somatic cells
+T10	Gene_or_gene_product 549 552	p53
+T11	Cellular_component 629 632	DNA
+T12	Cell 670 678	cellular
+T13	Gene_or_gene_product 728 731	p53
+T14	Organism 748 753	human
+T15	Cancer 754 761	tumours
+T16	Gene_or_gene_product 763 766	p53
+T17	Cancer 763 784	p53-deficient cancers

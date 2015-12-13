@@ -1,0 +1,15 @@
+T1	Cancer 33 50	colorectal cancer
+T2	Cancer 96 113	colorectal cancer
+T3	Cancer 183 200	colorectal cancer
+T4	Cancer 281 298	colorectal cancer
+T5	Organism 519 527	patients
+T6	Organism 561 569	patients
+T7	Organism 643 650	patient
+T8	Cancer 776 793	colorectal cancer
+T9	Organism 836 843	patient
+T10	Simple_chemical 1006 1017	Bevacizumab
+T11	Cancer 1161 1178	colorectal cancer
+T12	Organism 1299 1307	patients
+T13	Cancer 1334 1351	colorectal cancer
+T14	Cancer 1417 1434	colorectal cancer
+T15	Organism 1480 1487	patient

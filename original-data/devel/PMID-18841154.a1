@@ -1,0 +1,25 @@
+T1	Simple_chemical 26 32	STX243
+T2	Cancer 69 82	breast cancer
+T3	Simple_chemical 109 150	2-ethyloestradiol-3,17-O,O-bis-sulphamate
+T4	Simple_chemical 152 158	STX243
+T5	Cancer 214 220	tumour
+T6	Simple_chemical 284 290	STX243
+T7	Simple_chemical 348 367	2-methoxyoestradiol
+T8	Simple_chemical 369 376	2-MeOE2
+T9	Simple_chemical 416 447	2-MeOE2-3,17-O,O-bis-sulphamate
+T10	Simple_chemical 449 455	STX140
+T11	Cancer 462 468	tumour
+T12	Simple_chemical 546 552	STX243
+T13	Simple_chemical 599 605	STX243
+T14	Simple_chemical 610 616	STX140
+T15	Cancer 657 685	MDA-MB-231 xenograft tumours
+T16	Simple_chemical 774 781	2-MeOE2
+T17	Cancer 791 797	tumour
+T18	Simple_chemical 829 835	STX243
+T19	Cancer 860 894	MCF-7 paclitaxel-resistant tumours
+T20	Simple_chemical 866 876	paclitaxel
+T21	Simple_chemical 972 978	STX243
+T22	Simple_chemical 983 989	STX140
+T23	Simple_chemical 1137 1143	STX243
+T24	Organism 1200 1204	rats
+T25	Simple_chemical 1335 1341	STX243

@@ -1,0 +1,26 @@
+T1	Gene_or_gene_product 0 20	Thyrotropin receptor
+T2	Organ 33 40	thyroid
+T3	Organism 58 63	Human
+T4	Cancer 64 79	thyroid tumours
+T5	Gene_or_gene_product 216 236	Thyrotropin receptor
+T6	Gene_or_gene_product 238 243	TSH-R
+T7	Simple_chemical 255 259	cAMP
+T8	Pathological_formation 318 324	benign
+T9	Cancer 329 354	malignant thyroid tumours
+T10	Gene_or_gene_product 422 427	TSH-R
+T11	Gene_or_gene_product 451 467	Gs alpha protein
+T12	Cancer 476 497	thyroid toxic adenoma
+T13	Simple_chemical 546 550	cAMP
+T14	Gene_or_gene_product 770 775	TSH-R
+T15	Cancer 831 849	thyroid carcinomas
+T16	Cancer 947 954	tumours
+T17	Gene_or_gene_product 984 989	TSH-R
+T18	Cancer 1043 1053	carcinomas
+T19	Gene_or_gene_product 1070 1086	adenylyl cyclase
+T20	Cancer 1136 1153	thyroid carcinoma
+T21	Gene_or_gene_product 1180 1186	TSH-R-
+T22	Simple_chemical 1194 1198	cAMP
+T23	Organ 1222 1229	thyroid
+T24	Gene_or_gene_product 1299 1304	TSH-R
+T25	Pathological_formation 1325 1331	benign
+T26	Cancer 1336 1363	malignant thyroid neoplasia

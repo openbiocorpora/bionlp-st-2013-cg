@@ -1,0 +1,43 @@
+T1	Gene_or_gene_product 18 47	mammalian target of rapamycin
+T2	Gene_or_gene_product 49 53	mTOR
+T3	Simple_chemical 58 67	rapamycin
+T4	Cell 98 109	CaSki cells
+T5	Simple_chemical 113 123	paclitaxel
+T6	Simple_chemical 126 136	Paclitaxel
+T7	Cancer 217 224	tumours
+T8	Cancer 236 251	cervical cancer
+T9	Simple_chemical 318 327	pacitaxel
+T10	Simple_chemical 488 498	paclitaxel
+T11	Organism 502 507	human
+T12	Cell 508 534	cervical cancer cell lines
+T13	Organism 541 546	human
+T14	Cell 547 573	cervical cancer cell lines
+T15	Simple_chemical 626 636	paclitaxel
+T16	Cell 692 696	cell
+T17	Cellular_component 804 807	DNA
+T18	Cell 938 948	HeLa cells
+T19	Simple_chemical 989 999	paclitaxel
+T20	Cell 1009 1020	CaSki cells
+T21	Cell 1043 1064	cervical cancer cells
+T22	Simple_chemical 1066 1076	paclitaxel
+T23	Simple_chemical 1176 1186	paclitaxel
+T24	Gene_or_gene_product 1224 1227	Akt
+T25	Cell 1236 1240	HeLa
+T26	Cell 1245 1256	CaSki cells
+T27	Cell 1276 1287	CaSki cells
+T28	Simple_chemical 1342 1352	paclitaxel
+T29	Gene_or_gene_product 1379 1383	mTOR
+T30	Gene_or_gene_product 1410 1413	Akt
+T31	Simple_chemical 1434 1443	rapamycin
+T32	Gene_or_gene_product 1468 1472	mTOR
+T33	Cell 1530 1541	CaSki cells
+T34	Simple_chemical 1545 1555	paclitaxel
+T35	Cell 1580 1584	cell
+T36	Gene_or_gene_product 1643 1650	caspase
+T37	Simple_chemical 1672 1682	paclitaxel
+T38	Cancer 1699 1705	tumour
+T39	Cell 1717 1738	cervical cancer cells
+T40	Simple_chemical 1792 1801	rapamycin
+T41	Gene_or_gene_product 1814 1818	mTOR
+T42	Simple_chemical 1833 1843	paclitaxel
+T43	Cell 1854 1875	cervical cancer cells

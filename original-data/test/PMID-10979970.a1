@@ -1,0 +1,30 @@
+T1	Gene_or_gene_product 24 36	p190 Bcr/Abl
+T2	Gene_or_gene_product 37 44	F-actin
+T3	Gene_or_gene_product 86 93	Bcr/Abl
+T4	Amino_acid 94 102	tyrosine
+T5	Cancer 175 183	leukemia
+T6	Organism 187 193	humans
+T7	Gene_or_gene_product 245 248	Abl
+T8	Gene_or_gene_product 249 254	actin
+T9	Gene_or_gene_product 277 289	Bcr/Abl p190
+T10	Cancer 312 320	leukemia
+T11	Cancer 321 329	lymphoma
+T12	Gene_or_gene_product 346 350	p190
+T13	Cellular_component 351 354	DNA
+T14	Organism 388 403	transgenic mice
+T15	Organism 431 435	mice
+T16	Gene_or_gene_product 555 559	p190
+T17	Organism 566 571	lines
+T18	Gene_or_gene_product 600 612	p190 BCR/ABL
+T19	Organism 613 624	transgenics
+T20	Tissue 660 679	hematologic tissues
+T21	Gene_or_gene_product 687 691	p190
+T22	Organism 698 709	transgenics
+T23	Amino_acid 783 791	tyrosine
+T24	Gene_or_gene_product 811 814	Cbl
+T25	Gene_or_gene_product 819 823	Hef1
+T26	Gene_or_gene_product 824 827	Cas
+T27	Gene_or_gene_product 873 880	Bcr/Abl
+T28	Gene_or_gene_product 910 915	actin
+T29	Gene_or_gene_product 934 937	Abl
+T30	Cancer 947 955	leukemia

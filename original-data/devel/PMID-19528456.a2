@@ -1,0 +1,63 @@
+T47	Gene_expression 26 36	expression
+E1	Gene_expression:T47 Theme:T2
+T48	Blood_vessel_development 126 138	angiogenesis
+E2	Blood_vessel_development:T48 AtLoc:T7
+T49	Gene_expression 181 191	expression
+E3	Gene_expression:T49 Theme:T8
+T50	Regulation 199 207	response
+E4	Regulation:T50 Theme:T9 Cause:T11
+T51	Binding 232 242	associated
+E5	Binding:T51 Theme:T10 Theme:T11
+T52	Gene_expression 404 414	expressing
+E6	Gene_expression:T52 Theme:T19
+T53	Regulation 465 473	response
+E7	Regulation:T53 Cause:T20 Theme:E6
+T54	Planned_process 560 569	treatment
+E8	Planned_process:T54 Instrument:T23 Theme:T24
+T55	Regulation 577 583	effect
+E9	Regulation:T55 Cause:E8 Theme:E10
+M1	Negation E9
+T56	Death 614 622	survival
+E10	Death:T56 Theme:T25
+M2	Negation E10
+T57	Negative_regulation 666 673	reduced
+E11	Negative_regulation:T57 Theme:E12 Cause:E8
+T58	Localization 691 700	migration
+E12	Localization:T58 Theme:T26
+T59	Gene_expression 743 753	expressing
+E13	Gene_expression:T59 Theme:T29
+T60	Positive_regulation 798 806	enhanced
+E14	Positive_regulation:T60 Cause:T27 Theme:E16
+E15	Positive_regulation:T60 Cause:T27 Theme:E17
+T61	Blood_vessel_development 807 819	angiogenesis
+E16	Blood_vessel_development:T61 AtLoc:T27
+T62	Growth 840 846	growth
+E17	Growth:T62 Theme:T27
+T63	Blood_vessel_development 863 875	angiogenesis
+E18	Blood_vessel_development:T63 AtLoc:T30
+T64	Planned_process 919 928	treatment
+E19	Planned_process:T64 Instrument:T31
+T65	Negative_regulation 986 993	inhibit
+E20	Negative_regulation:T65 Theme:E21 Cause:E19
+T66	Growth 1007 1013	growth
+E21	Growth:T66 Theme:T32
+T67	Positive_regulation 1014 1021	induced
+E22	Positive_regulation:T67 Cause:T34 Theme:E21
+T68	Gene_expression 1053 1063	expressing
+E23	Gene_expression:T68 Theme:T33
+T69	Planned_process 1108 1117	treatment
+E24	Planned_process:T69 Theme:T35
+T70	Regulation 1118 1126	response
+E25	Regulation:T70 Cause:T36 Theme:T35
+T71	Gene_expression 1240 1250	expressing
+E26	Gene_expression:T71 Theme:T38
+T72	Planned_process 1363 1370	therapy
+E27	Planned_process:T72 Instrument:T41
+T73	Negative_regulation 1383 1395	counteracted
+E28	Negative_regulation:T73 Theme:E29 Cause:E27
+T74	Growth 1428 1434	growth
+E29	Growth:T74 Theme:T42
+T75	Gene_expression 1455 1470	over-expressing
+E30	Gene_expression:T75 Theme:T43
+T76	Negative_regulation 1558 1571	interventions
+E31	Negative_regulation:T76 Theme:T46

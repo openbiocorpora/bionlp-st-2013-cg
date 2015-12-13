@@ -1,0 +1,17 @@
+T1	Gene_or_gene_product 24 27	p53
+T2	Cell 60 68	cellular
+T3	Cancer 119 125	cancer
+T4	Gene_or_gene_product 136 139	p53
+T5	Gene_or_gene_product 236 239	p53
+T6	Gene_or_gene_product 338 345	insulin
+T7	Simple_chemical 359 369	nucleotide
+T8	Cellular_component 384 397	mitochondrial
+T9	Simple_chemical 409 419	fatty acid
+T10	Simple_chemical 431 442	antioxidant
+T11	Gene_or_gene_product 467 471	mTOR
+T12	Gene_or_gene_product 615 618	p53
+T13	Gene_or_gene_product 840 843	p53
+T14	Gene_or_gene_product 858 861	p53
+T15	Gene_or_gene_product 956 959	p53
+T16	Gene_or_gene_product 1100 1103	p53
+T17	Organism 1107 1112	human

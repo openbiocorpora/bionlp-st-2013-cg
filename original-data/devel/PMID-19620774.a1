@@ -1,0 +1,46 @@
+T1	Gene_or_gene_product 4 40	Down syndrome critical region gene 1
+T2	Multi-tissue_structure 72 84	vascular bed
+T3	Organism 133 137	mice
+T4	Gene_or_gene_product 139 175	Down syndrome critical region gene 1
+T5	Gene_or_gene_product 177 183	DSCR-1
+T6	Gene_or_gene_product 200 207	DSCR-1s
+T7	Gene_or_gene_product 228 239	calcineurin
+T8	Gene_or_gene_product 240 244	NFAT
+T9	Gene_or_gene_product 279 284	DSCR1
+T10	Gene_or_gene_product 314 318	VEGF
+T11	Gene_or_gene_product 327 334	DSCR-1s
+T12	Cell 349 366	endothelial cells
+T13	Cell 417 433	endothelial cell
+T14	Gene_or_gene_product 514 521	DSCR-1s
+T15	Gene_or_gene_product 620 626	DSCR-1
+T16	Cellular_component 659 662	DNA
+T17	Organism 698 703	human
+T18	Gene_or_gene_product 704 710	DSCR1s
+T19	Gene_or_gene_product 735 739	lacZ
+T20	Gene_or_gene_product 756 803	hypoxanthine guanine phosphoribosyl transferase
+T21	Gene_or_gene_product 805 809	Hprt
+T22	Organism 820 824	mice
+T23	Gene_or_gene_product 845 849	lacZ
+T24	Tissue 881 892	endothelium
+T25	Developing_anatomical_structure 896 914	transgenic embryos
+T26	Gene_or_gene_product 986 990	VEGF
+T27	Simple_chemical 994 997	LPS
+T28	Organism 1007 1011	mice
+T29	Simple_chemical 1024 1038	cyclosporine A
+T30	Gene_or_gene_product 1069 1075	DSCR1s
+T31	Organ 1131 1137	organs
+T32	Organ 1153 1158	heart
+T33	Organ 1163 1168	brain
+T34	Gene_or_gene_product 1174 1180	DSCR1s
+T35	Tissue 1219 1230	endothelium
+T36	Cancer 1234 1250	tumor xenografts
+T37	Organism 1257 1262	mouse
+T38	Gene_or_gene_product 1285 1292	DSCR-1s
+T39	Organism 1303 1307	mice
+T40	Organism 1357 1367	adenovirus
+T41	Gene_or_gene_product 1377 1384	DSCR-1s
+T42	Simple_chemical 1418 1421	LPS
+T43	Gene_or_gene_product 1483 1488	DSCR1
+T44	Multi-tissue_structure 1507 1519	vascular bed
+T45	Tissue 1553 1564	endothelium
+T46	Gene_or_gene_product 1574 1581	DSCR-1s

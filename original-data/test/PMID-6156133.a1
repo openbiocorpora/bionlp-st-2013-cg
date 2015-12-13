@@ -1,0 +1,44 @@
+T1	Cell 20 28	cellular
+T2	Organism 33 38	viral
+T3	Organism 70 73	RSV
+T4	Cellular_component 106 118	cell-surface
+T5	Gene_or_gene_product 127 131	VCSA
+T6	Cell 152 175	BHK hamster fibroblasts
+T7	Organism 197 215	Rous sarcoma virus
+T8	Organism 217 220	RSV
+T9	Cellular_component 253 265	cell surface
+T10	Gene_or_gene_product 271 302	virus-induced nonvirion antigen
+T11	Gene_or_gene_product 304 308	VCSA
+T12	Gene_or_gene_product 391 394	src
+T13	Organism 432 438	rabbit
+T14	Gene_or_gene_product 444 448	VCSA
+T15	Organism_substance 449 460	serum lyses
+T16	Simple_chemical 506 510	51Cr
+T17	Organism 520 523	RSV
+T18	Cell 536 541	cells
+T19	Cell 642 647	cells
+T20	Gene_or_gene_product 665 669	VCSA
+T21	Organism 683 686	RSV
+T22	Organism 699 706	hamster
+T23	Cell 707 718	fibroblasts
+T24	Organism 809 812	RSV
+T25	Cell 825 836	fibroblasts
+T26	Organism 910 915	virus
+T27	Gene_or_gene_product 947 967	cell-surface antigen
+T28	Gene_or_gene_product 969 972	CSA
+T29	Organism 1020 1025	avian
+T30	Cell 1026 1037	fibroblasts
+T31	Cell 1050 1071	mammalian fibroblasts
+T32	Organism 1115 1118	RSV
+T33	Organism 1131 1138	hamster
+T34	Cell 1139 1150	fibroblasts
+T35	Gene_or_gene_product 1173 1177	VCSA
+T36	Cell 1269 1274	cells
+T37	Organism 1290 1293	RSV
+T38	Gene_or_gene_product 1327 1331	VCSA
+T39	Cellular_component 1350 1362	cell surface
+T40	Organism 1421 1426	viral
+T41	Gene_or_gene_product 1427 1430	src
+T42	Gene_or_gene_product 1444 1451	pp60src
+T43	Cell 1462 1466	cell
+T44	Cellular_component 1553 1565	cell surface

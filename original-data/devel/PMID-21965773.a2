@@ -1,0 +1,91 @@
+*	Equiv T6 T7
+*	Equiv T8 T9
+*	Equiv T10 T11
+*	Equiv T20 T21
+*	Equiv T28 T29 T30
+T57	Gene_expression 0 10	Expression
+E1	Gene_expression:T57 Theme:T1 Theme2:T2
+T58	Metastasis 129 139	metastases
+E2	Metastasis:T58 Theme:T3 ToLoc:T4
+T59	Metastasis 186 196	metastasis
+E3	Metastasis:T59 
+T60	Metabolism 309 321	metabolizing
+T61	Positive_regulation 309 321	metabolizing
+E4	Metabolism:T60 Theme:T10
+E5	Positive_regulation:T61 Theme:E4 Cause:T6
+E6	Positive_regulation:T61 Theme:E4 Cause:T8
+T62	Regulation 338 346	involved
+E7	Regulation:T62 Theme:E9 Cause:T6
+E8	Regulation:T62 Theme:E9 Cause:T8
+T63	Regulation 354 365	sensitivity
+E9	Regulation:T63 Cause:T14 Theme:T12
+T64	Planned_process 433 442	treatment
+E10	Planned_process:T64 Instrument:T15 Theme:T16
+T65	Gene_expression 508 518	expression
+E11	Gene_expression:T65 Theme:T6
+E12	Gene_expression:T65 Theme:T8
+M1	Speculation E11
+M2	Speculation E12
+T66	Regulation 574 579	roles
+E13	Regulation:T66 Theme:T18 Cause:T8
+E14	Regulation:T66 Theme:T18 Cause:T6
+M3	Speculation E13
+M4	Speculation E14
+T67	Planned_process 612 620	treating
+E15	Planned_process:T67 Instrument:T18 Theme:T19
+T68	Metastasis 693 705	metastasizes
+E16	Metastasis:T68 Theme:T20 ToLoc:T22
+T69	Death 770 778	survival
+E17	Death:T69 Theme:T23
+M5	Negation E17
+T70	Gene_expression 838 848	expression
+E18	Gene_expression:T70 Theme:T24
+E19	Gene_expression:T70 Theme:T25
+M6	Speculation E18
+M7	Speculation E19
+T71	Metastasis 886 896	metastases
+E20	Metastasis:T71 ToLoc:T26
+T72	Binding 952 963	interaction
+E21	Binding:T72 Theme:T24 Theme2:T28
+E22	Binding:T72 Theme:T25 Theme2:T28
+T73	Metastasis 1021 1031	metastasis
+E23	Metastasis:T73 
+T74	Metastasis 1109 1119	metastasis
+E24	Metastasis:T74 Theme:T32 ToLoc:T33
+T75	Metastasis 1157 1167	metastasis
+E25	Metastasis:T75 Theme:T34 ToLoc:T35
+M8	Negation E25
+T76	Gene_expression 1274 1284	expression
+E26	Gene_expression:T76 Theme:T37
+E27	Gene_expression:T76 Theme:T38
+T77	Gene_expression 1353 1366	overexpressed
+T78	Positive_regulation 1353 1366	overexpressed
+E28	Gene_expression:T77 Theme:T39
+E29	Positive_regulation:T78 Theme:E28
+E30	Gene_expression:T77 Theme:T40
+E31	Positive_regulation:T78 Theme:E30
+T79	Gene_expression 1428 1429	i
+E32	Gene_expression:T79 Theme:T43
+T80	Metastasis 1494 1504	metastasis
+E33	Metastasis:T80 ToLoc:T45
+T81	Gene_expression 1548 1558	expression
+E34	Gene_expression:T81 Theme:T46
+T82	Regulation 1581 1590	correlate
+E35	Regulation:T82 Theme:E36 Cause:E34
+M9	Negation E35
+T83	Metastasis 1625 1635	metastasis
+E36	Metastasis:T83 ToLoc:T47
+T84	Metastasis 1705 1715	metastases
+E37	Metastasis:T84 ToLoc:T49
+T85	Gene_expression 1722 1732	expression
+E38	Gene_expression:T85 Theme:T50
+T86	Negative_regulation 1751 1758	reduced
+E39	Negative_regulation:T86 Theme:E38
+T87	Metastasis 1773 1783	metastases
+E40	Metastasis:T87 ToLoc:T51
+T88	Metastasis 1872 1882	metastasis
+E41	Metastasis:T88 ToLoc:T54 Theme:T55
+T89	Planned_process 1930 1937	therapy
+E42	Planned_process:T89 Theme:T56
+T90	Metastasis 1941 1951	metastatic
+E43	Metastasis:T90 Theme:T56

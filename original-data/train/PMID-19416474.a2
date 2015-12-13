@@ -1,0 +1,87 @@
+*	Equiv T13 T14 T16 T15 T17
+*	Equiv T20 T21
+*	Equiv T23 T24
+T41	Pathway 27 44	signaling pathway
+E1	Pathway:T41 Participant:T1 Participant2:T2 Participant3:T3 Participant4:T4
+T42	Localization 71 79	invasion
+E2	Localization:T42 Theme:T5
+T43	Metastasis 84 94	metastasis
+E3	Metastasis:T43 Theme:T5
+T44	Localization 158 166	invasion
+E4	Localization:T44 Theme:T6
+T45	Metastasis 171 181	metastasis
+E5	Metastasis:T45 Theme:T6
+T46	Localization 268 276	invasive
+E6	Localization:T46 Theme:T8
+T47	Regulation 352 361	regulates
+E7	Regulation:T47 Cause:T9 Theme:E8
+T48	Remodeling 362 371	recycling
+E8	Remodeling:T48 Theme:T11
+T49	Gene_expression 506 519	overexpressed
+T50	Positive_regulation 506 519	overexpressed
+E9	Gene_expression:T49 Theme:T13
+E10	Positive_regulation:T50 Theme:E9
+E11	Gene_expression:T49 Theme:T12
+E12	Positive_regulation:T50 Theme:E11
+T51	Localization 562 570	invasion
+E13	Localization:T51 Theme:T18
+T52	Metastasis 575 585	metastasis
+E14	Metastasis:T52 Theme:T18
+T53	Positive_regulation 587 601	Overexpression
+T54	Gene_expression 587 601	Overexpression
+E15	Positive_regulation:T53 Theme:E16
+E16	Gene_expression:T54 Theme:T12
+E17	Gene_expression:T54 Theme:T13
+E18	Positive_regulation:T53 Theme:E17
+T55	Regulation 623 634	independent
+E19	Regulation:T55 Theme:E18 Cause:E23
+E20	Regulation:T55 Cause:E24 Theme:E15
+M1	Negation E19
+M2	Negation E20
+T56	Transcription 642 657	transcriptional
+E21	Transcription:T56 Theme:T12
+E22	Transcription:T56 Theme:T13
+T57	Positive_regulation 658 670	upregulation
+E23	Positive_regulation:T57 Theme:E21
+E24	Positive_regulation:T57 Theme:E22
+T58	Regulation 788 799	responsible
+E25	Regulation:T58 Cause:E26 Theme:T20
+T59	Positive_regulation 813 823	activation
+E26	Positive_regulation:T59 Theme:T22
+T60	Positive_regulation 827 833	induce
+E27	Positive_regulation:T60 Theme:E29 Cause:E31
+E28	Positive_regulation:T60 Theme:E30 Cause:E31
+T61	Localization 834 842	invasion
+E29	Localization:T61 Theme:T19
+T62	Metastasis 847 857	metastasis
+E30	Metastasis:T62 
+T63	Binding 871 878	binding
+E31	Binding:T63 Theme:T20 Theme2:T23
+T64	Positive_regulation 889 898	activated
+E32	Positive_regulation:T64 Theme:T23
+T65	Positive_regulation 982 992	activation
+E33	Positive_regulation:T65 Theme:E34
+T66	Pathway 1000 1016	invasion pathway
+E34	Pathway:T66 Participant:T25
+T67	Positive_regulation 1032 1044	prerequisite
+E35	Positive_regulation:T67 Theme:E33 Cause:E38
+E36	Positive_regulation:T67 Theme:E33 Cause:E40
+E37	Positive_regulation:T67 Theme:E33 Cause:E42
+T68	Gene_expression 1081 1094	overexpressed
+T69	Positive_regulation 1081 1094	overexpressed
+E38	Gene_expression:T68 Theme:T26
+E39	Positive_regulation:T69 Theme:E38
+E40	Gene_expression:T68 Theme:T27
+E41	Positive_regulation:T69 Theme:E40
+T70	Positive_regulation 1113 1122	activated
+E42	Positive_regulation:T70 Theme:T28
+T71	Regulation 1230 1237	utilize
+E43	Regulation:T71 Theme:E44
+T72	Pathway 1265 1272	pathway
+E44	Pathway:T72 Participant:T31 Participant2:T32 Participant3:T33 Participant4:T34
+T73	Localization 1481 1493	invasiveness
+E45	Localization:T73 Theme:T36
+T74	Regulation 1532 1543	alterations
+E46	Regulation:T74 Theme:T38
+T75	Planned_process 1681 1693	therapeutics
+E47	Planned_process:T75 

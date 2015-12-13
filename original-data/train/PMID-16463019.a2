@@ -1,0 +1,75 @@
+*	Equiv T5 T6
+*	Equiv T16 T17
+*	Equiv T27 T28
+*	Equiv T29 T30
+*	Equiv T31 T32
+T65	Negative_regulation 72 80	inhibits
+E1	Negative_regulation:T65 Theme:E2 Cause:T1
+T66	Death 91 96	death
+E2	Death:T66 Theme:T4
+T67	Planned_process 163 172	treatment
+E3	Planned_process:T67 Instrument:T5 Theme:T8
+T68	Regulation 223 230	affects
+E4	Regulation:T68 Theme:T9 Cause:T5
+T69	Cell_proliferation 271 284	proliferation
+E5	Cell_proliferation:T69 Theme:T10
+E6	Cell_proliferation:T69 Theme:T12
+T70	Regulation 396 400	role
+E7	Regulation:T70 Cause:T13 Theme:E10
+E8	Regulation:T70 Cause:T13 Theme:E11
+M1	Speculation E7
+M2	Speculation E8
+T71	Positive_regulation 440 447	induced
+E9	Positive_regulation:T71 Cause:T14 Theme:E10
+T72	Breakdown 464 470	damage
+E10	Breakdown:T72 Theme:T15
+T73	Negative_regulation 488 505	protective effect
+E11	Negative_regulation:T73 Theme:T16
+T74	Planned_process 554 566	administered
+E12	Planned_process:T74 Theme:T18 Instrument:T19
+E13	Planned_process:T74 Theme:T18 Instrument:T20
+E14	Planned_process:T74 Theme:T18 Instrument:T21
+T75	Planned_process 664 676	decapitation
+E15	Planned_process:T75 Theme:T22
+T76	Planned_process 952 966	administration
+E16	Planned_process:T76 Instrument:T34
+T77	Positive_regulation 967 976	increased
+E17	Positive_regulation:T77 Cause:E16 Theme:T35
+E18	Positive_regulation:T77 Cause:E16 Theme:T36
+E19	Positive_regulation:T77 Cause:E16 Theme:T37
+T78	Negative_regulation 1029 1038	decreased
+E20	Negative_regulation:T78 Theme:T38 Cause:E16
+T79	Positive_regulation 1132 1140	elevated
+E21	Positive_regulation:T79 Theme:T42
+T80	Planned_process 1186 1195	treatment
+E22	Planned_process:T80 Instrument:T43
+T81	Negative_regulation 1200 1209	depressed
+E23	Negative_regulation:T81 Cause:T44 Theme:E22
+T82	Cell_death 1429 1438	apoptosis
+E24	Cell_death:T82 Theme:T50
+T83	Positive_regulation 1443 1452	increased
+E25	Positive_regulation:T83 Theme:E24
+T84	Planned_process 1460 1467	treated
+E26	Planned_process:T84 Instrument:T51
+T85	Negative_regulation 1489 1497	reversed
+E27	Negative_regulation:T85 Theme:E25
+T86	Breakdown 1520 1532	degeneration
+E28	Breakdown:T86 Theme:T53
+E29	Breakdown:T86 Theme:T54
+E30	Breakdown:T86 Theme:T55
+E31	Breakdown:T86 Theme:T56
+T87	Planned_process 1638 1645	treated
+E32	Planned_process:T87 Instrument:T57
+T88	Negative_regulation 1660 1668	improved
+E33	Negative_regulation:T88 Cause:E37 Theme:E28
+E34	Negative_regulation:T88 Cause:E37 Theme:E29
+E35	Negative_regulation:T88 Cause:E37 Theme:E30
+E36	Negative_regulation:T88 Cause:E37 Theme:E31
+T89	Planned_process 1678 1687	treatment
+E37	Planned_process:T89 Instrument:T59
+T90	Negative_regulation 1843 1851	inhibits
+E38	Negative_regulation:T90 Theme:E39 Cause:T60
+T91	Cell_death 1862 1871	apoptosis
+E39	Cell_death:T91 Theme:T63
+T92	Planned_process 1879 1894	supplementation
+E40	Planned_process:T92 Instrument:T64

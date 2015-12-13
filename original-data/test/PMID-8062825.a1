@@ -1,0 +1,51 @@
+T1	Gene_or_gene_product 0 9	Cyclin D1
+T2	Gene_or_gene_product 10 15	bcl-1
+T3	Gene_or_gene_product 32 35	myc
+T4	Cancer 63 78	B-cell lymphoma
+T5	Organism 82 97	transgenic mice
+T6	Cellular_component 104 115	chromosomal
+T7	Organism 158 163	human
+T8	Pathological_formation 164 182	lymphoid neoplasia
+T9	Cell 193 212	centrocytic B-cells
+T10	Gene_or_gene_product 267 276	cyclin D1
+T11	Gene_or_gene_product 278 283	bcl-1
+T12	Gene_or_gene_product 311 351	immunoglobulin heavy chain enhancer E mu
+T13	Gene_or_gene_product 396 405	cyclin D1
+T14	Cancer 448 464	B-cell neoplasia
+T15	Organism 483 498	transgenic mice
+T16	Gene_or_gene_product 512 521	cyclin D1
+T17	Gene_or_gene_product 568 572	E mu
+T18	Organism 582 612	E mu cyclin D1 transgenic mice
+T19	Gene_or_gene_product 582 586	E mu
+T20	Gene_or_gene_product 587 596	cyclin D1
+T21	Cell 675 693	B-cell populations
+T22	Multi-tissue_structure 701 712	bone marrow
+T23	Organism 734 738	mice
+T24	Cancer 758 774	lymphoid tumours
+T25	Gene_or_gene_product 785 789	E mu
+T26	Gene_or_gene_product 815 824	cyclin D1
+T27	Gene_or_gene_product 829 834	N-MYC
+T28	Gene_or_gene_product 838 843	L-MYC
+T29	Organism 854 869	transgenic mice
+T30	Gene_or_gene_product 914 917	MYC
+T31	Gene_or_gene_product 922 931	cyclin D1
+T32	Cancer 974 979	pre-B
+T33	Cancer 984 1000	B-cell lymphomas
+T34	Gene_or_gene_product 1029 1038	cyclin D1
+T35	Organism 1029 1054	cyclin D1 transgenic mice
+T36	Gene_or_gene_product 1060 1064	E mu
+T37	Organism 1060 1082	E mu L-myc transgenics
+T38	Gene_or_gene_product 1065 1070	L-myc
+T39	Cell 1120 1122	B-
+T40	Cell 1127 1134	T-cells
+T41	Cancer 1161 1175	T-cell tumours
+T42	Organism 1192 1203	transgenics
+T43	Cell 1219 1235	B-cell neoplasia
+T44	Gene_or_gene_product 1308 1317	cyclin D1
+T45	Cell 1346 1353	B-cells
+T46	Gene_or_gene_product 1372 1375	myc
+T47	Gene_or_gene_product 1397 1406	cyclin D1
+T48	Cell 1474 1478	cell
+T49	Cell 1572 1576	cell
+T50	Organism 1617 1622	human
+T51	Cancer 1623 1635	malignancies

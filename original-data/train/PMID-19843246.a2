@@ -1,0 +1,42 @@
+*	Equiv T2 T3
+*	Equiv T17 T18
+*	Equiv T24 T25
+*	Equiv T37 T38
+T44	Cell_proliferation 189 200	proliferate
+E1	Cell_proliferation:T44 Theme:T7
+T45	Carcinogenesis 311 322	tumorigenic
+E2	Carcinogenesis:T45 AtLoc:T8
+T46	Development 370 379	formation
+E3	Development:T46 Theme:T9
+T47	Positive_regulation 448 458	activation
+E4	Positive_regulation:T47 Theme:T12
+T48	Positive_regulation 652 661	activated
+E5	Positive_regulation:T48 Theme:T18
+T49	Planned_process 703 711	cultured
+E6	Planned_process:T49 Theme:T23
+T50	Gene_expression 805 815	expressing
+E7	Gene_expression:T50 Theme:T24
+T51	Positive_regulation 849 860	stimulation
+E8	Positive_regulation:T51 Theme:T28
+T52	Positive_regulation 884 887	led
+E9	Positive_regulation:T52 Cause:E8 Theme:E10
+T53	Positive_regulation 895 905	activation
+E10	Positive_regulation:T53 Theme:T29
+T54	Planned_process 920 933	preincubation
+E11	Planned_process:T54 Theme:T23
+E12	Planned_process:T54 Theme:T27
+T55	Negative_regulation 955 964	abolished
+E13	Negative_regulation:T55 Theme:E16 Cause:E12
+E14	Negative_regulation:T55 Theme:E16 Cause:E11
+T56	Positive_regulation 978 985	induced
+E15	Positive_regulation:T56 Theme:E16
+T57	Positive_regulation 990 1000	activation
+E16	Positive_regulation:T57 Theme:T32
+T58	Negative_regulation 1017 1026	reduction
+E17	Negative_regulation:T58 Theme:T33
+T59	Positive_regulation 1273 1283	stimulated
+E18	Positive_regulation:T59 Theme:T40
+T60	Positive_regulation 1332 1340	mediated
+E19	Positive_regulation:T60 Cause:T42 Theme:E20
+T61	Cell_transformation 1352 1366	transformation
+E20	Cell_transformation:T61 Theme:T43

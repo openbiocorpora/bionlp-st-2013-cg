@@ -1,0 +1,26 @@
+T1	Simple_chemical 21 47	1'-acetoxychavicol acetate
+T2	Cell 51 78	Ehrlich ascites tumor cells
+T3	Gene_or_gene_product 137 146	caspase-3
+T4	Cancer 184 189	tumor
+T5	Simple_chemical 202 228	1'-acetoxychavicol acetate
+T6	Simple_chemical 230 233	ACA
+T7	Cell 319 346	Ehrlich ascites tumor cells
+T8	Simple_chemical 348 351	ACA
+T9	Cell 432 436	cell
+T10	Cellular_component 476 483	nuclear
+T11	Cellular_component 498 506	membrane
+T12	Cell 517 521	cell
+T13	Gene_or_gene_product 563 586	caspase-3-like protease
+T14	Cellular_component 654 670	apoptotic bodies
+T15	Immaterial_anatomical_entity 699 712	intracellular
+T16	Simple_chemical 738 748	putrescine
+T17	Simple_chemical 820 823	ACA
+T18	Gene_or_gene_product 827 850	ornithine decarboxylase
+T19	Gene_or_gene_product 852 855	ODC
+T20	Gene_or_gene_product 861 903	spermidine/spermine N(1)-acetyltransferase
+T21	Gene_or_gene_product 905 909	SSAT
+T22	Simple_chemical 975 978	ACA
+T23	Cellular_component 1041 1057	apoptotic bodies
+T24	Gene_or_gene_product 1099 1122	caspase-3-like protease
+T25	Simple_chemical 1200 1203	ACA
+T26	Gene_or_gene_product 1293 1307	caspase-3-like

@@ -1,0 +1,64 @@
+T1	Gene_or_gene_product 0 8	p18Ink4c
+T2	Gene_or_gene_product 18 25	p27Kip1
+T3	Gene_or_gene_product 45 49	Men1
+T4	Cancer 62 89	neuroendocrine organ tumors
+T5	Organism 99 103	mice
+T6	Gene_or_gene_product 117 140	cyclin-dependent kinase
+T7	Gene_or_gene_product 142 145	CDK
+T8	Gene_or_gene_product 158 161	p18
+T9	Gene_or_gene_product 162 167	Ink4c
+T10	Gene_or_gene_product 173 176	p27
+T11	Gene_or_gene_product 177 181	Kip1
+T12	Cancer 193 198	tumor
+T13	Organism 223 228	human
+T14	Cancer 229 257	multiple endocrine neoplasia
+T15	Cancer 259 262	MEN
+T16	Gene_or_gene_product 292 295	p18
+T17	Gene_or_gene_product 300 303	p27
+T18	Gene_or_gene_product 330 334	Men1
+T19	Cancer 340 345	tumor
+T20	Cancer 382 386	MEN1
+T21	Gene_or_gene_product 405 408	p18
+T22	Organism 405 445	p18-Men1 and p27-Men1 double mutant mice
+T23	Gene_or_gene_product 409 413	Men1
+T24	Gene_or_gene_product 418 421	p27
+T25	Gene_or_gene_product 422 426	Men1
+T26	Organism 481 506	single mutant littermates
+T27	Gene_or_gene_product 512 515	p18
+T28	Organism 512 536	p18(-/-); Men1(+/-) mice
+T29	Gene_or_gene_product 522 526	Men1
+T30	Cancer 545 551	tumors
+T31	Organ 614 623	pituitary
+T32	Organ 625 632	thyroid
+T33	Organ 634 645	parathyroid
+T34	Organ 651 659	pancreas
+T35	Multi-tissue_structure 668 677	pituitary
+T36	Multi-tissue_structure 682 699	pancreatic islets
+T37	Gene_or_gene_product 724 738	retinoblastoma
+T38	Gene_or_gene_product 740 742	Rb
+T39	Gene_or_gene_product 760 764	CDK2
+T40	Gene_or_gene_product 769 775	CDK4/6
+T41	Gene_or_gene_product 799 807	p18(-/-)
+T42	Cell 799 827	p18(-/-) and Men1(+/-) cells
+T43	Gene_or_gene_product 812 816	Men1
+T44	Gene_or_gene_product 857 860	p18
+T45	Cell 857 882	p18(-/-); Men1(+/-) cells
+T46	Gene_or_gene_product 867 871	Men1
+T47	Gene_or_gene_product 908 912	Men1
+T48	Cancer 937 943	tumors
+T49	Gene_or_gene_product 949 953	Men1
+T50	Organism 949 963	Men1(+/-) mice
+T51	Cancer 989 995	tumors
+T52	Gene_or_gene_product 1001 1004	p18
+T53	Organism 1001 1025	p18(-/-); Men1(+/-) mice
+T54	Gene_or_gene_product 1011 1015	Men1
+T55	Gene_or_gene_product 1049 1052	p27
+T56	Gene_or_gene_product 1062 1066	Men1
+T57	Gene_or_gene_product 1140 1142	Rb
+T58	Cell 1160 1164	cell
+T59	Cancer 1184 1189	tumor
+T60	Gene_or_gene_product 1269 1272	p18
+T61	Gene_or_gene_product 1277 1281	Men1
+T62	Gene_or_gene_product 1299 1303	Men1
+T63	Gene_or_gene_product 1357 1360	p18
+T64	Gene_or_gene_product 1365 1368	p27

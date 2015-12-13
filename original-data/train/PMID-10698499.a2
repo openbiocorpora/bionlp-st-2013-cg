@@ -1,0 +1,31 @@
+*	Equiv T2 T3
+*	Equiv T20 T21
+*	Equiv T27 T28
+T16	Mutation 178 186	deletion
+E1	Mutation:T16 Theme:T2
+T17	Mutation 265 274	amplified
+E2	Mutation:T17 Theme:T5
+T18	Mutation 279 289	rearranged
+E3	Mutation:T18 Theme:T5
+T19	Mutation 416 434	tandem duplication
+E4	Mutation:T19 Theme:T7 Site:T20
+E5	Mutation:T19 Theme:T7 Site:T22
+T20	Protein_domain_or_region 442 457	tyrosine kinase
+T21	Protein_domain_or_region 459 461	TK
+T22	Protein_domain_or_region 484 514	internalization (CAIN) domains
+T23	Mutation 543 561	tandem duplication
+E6	Mutation:T23 Theme:T7
+T24	Mutation 791 811	in-frame duplication
+E7	Mutation:T24 Site:T25 Theme:T7
+T25	DNA_domain_or_region 815 834	exons 18 through 25
+T26	Mutation 911 922	duplication
+E8	Mutation:T26 AtLoc:T13 Site:T27 Theme:T7
+T27	DNA_domain_or_region 937 951	TK/CAIN region
+T28	DNA_domain_or_region 953 964	exons 18-26
+T29	Mutation 982 993	duplication
+E9	Mutation:T29 Site:T30 Theme:T7
+T30	DNA_domain_or_region 997 1008	exons 18-25
+T31	Mutation 1039 1060	genomic rearrangement
+E10	Mutation:T31 
+T32	Binding 1356 1363	binding
+E11	Binding:T32 Theme:T15

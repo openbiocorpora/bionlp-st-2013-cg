@@ -1,0 +1,75 @@
+T23	Transcription 0 15	Transcriptional
+E1	Transcription:T23 Theme:T1
+T24	Protein_processing 20 36	post-translation
+E2	Protein_processing:T24 Theme:T1
+T25	Regulation 37 47	regulation
+E3	Regulation:T25 Theme:E2
+E4	Regulation:T25 Theme:E1
+T26	Regulation 277 295	plays a major role
+E5	Regulation:T26 Theme:E10
+T27	Remodeling 308 318	remodeling
+E6	Remodeling:T27 Theme:T5
+T28	Development 344 353	formation
+E7	Development:T28 Theme:T6
+T29	Regulation 354 357	via
+E8	Regulation:T29 Cause:E10 Theme:E7
+E9	Regulation:T29 Cause:E10 Theme:E6
+T30	Blood_vessel_development 375 389	arteriogenesis
+E10	Blood_vessel_development:T30 
+T31	Gene_expression 434 443	expressed
+E11	Gene_expression:T31 Theme:T7
+T32	Positive_regulation 491 499	required
+E12	Positive_regulation:T32 Cause:T7 Theme:E14
+E13	Positive_regulation:T32 Cause:T7 Theme:E15
+T33	Development 520 531	development
+E14	Development:T33 Theme:T9
+T34	Regulation 536 547	maintenance
+E15	Regulation:T34 Theme:T9
+T35	Gene_expression 590 600	expression
+E16	Gene_expression:T35 Theme:T10
+T36	Negative_regulation 612 626	down-regulated
+E17	Negative_regulation:T36 Theme:E16
+T37	Planned_process 648 655	exposed
+E18	Planned_process:T37 Theme:T11
+T38	Negative_regulation 715 730	down-regulation
+E19	Negative_regulation:T38 Theme:E16
+T39	Protein_processing 757 765	cleavage
+E20	Protein_processing:T39 Theme:T12
+T40	Binding 778 785	binding
+E21	Binding:T40 Theme:T13 Site:T42 Theme2:T14
+T41	Protein_processing 793 800	cleaved
+E22	Protein_processing:T41 Theme:T13
+T42	Protein_domain_or_region 806 823	45 kDa endodomain
+T43	Protein_processing 843 851	cleavage
+E23	Protein_processing:T43 Theme:T15
+T44	Transcription 877 892	transcriptional
+E24	Transcription:T44 Theme:T15
+T45	Negative_regulation 893 908	down-regulation
+E25	Negative_regulation:T45 Theme:E24
+T46	DNA_domain_or_region 963 971	promoter
+T47	Negative_regulation 975 985	suppressed
+E26	Negative_regulation:T47 Theme:T16 Site:T46 Cause:T17
+T48	Positive_regulation 1051 1058	induced
+E27	Positive_regulation:T48 Theme:E29
+T49	Transcription 1059 1074	transcriptional
+E28	Transcription:T49 Theme:T18
+T50	Negative_regulation 1075 1086	suppression
+E29	Negative_regulation:T50 Theme:E28
+T51	Regulation 1098 1106	mediated
+E30	Regulation:T51 Theme:E29 Site:T52
+T52	DNA_domain_or_region 1112 1150	negative shear stress response element
+T53	Negative_regulation 1215 1230	down-regulation
+E31	Negative_regulation:T53 Theme:T19
+T54	Binding 1277 1284	binding
+E32	Binding:T54 Theme:T19 Theme:T20
+T55	Positive_regulation 1300 1308	required
+E33	Positive_regulation:T55 Theme:E35 Cause:E31
+E34	Positive_regulation:T55 Theme:E35 Cause:E32
+M1	Speculation E33
+M2	Speculation E34
+T56	Negative_regulation 1313 1328	destabilization
+E35	Negative_regulation:T56 Theme:T21
+T57	Positive_regulation 1362 1370	initiate
+E36	Positive_regulation:T57 Theme:E37
+T58	Remodeling 1395 1408	restructuring
+E37	Remodeling:T58 Theme:T22

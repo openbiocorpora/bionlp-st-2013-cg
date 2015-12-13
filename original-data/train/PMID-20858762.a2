@@ -1,0 +1,16 @@
+*	Equiv T4 T5
+T12	Carcinogenesis 54 68	carcinogenesis
+E1	Carcinogenesis:T12 AtLoc:T2
+T13	Carcinogenesis 304 315	oncogenesis
+E2	Carcinogenesis:T13 
+T14	Pathway 367 375	pathways
+E3	Pathway:T14 Participant:T3
+E4	Pathway:T14 Participant:T4
+T15	Regulation 401 409	key role
+E5	Regulation:T15 Cause:T7 Theme:E6
+T16	Carcinogenesis 481 495	carcinogenesis
+E6	Carcinogenesis:T16 AtLoc:T8
+T17	Positive_regulation 528 538	activation
+E7	Positive_regulation:T17 Theme:E8
+T18	Pathway 551 560	signaling
+E8	Pathway:T18 Participant:T9
